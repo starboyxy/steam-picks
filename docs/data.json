@@ -1,5 +1,153 @@
 [
   {
+    "appid": 4160210,
+    "name": "The Artisan of Glimmith",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1773766829",
+    "short_description": "《格里米斯工匠》 (The Artisan of Glimmith) 是一款温馨治愈的益智游戏。在这里，你将通过为彩绘玻璃着色，来修复云端王国的艺术瑰宝。探索一个由匠心打造、充满逻辑挑战的世界。在这里，简单的规则将引向令人赞叹的惊喜。",
+    "is_free": false,
+    "price": "¥ 46.80",
+    "original_price": "¥ 52.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4160210"
+  },
+  {
+    "appid": 1446900,
+    "name": "陨世之泪:涅槃",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446900/7798f2887912b8a75ad52fee2a57eb4f06603e63/header.jpg?t=1773769720",
+    "short_description": "《陨世之泪：涅槃》完美融合了类银河战士恶魔城的探索玩法与JRPG的叙事魅力，为你带来酣畅淋漓的战斗体验、精妙的平台跳跃挑战，以及一个随着你的抉择而不断变化的世界。",
+    "is_free": false,
+    "price": "¥ 66.60",
+    "original_price": "¥ 74.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1446900"
+  },
+  {
+    "appid": 2253100,
+    "name": "风屿奇航",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/e3561f6ec3b964ac62d0e01462fbe19454d58101/header_alt_assets_0_schinese.jpg?t=1773765940",
+    "short_description": "《风屿奇航》是一款像素沙盒+生存冒险类的第一人称角色扮演游戏。你可以与好友们一起踏上冒险旅程 - 在浮空岛舰上建造基地、采集资源并制作各种物件，掠夺战利品，一起撸卡皮巴拉穿梭于云端，体验战斗快感，逐步揭开这个世界的神秘面纱！",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2253100"
+  },
+  {
+    "appid": 3743790,
+    "name": "《托马斯和朋友™：多多岛奇观》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/456d17d1ee31e2c5e72d3905bbdcfed62a7af733/header.jpg?t=1773763219",
+    "short_description": "与托马斯和他的朋友们一起，踏上一场穿越多多岛的神奇历险吧！登上北西铁路[AH1.1]公司旗下各大经典蒸汽小火车的驾驶室，在驾驶员座位上聆听怀旧故事与引人入胜的[AH3.1]全新情节。探索多多岛奇观——这里充满欢乐、遍地魔法，只等你的到来！",
+    "is_free": false,
+    "price": "¥ 136.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3743790"
+  },
+  {
+    "appid": 2147380,
+    "name": "Heroes of Science and Fiction",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147380/26c265217c6620f5150ee432f35be7c7eaacb7a6/header_alt_assets_1.jpg?t=1773763216",
+    "short_description": "这款回合制科幻策略游戏将探索和紧张刺激的战斗相结合。控制数个不同的种族，建立强大的军队并消灭你的对手！",
+    "is_free": false,
+    "price": "¥ 55.20",
+    "original_price": "¥ 92.00",
+    "discount_percent": 40,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2147380"
+  },
+  {
+    "appid": 1029780,
+    "name": "Going Medieval ( 前往中世纪 )",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/80484227f90cbca6f426bd8966e06fb7fa6ed3c4/header_alt_assets_21_schinese.jpg?t=1773765316",
+    "short_description": "在一片早已退化为荒无人烟之境的土地上建造并管理属于你自己的城堡定居点。 藉由细致入微的管理方式、生存策略和支持模组修改的沙盒世界，《Going Medieval》将向你提出挑战，看你能否在末日来临之后建造出最强大的殖民地。",
+    "is_free": false,
+    "price": "¥ 86.40",
+    "original_price": "¥ 108.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1029780"
+  },
+  {
+    "appid": 3552140,
+    "name": "Retro Rewind - Video Store Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3552140/5be699540829c76a0d5f7ac5db4bbaf23fa76013/header.jpg?t=1773774771",
+    "short_description": "Manage your very own video store in the early 90s! Rent, sell, decorate and expand your business from the ground up and relive the golden ages of video rentals!",
+    "is_free": false,
+    "price": "¥ 60.80",
+    "original_price": "¥ 76.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3552140"
+  },
+  {
+    "appid": 2523890,
+    "name": "无目低语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523890/30f8d29f6669259bdfb8131df55b9dd90c904467/header_alt_assets_3.jpg?t=1773758067",
+    "short_description": "在这款黑暗幻想策略RPG游戏中成为邪教领袖。你是反派 —— 指挥信徒，在战斗中智胜敌人，并在唤醒死神 —— 愤怒、欲望与疯狂的过程中，决定堕落之城的命运。",
+    "is_free": false,
+    "price": "¥ 60.80",
+    "original_price": "¥ 76.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2523890"
+  },
+  {
     "appid": 2624670,
     "name": "马特的寻猫游戏 Find Matt's Cats",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624670/fa126181205f4d5fb1e0aeacd0c3948e9679e556/header_schinese.jpg?t=1773683985",
@@ -36,146 +184,5 @@
     "release_date": "2026 年 3 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3679080"
-  },
-  {
-    "appid": 3745310,
-    "name": "DEADLINE DELIVERY",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3745310/3ae14edf5d4cebbd1a5f9b563476201a24086bd2/header.jpg?t=1773676807",
-    "short_description": "系好安全带，踩下油门，在炸弹爆炸前完成配送。扮演卡尔，一只驾驶着极度不稳定、被装满炸药的邮车、在紧迫时限下送货的猴子。",
-    "is_free": false,
-    "price": "¥ 49.30",
-    "original_price": "¥ 58.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "竞速",
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3745310"
-  },
-  {
-    "appid": 2321780,
-    "name": "星河战队: 终焉虫潮",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/6b29349d6c3b7f05e02914c4a191a3b85fce2521/header_schinese.jpg?t=1773677032",
-    "short_description": "进入星河战队的宇宙，加入机动部队，体验史上最真实的战争！在这款充满动感的第一人称射击游戏中，体验原创故事。你想知道更多吗？",
-    "is_free": false,
-    "price": "¥ 84.58",
-    "original_price": "¥ 105.73",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2321780"
-  },
-  {
-    "appid": 3816930,
-    "name": "《无尽猎杀》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816930/51e04bd9a702c48f214ae2327f09c429f4dde21e/header_alt_assets_3.jpg?t=1773662415",
-    "short_description": "《无尽猎杀》是一款快节奏的动作类 roguelike 游戏，玩家扮演恶魔猎人，与无尽的地狱生物展开激烈对抗。躲避攻击、收集战利品，并在充满爆炸性子弹地狱般的战斗中通过动态构建和不断变化的武器，征服这片被恶魔侵蚀的焦土世界。",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "¥ 52.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3816930"
-  },
-  {
-    "appid": 1863430,
-    "name": "龙的传人：孤旅",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863430/b2f47da77467bdc8a37d02897c7e448e50cc26bc/header_alt_assets_4.jpg?t=1773678727",
-    "short_description": "龙的威胁再次降临到我们身上。传奇英雄挺身而出，面对来自深处的军团。驯服你的小龙，利用祖先网格创造独特的力量构建，扩展你的城市并摧毁巨龙！",
-    "is_free": false,
-    "price": "¥ 82.80",
-    "original_price": "¥ 92.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 3 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1863430"
-  },
-  {
-    "appid": 3249380,
-    "name": "Piece by Piece",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249380/a8df8e0989af29e55a627bba7baf1a0a23d786b2/header.jpg?t=1773671551",
-    "short_description": "Piece by Piece是一款“字面意义上”的益智平台游戏，每个关卡都分割成拼图碎片。通过不断连接与拆分这些碎片，挑战100个精心设计的关卡，并在此过程中发现更多主题与新机制！",
-    "is_free": false,
-    "price": "¥ 44.20",
-    "original_price": "¥ 52.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3249380"
-  },
-  {
-    "appid": 2852190,
-    "name": "Monster Hunter Stories 3: 命运双龙",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/427b69c83e34738f437eedb94607ed79847b294e/header_schinese.jpg?t=1773387803",
-    "short_description": "“Monster Hunter”系列RPG第3弹！ 双龙降世，命运于此刻交织。 “Monster Hunter Stories”是一个RPG游戏系列， 玩家将会成为与怪物建立羁绊，对其加以培育并与之共存的“怪物骑士”，尽情体验“Monster Hunter”的世界。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 3 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2852190"
-  },
-  {
-    "appid": 3717070,
-    "name": "WWE 2K26",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717070/6e590c37107f7306ab9e42cc07d2aa92327625d1/header.jpg?t=1773356425",
-    "short_description": "The show never stops in WWE 2K26! Step into CM Punk’s 2K Showcase, dominate with 400+ Superstars and Legends, and unleash chaos with all-new match types.",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 3 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3717070"
-  },
-  {
-    "appid": 4224910,
-    "name": "Ready or Not: Boiling Point",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224910/e1b801dc894a26c261abdb8f25b30fc83ef0a523/header.jpg?t=1773349381",
-    "short_description": "洛斯苏埃诺斯的情况在持续不断地恶化，而一场颠覆一切的恐怖袭击摧毁了人们对它仅存的信心。这座城市面临着生死存亡的危机，市政府低效无能，且极度依赖军事管控手段。",
-    "is_free": false,
-    "price": "¥ 42.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4224910"
   }
 ]
