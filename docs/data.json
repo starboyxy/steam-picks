@@ -1,5 +1,23 @@
 [
   {
+    "appid": 3948120,
+    "name": "刮个爽",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948120/661c8201d042b35efbab86b564b4dcd24567b546/header_schinese.jpg?t=1773831686",
+    "short_description": "《刮个爽》是一款超级解压、爽感叠加的刮刮乐游戏。购买成叠的刮刮乐彩票，刮出大奖后渐渐解锁自动刮奖功能，再一路冲击巨额头奖。不小心玩上头的你会稳扎稳打，还是会选择梭哈一把？",
+    "is_free": false,
+    "price": "¥ 20.39",
+    "original_price": "¥ 25.49",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3948120"
+  },
+  {
     "appid": 4160210,
     "name": "The Artisan of Glimmith",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1773766829",
@@ -18,29 +36,9 @@
     "store_url": "https://store.steampowered.com/app/4160210"
   },
   {
-    "appid": 1446900,
-    "name": "陨世之泪:涅槃",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446900/7798f2887912b8a75ad52fee2a57eb4f06603e63/header.jpg?t=1773769720",
-    "short_description": "《陨世之泪：涅槃》完美融合了类银河战士恶魔城的探索玩法与JRPG的叙事魅力，为你带来酣畅淋漓的战斗体验、精妙的平台跳跃挑战，以及一个随着你的抉择而不断变化的世界。",
-    "is_free": false,
-    "price": "¥ 66.60",
-    "original_price": "¥ 74.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1446900"
-  },
-  {
     "appid": 2253100,
     "name": "风屿奇航",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/e3561f6ec3b964ac62d0e01462fbe19454d58101/header_alt_assets_0_schinese.jpg?t=1773765940",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/774914807bd71ce91decb9532752f7538c71aa89/header_schinese.jpg?t=1773865886",
     "short_description": "《风屿奇航》是一款像素沙盒+生存冒险类的第一人称角色扮演游戏。你可以与好友们一起踏上冒险旅程 - 在浮空岛舰上建造基地、采集资源并制作各种物件，掠夺战利品，一起撸卡皮巴拉穿梭于云端，体验战斗快感，逐步揭开这个世界的神秘面纱！",
     "is_free": false,
     "price": "¥ 79.20",
@@ -56,6 +54,23 @@
     "release_date": "2026 年 3 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2253100"
+  },
+  {
+    "appid": 3796960,
+    "name": "Elemental: Reforged",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796960/62abfa1774ab15e83b7526cf4d814b9fe44dbdcb/header.jpg?t=1773865690",
+    "short_description": "创建角色并领导文明，在这款史诗级回合制奇幻策略游戏中探索、施法、研究、战斗，征服由你想象的世界。",
+    "is_free": false,
+    "price": "¥ 70.40",
+    "original_price": "¥ 88.00",
+    "discount_percent": 20,
+    "genres": [
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3796960"
   },
   {
     "appid": 3743790,
@@ -76,7 +91,7 @@
   {
     "appid": 2147380,
     "name": "Heroes of Science and Fiction",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147380/26c265217c6620f5150ee432f35be7c7eaacb7a6/header_alt_assets_1.jpg?t=1773763216",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147380/26c265217c6620f5150ee432f35be7c7eaacb7a6/header_alt_assets_1.jpg?t=1773872429",
     "short_description": "这款回合制科幻策略游戏将探索和紧张刺激的战斗相结合。控制数个不同的种族，建立强大的军队并消灭你的对手！",
     "is_free": false,
     "price": "¥ 55.20",
@@ -127,25 +142,6 @@
     "release_date": "2026 年 3 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3552140"
-  },
-  {
-    "appid": 2523890,
-    "name": "无目低语",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523890/30f8d29f6669259bdfb8131df55b9dd90c904467/header_alt_assets_3.jpg?t=1773758067",
-    "short_description": "在这款黑暗幻想策略RPG游戏中成为邪教领袖。你是反派 —— 指挥信徒，在战斗中智胜敌人，并在唤醒死神 —— 愤怒、欲望与疯狂的过程中，决定堕落之城的命运。",
-    "is_free": false,
-    "price": "¥ 60.80",
-    "original_price": "¥ 76.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2523890"
   },
   {
     "appid": 2624670,
