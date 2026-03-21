@@ -2,7 +2,7 @@
   {
     "appid": 3321460,
     "name": "红色沙漠",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1773965120",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1773980522",
     "short_description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
     "is_free": false,
     "price": "¥ 268.00",
@@ -17,28 +17,9 @@
     "store_url": "https://store.steampowered.com/app/3321460"
   },
   {
-    "appid": 598980,
-    "name": "The Coin Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598980/40d31c07a770a6a02735f27c6af52bd11b9f24d7/header.jpg?t=1773935361",
-    "short_description": "《The Coin Game》是一款由一位个人开发者独自打造的欢乐街机冒险游戏，它将带领玩家进入拥有逼真物理效果的世界：你可以去机厅疯玩街机，去嘉年华坐遍游乐设施，与搞怪机器人互动，探索开放世界，冲击全球排行榜，还能赢得各种有趣到“冒傻气”的奖励！游戏内设有50多台风格各异的现代街机，还有典当行助你灵活周转手头的资金！",
-    "is_free": false,
-    "price": "¥ 49.50",
-    "original_price": "¥ 66.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/598980"
-  },
-  {
     "appid": 3280350,
     "name": "DEATH STRANDING 2: ON THE BEACH",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1773930521",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
     "short_description": "山姆和他的伙伴们开启新旅程，拯救濒临灭亡的人类。 加入他们，穿行这个异界敌人当道、充满艰难险阻的世界，探究一个挥之不去的问题：连接是必要的吗？",
     "is_free": false,
     "price": "¥ 298.00",
@@ -71,24 +52,6 @@
     "store_url": "https://store.steampowered.com/app/3948120"
   },
   {
-    "appid": 4160210,
-    "name": "The Artisan of Glimmith",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1773766829",
-    "short_description": "《格里米斯工匠》 (The Artisan of Glimmith) 是一款温馨治愈的益智游戏。在这里，你将通过为彩绘玻璃着色，来修复云端王国的艺术瑰宝。探索一个由匠心打造、充满逻辑挑战的世界。在这里，简单的规则将引向令人赞叹的惊喜。",
-    "is_free": false,
-    "price": "¥ 46.80",
-    "original_price": "¥ 52.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4160210"
-  },
-  {
     "appid": 2253100,
     "name": "风屿奇航",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/774914807bd71ce91decb9532752f7538c71aa89/header_schinese.jpg?t=1773865886",
@@ -107,22 +70,6 @@
     "release_date": "2026 年 3 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2253100"
-  },
-  {
-    "appid": 3743790,
-    "name": "《托马斯和朋友™：多多岛奇观》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/456d17d1ee31e2c5e72d3905bbdcfed62a7af733/header.jpg?t=1773763219",
-    "short_description": "与托马斯和他的朋友们一起，踏上一场穿越多多岛的神奇历险吧！登上北西铁路[AH1.1]公司旗下各大经典蒸汽小火车的驾驶室，在驾驶员座位上聆听怀旧故事与引人入胜的[AH3.1]全新情节。探索多多岛奇观——这里充满欢乐、遍地魔法，只等你的到来！",
-    "is_free": false,
-    "price": "¥ 136.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3743790"
   },
   {
     "appid": 1029780,
@@ -162,24 +109,72 @@
     "store_url": "https://store.steampowered.com/app/3552140"
   },
   {
-    "appid": 3679080,
-    "name": "七大罪：Origin",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/86b4734355e3e43b8323426e69d127ce79bab888/header.jpg?t=1773678654",
-    "short_description": "《七大罪：Origin》是一款以人气IP『七大罪』为背景的动画风开放世界RPG。 在这里，你将化身里昂妮丝王子特里斯坦，自由探索以动画为蓝本打造的开放世界布里塔尼亚大陆，踏上拨乱反正、修复时空混乱的史诗旅程。",
-    "is_free": true,
-    "price": "免费",
+    "appid": 2321780,
+    "name": "星河战队: 终焉虫潮",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/6b29349d6c3b7f05e02914c4a191a3b85fce2521/header_schinese.jpg?t=1773937502",
+    "short_description": "进入星河战队的宇宙，加入机动部队，体验史上最真实的战争！在这款充满动感的第一人称射击游戏中，体验原创故事。你想知道更多吗？",
+    "is_free": false,
+    "price": "¥ 84.58",
+    "original_price": "¥ 105.73",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 3 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2321780"
+  },
+  {
+    "appid": 1863430,
+    "name": "龙的传人：孤旅",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863430/b2f47da77467bdc8a37d02897c7e448e50cc26bc/header_alt_assets_4.jpg?t=1773678727",
+    "short_description": "龙的威胁再次降临到我们身上。传奇英雄挺身而出，面对来自深处的军团。驯服你的小龙，利用祖先网格创造独特的力量构建，扩展你的城市并摧毁巨龙！",
+    "is_free": false,
+    "price": "¥ 82.80",
+    "original_price": "¥ 92.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 3 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1863430"
+  },
+  {
+    "appid": 2852190,
+    "name": "Monster Hunter Stories 3: 命运双龙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/427b69c83e34738f437eedb94607ed79847b294e/header_schinese.jpg?t=1773387803",
+    "short_description": "“Monster Hunter”系列RPG第3弹！ 双龙降世，命运于此刻交织。 “Monster Hunter Stories”是一个RPG游戏系列， 玩家将会成为与怪物建立羁绊，对其加以培育并与之共存的“怪物骑士”，尽情体验“Monster Hunter”的世界。",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 3 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2852190"
+  },
+  {
+    "appid": 4224910,
+    "name": "Ready or Not: Boiling Point",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224910/e1b801dc894a26c261abdb8f25b30fc83ef0a523/header.jpg?t=1773349381",
+    "short_description": "洛斯苏埃诺斯的情况在持续不断地恶化，而一场颠覆一切的恐怖袭击摧毁了人们对它仅存的信心。这座城市面临着生死存亡的危机，市政府低效无能，且极度依赖军事管控手段。",
+    "is_free": false,
+    "price": "¥ 42.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
       "冒险",
-      "大型多人在线",
-      "角色扮演",
-      "模拟",
-      "免费开玩"
+      "独立"
     ],
-    "release_date": "2026 年 3 月 16 日",
+    "release_date": "2026 年 3 月 12 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3679080"
+    "store_url": "https://store.steampowered.com/app/4224910"
   }
 ]
