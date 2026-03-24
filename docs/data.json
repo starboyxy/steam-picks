@@ -2,7 +2,7 @@
   {
     "appid": 3321460,
     "name": "红色沙漠",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1774236379",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60deed54212e33f60b20686ec1f18d3f776ec973/header_schinese.jpg?t=1774252309",
     "short_description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
     "is_free": false,
     "price": "¥ 268.00",
@@ -109,24 +109,6 @@
     "store_url": "https://store.steampowered.com/app/3552140"
   },
   {
-    "appid": 2321780,
-    "name": "星河战队: 终焉虫潮",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/6b29349d6c3b7f05e02914c4a191a3b85fce2521/header_schinese.jpg?t=1773937502",
-    "short_description": "进入星河战队的宇宙，加入机动部队，体验史上最真实的战争！在这款充满动感的第一人称射击游戏中，体验原创故事。你想知道更多吗？",
-    "is_free": false,
-    "price": "¥ 84.58",
-    "original_price": "¥ 105.73",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2321780"
-  },
-  {
     "appid": 1863430,
     "name": "龙的传人：孤旅",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863430/b2f47da77467bdc8a37d02897c7e448e50cc26bc/header_alt_assets_4.jpg?t=1773678727",
@@ -176,5 +158,21 @@
     "release_date": "2026 年 3 月 12 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4224910"
+  },
+  {
+    "appid": 2833580,
+    "name": "勇气默示录 FLYING FAIRY HD Remaster",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2833580/560d12106258dde9bc4ac258cbe8e71d540eb8f5/header.jpg?t=1773334822",
+    "short_description": "全世界销量突破四百万套的RPG“BRAVELY”系列原点之作推出HD Remaster版！本作除了描写光之战士因水晶引发的一连串精彩剧情，还有活用转职的指令战斗，以及配合现代玩家习惯改得更方便的游戏环境，并添加小游戏。这个描述光与影且历久弥新的故事就此重获新生。",
+    "is_free": false,
+    "price": "¥ 198.40",
+    "original_price": "¥ 248.00",
+    "discount_percent": 20,
+    "genres": [
+      "角色扮演"
+    ],
+    "release_date": "2026 年 3 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2833580"
   }
 ]
