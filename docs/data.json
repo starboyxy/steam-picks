@@ -1,8 +1,146 @@
 [
   {
+    "appid": 3802450,
+    "name": "《无主之地®4》- 故事包1：狂野艾丽与诅咒秘藏",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802450/86cba449d06edf54bb2070b3f3786d5eeb2e6dac/header.jpg?t=1774555142",
+    "short_description": "扮演全新秘藏猎人老钱，在这场宇宙恐怖冒险中探索血腥的低语冰川之谜！包含全新任务、活动、战利品，以及一片令人战栗的新区域。",
+    "is_free": false,
+    "price": "¥ 128.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3802450"
+  },
+  {
+    "appid": 2426530,
+    "name": "罗马之城 Nova Roma",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/2f325634db616ef00881645467829fc6ac77981b/header_schinese.jpg?t=1774551560",
+    "short_description": "罗马的荣耀尽在你手。玩家要在这个城市建设游戏中取悦诸神、制定法律并发展复杂的供应链，满足市民们的需求。",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 99.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2426530"
+  },
+  {
+    "appid": 2624870,
+    "name": "Life is Strange: Reunion",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/09c486f1ebf7c30ebf3abf5df054833b03c3367d/header.jpg?t=1774562634",
+    "short_description": "麦珂茜与歌露儿的故事，以及卡利登的命运，将由你来决定！同时扮演麦珂茜与歌露儿，在全新的故事中迎接史诗情节的高潮。 这场大火将迫使麦珂茜和歌露儿做出撕裂人心的抉择。在一切为时已晚之前……她们是否能够携手寻得一片未来？",
+    "is_free": false,
+    "price": "¥ 248.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2624870"
+  },
+  {
+    "appid": 4406660,
+    "name": "THE FINALS - Morrígan's Call Set",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406660/580eb8c57f1bcae12286e2d5dca8758bb3065438/header.jpg?t=1774540222",
+    "short_description": "此套装中包含： - 一套服装, - 一款武器皮肤, - 一个表情, - 一个挂件, - 一份贴纸, - 2,400 Multibucks.",
+    "is_free": false,
+    "price": "¥ 144.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4406660"
+  },
+  {
+    "appid": 4403950,
+    "name": "THE FINALS - Season 10 Ultimate Battle Pass Bundle",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403950/79bf07e2d70bbb64359397f8d2d47060803ec2b7/header.jpg?t=1774540456",
+    "short_description": "此套装中包含： - 第10赛季豪华版战斗通行证, - 20战斗通行证等级, - 25%比赛XP加成, - 1,000 Multibucks, - 战斗通行证第10赛季终极奖励.",
+    "is_free": false,
+    "price": "¥ 214.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4403950"
+  },
+  {
+    "appid": 2543830,
+    "name": "Way of the Hunter 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/ff1f0382e6442417fd2db667d1c7932c39294030/header_alt_assets_0.jpg?t=1774546803",
+    "short_description": "感受狩猎的极致快感，留意游荡在加拿大荒野中的珍稀野兽！",
+    "is_free": false,
+    "price": "¥ 100.00",
+    "original_price": "¥ 125.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2543830"
+  },
+  {
+    "appid": 3363680,
+    "name": "永恒围城：无尽纪元",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363680/8f72c430d124eda7638f9df0fff72aab24be5c7c/header.jpg?t=1774537220",
+    "short_description": "无路可退，唯有战斗。守卫巴斯顿，对抗邪恶军团，夺回失落之力，重建远古遗迹，并灵活调整战术，逆转围困。这是一款英雄策略rogue-lite游戏，你可以以单人模式独自迎敌，也可开启合作模式，与其他最多2名玩家并肩作战，打造独属于你的战斗风格。",
+    "is_free": false,
+    "price": "¥ 58.50",
+    "original_price": "¥ 78.00",
+    "discount_percent": 25,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3363680"
+  },
+  {
+    "appid": 2814990,
+    "name": "Screamer",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814990/f4fba3a1edca44fbb2bd86c80340eb3de854102b/header.jpg?t=1774512017",
+    "short_description": "在这款街机赛车游戏中，高能动作和动漫美学碰撞在一起，更有战斗机制和引人入胜的剧情融合其中。在这个世界里，有人为了荣耀而赛，有人为了权力或复仇而战。每场比赛都是一场战斗，每场战斗都关乎个人。",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "竞速"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2814990"
+  },
+  {
     "appid": 3321460,
     "name": "红色沙漠",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60deed54212e33f60b20686ec1f18d3f776ec973/header_schinese.jpg?t=1774252309",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60deed54212e33f60b20686ec1f18d3f776ec973/header_schinese.jpg?t=1774506236",
     "short_description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
     "is_free": false,
     "price": "¥ 268.00",
@@ -32,147 +170,5 @@
     "release_date": "2026 年 3 月 19 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3280350"
-  },
-  {
-    "appid": 3948120,
-    "name": "刮个爽",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948120/661c8201d042b35efbab86b564b4dcd24567b546/header_schinese.jpg?t=1773831686",
-    "short_description": "《刮个爽》是一款超级解压、爽感叠加的刮刮乐游戏。购买成叠的刮刮乐彩票，刮出大奖后渐渐解锁自动刮奖功能，再一路冲击巨额头奖。不小心玩上头的你会稳扎稳打，还是会选择梭哈一把？",
-    "is_free": false,
-    "price": "¥ 20.39",
-    "original_price": "¥ 25.49",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3948120"
-  },
-  {
-    "appid": 2253100,
-    "name": "风屿奇航",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/774914807bd71ce91decb9532752f7538c71aa89/header_schinese.jpg?t=1773865886",
-    "short_description": "《风屿奇航》是一款像素沙盒+生存冒险类的第一人称角色扮演游戏。你可以与好友们一起踏上冒险旅程 - 在浮空岛舰上建造基地、采集资源并制作各种物件，掠夺战利品，一起撸卡皮巴拉穿梭于云端，体验战斗快感，逐步揭开这个世界的神秘面纱！",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2253100"
-  },
-  {
-    "appid": 1029780,
-    "name": "Going Medieval ( 前往中世纪 )",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/80484227f90cbca6f426bd8966e06fb7fa6ed3c4/header_alt_assets_21_schinese.jpg?t=1773765316",
-    "short_description": "在一片早已退化为荒无人烟之境的土地上建造并管理属于你自己的城堡定居点。 藉由细致入微的管理方式、生存策略和支持模组修改的沙盒世界，《Going Medieval》将向你提出挑战，看你能否在末日来临之后建造出最强大的殖民地。",
-    "is_free": false,
-    "price": "¥ 86.40",
-    "original_price": "¥ 108.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1029780"
-  },
-  {
-    "appid": 3552140,
-    "name": "Retro Rewind - Video Store Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3552140/5be699540829c76a0d5f7ac5db4bbaf23fa76013/header.jpg?t=1774120959",
-    "short_description": "Manage your very own video store in the early 90s! Rent, sell, decorate and expand your business from the ground up and relive the golden ages of video rentals!",
-    "is_free": false,
-    "price": "¥ 76.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3552140"
-  },
-  {
-    "appid": 1863430,
-    "name": "龙的传人：孤旅",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863430/b2f47da77467bdc8a37d02897c7e448e50cc26bc/header_alt_assets_4.jpg?t=1773678727",
-    "short_description": "龙的威胁再次降临到我们身上。传奇英雄挺身而出，面对来自深处的军团。驯服你的小龙，利用祖先网格创造独特的力量构建，扩展你的城市并摧毁巨龙！",
-    "is_free": false,
-    "price": "¥ 82.80",
-    "original_price": "¥ 92.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 3 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1863430"
-  },
-  {
-    "appid": 2852190,
-    "name": "Monster Hunter Stories 3: 命运双龙",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/427b69c83e34738f437eedb94607ed79847b294e/header_schinese.jpg?t=1773387803",
-    "short_description": "“Monster Hunter”系列RPG第3弹！ 双龙降世，命运于此刻交织。 “Monster Hunter Stories”是一个RPG游戏系列， 玩家将会成为与怪物建立羁绊，对其加以培育并与之共存的“怪物骑士”，尽情体验“Monster Hunter”的世界。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 3 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2852190"
-  },
-  {
-    "appid": 4224910,
-    "name": "Ready or Not: Boiling Point",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224910/e1b801dc894a26c261abdb8f25b30fc83ef0a523/header.jpg?t=1773349381",
-    "short_description": "洛斯苏埃诺斯的情况在持续不断地恶化，而一场颠覆一切的恐怖袭击摧毁了人们对它仅存的信心。这座城市面临着生死存亡的危机，市政府低效无能，且极度依赖军事管控手段。",
-    "is_free": false,
-    "price": "¥ 42.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4224910"
-  },
-  {
-    "appid": 2833580,
-    "name": "勇气默示录 FLYING FAIRY HD Remaster",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2833580/560d12106258dde9bc4ac258cbe8e71d540eb8f5/header.jpg?t=1773334822",
-    "short_description": "全世界销量突破四百万套的RPG“BRAVELY”系列原点之作推出HD Remaster版！本作除了描写光之战士因水晶引发的一连串精彩剧情，还有活用转职的指令战斗，以及配合现代玩家习惯改得更方便的游戏环境，并添加小游戏。这个描述光与影且历久弥新的故事就此重获新生。",
-    "is_free": false,
-    "price": "¥ 198.40",
-    "original_price": "¥ 248.00",
-    "discount_percent": 20,
-    "genres": [
-      "角色扮演"
-    ],
-    "release_date": "2026 年 3 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2833580"
   }
 ]
