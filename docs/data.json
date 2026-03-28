@@ -1,5 +1,95 @@
 [
   {
+    "appid": 3609320,
+    "name": "Bombun",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3609320/00a1c27e613a447234a8dbea9898963d806dc51f/header.jpg?t=1774651966",
+    "short_description": "扔炸弹的兔子守卫着她的浮空要塞。昔日挚友已成死敌，即将汹涌来袭。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 3 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3609320"
+  },
+  {
+    "appid": 3597510,
+    "name": "MyRobot",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3597510/4fa3c62a42a4863612848140d7a5615fa8e5223c/header.jpg?t=1774670471",
+    "short_description": "MyRobot is a robot sandbox game with optional AI features!",
+    "is_free": false,
+    "price": "¥ 68.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3597510"
+  },
+  {
+    "appid": 3931060,
+    "name": "MARVEL MaXimum Collection",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931060/c2fb712a568d5e5c13502fd4ccbace352b433916/header.jpg?t=1774619392",
+    "short_description": "Experience one of the most comprehensive gatherings of Marvel’s early gaming legacy. Every major iteration across Arcade and home consoles, this collection is a curated journey through the evolution of the 1990s Marvel Universe in pixels.",
+    "is_free": false,
+    "price": "¥ 94.75",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 3 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3931060"
+  },
+  {
+    "appid": 2943180,
+    "name": "Virtual Cottage 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943180/7676dc665eb0f64b90b0d045b3163ba8abdc8ffc/header.jpg?t=1774629529",
+    "short_description": "独自学习——或在可自定义的小屋中与朋友一起学习！Virtual Cottage 2 激励并帮助你完成日常任务。使用内置的生产力工具，更快实现目标。用数百种物品打造你终极舒适的专属空间。",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2943180"
+  },
+  {
+    "appid": 3500390,
+    "name": "流星ROCKMAN 完美合集",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500390/b3d57edb016c14d8cbdb28c66be071616a536619/header_schinese.jpg?t=1774584574",
+    "short_description": "以动画和卡片等多媒体形式而广受好评的《流星ROCKMAN》推出收藏版。本作收录了包含不同版本在内的7款游戏，并设有艺廊模式，玩家不仅可以欣赏插画和当时的BGM，以及改编的乐曲！战斗系统也比原作有所提升，并支持线上对战，为玩家带来刺激的体验！",
+    "is_free": false,
+    "price": "¥ 198.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3500390"
+  },
+  {
     "appid": 3802450,
     "name": "《无主之地®4》- 故事包1：狂野艾丽与诅咒秘藏",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802450/86cba449d06edf54bb2070b3f3786d5eeb2e6dac/header.jpg?t=1774555142",
@@ -20,7 +110,7 @@
   {
     "appid": 2426530,
     "name": "罗马之城 Nova Roma",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/2f325634db616ef00881645467829fc6ac77981b/header_schinese.jpg?t=1774551560",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/2f325634db616ef00881645467829fc6ac77981b/header_schinese.jpg?t=1774626646",
     "short_description": "罗马的荣耀尽在你手。玩家要在这个城市建设游戏中取悦诸神、制定法律并发展复杂的供应链，满足市民们的需求。",
     "is_free": false,
     "price": "¥ 79.20",
@@ -36,9 +126,30 @@
     "store_url": "https://store.steampowered.com/app/2426530"
   },
   {
+    "appid": 619540,
+    "name": "Darkwater",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619540/f221c57c2503ad48ce6b56ed19d86404da026358/header_alt_assets_3.jpg?t=1774546075",
+    "short_description": "《黑水》是一款支持 1-4 名玩家的合作撤离类恐怖游戏。玩家将指挥一艘被困于异星卫星冰层下的潜艇，与敌方舰艇及深海怪物战斗，同时搜寻资源，不惜一切代价生存下来。",
+    "is_free": false,
+    "price": "¥ 29.40",
+    "original_price": "¥ 42.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/619540"
+  },
+  {
     "appid": 2624870,
     "name": "Life is Strange: Reunion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/09c486f1ebf7c30ebf3abf5df054833b03c3367d/header.jpg?t=1774562634",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/09c486f1ebf7c30ebf3abf5df054833b03c3367d/header.jpg?t=1774610978",
     "short_description": "麦珂茜与歌露儿的故事，以及卡利登的命运，将由你来决定！同时扮演麦珂茜与歌露儿，在全新的故事中迎接史诗情节的高潮。 这场大火将迫使麦珂茜和歌露儿做出撕裂人心的抉择。在一切为时已晚之前……她们是否能够携手寻得一片未来？",
     "is_free": false,
     "price": "¥ 248.00",
@@ -51,23 +162,6 @@
     "release_date": "2026 年 3 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2624870"
-  },
-  {
-    "appid": 4406660,
-    "name": "THE FINALS - Morrígan's Call Set",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406660/580eb8c57f1bcae12286e2d5dca8758bb3065438/header.jpg?t=1774540222",
-    "short_description": "此套装中包含： - 一套服装, - 一款武器皮肤, - 一个表情, - 一个挂件, - 一份贴纸, - 2,400 Multibucks.",
-    "is_free": false,
-    "price": "¥ 144.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4406660"
   },
   {
     "appid": 4403950,
@@ -85,90 +179,5 @@
     "release_date": "2026 年 3 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4403950"
-  },
-  {
-    "appid": 2543830,
-    "name": "Way of the Hunter 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/ff1f0382e6442417fd2db667d1c7932c39294030/header_alt_assets_0.jpg?t=1774546803",
-    "short_description": "感受狩猎的极致快感，留意游荡在加拿大荒野中的珍稀野兽！",
-    "is_free": false,
-    "price": "¥ 100.00",
-    "original_price": "¥ 125.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2543830"
-  },
-  {
-    "appid": 3363680,
-    "name": "永恒围城：无尽纪元",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363680/8f72c430d124eda7638f9df0fff72aab24be5c7c/header.jpg?t=1774537220",
-    "short_description": "无路可退，唯有战斗。守卫巴斯顿，对抗邪恶军团，夺回失落之力，重建远古遗迹，并灵活调整战术，逆转围困。这是一款英雄策略rogue-lite游戏，你可以以单人模式独自迎敌，也可开启合作模式，与其他最多2名玩家并肩作战，打造独属于你的战斗风格。",
-    "is_free": false,
-    "price": "¥ 58.50",
-    "original_price": "¥ 78.00",
-    "discount_percent": 25,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3363680"
-  },
-  {
-    "appid": 2814990,
-    "name": "Screamer",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814990/f4fba3a1edca44fbb2bd86c80340eb3de854102b/header.jpg?t=1774512017",
-    "short_description": "在这款街机赛车游戏中，高能动作和动漫美学碰撞在一起，更有战斗机制和引人入胜的剧情融合其中。在这个世界里，有人为了荣耀而赛，有人为了权力或复仇而战。每场比赛都是一场战斗，每场战斗都关乎个人。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2814990"
-  },
-  {
-    "appid": 3321460,
-    "name": "红色沙漠",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60deed54212e33f60b20686ec1f18d3f776ec973/header_schinese.jpg?t=1774506236",
-    "short_description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 3 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3321460"
-  },
-  {
-    "appid": 3280350,
-    "name": "DEATH STRANDING 2: ON THE BEACH",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
-    "short_description": "山姆和他的伙伴们开启新旅程，拯救濒临灭亡的人类。 加入他们，穿行这个异界敌人当道、充满艰难险阻的世界，探究一个挥之不去的问题：连接是必要的吗？",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 3 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3280350"
   }
 ]
