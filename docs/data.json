@@ -1,5 +1,116 @@
 [
   {
+    "appid": 1836560,
+    "name": "以太与铁",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836560/24b1c2b08c5221e5c5aa436f9511f6ba5949ed04/header_schinese.jpg?t=1774915245",
+    "short_description": "欢迎踏入这个架空的1930年代纽约城，反重力科技的诞生让汽车、道路乃至整座城市都漂浮于空中。你将深入这款叙事驱动的角色扮演游戏，集结你的专属团队，运用智慧和谋略掌控回合制战斗，逐步揭开隐藏在浮空都市背后的黑暗秘密。",
+    "is_free": false,
+    "price": "¥ 73.60",
+    "original_price": "¥ 92.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1836560"
+  },
+  {
+    "appid": 3326230,
+    "name": "焕家物语 (Hozy)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326230/45ed25488d882fb1213f7ad70c6c3240e2c0a5b8/header_schinese.jpg?t=1774899989",
+    "short_description": "通过你最爱的消遣方式，让被遗忘的街区重获新生，从打造一个个舒适的房间开始。在 焕家物语 (Hozy) 中，用令人满足的机制和直观的操作，清洁、粉刷并装饰废弃房屋。当你与工具、物品和家具互动时，享受那些让每个空间重现生机的小细节。",
+    "is_free": false,
+    "price": "¥ 44.10",
+    "original_price": "¥ 49.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3326230"
+  },
+  {
+    "appid": 995680,
+    "name": "Truck Mechanic: Dangerous Paths",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995680/6a1043201ca7d61edb067908c5f4463f21abf14d/header.jpg?t=1774906710",
+    "short_description": "进行复杂的修理与维护，成为终极卡车机械师。驾驶卡车，将你赖以信任的工具扔进后备箱，踏上穿越南美荒野的极限探险之旅！",
+    "is_free": false,
+    "price": "¥ 65.45",
+    "original_price": "¥ 77.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/995680"
+  },
+  {
+    "appid": 4286550,
+    "name": "Keep on Mining! - Worlds",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286550/e36af42502acbb36198185e17997aaab8a67d4dd/header.jpg?t=1774875673",
+    "short_description": "Keep on Mining! – Worlds 是一款增量式采矿游戏，你将在游戏中开采岩石、收集资源、穿越多个独特的世界，发现神器、打造镐子，并购买大量永久升级！",
+    "is_free": false,
+    "price": "¥ 23.20",
+    "original_price": "¥ 29.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 3 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4286550"
+  },
+  {
+    "appid": 3214610,
+    "name": "灰烬之国 Cinderia",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/5206c6b98455bf2c8bfb5111c39934d8d31763ce/header_schinese.jpg?t=1774896909",
+    "short_description": "《灰烬之国》是一款极致爽快的Rogue-lite动作游戏！自由组合一切你可以看到的东西，技能，连招，被动，装备，创造你独特的战斗风格。黑暗笼罩大地，废墟之中仍有微光闪烁。",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 3 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3214610"
+  },
+  {
+    "appid": 4271160,
+    "name": "Zero Stress King: Idle Defense",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/326a6627411cec177f1092ebb20aab7ae3ffc196/header.jpg?t=1774894411",
+    "short_description": "一款轻松短小的增量游戏，伪装成塔防——但敌人永远到不了你的城墙。 多亏了熔岩。",
+    "is_free": false,
+    "price": "¥ 17.60",
+    "original_price": "¥ 22.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 3 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4271160"
+  },
+  {
     "appid": 3609320,
     "name": "Bombun",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3609320/00a1c27e613a447234a8dbea9898963d806dc51f/header.jpg?t=1774651966",
@@ -18,26 +129,9 @@
     "store_url": "https://store.steampowered.com/app/3609320"
   },
   {
-    "appid": 4243690,
-    "name": "Chained Wheels",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243690/e7646480507c8b4333097faef96c5dd300f8f67e/header.jpg?t=1774622630",
-    "short_description": "在 Chained Wheels 中踏上一场混乱的合作驾驶之旅。 两辆车被锁链连接，每一次操作都会变成一场共同的冒险……或者一场彻底的灾难。",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4243690"
-  },
-  {
     "appid": 3500390,
     "name": "流星ROCKMAN 完美合集",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500390/b3d57edb016c14d8cbdb28c66be071616a536619/header_schinese.jpg?t=1774584574",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500390/b3d57edb016c14d8cbdb28c66be071616a536619/header_schinese.jpg?t=1774849524",
     "short_description": "以动画和卡片等多媒体形式而广受好评的《流星ROCKMAN》推出收藏版。本作收录了包含不同版本在内的7款游戏，并设有艺廊模式，玩家不仅可以欣赏插画和当时的BGM，以及改编的乐曲！战斗系统也比原作有所提升，并支持线上对战，为玩家带来刺激的体验！",
     "is_free": false,
     "price": "¥ 198.00",
@@ -55,7 +149,7 @@
   {
     "appid": 2426530,
     "name": "罗马之城 Nova Roma",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/2f325634db616ef00881645467829fc6ac77981b/header_schinese.jpg?t=1774626646",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/2f325634db616ef00881645467829fc6ac77981b/header_schinese.jpg?t=1774894112",
     "short_description": "罗马的荣耀尽在你手。玩家要在这个城市建设游戏中取悦诸神、制定法律并发展复杂的供应链，满足市民们的需求。",
     "is_free": false,
     "price": "¥ 79.20",
@@ -90,90 +184,5 @@
     "release_date": "2026 年 3 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/619540"
-  },
-  {
-    "appid": 2624870,
-    "name": "Life is Strange: Reunion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/09c486f1ebf7c30ebf3abf5df054833b03c3367d/header.jpg?t=1774610978",
-    "short_description": "麦珂茜与歌露儿的故事，以及卡利登的命运，将由你来决定！同时扮演麦珂茜与歌露儿，在全新的故事中迎接史诗情节的高潮。 这场大火将迫使麦珂茜和歌露儿做出撕裂人心的抉择。在一切为时已晚之前……她们是否能够携手寻得一片未来？",
-    "is_free": false,
-    "price": "¥ 248.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2624870"
-  },
-  {
-    "appid": 4403950,
-    "name": "THE FINALS - Season 10 Ultimate Battle Pass Bundle",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403950/79bf07e2d70bbb64359397f8d2d47060803ec2b7/header.jpg?t=1774540456",
-    "short_description": "此套装中包含： - 第10赛季豪华版战斗通行证, - 20战斗通行证等级, - 25%比赛XP加成, - 1,000 Multibucks, - 战斗通行证第10赛季终极奖励.",
-    "is_free": false,
-    "price": "¥ 214.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4403950"
-  },
-  {
-    "appid": 2543830,
-    "name": "Way of the Hunter 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/ff1f0382e6442417fd2db667d1c7932c39294030/header_alt_assets_0.jpg?t=1774546803",
-    "short_description": "感受狩猎的极致快感，留意游荡在加拿大荒野中的珍稀野兽！",
-    "is_free": false,
-    "price": "¥ 100.00",
-    "original_price": "¥ 125.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2543830"
-  },
-  {
-    "appid": 3363680,
-    "name": "永恒围城：无尽纪元",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363680/8f72c430d124eda7638f9df0fff72aab24be5c7c/header.jpg?t=1774537220",
-    "short_description": "无路可退，唯有战斗。守卫巴斯顿，对抗邪恶军团，夺回失落之力，重建远古遗迹，并灵活调整战术，逆转围困。这是一款英雄策略rogue-lite游戏，你可以以单人模式独自迎敌，也可开启合作模式，与其他最多2名玩家并肩作战，打造独属于你的战斗风格。",
-    "is_free": false,
-    "price": "¥ 58.50",
-    "original_price": "¥ 78.00",
-    "discount_percent": 25,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3363680"
-  },
-  {
-    "appid": 2814990,
-    "name": "Screamer",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814990/f4fba3a1edca44fbb2bd86c80340eb3de854102b/header.jpg?t=1774512017",
-    "short_description": "在这款街机赛车游戏中，高能动作和动漫美学碰撞在一起，更有战斗机制和引人入胜的剧情融合其中。在这个世界里，有人为了荣耀而赛，有人为了权力或复仇而战。每场比赛都是一场战斗，每场战斗都关乎个人。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速"
-    ],
-    "release_date": "2026 年 3 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2814990"
   }
 ]
