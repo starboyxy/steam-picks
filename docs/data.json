@@ -1,9 +1,135 @@
 [
   {
+    "appid": 538030,
+    "name": "异种航员2 Xenonauts 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/83405c686988277736b7cd255d6b5c49f85beb82/header_schinese.jpg?t=1775150101",
+    "short_description": "发起全球性反抗战争，抵御外星人的入侵。指挥回合制的策略性战斗，构建秘密基地网络，并亲自操纵战斗机，在实力不对等的战斗中对抗科技领先的敌人，取得战略性的胜利。",
+    "is_free": false,
+    "price": "¥ 96.85",
+    "original_price": "¥ 149.00",
+    "discount_percent": 35,
+    "genres": [
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/538030"
+  },
+  {
+    "appid": 2510960,
+    "name": "Temtem: Swarm / 腾兽：蜂拥之群",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/9eed19ba2e454b3a0a00dde88966dcd2e5decc04/header.jpg?t=1775150983",
+    "short_description": "你能在袭来的腾兽潮中存活吗？在这款弹幕生存游戏中，解锁强大的能力与升级，收集并进化腾兽，运用强力策略与超大型头目战斗！本作可单人游玩、在线合作，或使用配对系统组成三人队伍，创造超强的协同效应！",
+    "is_free": false,
+    "price": "¥ 34.30",
+    "original_price": "¥ 49.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "休闲",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2510960"
+  },
+  {
+    "appid": 4200750,
+    "name": "《使命召唤®：黑色行动 7》黑色组织（第3赛季）",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200750/3af22a29cd054d084771783f7f97aa5a5e209748/header_schinese.jpg?t=1775146108",
+    "short_description": "获得使命召唤®点数*和《使命召唤®：黑色行动 7》及《使命召唤®：战争地带™》中的游戏内容。",
+    "is_free": false,
+    "price": "¥ 195.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4200750"
+  },
+  {
+    "appid": 2779120,
+    "name": "模块工厂：自动化大亨",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/d0ba48cf9e79e4c37d100958e8f4f5167686a51a/header_schinese.jpg?t=1775142564",
+    "short_description": "《Modulus》是一款工厂自动化游戏，让你自由玩转 3D 结构块——切割、上色、印花、组装，充分发挥你的想象力，设计和优化不断扩张的工厂，高效完成宏大神经网络的订单。",
+    "is_free": false,
+    "price": "¥ 77.40",
+    "original_price": "¥ 86.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2779120"
+  },
+  {
+    "appid": 1198970,
+    "name": "I am Jesus Christ 我是耶稣基督",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198970/header.jpg?t=1775178574",
+    "short_description": "在这款沉浸式第一人称叙事游戏中，追随耶稣的脚步，从降生到复活。施行神迹奇事，结识圣经人物，探索圣地——从耶路撒冷到加利利。在《I Am Jesus Christ》中成为弥赛亚。",
+    "is_free": false,
+    "price": "¥ 45.00",
+    "original_price": "¥ 50.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1198970"
+  },
+  {
+    "appid": 2569670,
+    "name": "农夫王朝2 - Farmer's Dynasty 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569670/fcbee6cd872a8e94a37786bb40ef17d84a9398e6/header_schinese.jpg?t=1775138779",
+    "short_description": "建设你的梦想农场，守护家族的未来。耕种农田、饲养动物，在多代传承中塑造你的家族王朝。这是一款精心打造的生活与农耕模拟游戏。今天就开启你的家族传承之旅！",
+    "is_free": false,
+    "price": "¥ 95.20",
+    "original_price": "¥ 119.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "休闲",
+      "角色扮演",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2569670"
+  },
+  {
+    "appid": 2989180,
+    "name": "Darwin's Paradox!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989180/header.jpg?t=1775154340",
+    "short_description": "和达尔文一起踏上冒险。他是一只可爱与机智兼备的章鱼，被带离了海洋且困在一个神秘的巨大工业中心里。在这款引人入胜的平台冒险游戏里，运用他独特的天赋与能力，帮他克服重重危机和陷阱。",
+    "is_free": false,
+    "price": "¥ 179.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2989180"
+  },
+  {
     "appid": 4249150,
     "name": "Breath of Fire IV",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775089453",
-    "short_description": "Stunning New and Improved Graphics – High Resolution, Animated Characters in Vast 3-D Worlds. More Than 200 Spells to Learn and Master – Unlock New Magic From Opponents. 2 Epic Intertwining Storylines – Follow the Fates of Ryu and Fou-Lu – A Classic RPG Adventure!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775112850",
+    "short_description": "Master an array of skills and magic to unlock strategic victories in battle as you go head to head with unique enemies using powerful \u0026quot;Dragon Transformations\u0026quot; and combo actions! Follow the intertwining stories of Ryu and Fou-Lu to their thrilling conclusion in this classic RPG adventure.",
     "is_free": false,
     "price": "¥ 25.00",
     "original_price": "¥ 50.00",
@@ -15,23 +141,6 @@
     "release_date": "2026 年 4 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4249150"
-  },
-  {
-    "appid": 4249120,
-    "name": "Resident Evil 3 Nemesis (1999)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236",
-    "short_description": "Join Jill Valentine, the survivor of the notorious disaster, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City… but caught in a town crawling with zombies, more than ever she must rely on brute force and cunning to find a way to escape alive.",
-    "is_free": false,
-    "price": "¥ 25.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 50,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 4 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4249120"
   },
   {
     "appid": 4249110,
@@ -51,10 +160,10 @@
     "store_url": "https://store.steampowered.com/app/4249110"
   },
   {
-    "appid": 4249100,
-    "name": "Resident Evil (1996)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621",
-    "short_description": "Your squad has been choppered to a remote mansion to investigate a bio-experiment gone wrong. You’re plunged straight into a deathtrap. Arm yourself, solve puzzles, and unearth mysteries. But beware: every move you make draws you deeper into the deadly embrace of Resident Evil.",
+    "appid": 4249120,
+    "name": "Resident Evil 3 Nemesis (1999)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236",
+    "short_description": "Join Jill Valentine, the survivor of the notorious disaster, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City… but caught in a town crawling with zombies, more than ever she must rely on brute force and cunning to find a way to escape alive.",
     "is_free": false,
     "price": "¥ 25.00",
     "original_price": "¥ 50.00",
@@ -65,113 +174,6 @@
     ],
     "release_date": "2026 年 4 月 1 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4249100"
-  },
-  {
-    "appid": 3071240,
-    "name": "Voodoo Fishin'",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071240/a09810eafb3218a829424143332e4e9e867c60ea/header.jpg?t=1774972612",
-    "short_description": "一款适合 1–4 名玩家的 creepy-cozy 合作钓鱼游戏，支持近距离语音聊天。探索一片闹鬼的沼泽，寻找稀有鱼类，按重量出售你的渔获，并努力在黑暗中躲过猎杀你的东西。",
-    "is_free": false,
-    "price": "¥ 33.60",
-    "original_price": "¥ 42.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3071240"
-  },
-  {
-    "appid": 2529790,
-    "name": "尘埃异变2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2529790/5bf707f80269c434755227da6c2a96df9e7c2d85/header.jpg?t=1774974400",
-    "short_description": "在超现实动作冒险银河恶魔城游戏 尘埃异变2 中，扮演形态窃取者，探索痴迷艺术的怪诞世界，使用双手幻化成的卷须吞噬敌人，并召唤与其形态相同的幻体共同战斗。",
-    "is_free": false,
-    "price": "¥ 81.60",
-    "original_price": "¥ 96.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2529790"
-  },
-  {
-    "appid": 3288210,
-    "name": "超级肉肉男孩 3D",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288210/f7e3ca14830bd58b69d20ccd6da9bb00b3471ec6/header_schinese.jpg?t=1775044693",
-    "short_description": "那款大名鼎鼎、硬核到炸裂的平台跳跃游戏推出 3D 版了！",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3288210"
-  },
-  {
-    "appid": 774291,
-    "name": "社畜大作战",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/355e469f95afabf6c7d4530b28859aec91da4733/header_schinese.jpg?t=1775043962",
-    "short_description": "在这款充满世纪初风格、动作元素满载的 roguelite 竞技场射击游戏中全力开火、机智骇入，击退如潮水般汹涌而来的智能办公设备（也有可能是你现实中的同事）。欢迎来到密不透风的弹幕地狱，享受在办公转椅上 360 度盲射的紧张刺激。",
-    "is_free": false,
-    "price": "¥ 34.20",
-    "original_price": "¥ 38.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/774291"
-  },
-  {
-    "appid": 4170200,
-    "name": "Data Center",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0608b0774dad1ac38875db0389f719c99f6ccf63/header.jpg?t=1774948155",
-    "short_description": "建造、布线并自动化。组装机架、服务器和交换机，为每个应用连接足够的容量，从处理的数据中赚钱，并通过经验值和声誉解锁装备和更大的客户。随着你的中心焕发生机，跟随彩色的数据包流动。",
-    "is_free": false,
-    "price": "¥ 32.40",
-    "original_price": "¥ 36.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4170200"
-  },
-  {
-    "appid": 3784030,
-    "name": "浣熊推币机",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/602cffe86823bb1507da694218a005d2473d5ef8/header_schinese.jpg?t=1774994442",
-    "short_description": "《浣熊推币机》是一款让人多巴胺狂飙、欲罢不能的萌系推币机游戏！将经典街机推币机的混乱乐趣，与肉鸽卡组构建元素巧妙融合。组合各种特殊硬币与强力道具，触发爽度爆表的加乘效果。准备好被金币淹没，踏上这场停不下来的多巴胺派对吧～！",
-    "is_free": false,
-    "price": "¥ 36.90",
-    "original_price": "¥ 45.00",
-    "discount_percent": 18,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3784030"
+    "store_url": "https://store.steampowered.com/app/4249120"
   }
 ]
