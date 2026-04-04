@@ -1,5 +1,72 @@
 [
   {
+    "appid": 3818000,
+    "name": "Guns and Nuns: Storming Hell",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818000/657f4eb3eeb0f4e52771fd0ee76fbd725d3be702/header.jpg?t=1775239668",
+    "short_description": "危险的不是恶魔，而是你！扮演安吉莉卡·阿玛迪斯，一位拥有信仰与枪械力量的修女。在拥有奇异重力场的奇异关卡中，尽情屠戮恶魔。获得高分即可解锁更多关卡和武器，并让那些肮脏的恶魔认清自己的定位。",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 42.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 4 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3818000"
+  },
+  {
+    "appid": 3748640,
+    "name": "Wasteland Bites",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748640/7790a3e490eb9069f320d0d346ae6f687a76e590/header.jpg?t=1775235730",
+    "short_description": "《废土餐车》是一款恐怖餐车模拟器。在世界末日之后的餐车之中烹饪三无产品并不容易。但是击退变异生物、UFO、发狂的野狗，还有黑暗中藏着的许多怪物？那才叫真正的挑战。这是一款烹饪和生存元素混合而成的末日题材游戏。",
+    "is_free": false,
+    "price": "¥ 24.00",
+    "original_price": "¥ 30.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3748640"
+  },
+  {
+    "appid": 3657850,
+    "name": "《NBA 2K26》名人堂通行证：第6季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3657850/d70dd3ae69d093a68c650beaf8fd19ef060a18dc/header.jpg?t=1775229047",
+    "short_description": "名人堂通行证：第6季包含职业通行证：第6季中的所有物品，以及一个15%经验值提升、10个等级跳过和15,000虚拟货币！",
+    "is_free": false,
+    "price": "¥ 138.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "体育"
+    ],
+    "release_date": "2026 年 4 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3657850"
+  },
+  {
+    "appid": 2706020,
+    "name": "终落之城",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/2547a175de7f157bba2d53090cfbe616388191bb/header_alt_assets_2_schinese.jpg?t=1775261438",
+    "short_description": "在这款末日废土生存殖民地模拟游戏中，建造庞大的海上城市，带领你的人民走向繁荣。游戏拥有基于物理的3D建造系统、复杂的资源管理、探索、艰难的政治抉择、供应链体系以及强大的沙盒模式。",
+    "is_free": false,
+    "price": "¥ 78.20",
+    "original_price": "¥ 92.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2706020"
+  },
+  {
     "appid": 538030,
     "name": "异种航员2 Xenonauts 2",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/83405c686988277736b7cd255d6b5c49f85beb82/header_schinese.jpg?t=1775150101",
@@ -54,7 +121,7 @@
   {
     "appid": 2779120,
     "name": "模块工厂：自动化大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/d0ba48cf9e79e4c37d100958e8f4f5167686a51a/header_schinese.jpg?t=1775142564",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/d0ba48cf9e79e4c37d100958e8f4f5167686a51a/header_schinese.jpg?t=1775243640",
     "short_description": "《Modulus》是一款工厂自动化游戏，让你自由玩转 3D 结构块——切割、上色、印花、组装，充分发挥你的想象力，设计和优化不断扩张的工厂，高效完成宏大神经网络的订单。",
     "is_free": false,
     "price": "¥ 77.40",
@@ -70,7 +137,7 @@
   {
     "appid": 1198970,
     "name": "I am Jesus Christ 我是耶稣基督",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198970/header.jpg?t=1775178574",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198970/header.jpg?t=1775229225",
     "short_description": "在这款沉浸式第一人称叙事游戏中，追随耶稣的脚步，从降生到复活。施行神迹奇事，结识圣经人物，探索圣地——从耶路撒冷到加利利。在《I Am Jesus Christ》中成为弥赛亚。",
     "is_free": false,
     "price": "¥ 45.00",
@@ -90,7 +157,7 @@
   {
     "appid": 2569670,
     "name": "农夫王朝2 - Farmer's Dynasty 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569670/fcbee6cd872a8e94a37786bb40ef17d84a9398e6/header_schinese.jpg?t=1775138779",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569670/fcbee6cd872a8e94a37786bb40ef17d84a9398e6/header_schinese.jpg?t=1775212039",
     "short_description": "建设你的梦想农场，守护家族的未来。耕种农田、饲养动物，在多代传承中塑造你的家族王朝。这是一款精心打造的生活与农耕模拟游戏。今天就开启你的家族传承之旅！",
     "is_free": false,
     "price": "¥ 95.20",
@@ -106,74 +173,5 @@
     "release_date": "2026 年 4 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2569670"
-  },
-  {
-    "appid": 2989180,
-    "name": "Darwin's Paradox!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989180/header.jpg?t=1775154340",
-    "short_description": "和达尔文一起踏上冒险。他是一只可爱与机智兼备的章鱼，被带离了海洋且困在一个神秘的巨大工业中心里。在这款引人入胜的平台冒险游戏里，运用他独特的天赋与能力，帮他克服重重危机和陷阱。",
-    "is_free": false,
-    "price": "¥ 179.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2989180"
-  },
-  {
-    "appid": 4249150,
-    "name": "Breath of Fire IV",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775112850",
-    "short_description": "Master an array of skills and magic to unlock strategic victories in battle as you go head to head with unique enemies using powerful \u0026quot;Dragon Transformations\u0026quot; and combo actions! Follow the intertwining stories of Ryu and Fou-Lu to their thrilling conclusion in this classic RPG adventure.",
-    "is_free": false,
-    "price": "¥ 25.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 50,
-    "genres": [
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 4 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4249150"
-  },
-  {
-    "appid": 4249110,
-    "name": "Resident Evil 2 (1998)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249110/db95a4fbb11b56b6dc065dc0d6c662dab47498e5/header.jpg?t=1775090214",
-    "short_description": "Command Leon S. Kennedy, a rookie cop who stumbles onto the carnage reporting for his first duty, or play as Claire Redfield, desperately searching for her missing brother.　Cutting edge 3-D accelerated graphics that create a terrifying, photo-realistic experience.",
-    "is_free": false,
-    "price": "¥ 25.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 50,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 4 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4249110"
-  },
-  {
-    "appid": 4249120,
-    "name": "Resident Evil 3 Nemesis (1999)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236",
-    "short_description": "Join Jill Valentine, the survivor of the notorious disaster, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City… but caught in a town crawling with zombies, more than ever she must rely on brute force and cunning to find a way to escape alive.",
-    "is_free": false,
-    "price": "¥ 25.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 50,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 4 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4249120"
   }
 ]
