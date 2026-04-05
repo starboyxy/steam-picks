@@ -33,22 +33,6 @@
     "store_url": "https://store.steampowered.com/app/3748640"
   },
   {
-    "appid": 3657850,
-    "name": "《NBA 2K26》名人堂通行证：第6季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3657850/d70dd3ae69d093a68c650beaf8fd19ef060a18dc/header.jpg?t=1775229047",
-    "short_description": "名人堂通行证：第6季包含职业通行证：第6季中的所有物品，以及一个15%经验值提升、10个等级跳过和15,000虚拟货币！",
-    "is_free": false,
-    "price": "¥ 138.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "体育"
-    ],
-    "release_date": "2026 年 4 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3657850"
-  },
-  {
     "appid": 2706020,
     "name": "终落之城",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/2547a175de7f157bba2d53090cfbe616388191bb/header_alt_assets_2_schinese.jpg?t=1775261438",
@@ -121,7 +105,7 @@
   {
     "appid": 2779120,
     "name": "模块工厂：自动化大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/d0ba48cf9e79e4c37d100958e8f4f5167686a51a/header_schinese.jpg?t=1775243640",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/d0ba48cf9e79e4c37d100958e8f4f5167686a51a/header_schinese.jpg?t=1775312715",
     "short_description": "《Modulus》是一款工厂自动化游戏，让你自由玩转 3D 结构块——切割、上色、印花、组装，充分发挥你的想象力，设计和优化不断扩张的工厂，高效完成宏大神经网络的订单。",
     "is_free": false,
     "price": "¥ 77.40",
@@ -173,5 +157,23 @@
     "release_date": "2026 年 4 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2569670"
+  },
+  {
+    "appid": 2989180,
+    "name": "Darwin's Paradox!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989180/header.jpg?t=1775320237",
+    "short_description": "和达尔文一起踏上冒险。他是一只可爱与机智兼备的章鱼，被带离了海洋且困在一个神秘的巨大工业中心里。在这款引人入胜的平台冒险游戏里，运用他独特的天赋与能力，帮他克服重重危机和陷阱。",
+    "is_free": false,
+    "price": "¥ 179.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2989180"
   }
 ]
