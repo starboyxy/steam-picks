@@ -159,21 +159,20 @@
     "store_url": "https://store.steampowered.com/app/2569670"
   },
   {
-    "appid": 2989180,
-    "name": "Darwin's Paradox!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989180/header.jpg?t=1775320237",
-    "short_description": "和达尔文一起踏上冒险。他是一只可爱与机智兼备的章鱼，被带离了海洋且困在一个神秘的巨大工业中心里。在这款引人入胜的平台冒险游戏里，运用他独特的天赋与能力，帮他克服重重危机和陷阱。",
+    "appid": 3288210,
+    "name": "超级肉肉男孩 3D",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288210/f7e3ca14830bd58b69d20ccd6da9bb00b3471ec6/header_schinese.jpg?t=1775227780",
+    "short_description": "那款大名鼎鼎、硬核到炸裂的平台跳跃游戏推出 3D 版了！",
     "is_free": false,
-    "price": "¥ 179.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
     "genres": [
       "动作",
-      "冒险",
       "独立"
     ],
-    "release_date": "2026 年 4 月 2 日",
+    "release_date": "2026 年 3 月 31 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2989180"
+    "store_url": "https://store.steampowered.com/app/3288210"
   }
 ]
