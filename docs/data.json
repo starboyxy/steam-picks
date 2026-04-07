@@ -1,21 +1,5 @@
 [
   {
-    "appid": 3818000,
-    "name": "Guns and Nuns: Storming Hell",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818000/657f4eb3eeb0f4e52771fd0ee76fbd725d3be702/header.jpg?t=1775239668",
-    "short_description": "危险的不是恶魔，而是你！扮演安吉莉卡·阿玛迪斯，一位拥有信仰与枪械力量的修女。在拥有奇异重力场的奇异关卡中，尽情屠戮恶魔。获得高分即可解锁更多关卡和武器，并让那些肮脏的恶魔认清自己的定位。",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 42.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3818000"
-  },
-  {
     "appid": 3748640,
     "name": "Wasteland Bites",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748640/7790a3e490eb9069f320d0d346ae6f687a76e590/header.jpg?t=1775235730",
@@ -174,5 +158,21 @@
     "release_date": "2026 年 3 月 31 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3288210"
+  },
+  {
+    "appid": 4170200,
+    "name": "Data Center",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0608b0774dad1ac38875db0389f719c99f6ccf63/header.jpg?t=1774948155",
+    "short_description": "建造、布线并自动化。组装机架、服务器和交换机，为每个应用连接足够的容量，从处理的数据中赚钱，并通过经验值和声誉解锁装备和更大的客户。随着你的中心焕发生机，跟随彩色的数据包流动。",
+    "is_free": false,
+    "price": "¥ 32.40",
+    "original_price": "¥ 36.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 3 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4170200"
   }
 ]
