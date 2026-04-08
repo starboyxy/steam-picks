@@ -1,5 +1,148 @@
 [
   {
+    "appid": 3667390,
+    "name": "Black Hole Fishing",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3667390/734a575f478cc32e84201d6db947baf9ba880222/header.jpg?t=1775594554",
+    "short_description": "忘掉悠闲的钓鱼旅行吧，你正在优化行星毁灭。进行离谱的实验、繁殖奇怪的鱼，并喂养不断成长的奇点。一款迷人而带有黑色幽默的放置游戏，科学已经走得太远。",
+    "is_free": false,
+    "price": "¥ 22.40",
+    "original_price": "¥ 28.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3667390"
+  },
+  {
+    "appid": 1315180,
+    "name": "Spark in the Dark",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315180/header.jpg?t=1775581224",
+    "short_description": "暗黑奇幻风格的硬核地牢探索游戏，你将踏入那座被黑影与谜团笼罩的极暗地牢。",
+    "is_free": false,
+    "price": "¥ 59.40",
+    "original_price": "¥ 66.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1315180"
+  },
+  {
+    "appid": 3763700,
+    "name": "Starfield - Terran Armada",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3763700/9e6877986ccf352e6c5a73d2973ace1190c824dc/header.jpg?t=1775574016",
+    "short_description": "一支冷酷无情的军队逃兵势力组建了庞大的机器人军团，企图以武力统一人类。",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3763700"
+  },
+  {
+    "appid": 1963610,
+    "name": "Road to Vostok",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1963610/header.jpg?t=1775573759",
+    "short_description": "Road to Vostok is a hardcore single-player survival game set in a post-apocalyptic border zone between Finland and Russia. Survive, loot, plan and prepare to cross the border into Vostok, a permadeath zone where one mistake can end it all.",
+    "is_free": false,
+    "price": "¥ 57.00",
+    "original_price": "¥ 76.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1963610"
+  },
+  {
+    "appid": 1626170,
+    "name": "卓乐新声",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1626170/07998a0caa3fb359c3a5432e7ca85f55440383f7/header.jpg?t=1775566950",
+    "short_description": "走进这款回合制角色扮演音乐游戏，与流行歌手凯登丝一同，召集音乐人，组建团队，圆一场明星梦。领略前所未有的回合制战斗，每次战斗都是一场演出，战况千变万化，看准时机融合曲风，打出混搭攻击！",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
+    "genres": [
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1626170"
+  },
+  {
+    "appid": 3357960,
+    "name": "肉丸烹饪：盛满快乐",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357960/11e2af7df9465e479622dac81ee6be1bfe709c26/header_alt_assets_0.jpg?t=1775566601",
+    "short_description": "准备万全，在酷炫的模拟经营管理游戏中大展厨艺！运用征服无数味蕾的秘方，为古怪镇民烹制独一无二的美味佳肴。不断升级布置店铺，在紧张又刺激的料理对决中披荆斩棘，争夺顶级大厨宝座，守护家族代代相传的老店！",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3357960"
+  },
+  {
+    "appid": 3976500,
+    "name": "丧尸末世：地底全是财，挖宝造炮台",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/0c0702db34ee28c6aae4b0d822208c0929b10f36/header_schinese.jpg?t=1775560984",
+    "short_description": "丧尸末世降临，海量变异体席卷荒野！以一座废弃加油站为起点，白天向地底掠夺资源，夜晚迎战无尽尸潮！挖矿、扩建、防御、轰杀，一步步把破烂据点打造成战争堡垒。最终修复信号站，在文明的废墟之上，成为人类最后的火种！",
+    "is_free": false,
+    "price": "¥ 36.00",
+    "original_price": "¥ 48.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3976500"
+  },
+  {
+    "appid": 2317290,
+    "name": "EvoCreo 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2317290/8fd8d670d28bb46a798c4968d1f115dc77108d9d/header.jpg?t=1775487715",
+    "short_description": "Capture over 300 unique monsters, explore a vast world, complete 50+ quests, and master a deep battle system in this offline-friendly, story-rich monster capture RPG. Journey as a cadet in the world of Shoru, where monsters known as Creo are vanishing. Catch the perpetrators before it's too late.",
+    "is_free": false,
+    "price": "¥ 76.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2317290"
+  },
+  {
     "appid": 3748640,
     "name": "Wasteland Bites",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748640/7790a3e490eb9069f320d0d346ae6f687a76e590/header.jpg?t=1775235730",
@@ -33,146 +176,5 @@
     "release_date": "2026 年 4 月 3 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2706020"
-  },
-  {
-    "appid": 538030,
-    "name": "异种航员2 Xenonauts 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/83405c686988277736b7cd255d6b5c49f85beb82/header_schinese.jpg?t=1775150101",
-    "short_description": "发起全球性反抗战争，抵御外星人的入侵。指挥回合制的策略性战斗，构建秘密基地网络，并亲自操纵战斗机，在实力不对等的战斗中对抗科技领先的敌人，取得战略性的胜利。",
-    "is_free": false,
-    "price": "¥ 96.85",
-    "original_price": "¥ 149.00",
-    "discount_percent": 35,
-    "genres": [
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/538030"
-  },
-  {
-    "appid": 2510960,
-    "name": "Temtem: Swarm / 腾兽：蜂拥之群",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/9eed19ba2e454b3a0a00dde88966dcd2e5decc04/header.jpg?t=1775150983",
-    "short_description": "你能在袭来的腾兽潮中存活吗？在这款弹幕生存游戏中，解锁强大的能力与升级，收集并进化腾兽，运用强力策略与超大型头目战斗！本作可单人游玩、在线合作，或使用配对系统组成三人队伍，创造超强的协同效应！",
-    "is_free": false,
-    "price": "¥ 34.30",
-    "original_price": "¥ 49.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "休闲",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2510960"
-  },
-  {
-    "appid": 4200750,
-    "name": "《使命召唤®：黑色行动 7》黑色组织（第3赛季）",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200750/3af22a29cd054d084771783f7f97aa5a5e209748/header_schinese.jpg?t=1775146108",
-    "short_description": "获得使命召唤®点数*和《使命召唤®：黑色行动 7》及《使命召唤®：战争地带™》中的游戏内容。",
-    "is_free": false,
-    "price": "¥ 195.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4200750"
-  },
-  {
-    "appid": 2779120,
-    "name": "模块工厂：自动化大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/d0ba48cf9e79e4c37d100958e8f4f5167686a51a/header_schinese.jpg?t=1775312715",
-    "short_description": "《Modulus》是一款工厂自动化游戏，让你自由玩转 3D 结构块——切割、上色、印花、组装，充分发挥你的想象力，设计和优化不断扩张的工厂，高效完成宏大神经网络的订单。",
-    "is_free": false,
-    "price": "¥ 77.40",
-    "original_price": "¥ 86.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2779120"
-  },
-  {
-    "appid": 1198970,
-    "name": "I am Jesus Christ 我是耶稣基督",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198970/header.jpg?t=1775229225",
-    "short_description": "在这款沉浸式第一人称叙事游戏中，追随耶稣的脚步，从降生到复活。施行神迹奇事，结识圣经人物，探索圣地——从耶路撒冷到加利利。在《I Am Jesus Christ》中成为弥赛亚。",
-    "is_free": false,
-    "price": "¥ 45.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1198970"
-  },
-  {
-    "appid": 2569670,
-    "name": "农夫王朝2 - Farmer's Dynasty 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569670/fcbee6cd872a8e94a37786bb40ef17d84a9398e6/header_schinese.jpg?t=1775212039",
-    "short_description": "建设你的梦想农场，守护家族的未来。耕种农田、饲养动物，在多代传承中塑造你的家族王朝。这是一款精心打造的生活与农耕模拟游戏。今天就开启你的家族传承之旅！",
-    "is_free": false,
-    "price": "¥ 95.20",
-    "original_price": "¥ 119.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "休闲",
-      "角色扮演",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 4 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2569670"
-  },
-  {
-    "appid": 3288210,
-    "name": "超级肉肉男孩 3D",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288210/f7e3ca14830bd58b69d20ccd6da9bb00b3471ec6/header_schinese.jpg?t=1775227780",
-    "short_description": "那款大名鼎鼎、硬核到炸裂的平台跳跃游戏推出 3D 版了！",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3288210"
-  },
-  {
-    "appid": 4170200,
-    "name": "Data Center",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0608b0774dad1ac38875db0389f719c99f6ccf63/header.jpg?t=1774948155",
-    "short_description": "建造、布线并自动化。组装机架、服务器和交换机，为每个应用连接足够的容量，从处理的数据中赚钱，并通过经验值和声誉解锁装备和更大的客户。随着你的中心焕发生机，跟随彩色的数据包流动。",
-    "is_free": false,
-    "price": "¥ 32.40",
-    "original_price": "¥ 36.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 3 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4170200"
   }
 ]
