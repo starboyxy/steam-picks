@@ -1,8 +1,97 @@
 [
   {
+    "appid": 2738490,
+    "name": "寻日之旅",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738490/8b25582ea137624918f85793844937b767c95307/header_alt_assets_1.jpg?t=1775840460",
+    "short_description": "在这款考验战术规划的轻度 Rogue 游戏里，命运得牢牢掌握在自己手中。选择一名英雄，直抵随机地牢最深层。世事无情，每个选择都会产生一定的后果……",
+    "is_free": false,
+    "price": "¥ 37.52",
+    "original_price": "¥ 56.00",
+    "discount_percent": 33,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2738490"
+  },
+  {
+    "appid": 2996080,
+    "name": "TAMASHIKA",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2996080/ab2a27a70bc3fd4f020f64e69913a3fd21688be2/header.jpg?t=1775842873",
+    "short_description": "the game is about keeping your mind at one place",
+    "is_free": false,
+    "price": "¥ 72.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2996080"
+  },
+  {
+    "appid": 2682380,
+    "name": "灭绝之日",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682380/header_schinese.jpg?t=1775854879",
+    "short_description": "用灾难、瘟疫和战争毁灭人类。传播全球混乱，组合灾难，并在他们逃往方舟之前阻止他们。",
+    "is_free": false,
+    "price": "¥ 47.20",
+    "original_price": "¥ 59.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2682380"
+  },
+  {
+    "appid": 3199360,
+    "name": "骷髅成群",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/e3556c881f7d574179d4d4bb70654f1c2c6d343b/header_schinese.jpg?t=1775835694",
+    "short_description": "《骷髅成群》是一款迷宫探索自走棋游戏，你将化身飞天骷髅死灵法师。寻找强力战利品，构思强大到突破平衡的构筑。召唤成群的骷髅，展开白骨与血肉的对战。",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 42.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲"
+    ],
+    "release_date": "2026 年 4 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3199360"
+  },
+  {
+    "appid": 4139720,
+    "name": "Chop Chains",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139720/0d62a255428fea1309eeebdfabedbed724b46b19/header.jpg?t=1775813395",
+    "short_description": "Chop Chains 是一款轻松的放置类游戏，通过砍树、收集木材和升级装备，借助树木、斧头与技能成为终极伐木工。",
+    "is_free": false,
+    "price": "¥ 20.80",
+    "original_price": "¥ 26.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4139720"
+  },
+  {
     "appid": 2646460,
     "name": "灵魂面甲(Soulmask)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/367525f3269ada037a29aaae35a0bcbdacc48fa6/header_alt_assets_29_schinese.jpg?t=1775788769",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/367525f3269ada037a29aaae35a0bcbdacc48fa6/header_alt_assets_29_schinese.jpg?t=1775859740",
     "short_description": "戴上远古面甲，获得神明之力，操控任意部落成员，招募族人并建立自动化部落，与朋友一起在庞大的古文明开放世界中生存、扩张并创造属于你的文明。",
     "is_free": false,
     "price": "¥ 97.20",
@@ -35,23 +124,6 @@
     "release_date": "2026 年 4 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3355100"
-  },
-  {
-    "appid": 2413950,
-    "name": "Final Sentence",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2413950/13ae84597fd379a275fba07c4d79cc2bc0298cdf/header.jpg?t=1775757666",
-    "short_description": "《最终判决》是一款打字大逃杀游戏。你与其他玩家一同身处机库，面前是打字机，太阳穴旁是装有一颗子弹的左轮手枪。每一个错误都可能是致命的。唯有一人能活到最后。",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2413950"
   },
   {
     "appid": 1369700,
@@ -108,72 +180,5 @@
     "release_date": "2026 年 4 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3181650"
-  },
-  {
-    "appid": 3132870,
-    "name": "雾隐天途",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/3a9d68c5f09fe2de48c167f49c20ff7cb5b0a2e0/header_schinese.jpg?t=1775739652",
-    "short_description": "《雾隐天途》是一款以参天巨树枝干为背景的垂直城市建造游戏。你将肩负守护绿荫家园的使命，管理稀有的光源与火焰，对抗日渐逼近的迷雾侵蚀。派遣坚定不屈的先锋小队，深入先祖遗留的遗迹，探寻尘封的秘密与文明覆灭的真相。",
-    "is_free": false,
-    "price": "¥ 107.99",
-    "original_price": "¥ 119.99",
-    "discount_percent": 10,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3132870"
-  },
-  {
-    "appid": 4156580,
-    "name": "Weed Supermarket Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156580/d406302a0dee9554db1097ba98266bc412370d4b/header.jpg?t=1775736022",
-    "short_description": "Weed Supermarket Simulator 是一款轻松的商店模拟游戏，你可以种植大麻、开发新品种、制定价格并保持货架充足。扩展你的业务，最大化利润，管理员工和库存。",
-    "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 48.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4156580"
-  },
-  {
-    "appid": 4413190,
-    "name": "Guilty Gear -Strive- Season Pass 5",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413190/2738aebed49810f5c87b9fca8aad10a42819153c/header.jpg?t=1775722378",
-    "short_description": "◆《圣骑士之战 -奋战-》超大型更新，导入Ver.2.00 ！ 新增全新系统与功能，使游玩体验更加顺畅、对战更加热血刺激！ 全新的《圣骑士之战 -奋战-》战斗体验，现在就开始！",
-    "is_free": false,
-    "price": "¥ 137.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4413190"
-  },
-  {
-    "appid": 3001250,
-    "name": "GGST Additional Character 18 - Jam Kuradoberi",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001250/6e341bd19f641b3b718cdda4a0024235421c91e0/header.jpg?t=1775721940",
-    "short_description": "Adds Jam Kuradoberi to the roster of playable characters and 9 colors (No.1~6, 13~15) for the character.",
-    "is_free": false,
-    "price": "¥ 38.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3001250"
   }
 ]
