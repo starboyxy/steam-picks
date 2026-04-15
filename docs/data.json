@@ -1,188 +1,179 @@
 [
   {
-    "appid": 4280930,
-    "name": "Warhammer 40,000: Fire Warrior (Classic)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280930/54ffaf87b65203fba10292c1833d61affef6c5f6/header.jpg?t=1776098188",
-    "short_description": "化身精英烈火战士，在经典的快节奏射击游戏中对抗人类帝国的千军万马。以独树一帜的钛族视角体验战锤40K宇宙，投身充满背叛与逆转的史诗征程。",
+    "appid": 4375010,
+    "name": "《守望先锋®》：源氏完整神话武器皮肤礼包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375010/db155fe3135138fda6e9c9f7cd85ae86e115ed73/header.jpg?t=1776189643",
+    "short_description": "获取源氏完整神话武器皮肤和20级战令等级直升！",
     "is_free": false,
-    "price": "¥ 28.80",
-    "original_price": "¥ 36.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4280930"
-  },
-  {
-    "appid": 3972320,
-    "name": "Loot Loop",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3972320/958eeeee0ffc1e7541ec44572c38af36e786222a/header.jpg?t=1776111831",
-    "short_description": "组建英雄小队，挑战地牢！在这款快节奏的放置RPG中，你可以打怪、刷装备并解锁强力升级。节奏轻快，技能树丰富，零压力体验。",
-    "is_free": false,
-    "price": "¥ 18.70",
-    "original_price": "¥ 22.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3972320"
-  },
-  {
-    "appid": 1780070,
-    "name": "希望物语",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780070/b9a3a5570237a2290939ac0b336de20b8ef83331/header_alt_assets_5.jpg?t=1776089310",
-    "short_description": "灾难新生，治愈世界。在这款独立开发、温馨有爱的农场模拟游戏中，您可以打理农场，为各色村邻完成任务，探索充满挑战和宝藏的地下城。与魔法宠物休戚与共，动人的野百合终将盛开于夏。",
-    "is_free": false,
-    "price": "¥ 25.20",
-    "original_price": "¥ 42.00",
-    "discount_percent": 40,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1780070"
-  },
-  {
-    "appid": 4331610,
-    "name": "Dome Keeper: The Lost Keepers",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331610/440b12eb5791ced2122a6655eb8217b49813e77f/header.jpg?t=1776084945",
-    "short_description": "跟随新的守护者，解锁两种全新玩法：擅长飞索走壁、身手矫健的渗透者；驾驭灵活触须、在矿区自如穿行的驭兽师。",
-    "is_free": false,
-    "price": "¥ 29.70",
-    "original_price": "¥ 33.00",
-    "discount_percent": 10,
+    "price": "¥ 258.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作",
-      "冒险",
-      "独立",
-      "模拟"
+      "免费开玩"
     ],
-    "release_date": "2026 年 4 月 13 日",
+    "release_date": "2026 年 4 月 14 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4331610"
+    "store_url": "https://store.steampowered.com/app/4375010"
   },
   {
-    "appid": 3959890,
-    "name": "敲敲打宝",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959890/2964006f8b5a5f16a7f2324f6d2c2ccf4cef14a6/header_schinese.jpg?t=1776087787",
-    "short_description": "世界危在旦夕，你的每一次敲击都是有力的还击。每当你敲击键盘，你可爱的猫咪英雄就会出击，为你粉碎敌人并带来满满的战利品。与好友组队亦或独自一人，就此踏上永无止境的桌面探险之旅。敲敲又点点，刷到你开心。",
+    "appid": 4375000,
+    "name": "《守望先锋®》开战礼包2026：第2赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375000/17164385e0104769a3d59d3b2824bc685957c536/header.jpg?t=1776189628",
+    "short_description": "获取1000守望金币和熊猫“飞天猫”，在这个赛季强势开局！",
     "is_free": false,
-    "price": "¥ 18.20",
-    "original_price": "¥ 26.00",
+    "price": "¥ 60.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 4 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4375000"
+  },
+  {
+    "appid": 4374980,
+    "name": "《守望先锋®》——终极战令礼包2026：第2赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374980/e9f48cd6f0b8a2d659b166722e36db27563ae02b/header.jpg?t=1776189602",
+    "short_description": "获取《守望先锋》：第2赛季高级战令+20级战令等级直升、2款传奇皮肤、2000守望金币以及更多好礼！",
+    "is_free": false,
+    "price": "¥ 240.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 4 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4374980"
+  },
+  {
+    "appid": 4126480,
+    "name": "Fishing Inc",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126480/c24603a175a733043d803b6159e5d856c59a2bb6/header.jpg?t=1776187675",
+    "short_description": "Fishing Inc 是一款令人上瘾的点击放置类钓鱼游戏！垂钓、赚钱并解锁强大的技能。征服新的水域，用传说中的鱼类填满你的图鉴，成为终极钓鱼大师。",
+    "is_free": false,
+    "price": "¥ 13.30",
+    "original_price": "¥ 19.00",
     "discount_percent": 30,
     "genres": [
       "休闲",
       "独立",
-      "大型多人在线",
-      "角色扮演"
+      "模拟"
     ],
-    "release_date": "2026 年 4 月 13 日",
+    "release_date": "2026 年 4 月 14 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3959890"
+    "store_url": "https://store.steampowered.com/app/4126480"
   },
   {
-    "appid": 2738490,
-    "name": "寻日之旅",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738490/8b25582ea137624918f85793844937b767c95307/header_alt_assets_1.jpg?t=1775840460",
-    "short_description": "在这款考验战术规划的轻度 Rogue 游戏里，命运得牢牢掌握在自己手中。选择一名英雄，直抵随机地牢最深层。世事无情，每个选择都会产生一定的后果……",
+    "appid": 2721340,
+    "name": "Last Flag 终极旗令",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2721340/12ee856809420346709f1005a82a9d15ee41d0bb/header_schinese.jpg?t=1776185931",
+    "short_description": "藏起己方旗帜。找到敌方旗帜。把它带回来，守住60秒以赢得胜利。欢迎来到《终极旗令》！这是一款快节奏5v5英雄射击夺旗游戏，设定在电视直播的实况比赛，参赛者将尽其所能惊艳全场。策略、团队合作和混乱在这个终极夺旗游戏中融为一体。",
     "is_free": false,
-    "price": "¥ 37.52",
-    "original_price": "¥ 56.00",
-    "discount_percent": 33,
+    "price": "¥ 43.19",
+    "original_price": "¥ 53.99",
+    "discount_percent": 20,
     "genres": [
-      "独立",
-      "策略"
+      "动作"
     ],
-    "release_date": "2026 年 4 月 10 日",
+    "release_date": "2026 年 4 月 14 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2738490"
+    "store_url": "https://store.steampowered.com/app/2721340"
   },
   {
-    "appid": 3199360,
-    "name": "骷髅成群",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/e3556c881f7d574179d4d4bb70654f1c2c6d343b/header_schinese.jpg?t=1775835694",
-    "short_description": "《骷髅成群》是一款迷宫探索自走棋游戏，你将化身飞天骷髅死灵法师。寻找强力战利品，构思强大到突破平衡的构筑。召唤成群的骷髅，展开白骨与血肉的对战。",
+    "appid": 1663850,
+    "name": "REPLACED",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/9079d7a26c8720ed0616f1bd7f912ccc22a535d4/header.jpg?t=1776176956",
+    "short_description": "扮演R.E.A.C.H.，一个被迫困于人类躯体中的人工智能，揭露凤凰公司的险恶秘密。游戏背景设定在遭受核灾难重创的架空80年代美国。在这款融合了电影化探索与自由流畅动作玩法的剧情向2.5D平台游戏中，深入体验一段黑暗的赛博朋克惊悚故事。",
     "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 42.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲"
-    ],
-    "release_date": "2026 年 4 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3199360"
-  },
-  {
-    "appid": 2646460,
-    "name": "灵魂面甲(Soulmask)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/5f797566d9db85b4d6815852ceecc449781b0415/header_alt_assets_29_schinese.jpg?t=1776078441",
-    "short_description": "戴上远古面甲，获得神明之力，操控任意部落成员，招募族人并建立自动化部落，与朋友一起在庞大的古文明开放世界中生存、扩张并创造属于你的文明。",
-    "is_free": false,
-    "price": "¥ 97.20",
-    "original_price": "¥ 108.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2646460"
-  },
-  {
-    "appid": 1369700,
-    "name": "Solar Expanse - Space Exploration Manager",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369700/0984e7ddc8fcfce9632fd9081fb3e9387018b609/header.jpg?t=1776064645",
-    "short_description": "探索太阳系。开采并投放小行星。殖民和进行地球化改造。引领太空竞赛，在盈利的道路上与其他机构竞争。",
-    "is_free": false,
-    "price": "¥ 62.10",
-    "original_price": "¥ 69.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 4 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1369700"
-  },
-  {
-    "appid": 3181650,
-    "name": "《Minos - 牛头人迷阵》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/ca22af7d9f01d6577458c7d18851e3cff47a3840/header.jpg?t=1775747654",
-    "short_description": "《Minos - 牛头人迷阵》是一款迷宫建造roguelite游戏。游戏中，扮演神话中米诺陶的你必须保卫自己的圣所，抵御嗜血的冒险者。设计并改良致命的迷宫，设置陷阱，让一切胆敢擅闯的蠢货有来无回。",
-    "is_free": false,
-    "price": "¥ 69.00",
+    "price": "¥ 59.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
       "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1663850"
+  },
+  {
+    "appid": 1674200,
+    "name": "黄金矿主模拟器：阿拉斯加淘金热",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674200/14b473bd090bce5a25114669c2ef5eb0830d202c/header_alt_assets_2.jpg?t=1776180058",
+    "short_description": "扮演阿拉斯加淘金热时期的淘金者，从零开始建立属于你自己的帝国。开采资源、提炼各种形式的黄金，并升级你的工具以提升效率。探索多样化的矿场，在严酷的气候中生存，并完成引人入胜的主线与支线任务。扩展你的业务、雇佣工人，并实现生产自动化以积累你的财富！",
+    "is_free": false,
+    "price": "¥ 41.60",
+    "original_price": "¥ 52.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
       "模拟",
       "策略"
     ],
-    "release_date": "2026 年 4 月 9 日",
+    "release_date": "2026 年 4 月 14 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3181650"
+    "store_url": "https://store.steampowered.com/app/1674200"
+  },
+  {
+    "appid": 1375750,
+    "name": "废墟国度：符文之门",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375750/c8474560dd967fba2d5a535535ec0ca74cc17bb7/header_schinese.jpg?t=1776177107",
+    "short_description": "投身一场探索与砍杀交织的RPG冒险，为失落的矮人文明重建庇护所。穿行于风貌迥异的土地，救助需要帮助的人，收集资源，击退哥布林和怪物，一步一步为同胞重建家园。 ",
+    "is_free": false,
+    "price": "¥ 63.00",
+    "original_price": "¥ 70.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1375750"
+  },
+  {
+    "appid": 4564200,
+    "name": "《风启之旅》游戏原声带",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564200/4c7eb3fb282b46c86186a86ea175aedb7675a1e3/header_schinese.jpg?t=1776171628",
+    "short_description": "来吧！用这套《风启之旅》最动听的音乐和船歌合集，让你的侠盗冒险之旅终生难忘！",
+    "is_free": false,
+    "price": "¥ 34.20",
+    "original_price": "¥ 38.00",
+    "discount_percent": 10,
+    "genres": null,
+    "release_date": "2026 年 4 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4564200"
+  },
+  {
+    "appid": 3041230,
+    "name": "Windrose: 风启之旅",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/6c0d1a762a62736e6aa7eabad29bfece0846feae/header_schinese.jpg?t=1776158614",
+    "short_description": "踏上海盗时代的PvE生存冒险！单人闯荡或与友同行，前往海陆征战。建造、锻造，并探索这个暗藏秘辛的广阔开放世界。钻研轻魂系战斗，挑战强大头目；掌舵战船，掠夺尘封的宝藏！",
+    "is_free": false,
+    "price": "¥ 88.20",
+    "original_price": "¥ 98.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3041230"
   }
 ]
