@@ -1,182 +1,182 @@
 [
   {
-    "appid": 3381680,
-    "name": "Age of History 2: Definitive Edition",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381680/a0b9a329356c25bf63b880722d489b9409fee13c/header.jpg?t=1776262132",
-    "short_description": "文明时代是一个简单易学但难以掌握的大型战略游戏。 你的目标是使用军事战术和狡猾的外交手段来统一世界，或征服世界。 世界会血流成河还是在你面前屈服？任你选择。",
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1776398594",
+    "short_description": "《Pragmata》是卡普空推出的一款独特的科幻动作冒险游戏。 玩家将跟随命运多舛的调查队队员“休”和机器人小女孩“戴安娜”，在被失控AI掌管的月球设施内寻找返回地球的方法。",
     "is_free": false,
-    "price": "¥ 45.00",
-    "original_price": "¥ 50.00",
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3357650"
+  },
+  {
+    "appid": 2434600,
+    "name": "香缇小镇",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/9c5821255a378fc361e2258122cf741c0b10b681/header.jpg?t=1776361617",
+    "short_description": "《香缇小镇》是一款节奏舒缓、轻松治愈的微缩景观建造游戏，在日常的喧嚣与杂乱中，发现属于生活本身的独特美感。 为新的街区注入生命，让一处处新场景渐次苏醒，将城市建筑层层堆叠向上，在每一个细小的角落与缝隙中，注入你的巧思与情感。 亲手塑造一座只属于你的温馨小城，它不必宏大，却独一无二。",
+    "is_free": false,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
     "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3381680"
-  },
-  {
-    "appid": 3079160,
-    "name": "Don't Lose Aggro",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/8c8d2d85d5bfe38d8d37809e7e82f692551306af/header.jpg?t=1776261677",
-    "short_description": "在这款受MMO副本启发的单人动作roguelite中，通过迫使敌人攻击你来保护队伍！创建独特流派，解锁强大天赋，掌握坦克艺术，掌控混乱战场！",
-    "is_free": false,
-    "price": "¥ 28.80",
-    "original_price": "¥ 36.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 4 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3079160"
-  },
-  {
-    "appid": 4375000,
-    "name": "《守望先锋®》开战礼包2026：第2赛季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375000/17164385e0104769a3d59d3b2824bc685957c536/header.jpg?t=1776189628",
-    "short_description": "获取1000守望金币和熊猫“飞天猫”，在这个赛季强势开局！",
-    "is_free": false,
-    "price": "¥ 60.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 4 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4375000"
-  },
-  {
-    "appid": 4374980,
-    "name": "《守望先锋®》——终极战令礼包2026：第2赛季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374980/e9f48cd6f0b8a2d659b166722e36db27563ae02b/header.jpg?t=1776189602",
-    "short_description": "获取《守望先锋》：第2赛季高级战令+20级战令等级直升、2款传奇皮肤、2000守望金币以及更多好礼！",
-    "is_free": false,
-    "price": "¥ 240.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 4 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4374980"
-  },
-  {
-    "appid": 4126480,
-    "name": "Fishing Inc",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126480/c24603a175a733043d803b6159e5d856c59a2bb6/header.jpg?t=1776258453",
-    "short_description": "Fishing Inc 是一款令人上瘾的点击放置类钓鱼游戏！垂钓、赚钱并解锁强大的技能。征服新的水域，用传说中的鱼类填满你的图鉴，成为终极钓鱼大师。",
-    "is_free": false,
-    "price": "¥ 13.30",
-    "original_price": "¥ 19.00",
-    "discount_percent": 30,
     "genres": [
       "休闲",
       "独立",
       "模拟"
     ],
-    "release_date": "2026 年 4 月 14 日",
+    "release_date": "2026 年 4 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4126480"
+    "store_url": "https://store.steampowered.com/app/2434600"
   },
   {
-    "appid": 3967470,
-    "name": "憋不住了！ We Gotta Go",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967470/b4b3b19ff53b06b1f1a3408cd953499f4334849e/header_schinese.jpg?t=1776257837",
-    "short_description": "《憋不住了！》是一款能让你“吓尿”或是...“笑尿”的合作恐怖喜剧游戏！叫上好友，在闹鬼宅邸中冲向唯一的卫生间，千万别让你的肚子在半路投降！搜刮道具、对抗奇葩鬼怪，为了最后的释放，冲啊！",
+    "appid": 3119540,
+    "name": "缮写室 ：羊皮卷大师",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119540/f78f1c1f943426314e9c434083b1e7e367c381c1/header_alt_assets_3_schinese.jpg?t=1776359240",
+    "short_description": "经营你自己的手稿工坊，接收各种订单，帮客户绘制中世纪书籍插画，怎么布置全凭你喜欢。完成后寄回给客户即可赚取报酬，还能解锁新工作、新装饰和各种物品。欢迎来到专属于你的中世纪缮写室！",
     "is_free": false,
-    "price": "¥ 31.99",
-    "original_price": "¥ 39.99",
+    "price": "¥ 44.00",
+    "original_price": "¥ 55.00",
     "discount_percent": 20,
     "genres": [
-      "动作",
-      "冒险",
-      "独立"
+      "休闲",
+      "独立",
+      "模拟"
     ],
-    "release_date": "2026 年 4 月 14 日",
+    "release_date": "2026 年 4 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3967470"
+    "store_url": "https://store.steampowered.com/app/3119540"
   },
   {
-    "appid": 2721340,
-    "name": "Last Flag 终极旗令",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2721340/12ee856809420346709f1005a82a9d15ee41d0bb/header_schinese.jpg?t=1776306796",
-    "short_description": "藏起己方旗帜。找到敌方旗帜。把它带回来，守住60秒以赢得胜利。欢迎来到《终极旗令》！这是一款快节奏5v5英雄射击夺旗游戏，设定在电视直播的实况比赛，参赛者将尽其所能惊艳全场。策略、团队合作和混乱在这个终极夺旗游戏中融为一体。",
+    "appid": 2928410,
+    "name": "低杆高尔夫球场大亨",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928410/1bf8775d5855fba332b36100249098291e8a9af5/header_alt_assets_0_schinese.jpg?t=1776372547",
+    "short_description": "成为高尔夫球场设计师，建造并管理属于你的高尔夫天堂！创造非凡的球场，应对球手的苛刻要求，磨练你的设计技巧。在这里吸引贵宾球手、雇用奇特员工、举办著名赛事，见证你的俱乐部蓬勃发展。",
     "is_free": false,
-    "price": "¥ 43.19",
-    "original_price": "¥ 53.99",
-    "discount_percent": 20,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
     "genres": [
-      "动作"
+      "模拟",
+      "体育",
+      "策略"
     ],
-    "release_date": "2026 年 4 月 14 日",
+    "release_date": "2026 年 4 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2721340"
+    "store_url": "https://store.steampowered.com/app/2928410"
   },
   {
-    "appid": 1663850,
-    "name": "REPLACED",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663850/9079d7a26c8720ed0616f1bd7f912ccc22a535d4/header.jpg?t=1776176956",
-    "short_description": "扮演R.E.A.C.H.，一个被迫困于人类躯体中的人工智能，揭露凤凰公司的险恶秘密。游戏背景设定在遭受核灾难重创的架空80年代美国。在这款融合了电影化探索与自由流畅动作玩法的剧情向2.5D平台游戏中，深入体验一段黑暗的赛博朋克惊悚故事。",
+    "appid": 3962020,
+    "name": "EXD - Extra Dimensional",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962020/a0bd0ece03f4008862ac21b063821c15304ff3cf/header_alt_assets_1.jpg?t=1776358779",
+    "short_description": "一名快递员。一道次元裂缝。一场史诗任务。在Erath掌握念力和元素魔法。对抗神话生物。解开古老谜题。先进VR物理引擎与史诗奇幻冒险的完美结合。",
     "is_free": false,
-    "price": "¥ 59.00",
+    "price": "¥ 109.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
       "冒险",
-      "独立"
+      "角色扮演"
     ],
-    "release_date": "2026 年 4 月 14 日",
+    "release_date": "2026 年 4 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1663850"
+    "store_url": "https://store.steampowered.com/app/3962020"
   },
   {
-    "appid": 1674200,
-    "name": "黄金矿主模拟器：阿拉斯加淘金热",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674200/14b473bd090bce5a25114669c2ef5eb0830d202c/header_alt_assets_2.jpg?t=1776180058",
-    "short_description": "扮演阿拉斯加淘金热时期的淘金者，从零开始建立属于你自己的帝国。开采资源、提炼各种形式的黄金，并升级你的工具以提升效率。探索多样化的矿场，在严酷的气候中生存，并完成引人入胜的主线与支线任务。扩展你的业务、雇佣工人，并实现生产自动化以积累你的财富！",
+    "appid": 2213700,
+    "name": "罪托邦",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/93a9a2b37637780a31075fd1ddb85758551913c7/header_schinese.jpg?t=1776357810",
+    "short_description": "成为地狱大总管，操控凡界，打造你梦想中的重生公司！来《罪托邦》担起地狱行政工作的管理职责，惩戒和教育有罪的灵魂，以此营收，不断拓展你的地狱帝国，享受神的力量和体验——地狱股份有限公司欢迎你的加入！",
     "is_free": false,
-    "price": "¥ 41.60",
-    "original_price": "¥ 52.00",
-    "discount_percent": 20,
+    "price": "¥ 127.50",
+    "original_price": "¥ 150.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2213700"
+  },
+  {
+    "appid": 1290760,
+    "name": "壁虎之神",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776356146",
+    "short_description": "在神庙和群岛中寻找失落文明！追随壁虎之神明，自由攀爬高耸遗迹与险峻悬崖，踏上跨越群岛的奇幻旅程！没有固定路线，没有唯一解法，每片洞穴、神庙与隐秘小径都等你亲自探索与解谜。驾驶小木船穿越万千岛屿，聆听古老齿轮的晦涩之声，开启充满惊喜与治愈的冒险吧！",
+    "is_free": false,
+    "price": "¥ 59.40",
+    "original_price": "¥ 66.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1290760"
+  },
+  {
+    "appid": 2340130,
+    "name": "Ground Zero",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340130/26f2468a93a6ca6f6e65d80b6d4d9debdb0ef60e/header.jpg?t=1776352535",
+    "short_description": "在这款复古生存恐怖游戏中，你将在末日后的韩国一路拼杀前行。一场陨石浩劫使整个国家化为废墟，所有生命体异变为恐怖怪物。你的任务，是揭开这场灾难背后的真相。战斗、解谜、升级装备。每一发子弹都必须物尽其用。",
+    "is_free": false,
+    "price": "¥ 57.80",
+    "original_price": "¥ 68.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2340130"
+  },
+  {
+    "appid": 2416450,
+    "name": "神探杰克鼠",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1776351015",
+    "short_description": "与私家侦探杰克·佩珀一起，投身一场弹雨连天、爵士绕梁的冒险。《神探杰克鼠》将1930年代的经典手绘橡皮管动画风格与第一人称射击游戏结合，在复古格调的魅力中体验肾上腺素飙升的爆炸无双之旅。",
+    "is_free": false,
+    "price": "¥ 95.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2416450"
+  },
+  {
+    "appid": 4055140,
+    "name": "Hello Kitty Island Adventure - City Town",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055140/2dc82b1dff435fd2a46e62d20173a5d983aafdeb/header_schinese.jpg?t=1776363221",
+    "short_description": "一座彩虹大都会正等着你！在这场温馨的冒险中，你可以尽情地收集、创造和定制。经营你自己的个性咖啡馆，和三丽鸥朋友们一起开设全新的商店，并解锁梦想的力量，探索城邦镇不为人知的奥秘。",
+    "is_free": false,
+    "price": "¥ 77.49",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作",
       "冒险",
       "休闲",
       "独立",
       "角色扮演",
-      "模拟",
-      "策略"
+      "模拟"
     ],
-    "release_date": "2026 年 4 月 14 日",
+    "release_date": "2026 年 4 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1674200"
-  },
-  {
-    "appid": 1375750,
-    "name": "废墟国度：符文之门",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375750/c8474560dd967fba2d5a535535ec0ca74cc17bb7/header_schinese.jpg?t=1776177107",
-    "short_description": "投身一场探索与砍杀交织的RPG冒险，为失落的矮人文明重建庇护所。穿行于风貌迥异的土地，救助需要帮助的人，收集资源，击退哥布林和怪物，一步一步为同胞重建家园。 ",
-    "is_free": false,
-    "price": "¥ 63.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 4 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1375750"
+    "store_url": "https://store.steampowered.com/app/4055140"
   }
 ]
