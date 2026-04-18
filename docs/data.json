@@ -2,7 +2,7 @@
   {
     "appid": 3357650,
     "name": "PRAGMATA",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1776398594",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1776398844",
     "short_description": "《Pragmata》是卡普空推出的一款独特的科幻动作冒险游戏。 玩家将跟随命运多舛的调查队队员“休”和机器人小女孩“戴安娜”，在被失控AI掌管的月球设施内寻找返回地球的方法。",
     "is_free": false,
     "price": "¥ 268.00",
@@ -17,9 +17,69 @@
     "store_url": "https://store.steampowered.com/app/3357650"
   },
   {
+    "appid": 3985670,
+    "name": "UBOAT - Type IX: Distant Coasts",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985670/8cc1fd477bd8e9521c8014fd6f78078b24b6f55d/header.jpg?t=1776443524",
+    "short_description": "在 IX型：遥远海岸 DLC 中指挥远程 IX 型潜艇！在南大西洋和印度洋巡逻，随季风群组在槟城港口作战，并掌握三种新的潜艇变体。体验远离友军海岸的真实历史战役。",
+    "is_free": false,
+    "price": "¥ 60.30",
+    "original_price": "¥ 67.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3985670"
+  },
+  {
+    "appid": 3570060,
+    "name": "余火守护者 The Ember Guardian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/1539eca7d0b7f43aaa7e0208f8e6d543b22244be/header.jpg?t=1776438916",
+    "short_description": "在这款设定于末世背景下的肉鸽策略游戏中，守护那象征希望的余火。白天招募工人，指挥他们收集资源、建设营地、部署防御。夜幕降临后，用强力、可升级的武器抵御一波波致命怪物的袭击。",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3570060"
+  },
+  {
+    "appid": 2438680,
+    "name": "空中帝国 Airborne Empire",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438680/21c06289182f677ffe8eb36ec68edb79c76f3aa5/header_alt_assets_0_schinese.jpg?t=1776438327",
+    "short_description": "在这款开放世界角色扮演城市建造游戏中，打造你的空中城市，探索广袤的景观。这款游戏结合了城市建造类游戏中的系统化建设和管理，飞行城市独具特色的升力、平衡与推力机制，同时还引入了角色扮演游戏中引人入胜的角色、难关和冒险设计！",
+    "is_free": false,
+    "price": "¥ 54.00",
+    "original_price": "¥ 108.00",
+    "discount_percent": 50,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2438680"
+  },
+  {
     "appid": 2434600,
     "name": "香缇小镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/9c5821255a378fc361e2258122cf741c0b10b681/header.jpg?t=1776361617",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/9c5821255a378fc361e2258122cf741c0b10b681/header.jpg?t=1776414388",
     "short_description": "《香缇小镇》是一款节奏舒缓、轻松治愈的微缩景观建造游戏，在日常的喧嚣与杂乱中，发现属于生活本身的独特美感。 为新的街区注入生命，让一处处新场景渐次苏醒，将城市建筑层层堆叠向上，在每一个细小的角落与缝隙中，注入你的巧思与情感。 亲手塑造一座只属于你的温馨小城，它不必宏大，却独一无二。",
     "is_free": false,
     "price": "¥ 52.20",
@@ -37,7 +97,7 @@
   {
     "appid": 3119540,
     "name": "缮写室 ：羊皮卷大师",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119540/f78f1c1f943426314e9c434083b1e7e367c381c1/header_alt_assets_3_schinese.jpg?t=1776359240",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119540/f78f1c1f943426314e9c434083b1e7e367c381c1/header_alt_assets_3_schinese.jpg?t=1776445731",
     "short_description": "经营你自己的手稿工坊，接收各种订单，帮客户绘制中世纪书籍插画，怎么布置全凭你喜欢。完成后寄回给客户即可赚取报酬，还能解锁新工作、新装饰和各种物品。欢迎来到专属于你的中世纪缮写室！",
     "is_free": false,
     "price": "¥ 44.00",
@@ -71,24 +131,6 @@
     "store_url": "https://store.steampowered.com/app/2928410"
   },
   {
-    "appid": 3962020,
-    "name": "EXD - Extra Dimensional",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962020/a0bd0ece03f4008862ac21b063821c15304ff3cf/header_alt_assets_1.jpg?t=1776358779",
-    "short_description": "一名快递员。一道次元裂缝。一场史诗任务。在Erath掌握念力和元素魔法。对抗神话生物。解开古老谜题。先进VR物理引擎与史诗奇幻冒险的完美结合。",
-    "is_free": false,
-    "price": "¥ 109.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3962020"
-  },
-  {
     "appid": 2213700,
     "name": "罪托邦",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/93a9a2b37637780a31075fd1ddb85758551913c7/header_schinese.jpg?t=1776357810",
@@ -109,7 +151,7 @@
   {
     "appid": 1290760,
     "name": "壁虎之神",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776356146",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776450189",
     "short_description": "在神庙和群岛中寻找失落文明！追随壁虎之神明，自由攀爬高耸遗迹与险峻悬崖，踏上跨越群岛的奇幻旅程！没有固定路线，没有唯一解法，每片洞穴、神庙与隐秘小径都等你亲自探索与解谜。驾驶小木船穿越万千岛屿，聆听古老齿轮的晦涩之声，开启充满惊喜与治愈的冒险吧！",
     "is_free": false,
     "price": "¥ 59.40",
@@ -140,43 +182,5 @@
     "release_date": "2026 年 4 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2340130"
-  },
-  {
-    "appid": 2416450,
-    "name": "神探杰克鼠",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1776351015",
-    "short_description": "与私家侦探杰克·佩珀一起，投身一场弹雨连天、爵士绕梁的冒险。《神探杰克鼠》将1930年代的经典手绘橡皮管动画风格与第一人称射击游戏结合，在复古格调的魅力中体验肾上腺素飙升的爆炸无双之旅。",
-    "is_free": false,
-    "price": "¥ 95.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2416450"
-  },
-  {
-    "appid": 4055140,
-    "name": "Hello Kitty Island Adventure - City Town",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055140/2dc82b1dff435fd2a46e62d20173a5d983aafdeb/header_schinese.jpg?t=1776363221",
-    "short_description": "一座彩虹大都会正等着你！在这场温馨的冒险中，你可以尽情地收集、创造和定制。经营你自己的个性咖啡馆，和三丽鸥朋友们一起开设全新的商店，并解锁梦想的力量，探索城邦镇不为人知的奥秘。",
-    "is_free": false,
-    "price": "¥ 77.49",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4055140"
   }
 ]
