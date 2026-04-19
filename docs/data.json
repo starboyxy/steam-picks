@@ -17,29 +17,9 @@
     "store_url": "https://store.steampowered.com/app/3357650"
   },
   {
-    "appid": 3985670,
-    "name": "UBOAT - Type IX: Distant Coasts",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985670/8cc1fd477bd8e9521c8014fd6f78078b24b6f55d/header.jpg?t=1776443524",
-    "short_description": "在 IX型：遥远海岸 DLC 中指挥远程 IX 型潜艇！在南大西洋和印度洋巡逻，随季风群组在槟城港口作战，并掌握三种新的潜艇变体。体验远离友军海岸的真实历史战役。",
-    "is_free": false,
-    "price": "¥ 60.30",
-    "original_price": "¥ 67.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3985670"
-  },
-  {
     "appid": 3570060,
     "name": "余火守护者 The Ember Guardian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/1539eca7d0b7f43aaa7e0208f8e6d543b22244be/header.jpg?t=1776438916",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/1539eca7d0b7f43aaa7e0208f8e6d543b22244be/header.jpg?t=1776533389",
     "short_description": "在这款设定于末世背景下的肉鸽策略游戏中，守护那象征希望的余火。白天招募工人，指挥他们收集资源、建设营地、部署防御。夜幕降临后，用强力、可升级的武器抵御一波波致命怪物的袭击。",
     "is_free": false,
     "price": "¥ 69.30",
@@ -151,7 +131,7 @@
   {
     "appid": 1290760,
     "name": "壁虎之神",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776450189",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776507050",
     "short_description": "在神庙和群岛中寻找失落文明！追随壁虎之神明，自由攀爬高耸遗迹与险峻悬崖，踏上跨越群岛的奇幻旅程！没有固定路线，没有唯一解法，每片洞穴、神庙与隐秘小径都等你亲自探索与解谜。驾驶小木船穿越万千岛屿，聆听古老齿轮的晦涩之声，开启充满惊喜与治愈的冒险吧！",
     "is_free": false,
     "price": "¥ 59.40",
@@ -182,5 +162,22 @@
     "release_date": "2026 年 4 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2340130"
+  },
+  {
+    "appid": 2416450,
+    "name": "神探杰克鼠",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1776466362",
+    "short_description": "与私家侦探杰克·佩珀一起，投身一场弹雨连天、爵士绕梁的冒险。《神探杰克鼠》将1930年代的经典手绘橡皮管动画风格与第一人称射击游戏结合，在复古格调的魅力中体验肾上腺素飙升的爆炸无双之旅。",
+    "is_free": false,
+    "price": "¥ 95.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2416450"
   }
 ]
