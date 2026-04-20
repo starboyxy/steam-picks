@@ -1,20 +1,23 @@
 [
   {
-    "appid": 3357650,
-    "name": "PRAGMATA",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1776398844",
-    "short_description": "《Pragmata》是卡普空推出的一款独特的科幻动作冒险游戏。 玩家将跟随命运多舛的调查队队员“休”和机器人小女孩“戴安娜”，在被失控AI掌管的月球设施内寻找返回地球的方法。",
+    "appid": 2086680,
+    "name": "最强城堡",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086680/fa0e79256068b611582342639273d44e495ce058/header_alt_assets_1.jpg?t=1776640303",
+    "short_description": "你的城堡能挺过一波波猛攻，还是在重压下崩溃？在一切皆可被摧毁的世界里，建造城堡，管理资源，想方设法智取敌人。运用策略和创意，将混乱化为优势！",
     "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 38.00",
+    "original_price": "¥ 76.00",
+    "discount_percent": 50,
     "genres": [
       "动作",
-      "冒险"
+      "休闲",
+      "角色扮演",
+      "模拟",
+      "策略"
     ],
-    "release_date": "2026 年 4 月 16 日",
+    "release_date": "2026 年 4 月 19 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3357650"
+    "store_url": "https://store.steampowered.com/app/2086680"
   },
   {
     "appid": 3570060,
@@ -55,6 +58,23 @@
     "release_date": "2026 年 4 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2438680"
+  },
+  {
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1776398844",
+    "short_description": "《Pragmata》是卡普空推出的一款独特的科幻动作冒险游戏。 玩家将跟随命运多舛的调查队队员“休”和机器人小女孩“戴安娜”，在被失控AI掌管的月球设施内寻找返回地球的方法。",
+    "is_free": false,
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3357650"
   },
   {
     "appid": 2434600,
@@ -145,23 +165,6 @@
     "release_date": "2026 年 4 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1290760"
-  },
-  {
-    "appid": 2340130,
-    "name": "Ground Zero",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340130/26f2468a93a6ca6f6e65d80b6d4d9debdb0ef60e/header.jpg?t=1776352535",
-    "short_description": "在这款复古生存恐怖游戏中，你将在末日后的韩国一路拼杀前行。一场陨石浩劫使整个国家化为废墟，所有生命体异变为恐怖怪物。你的任务，是揭开这场灾难背后的真相。战斗、解谜、升级装备。每一发子弹都必须物尽其用。",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2340130"
   },
   {
     "appid": 2416450,
