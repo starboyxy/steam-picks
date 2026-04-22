@@ -1,38 +1,58 @@
 [
   {
-    "appid": 2461440,
-    "name": "Bylina",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461440/5b35f51f9e5b43e6dbc80094c8ddc7ac16645ac0/header.jpg?t=1776692773",
-    "short_description": "直面“不死者”科谢伊的挑战！踏入三九彼界，拯救你不朽的灵魂，在 Bylina 的世界中成为真正的英雄。这是一款以技能战斗为核心、并深深扎根于斯拉夫民间传说与史诗传奇的动作冒险游戏。",
+    "appid": 4179010,
+    "name": "Dragonball FighterZ DAIMA组合包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179010/df2f6b9630a969448a14eed5aba183d27d2ca65b/header.jpg?t=1776808889",
+    "short_description": "来自动画《七龙珠DAIMA》的“孙悟空(超级赛亚人4‧DAIMA)”以可操作角色的身分参战！ 还有包含很多来自《七龙珠DAIMA》的大厅角色与Z贴图等追加内容。 〇内容 ‧可操作角色“孙悟空(超级赛亚人4‧DAIMA)”额外配色1~6 ‧角色额外配色（6种） ‧大厅角色（3种） ‧玩家卡片底图（1种）",
     "is_free": false,
-    "price": "¥ 65.10",
-    "original_price": "¥ 93.00",
-    "discount_percent": 30,
+    "price": "¥ 48.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "动作",
-      "冒险",
-      "独立"
+      "动作"
     ],
-    "release_date": "2026 年 4 月 20 日",
+    "release_date": "2026 年 4 月 21 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2461440"
+    "store_url": "https://store.steampowered.com/app/4179010"
   },
   {
-    "appid": 3907940,
-    "name": "MMO98",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907940/7671101a39b77cb5474110394d690481c96857ae/header.jpg?t=1776692207",
-    "short_description": "一款放置类游戏，带你体验从小规模MMO开发工作室成长为全球市场霸主的过程。改善服务器基础设施，解决运营MMO的技术挑战，发布新游戏，并成为世界第一的MMO游戏工作室。",
+    "appid": 3265700,
+    "name": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1776789234",
+    "short_description": "用毁天灭地的连击，杀穿群魔乱舞的地下城！《Vampire Crawlers: The Turbo Wildcard from Vampire Survivors》是一款含有轻度Rogue元素的回合制休闲牌组构筑游戏。亲手掌握卡组，让你的回合玩出花来​​！",
     "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
+    "price": "¥ 39.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3265700"
+  },
+  {
+    "appid": 3780950,
+    "name": "地心工业线 Chipmatic",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780950/39e63d418abf2984f02f167a3e4751363986c4f5/header_schinese.jpg?t=1776772679",
+    "short_description": "《地心工业线 Chipmatic》融合了采矿、生存与工厂建造。你将操控一台沉睡千年后苏醒的机器人，在早已荒废的地球上向地心一路钻探，开采，建造，升级，最终搭建出一套自动化流水线。合理规划燃料与电力，升级钻机和推进器，打造地球上“唯一的终极工厂”！并在这过程中，弄清这颗星球，究竟都发生了什么？",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 35.00",
     "discount_percent": 10,
     "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
       "模拟",
       "策略"
     ],
     "release_date": "2026 年 4 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3907940"
+    "store_url": "https://store.steampowered.com/app/3780950"
   },
   {
     "appid": 4262310,
@@ -54,7 +74,7 @@
   {
     "appid": 4244510,
     "name": "掘地求狗",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/42943a2891d8b7c8fa495bac983e31a8bf95a0b2/header_schinese.jpg?t=1776707033",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/42943a2891d8b7c8fa495bac983e31a8bf95a0b2/header_schinese.jpg?t=1776803939",
     "short_description": "这是一款步步为营的合作游戏，你要深入危险的地洞，一路挖，一路爆破，一路往下掉，才能救到你掉在洞底的狗狗。接住队友，留神脚下。洞里到处都是陷阱和危险，还有最要命的敌人——重力。你愿意跳进未知的世界，救出自己的狗子吗？",
     "is_free": false,
     "price": "¥ 26.40",
@@ -68,24 +88,6 @@
     "release_date": "2026 年 4 月 20 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4244510"
-  },
-  {
-    "appid": 3570060,
-    "name": "余火守护者 The Ember Guardian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/1539eca7d0b7f43aaa7e0208f8e6d543b22244be/header.jpg?t=1776533389",
-    "short_description": "在这款设定于末世背景下的肉鸽策略游戏中，守护那象征希望的余火。白天招募工人，指挥他们收集资源、建设营地、部署防御。夜幕降临后，用强力、可升级的武器抵御一波波致命怪物的袭击。",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3570060"
   },
   {
     "appid": 3357650,
@@ -161,7 +163,7 @@
   {
     "appid": 1290760,
     "name": "壁虎之神",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776507050",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776761454",
     "short_description": "在神庙和群岛中寻找失落文明！追随壁虎之神明，自由攀爬高耸遗迹与险峻悬崖，踏上跨越群岛的奇幻旅程！没有固定路线，没有唯一解法，每片洞穴、神庙与隐秘小径都等你亲自探索与解谜。驾驶小木船穿越万千岛屿，聆听古老齿轮的晦涩之声，开启充满惊喜与治愈的冒险吧！",
     "is_free": false,
     "price": "¥ 59.40",
