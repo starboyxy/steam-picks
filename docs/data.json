@@ -1,5 +1,56 @@
 [
   {
+    "appid": 3390880,
+    "name": "CAPTURED 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/55885b7a91cbb88ce9356d3bdd2d8cd52ad0fa50/header_schinese.jpg?t=1776913844",
+    "short_description": "你被困在一个房间不断变化的公寓里。用相机捕捉异常现象，躲避致命实体，并逃离这场无尽的噩梦。",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 4 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3390880"
+  },
+  {
+    "appid": 2331280,
+    "name": "大锻造师",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331280/0bbed259670c11a9461f912c36b6dc4e2d26f164/header_alt_assets_1_schinese.jpg?t=1776913486",
+    "short_description": "淬火！锻造！附魔！在《大锻造师》中，你将沉浸于火与铁的艺术，接受国王和勇者的委托，开采珍稀矿石，解锁高级装备图纸、打造传奇武器和防具，其踏上史诗历程，成就属于你的锻造师传奇！",
+    "is_free": false,
+    "price": "¥ 28.80",
+    "original_price": "¥ 48.00",
+    "discount_percent": 40,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2331280"
+  },
+  {
+    "appid": 2678080,
+    "name": "明日潮汐 Tides of Tomorrow 🌊",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678080/210f2ca7da145c02bb41118b87280a3b8b777d40/header_schinese.jpg?t=1776862754",
+    "short_description": "《九十六号公路》的制作团队带来了一部叙事冒险游戏的革新力作。 你的选择将改写他人的故事！追随朋友的足迹，直面他们行动带来的后果，并决定这个塑化朋克世界的命运。",
+    "is_free": false,
+    "price": "¥ 86.40",
+    "original_price": "¥ 108.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2678080"
+  },
+  {
     "appid": 4179010,
     "name": "Dragonball FighterZ DAIMA组合包",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179010/df2f6b9630a969448a14eed5aba183d27d2ca65b/header.jpg?t=1776808889",
@@ -14,6 +65,23 @@
     "release_date": "2026 年 4 月 21 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4179010"
+  },
+  {
+    "appid": 3744430,
+    "name": "同行：月球逃脱",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744430/df436fb5095d6d25bb3c93d701e25b8b89a1c6e2/header_schinese.jpg?t=1776855018",
+    "short_description": "一款匠心打造的月球低重力双人冒险解谜游戏。破解精妙的不对称谜题，与你的伙伴一起在混乱、欢笑和难忘的真正合作时刻中，逃离“月特拉”利润惊人的黏液帝国。必须双人合作的“密室逃脱”游戏，支持「本地分屏合作」或「网络联机」！",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3744430"
   },
   {
     "appid": 3265700,
@@ -34,30 +102,9 @@
     "store_url": "https://store.steampowered.com/app/3265700"
   },
   {
-    "appid": 3780950,
-    "name": "地心工业线 Chipmatic",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780950/39e63d418abf2984f02f167a3e4751363986c4f5/header_schinese.jpg?t=1776772679",
-    "short_description": "《地心工业线 Chipmatic》融合了采矿、生存与工厂建造。你将操控一台沉睡千年后苏醒的机器人，在早已荒废的地球上向地心一路钻探，开采，建造，升级，最终搭建出一套自动化流水线。合理规划燃料与电力，升级钻机和推进器，打造地球上“唯一的终极工厂”！并在这过程中，弄清这颗星球，究竟都发生了什么？",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 35.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3780950"
-  },
-  {
     "appid": 4262310,
     "name": "All Hail the Orb",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/a0d4db3b46f4ce530f3235dc06411c1c40aadde3/header.jpg?t=1776685057",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/a0d4db3b46f4ce530f3235dc06411c1c40aadde3/header.jpg?t=1776892378",
     "short_description": "All Hail The Orb is a short, quirky pixel-art incremental game about powering a mysterious orb, summoning cultists, exploring a dungeon and slowly unlocking automation as devotion builds. The tone is light-hearted and a little silly with no fail states, relaxed pacing, and yes...many, many ducks.",
     "is_free": false,
     "price": "¥ 19.80",
@@ -123,59 +170,5 @@
     "release_date": "2026 年 4 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3119540"
-  },
-  {
-    "appid": 2928410,
-    "name": "低杆高尔夫球场大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928410/1bf8775d5855fba332b36100249098291e8a9af5/header_alt_assets_0_schinese.jpg?t=1776372547",
-    "short_description": "成为高尔夫球场设计师，建造并管理属于你的高尔夫天堂！创造非凡的球场，应对球手的苛刻要求，磨练你的设计技巧。在这里吸引贵宾球手、雇用奇特员工、举办著名赛事，见证你的俱乐部蓬勃发展。",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟",
-      "体育",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2928410"
-  },
-  {
-    "appid": 2213700,
-    "name": "罪托邦",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/93a9a2b37637780a31075fd1ddb85758551913c7/header_schinese.jpg?t=1776695307",
-    "short_description": "成为地狱大总管，操控凡界，打造你梦想中的重生公司！来《罪托邦》担起地狱行政工作的管理职责，惩戒和教育有罪的灵魂，以此营收，不断拓展你的地狱帝国，享受神的力量和体验——地狱股份有限公司欢迎你的加入！",
-    "is_free": false,
-    "price": "¥ 127.50",
-    "original_price": "¥ 150.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2213700"
-  },
-  {
-    "appid": 1290760,
-    "name": "壁虎之神",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/8ea6b1fdf0614973f2b441d077c1223ded59a4c6/header_schinese.jpg?t=1776761454",
-    "short_description": "在神庙和群岛中寻找失落文明！追随壁虎之神明，自由攀爬高耸遗迹与险峻悬崖，踏上跨越群岛的奇幻旅程！没有固定路线，没有唯一解法，每片洞穴、神庙与隐秘小径都等你亲自探索与解谜。驾驶小木船穿越万千岛屿，聆听古老齿轮的晦涩之声，开启充满惊喜与治愈的冒险吧！",
-    "is_free": false,
-    "price": "¥ 59.40",
-    "original_price": "¥ 66.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1290760"
   }
 ]
