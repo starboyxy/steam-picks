@@ -1,174 +1,183 @@
 [
   {
-    "appid": 3390880,
-    "name": "CAPTURED 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/55885b7a91cbb88ce9356d3bdd2d8cd52ad0fa50/header_schinese.jpg?t=1776913844",
-    "short_description": "你被困在一个房间不断变化的公寓里。用相机捕捉异常现象，躲避致命实体，并逃离这场无尽的噩梦。",
+    "appid": 2482940,
+    "name": "小小梦魇VR: 异境回响",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2482940/a137fc50e2c74545c077c8532688d45f52334917/header_schinese.jpg?t=1776981649",
+    "short_description": "《小小梦魇VR：异境回响》是一款黑暗风格的冒险解谜游戏，玩家在其中扮演“黑暗小六”，一名小女孩姿态的神秘人物。在诡谲的世界中前行，解开错综复杂的谜题，并在渴望再次完整的拚死搜索中，逃离恐怖的巨型敌人。",
     "is_free": false,
-    "price": "¥ 29.70",
-    "original_price": "¥ 33.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3390880"
-  },
-  {
-    "appid": 2331280,
-    "name": "大锻造师",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331280/0bbed259670c11a9461f912c36b6dc4e2d26f164/header_alt_assets_1_schinese.jpg?t=1776913486",
-    "short_description": "淬火！锻造！附魔！在《大锻造师》中，你将沉浸于火与铁的艺术，接受国王和勇者的委托，开采珍稀矿石，解锁高级装备图纸、打造传奇武器和防具，其踏上史诗历程，成就属于你的锻造师传奇！",
-    "is_free": false,
-    "price": "¥ 28.80",
-    "original_price": "¥ 48.00",
-    "discount_percent": 40,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2331280"
-  },
-  {
-    "appid": 2678080,
-    "name": "明日潮汐 Tides of Tomorrow 🌊",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678080/210f2ca7da145c02bb41118b87280a3b8b777d40/header_schinese.jpg?t=1776862754",
-    "short_description": "《九十六号公路》的制作团队带来了一部叙事冒险游戏的革新力作。 你的选择将改写他人的故事！追随朋友的足迹，直面他们行动带来的后果，并决定这个塑化朋克世界的命运。",
-    "is_free": false,
-    "price": "¥ 86.40",
-    "original_price": "¥ 108.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2678080"
-  },
-  {
-    "appid": 4179010,
-    "name": "Dragonball FighterZ DAIMA组合包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179010/df2f6b9630a969448a14eed5aba183d27d2ca65b/header.jpg?t=1776808889",
-    "short_description": "来自动画《七龙珠DAIMA》的“孙悟空(超级赛亚人4‧DAIMA)”以可操作角色的身分参战！ 还有包含很多来自《七龙珠DAIMA》的大厅角色与Z贴图等追加内容。 〇内容 ‧可操作角色“孙悟空(超级赛亚人4‧DAIMA)”额外配色1~6 ‧角色额外配色（6种） ‧大厅角色（3种） ‧玩家卡片底图（1种）",
-    "is_free": false,
-    "price": "¥ 48.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4179010"
-  },
-  {
-    "appid": 3744430,
-    "name": "同行：月球逃脱",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744430/df436fb5095d6d25bb3c93d701e25b8b89a1c6e2/header_schinese.jpg?t=1776855018",
-    "short_description": "一款匠心打造的月球低重力双人冒险解谜游戏。破解精妙的不对称谜题，与你的伙伴一起在混乱、欢笑和难忘的真正合作时刻中，逃离“月特拉”利润惊人的黏液帝国。必须双人合作的“密室逃脱”游戏，支持「本地分屏合作」或「网络联机」！",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3744430"
-  },
-  {
-    "appid": 3265700,
-    "name": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1776789234",
-    "short_description": "用毁天灭地的连击，杀穿群魔乱舞的地下城！《Vampire Crawlers: The Turbo Wildcard from Vampire Survivors》是一款含有轻度Rogue元素的回合制休闲牌组构筑游戏。亲手掌握卡组，让你的回合玩出花来​​！",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3265700"
-  },
-  {
-    "appid": 4262310,
-    "name": "All Hail the Orb",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/a0d4db3b46f4ce530f3235dc06411c1c40aadde3/header.jpg?t=1776892378",
-    "short_description": "All Hail The Orb is a short, quirky pixel-art incremental game about powering a mysterious orb, summoning cultists, exploring a dungeon and slowly unlocking automation as devotion builds. The tone is light-hearted and a little silly with no fail states, relaxed pacing, and yes...many, many ducks.",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4262310"
-  },
-  {
-    "appid": 4244510,
-    "name": "掘地求狗",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/42943a2891d8b7c8fa495bac983e31a8bf95a0b2/header_schinese.jpg?t=1776803939",
-    "short_description": "这是一款步步为营的合作游戏，你要深入危险的地洞，一路挖，一路爆破，一路往下掉，才能救到你掉在洞底的狗狗。接住队友，留神脚下。洞里到处都是陷阱和危险，还有最要命的敌人——重力。你愿意跳进未知的世界，救出自己的狗子吗？",
-    "is_free": false,
-    "price": "¥ 26.40",
-    "original_price": "¥ 33.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4244510"
-  },
-  {
-    "appid": 3357650,
-    "name": "PRAGMATA",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1776398844",
-    "short_description": "《Pragmata》是卡普空推出的一款独特的科幻动作冒险游戏。 玩家将跟随命运多舛的调查队队员“休”和机器人小女孩“戴安娜”，在被失控AI掌管的月球设施内寻找返回地球的方法。",
-    "is_free": false,
-    "price": "¥ 268.00",
+    "price": "¥ 118.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
       "冒险"
     ],
-    "release_date": "2026 年 4 月 16 日",
+    "release_date": "2026 年 4 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3357650"
+    "store_url": "https://store.steampowered.com/app/2482940"
   },
   {
-    "appid": 3119540,
-    "name": "缮写室 ：羊皮卷大师",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119540/f78f1c1f943426314e9c434083b1e7e367c381c1/header_alt_assets_3_schinese.jpg?t=1776445731",
-    "short_description": "经营你自己的手稿工坊，接收各种订单，帮客户绘制中世纪书籍插画，怎么布置全凭你喜欢。完成后寄回给客户即可赚取报酬，还能解锁新工作、新装饰和各种物品。欢迎来到专属于你的中世纪缮写室！",
+    "appid": 1206410,
+    "name": "月影杀",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206410/7a5f71c05819e0102bb53f6429e018af6ba452b5/header_schinese.jpg?t=1776972006",
+    "short_description": "《月影杀》是一款黑暗奇幻ARPG, 融合了极具挑战性的战斗, 流畅的跑酷和深度探索. 掌握六大神圣晶魄的远古魔法, 在这场扣人心弦的剧情冒险中揭开神秘诅咒的根源.",
     "is_free": false,
-    "price": "¥ 44.00",
-    "original_price": "¥ 55.00",
+    "price": "¥ 137.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1206410"
+  },
+  {
+    "appid": 1647310,
+    "name": "阵地之王：卫国战争",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647310/3a372a7f1fa22c5dea225202142b024b9b4195ef/header_alt_assets_1_schinese.jpg?t=1776963674",
+    "short_description": "《阵地之王：卫国战争》是一款二战背景的俯视角战术射击游戏，敌人已经兵临城下，你必须要站出来，士兵！集结你的队伍，向敌人进攻！",
+    "is_free": false,
+    "price": "¥ 28.80",
+    "original_price": "¥ 48.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1647310"
+  },
+  {
+    "appid": 2423760,
+    "name": "覆雪之上",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423760/db0b0c6428748de265b1c8a796f1108e85e5a1dd/header_schinese.jpg?t=1776978877",
+    "short_description": "加入庇护所小队，打造阿尔卑斯山最棒的度假酒店！体验丰富的角色故事，定制专属庇护所，吸引并救援登山客，投身酒店经营，规划登山路线！拿起地图，拉紧夹克，灌满保温壶，迎接60年代最严酷的寒冬吧！",
+    "is_free": false,
+    "price": "¥ 57.60",
+    "original_price": "¥ 64.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2423760"
+  },
+  {
+    "appid": 2840470,
+    "name": "SimplePlanes 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840470/910f2b140ddd11546bdc5af6ba9f9b3da165f773/header.jpg?t=1776962034",
+    "short_description": "SimplePlanes 回归了！利用强大的程序化部件建造飞机、汽车或任何其他东西！在多人游戏中与好友探索精细的环境，制造混乱，或免费下载 1,000,000 种社区作品。",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "竞速",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2840470"
+  },
+  {
+    "appid": 2364580,
+    "name": "Titanium Court",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2364580/efee60b64009678a60174f470b33f9e741d2eff9/header.jpg?t=1776964206",
+    "short_description": "A surreal strategy game for clowns and criminals.",
+    "is_free": false,
+    "price": "¥ 43.19",
+    "original_price": "¥ 53.99",
+    "discount_percent": 20,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2364580"
+  },
+  {
+    "appid": 2759280,
+    "name": "Kumitantei: Old-School Slaughter",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2759280/468d5bc532a998a62eb1056c4a96a98ce34bafc1/header.jpg?t=1776959778",
+    "short_description": "以科学之名……互相残杀！1989届学生在一所精英学校被迫卷入一场杀戮游戏。《库米探™：老派杀戮》是一款受复古动漫启发的章节式谋杀谜案冒险卡牌对战游戏。玩家将调查真相、破解谜题、揭露同学的真面目。",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2759280"
+  },
+  {
+    "appid": 1165990,
+    "name": "Kiln",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165990/66d1232d483b485b63545b3ade26a64ed8d0c74d/header.jpg?t=1776956414",
+    "short_description": "Double Fine Productions倾情呈献，一场献给玩家的在线陶艺派对格斗盛宴。呼朋唤友，集结各色神灵，转动陶轮，亲手捏塑陶瓷战甲。陶器身躯的尺寸与形状决定了你的战斗风格与技能——齐心协力，浇灭敌人的窑火！",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1165990"
+  },
+  {
+    "appid": 1059220,
+    "name": "'83",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1059220/b7ccd7a2b80ef91a8aa93d8cef2755b01aebe8a6/header.jpg?t=1776955754",
+    "short_description": "'83 is a 40v40 squad based, objective focused online tactical first person shooter set in a Cold-War-Gone-Hot scenario. It's designed with 'accessible realism' for the most enjoyable, but still hardcore experience that gets you to the action fast, without losing the lethality of war.",
+    "is_free": false,
+    "price": "¥ 98.10",
+    "original_price": "¥ 109.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "大型多人在线",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1059220"
+  },
+  {
+    "appid": 2162800,
+    "name": "异形工厂2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1431737cec8d83a6d5a0bd9292e2602e85de7e48/header_alt_assets_7_schinese.jpg?t=1776956035",
+    "short_description": "深入体验字如其名的“超·大”工厂建造世界！建设规模庞大的多层工厂，用稳健高效的自动化产线尽情兑现您的规划才智！各种升级自动化挑战层出不穷，不过您大可以顺着步子悠着来——反正没有敌人出来捣乱。",
+    "is_free": false,
+    "price": "¥ 60.00",
+    "original_price": "¥ 75.00",
     "discount_percent": 20,
     "genres": [
       "休闲",
       "独立",
-      "模拟"
+      "模拟",
+      "策略"
     ],
-    "release_date": "2026 年 4 月 16 日",
+    "release_date": "2026 年 4 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3119540"
+    "store_url": "https://store.steampowered.com/app/2162800"
   }
 ]
