@@ -1,5 +1,23 @@
 [
   {
+    "appid": 3622640,
+    "name": "自动售货机模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3622640/329fd0c5420d4b5c4fa42eaf745ccdb91f537bae/header_alt_assets_0_schinese.jpg?t=1777139070",
+    "short_description": "打造属于你的零食街区！这是一款轻松惬意的模拟游戏，你将在一座充满魅力的城市中，建立属于自己的售货机事业。选择街区、设置价格、上架零食、保持库存、整理你的零食小天地！",
+    "is_free": false,
+    "price": "¥ 34.80",
+    "original_price": "¥ 58.00",
+    "discount_percent": 40,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3622640"
+  },
+  {
     "appid": 3618030,
     "name": "Flock Around",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/1410006e42c90a7929161a991ff087ecc85f6aa7/header.jpg?t=1777049893",
@@ -19,7 +37,7 @@
   {
     "appid": 3732960,
     "name": "Rest Area Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732960/cd47f627122d6110739e99ca93b3713e426d3b3c/header.jpg?t=1777039042",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732960/cd47f627122d6110739e99ca93b3713e426d3b3c/header.jpg?t=1777133500",
     "short_description": "接管路边服务区的加油站和便利店，通过购买新业务不断扩展。管理一个由动态经济和随机事件塑造的真实世界。升级设施，满足顾客需求，并可单人游玩或与好友一起体验。",
     "is_free": false,
     "price": "¥ 33.15",
@@ -35,28 +53,9 @@
     "store_url": "https://store.steampowered.com/app/3732960"
   },
   {
-    "appid": 3856280,
-    "name": "holoVillage: Our Cozy Days",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856280/5dbe30b3378b2d1b10021f6505c5f4bf973383a8/header.jpg?t=1777017146",
-    "short_description": "Farm, fish, mine, craft, and decorate your home in this cozy life sim. Venture into dungeons and take on bosses outside the village for some added excitement. Enjoy relaxing and thrilling moments alike with hololive talents as you shape your countryside life.",
-    "is_free": false,
-    "price": "¥ 90.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3856280"
-  },
-  {
     "appid": 2914150,
     "name": "晕晕电波症候群",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914150/92773c236ab9a566fbd68ddb3cc08ed6412fb4af/header_schinese.jpg?t=1777022576",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914150/92773c236ab9a566fbd68ddb3cc08ed6412fb4af/header_schinese.jpg?t=1777123556",
     "short_description": "《晕晕电波症候群》是一款节奏冒险游戏。某个家里蹲少女吸食电波歌曲后上网激情输出萌萌怪文书，嗨翻天际的脑电波晃得整个世界晕头转向。 电波是死宅的看家本事！将这个狗屎世界也卷进她的电波里，变成一圈圈废料吧！",
     "is_free": false,
     "price": "¥ 48.60",
@@ -70,42 +69,6 @@
     "release_date": "2026 年 4 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2914150"
-  },
-  {
-    "appid": 2423760,
-    "name": "覆雪之上",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423760/db0b0c6428748de265b1c8a796f1108e85e5a1dd/header_schinese.jpg?t=1777040072",
-    "short_description": "加入庇护所小队，打造阿尔卑斯山最棒的度假酒店！体验丰富的角色故事，定制专属庇护所，吸引并救援登山客，投身酒店经营，规划登山路线！拿起地图，拉紧夹克，灌满保温壶，迎接60年代最严酷的寒冬吧！",
-    "is_free": false,
-    "price": "¥ 57.60",
-    "original_price": "¥ 64.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2423760"
-  },
-  {
-    "appid": 1165990,
-    "name": "Kiln",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165990/66d1232d483b485b63545b3ade26a64ed8d0c74d/header.jpg?t=1777062221",
-    "short_description": "Double Fine Productions倾情呈献，一场献给玩家的在线陶艺派对格斗盛宴。呼朋唤友，集结各色神灵，转动陶轮，亲手捏塑陶瓷战甲。陶器身躯的尺寸与形状决定了你的战斗风格与技能——齐心协力，浇灭敌人的窑火！",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲"
-    ],
-    "release_date": "2026 年 4 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1165990"
   },
   {
     "appid": 2162800,
@@ -127,40 +90,6 @@
     "store_url": "https://store.steampowered.com/app/2162800"
   },
   {
-    "appid": 2678080,
-    "name": "明日潮汐 Tides of Tomorrow 🌊",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678080/210f2ca7da145c02bb41118b87280a3b8b777d40/header_schinese.jpg?t=1776956314",
-    "short_description": "《九十六号公路》的制作团队带来了一部叙事冒险游戏的革新力作。 你的选择将改写他人的故事！追随朋友的足迹，直面他们行动带来的后果，并决定这个塑化朋克世界的命运。",
-    "is_free": false,
-    "price": "¥ 86.40",
-    "original_price": "¥ 108.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2678080"
-  },
-  {
-    "appid": 3744430,
-    "name": "同行：月球逃脱",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744430/df436fb5095d6d25bb3c93d701e25b8b89a1c6e2/header_schinese.jpg?t=1776855018",
-    "short_description": "一款匠心打造的月球低重力双人冒险解谜游戏。破解精妙的不对称谜题，与你的伙伴一起在混乱、欢笑和难忘的真正合作时刻中，逃离“月特拉”利润惊人的黏液帝国。必须双人合作的“密室逃脱”游戏，支持「本地分屏合作」或「网络联机」！",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3744430"
-  },
-  {
     "appid": 3265700,
     "name": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1776925935",
@@ -177,5 +106,76 @@
     "release_date": "2026 年 4 月 21 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3265700"
+  },
+  {
+    "appid": 4244510,
+    "name": "掘地求狗",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/42943a2891d8b7c8fa495bac983e31a8bf95a0b2/header_schinese.jpg?t=1776803939",
+    "short_description": "这是一款步步为营的合作游戏，你要深入危险的地洞，一路挖，一路爆破，一路往下掉，才能救到你掉在洞底的狗狗。接住队友，留神脚下。洞里到处都是陷阱和危险，还有最要命的敌人——重力。你愿意跳进未知的世界，救出自己的狗子吗？",
+    "is_free": false,
+    "price": "¥ 26.40",
+    "original_price": "¥ 33.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 4 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4244510"
+  },
+  {
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777005719",
+    "short_description": "《Pragmata》是卡普空推出的一款独特的科幻动作冒险游戏。 玩家将跟随命运多舛的调查队队员“休”和机器人小女孩“戴安娜”，在被失控AI掌管的月球设施内寻找返回地球的方法。",
+    "is_free": false,
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3357650"
+  },
+  {
+    "appid": 3119540,
+    "name": "缮写室 ：羊皮卷大师",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119540/f78f1c1f943426314e9c434083b1e7e367c381c1/header_alt_assets_3_schinese.jpg?t=1776445731",
+    "short_description": "经营你自己的手稿工坊，接收各种订单，帮客户绘制中世纪书籍插画，怎么布置全凭你喜欢。完成后寄回给客户即可赚取报酬，还能解锁新工作、新装饰和各种物品。欢迎来到专属于你的中世纪缮写室！",
+    "is_free": false,
+    "price": "¥ 44.00",
+    "original_price": "¥ 55.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3119540"
+  },
+  {
+    "appid": 2928410,
+    "name": "低杆高尔夫球场大亨",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928410/1bf8775d5855fba332b36100249098291e8a9af5/header_alt_assets_0_schinese.jpg?t=1776873323",
+    "short_description": "成为高尔夫球场设计师，建造并管理属于你的高尔夫天堂！创造非凡的球场，应对球手的苛刻要求，磨练你的设计技巧。在这里吸引贵宾球手、雇用奇特员工、举办著名赛事，见证你的俱乐部蓬勃发展。",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟",
+      "体育",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2928410"
   }
 ]
