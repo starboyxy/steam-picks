@@ -1,8 +1,180 @@
 [
   {
+    "appid": 3500680,
+    "name": "农庄牌",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500680/fe63f250d0574434a575ba4c874495914919f426/header_schinese.jpg?t=1777438273",
+    "short_description": "在这款农场题材的轻度Rogue牌组构建游戏中，体验播种、培育与丰收的乐趣。打造强力植物牌组，搭配造型搞怪的稻草人，利用其被动效果打出狂野的组合效果。记得按时交税。策略深邃，反馈爽快，画风更是治愈人心。",
+    "is_free": false,
+    "price": "¥ 38.25",
+    "original_price": "¥ 45.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3500680"
+  },
+  {
+    "appid": 3002240,
+    "name": "午休战术",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/8e2ccb806e129156ddc94c39e8d57bbc206ef4e9/header_schinese.jpg?t=1777397222",
+    "short_description": "《午休战术》是一款以杂乱无章的超市仓库为背景的自走棋策略卡牌游戏。构筑牌组、优化小队，组合出脑洞大开的协同效应，然后与其他玩家进行异步对战。对战节奏紧凑，过程没有时限，组合千变万化，重开随心所欲，闯出属于自己的上分之路。",
+    "is_free": false,
+    "price": "¥ 47.60",
+    "original_price": "¥ 68.00",
+    "discount_percent": 30,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3002240"
+  },
+  {
+    "appid": 3400960,
+    "name": "橡木塔",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400960/48cc4146f91776dcad75ef28db69d164d1a9fc8f/header_schinese.jpg?t=1777391953",
+    "short_description": "《橡木塔》是一款 PvP 自走棋游戏，玩家要在自己的高塔中布置物品，与对方玩家的高塔战斗，对战的重点在于搭配协同作用。构筑输出爆炸的卡组，感受指数级增长的战斗力，每一个决定都至关重要。",
+    "is_free": false,
+    "price": "¥ 25.60",
+    "original_price": "¥ 32.00",
+    "discount_percent": 20,
+    "genres": [
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3400960"
+  },
+  {
+    "appid": 3124540,
+    "name": "遥遥西土 Far Far West",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/49eb729d1f67d63c80e022a902af421d0f97b4d7/header_alt_assets_3_schinese.jpg?t=1777406197",
+    "short_description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
+    "is_free": false,
+    "price": "¥ 64.80",
+    "original_price": "¥ 72.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3124540"
+  },
+  {
+    "appid": 3690030,
+    "name": "最后的加油站",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690030/0dfab2f6fdb98507b76727056cbc1f55bb06dae1/header_schinese.jpg?t=1777381904",
+    "short_description": "在电动汽车大行其道的世界里，你成为了荒郊野外一座老旧加油站的老板。在这款小巧精致的加油站模拟器中，你需要建立贸易、拓展业务，揭开这个陌生之地的秘密。",
+    "is_free": false,
+    "price": "¥ 48.45",
+    "original_price": "¥ 57.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3690030"
+  },
+  {
+    "appid": 590830,
+    "name": "s\u0026box",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/9516f272f523e6a28350b6e66a1bc4ad9f65888a/header.jpg?t=1777373703",
+    "short_description": "我们对 Garry's Mod 的精神续作，这是一个基于 Source 2 引擎打造的游戏创作平台。畅玩、创作和分享游戏，探索社区作品，借助强大的现代工具体验无尽的沙盒乐趣。",
+    "is_free": false,
+    "price": "¥ 76.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "竞速",
+      "模拟",
+      "体育",
+      "策略",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/590830"
+  },
+  {
+    "appid": 4314650,
+    "name": "Victoria 3: The Great Wave - Expansion",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314650/14f50e53a85f0a1a2b0e3a74b71d79daafdcc72e/header.jpg?t=1777370424",
+    "short_description": "发挥海军的实力，将本地竞争者压制在大陆上，将外来威胁抵挡于海湾外。",
+    "is_free": false,
+    "price": "¥ 128.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4314650"
+  },
+  {
+    "appid": 3412900,
+    "name": "代号三国：龙起",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412900/d0c2cb1fd69c94e72d3e5a25f1c0fbba779201ff/header_alt_assets_1_schinese.jpg?t=1777406620",
+    "short_description": "你，一个平凡的现代人，意外穿越到了平行时空的三国时代，机缘巧合地邂逅众多名将与佳人。面对桃花与霸业，是携美隐居山林，远离纷争，还是挺身而出，率领众将征战天下？但小心——每一次选择，都可能改写历史，也可能是命丧黄泉。",
+    "is_free": false,
+    "price": "¥ 49.30",
+    "original_price": "¥ 58.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 4 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3412900"
+  },
+  {
+    "appid": 3562120,
+    "name": "梦幻魔法公主",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562120/9b3e62dfdea2fc4edbc640a50fd904a680e13a38/header_schinese.jpg?t=1777348229",
+    "short_description": "你将扮演一位父亲，引导女儿在魔法国度的学园中茁壮成长。养成方式多种多样：读书学习、打工挣钱……修习剑术也是不错的出路。根据你所作出的选择，海量的故事文本可导向超过50种分支结局。来亲手养育出世界第一可爱的小公主吧！",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 4 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3562120"
+  },
+  {
     "appid": 3256150,
     "name": "姆明：暖心冬日",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3256150/239c3923a74ad0f057dd0aa43684b08d34f870f1/header_schinese.jpg?t=1777309375",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3256150/239c3923a74ad0f057dd0aa43684b08d34f870f1/header_schinese.jpg?t=1777392443",
     "short_description": "继《史力奇奇遇记：姆明山谷之歌》之后，其创作团队再度从托芙·杨松备受珍爱的姆明故事中汲取灵感，献上一段暖彻心扉的全新冒险。这一次，你将陪伴姆明，踏上一段清冷而又迷人的冬日之旅。",
     "is_free": false,
     "price": "¥ 64.60",
@@ -16,166 +188,5 @@
     "release_date": "2026 年 4 月 27 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3256150"
-  },
-  {
-    "appid": 2873660,
-    "name": "Global Rescue",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873660/c246994238bae661f7ace79b87dbdd888a5e2bc6/header_schinese.jpg?t=1777303115",
-    "short_description": "在《全球救援》中，建立你自己的基地，并全面掌控消防、警察、医疗救援和 SWAT 特警部队——无论是在你的家乡，还是世界上的任何城市！ 管理你的车队，招募员工，完成各种各样的任务。你准备好开始你的值班了吗？",
-    "is_free": false,
-    "price": "¥ 74.40",
-    "original_price": "¥ 93.00",
-    "discount_percent": 20,
-    "genres": [
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 4 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2873660"
-  },
-  {
-    "appid": 4283360,
-    "name": " 团本自走棋",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283360/ab8d5b1a8d977a0d10c1bc3f865e77aa3542c0cf/header_schinese.jpg?t=1777295639",
-    "short_description": "《团本自走棋》是一款50vs50的团战深度策略自走棋游戏。核心玩法围绕着招募英雄、激活羁绊以及通过飞升系统提升战力。游戏丰富的 Roguelite成长体系和职业专精飞升机制，确保了每一次对局都能带来新鲜感和独特的挑战。玩家可以不断扩编队伍，最终目标是组建一支拥有高达 50 名成员的无双战团，在策略的海洋中乘风破浪。",
-    "is_free": false,
-    "price": "¥ 28.80",
-    "original_price": "¥ 36.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 4 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4283360"
-  },
-  {
-    "appid": 3622640,
-    "name": "自动售货机模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3622640/329fd0c5420d4b5c4fa42eaf745ccdb91f537bae/header_alt_assets_0_schinese.jpg?t=1777269513",
-    "short_description": "打造属于你的零食街区！这是一款轻松惬意的模拟游戏，你将在一座充满魅力的城市中，建立属于自己的售货机事业。选择街区、设置价格、上架零食、保持库存、整理你的零食小天地！",
-    "is_free": false,
-    "price": "¥ 34.80",
-    "original_price": "¥ 58.00",
-    "discount_percent": 40,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3622640"
-  },
-  {
-    "appid": 3618030,
-    "name": "Flock Around",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/1410006e42c90a7929161a991ff087ecc85f6aa7/header.jpg?t=1777049893",
-    "short_description": "《Flock Around》是一款多人观鸟游戏。与你的好友一起探索自然保护区，拍摄鸟类照片，完善图鉴！",
-    "is_free": false,
-    "price": "¥ 18.90",
-    "original_price": "¥ 21.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3618030"
-  },
-  {
-    "appid": 3732960,
-    "name": "Rest Area Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732960/cd47f627122d6110739e99ca93b3713e426d3b3c/header.jpg?t=1777191221",
-    "short_description": "接管路边服务区的加油站和便利店，通过购买新业务不断扩展。管理一个由动态经济和随机事件塑造的真实世界。升级设施，满足顾客需求，并可单人游玩或与好友一起体验。",
-    "is_free": false,
-    "price": "¥ 33.15",
-    "original_price": "¥ 39.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3732960"
-  },
-  {
-    "appid": 2914150,
-    "name": "晕晕电波症候群",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914150/92773c236ab9a566fbd68ddb3cc08ed6412fb4af/header_schinese.jpg?t=1777264751",
-    "short_description": "《晕晕电波症候群》是一款节奏冒险游戏。某个家里蹲少女吸食电波歌曲后上网激情输出萌萌怪文书，嗨翻天际的脑电波晃得整个世界晕头转向。 电波是死宅的看家本事！将这个狗屎世界也卷进她的电波里，变成一圈圈废料吧！",
-    "is_free": false,
-    "price": "¥ 48.60",
-    "original_price": "¥ 54.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2914150"
-  },
-  {
-    "appid": 2162800,
-    "name": "异形工厂2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1431737cec8d83a6d5a0bd9292e2602e85de7e48/header_alt_assets_7_schinese.jpg?t=1776956035",
-    "short_description": "深入体验字如其名的“超·大”工厂建造世界！建设规模庞大的多层工厂，用稳健高效的自动化产线尽情兑现您的规划才智！各种升级自动化挑战层出不穷，不过您大可以顺着步子悠着来——反正没有敌人出来捣乱。",
-    "is_free": false,
-    "price": "¥ 60.00",
-    "original_price": "¥ 75.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2162800"
-  },
-  {
-    "appid": 3744430,
-    "name": "同行：月球逃脱",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744430/df436fb5095d6d25bb3c93d701e25b8b89a1c6e2/header_schinese.jpg?t=1777286078",
-    "short_description": "一款匠心打造的月球低重力双人冒险解谜游戏。破解精妙的不对称谜题，与你的伙伴一起在混乱、欢笑和难忘的真正合作时刻中，逃离“月特拉”利润惊人的黏液帝国。必须双人合作的“密室逃脱”游戏，支持「本地分屏合作」或「网络联机」！",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3744430"
-  },
-  {
-    "appid": 3265700,
-    "name": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1776925935",
-    "short_description": "用毁天灭地的连击，杀穿群魔乱舞的地下城！《Vampire Crawlers: The Turbo Wildcard from Vampire Survivors》是一款含有轻度Rogue元素的回合制休闲牌组构筑游戏。亲手掌握卡组，让你的回合玩出花来​​！",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3265700"
   }
 ]
