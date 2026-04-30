@@ -1,8 +1,47 @@
 [
   {
+    "appid": 1889810,
+    "name": "波波萌宠大作战",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889810/f7d8d9d0a9205b3e55f4c6a52739ba99defd4072/header_schinese.jpg?t=1777485480",
+    "short_description": "是史莱姆？是小怪兽？不，这是充满无限进化可能的神奇生物“波波”！欢迎来到《波波萌宠大作战》，收服形态各异的萌宠“波波”，用脑洞大开的方式培育、不断进化至全新形态，参加锦标赛并赢得胜利！还有海量装饰等你收集、将你的波波打造成最靓的崽！",
+    "is_free": false,
+    "price": "¥ 57.12",
+    "original_price": "¥ 68.00",
+    "discount_percent": 16,
+    "genres": [
+      "休闲",
+      "独立",
+      "竞速",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 4 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1889810"
+  },
+  {
+    "appid": 2904000,
+    "name": "咒语旅团",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/6259b83d583e844ff807d9d57794d4ba7f671bd4/header_alt_assets_3_schinese.jpg?t=1777483064",
+    "short_description": "1-4人在线合作生存游戏。与魔法师朋友击败黑暗生物。完成团队目标，解锁升级，创造法术协同。有友军伤害的弹幕地狱中无人安全！快节奏Roguelite动作。",
+    "is_free": false,
+    "price": "¥ 30.00",
+    "original_price": "¥ 50.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 4 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2904000"
+  },
+  {
     "appid": 3500680,
     "name": "农庄牌",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500680/fe63f250d0574434a575ba4c874495914919f426/header_schinese.jpg?t=1777438273",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500680/fe63f250d0574434a575ba4c874495914919f426/header_schinese.jpg?t=1777476229",
     "short_description": "在这款农场题材的轻度Rogue牌组构建游戏中，体验播种、培育与丰收的乐趣。打造强力植物牌组，搭配造型搞怪的稻草人，利用其被动效果打出狂野的组合效果。记得按时交税。策略深邃，反馈爽快，画风更是治愈人心。",
     "is_free": false,
     "price": "¥ 38.25",
@@ -17,23 +56,6 @@
     "release_date": "2026 年 4 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3500680"
-  },
-  {
-    "appid": 3002240,
-    "name": "午休战术",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/8e2ccb806e129156ddc94c39e8d57bbc206ef4e9/header_schinese.jpg?t=1777397222",
-    "short_description": "《午休战术》是一款以杂乱无章的超市仓库为背景的自走棋策略卡牌游戏。构筑牌组、优化小队，组合出脑洞大开的协同效应，然后与其他玩家进行异步对战。对战节奏紧凑，过程没有时限，组合千变万化，重开随心所欲，闯出属于自己的上分之路。",
-    "is_free": false,
-    "price": "¥ 47.60",
-    "original_price": "¥ 68.00",
-    "discount_percent": 30,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3002240"
   },
   {
     "appid": 3400960,
@@ -55,7 +77,7 @@
   {
     "appid": 3124540,
     "name": "遥遥西土 Far Far West",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/49eb729d1f67d63c80e022a902af421d0f97b4d7/header_alt_assets_3_schinese.jpg?t=1777406197",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/49eb729d1f67d63c80e022a902af421d0f97b4d7/header_alt_assets_3_schinese.jpg?t=1777478432",
     "short_description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
     "is_free": false,
     "price": "¥ 64.80",
@@ -93,7 +115,7 @@
   {
     "appid": 590830,
     "name": "s\u0026box",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/9516f272f523e6a28350b6e66a1bc4ad9f65888a/header.jpg?t=1777373703",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/9516f272f523e6a28350b6e66a1bc4ad9f65888a/header.jpg?t=1777487666",
     "short_description": "我们对 Garry's Mod 的精神续作，这是一个基于 Source 2 引擎打造的游戏创作平台。畅玩、创作和分享游戏，探索社区作品，借助强大的现代工具体验无尽的沙盒乐趣。",
     "is_free": false,
     "price": "¥ 76.00",
@@ -107,50 +129,11 @@
       "竞速",
       "模拟",
       "体育",
-      "策略",
-      "免费开玩"
+      "策略"
     ],
     "release_date": "2026 年 4 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/590830"
-  },
-  {
-    "appid": 4314650,
-    "name": "Victoria 3: The Great Wave - Expansion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314650/14f50e53a85f0a1a2b0e3a74b71d79daafdcc72e/header.jpg?t=1777370424",
-    "short_description": "发挥海军的实力，将本地竞争者压制在大陆上，将外来威胁抵挡于海湾外。",
-    "is_free": false,
-    "price": "¥ 128.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4314650"
-  },
-  {
-    "appid": 3412900,
-    "name": "代号三国：龙起",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412900/d0c2cb1fd69c94e72d3e5a25f1c0fbba779201ff/header_alt_assets_1_schinese.jpg?t=1777406620",
-    "short_description": "你，一个平凡的现代人，意外穿越到了平行时空的三国时代，机缘巧合地邂逅众多名将与佳人。面对桃花与霸业，是携美隐居山林，远离纷争，还是挺身而出，率领众将征战天下？但小心——每一次选择，都可能改写历史，也可能是命丧黄泉。",
-    "is_free": false,
-    "price": "¥ 49.30",
-    "original_price": "¥ 58.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3412900"
   },
   {
     "appid": 3562120,
@@ -188,5 +171,23 @@
     "release_date": "2026 年 4 月 27 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3256150"
+  },
+  {
+    "appid": 2873660,
+    "name": "Global Rescue",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873660/c246994238bae661f7ace79b87dbdd888a5e2bc6/header_schinese.jpg?t=1777303115",
+    "short_description": "在《全球救援》中，建立你自己的基地，并全面掌控消防、警察、医疗救援和 SWAT 特警部队——无论是在你的家乡，还是世界上的任何城市！ 管理你的车队，招募员工，完成各种各样的任务。你准备好开始你的值班了吗？",
+    "is_free": false,
+    "price": "¥ 74.40",
+    "original_price": "¥ 93.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 4 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2873660"
   }
 ]
