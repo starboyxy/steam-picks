@@ -1,8 +1,96 @@
 [
   {
+    "appid": 2026820,
+    "name": "Die in the Dungeon",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026820/fb36e10fb29c20aa19ff3cbed0deba4d063273a4/header_alt_assets_2.jpg?t=1777658929",
+    "short_description": "在这款类Rogue回合制牌组构建游戏中从神秘的地牢里杀出一条血路，不过你用的不是卡牌，而是骰子！在骰子盘上组合强力骰子来对付敌人，还能用魔法遗物强化骰子的效果。游戏中还有意料之外的遭遇，你需要冒险赌上一切，而结果如何全看天意。",
+    "is_free": false,
+    "price": "¥ 31.20",
+    "original_price": "¥ 48.00",
+    "discount_percent": 35,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2026820"
+  },
+  {
+    "appid": 3892270,
+    "name": "Gamble With Your Friends",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1777658920",
+    "short_description": "An online 1-6 player co-op \u0026quot;casino crawler\u0026quot; where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
+    "is_free": false,
+    "price": "¥ 20.46",
+    "original_price": "¥ 33.00",
+    "discount_percent": 38,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 5 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3892270"
+  },
+  {
+    "appid": 4157130,
+    "name": "黑暗密友：望升院",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157130/380ee9219e746cdbbeba1b9574cded3fd5437eba/header_schinese.jpg?t=1777651181",
+    "short_description": "在这废弃的儿童收容所里，孤身直面邪祟游荡的惊魂噩梦。穿梭于色彩迷离的走廊，用墨水冲击枪解开谜题，躲避凶恶的杀手玩偶，揭开那段你曾试图尘封的过往记忆。你还记得吗？",
+    "is_free": false,
+    "price": "¥ 24.36",
+    "original_price": "¥ 28.67",
+    "discount_percent": 15,
+    "genres": [
+      "冒险"
+    ],
+    "release_date": "2026 年 5 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4157130"
+  },
+  {
+    "appid": 3509230,
+    "name": "Gambonanza",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/header.jpg?t=1777641170",
+    "short_description": "《千棋百计》是一款融合国际象棋和肉鸽元素的回合制游戏，玩家将在危机四伏的微型棋盘上展开对弈。你需要精通诡变策略，懂得运用奖金资源，不断发掘打破常规的全新弃兵、棋格和棋子组合。你可以对抗极富挑战性的BOSS，尽情探索颠覆传统国际象棋陈规的无限可能！",
+    "is_free": false,
+    "price": "¥ 33.80",
+    "original_price": "¥ 52.00",
+    "discount_percent": 35,
+    "genres": [
+      "休闲",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3509230"
+  },
+  {
+    "appid": 3744080,
+    "name": "Mining Merchant",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744080/f1e021c9cfe9d12460becb4cdac562717b80cafe/header.jpg?t=1777635335",
+    "short_description": "Mining Merchant是一款轻松的采矿与店铺经营冒险游戏。白天挖掘，寻找稀有矿石和宝石；夜晚打造首饰并在店中出售。单人或合作重建叔叔的生意，揭开地震之谜。",
+    "is_free": false,
+    "price": "¥ 20.99",
+    "original_price": "¥ 29.99",
+    "discount_percent": 30,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3744080"
+  },
+  {
     "appid": 3794610,
     "name": "哥布林维克：窃贼大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794610/2d5dac97894edcfeffa7f190c8b56cf2f431c833/header_schinese.jpg?t=1777600924",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794610/2d5dac97894edcfeffa7f190c8b56cf2f431c833/header_schinese.jpg?t=1777694999",
     "short_description": "夜晚潜行盗宝，白天吹牛卖货。 体验狡诈哥布林的双面人生：在危机四伏的地宫中偷取魔王秘宝，再用天花乱坠的话术把宝物高价卖给冤大头。招募雇员，扩张店铺，在多方势力间左右逢源。从负债累累的贫穷哥布林，一路逆袭成呼风唤雨的黑金大亨！",
     "is_free": false,
     "price": "¥ 43.50",
@@ -10,6 +98,7 @@
     "discount_percent": 25,
     "genres": [
       "冒险",
+      "独立",
       "角色扮演",
       "模拟"
     ],
@@ -36,7 +125,7 @@
   {
     "appid": 3438850,
     "name": "Sledding Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/header.jpg?t=1777583473",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/header.jpg?t=1777667611",
     "short_description": "这是一款游戏的试玩版，游戏内容是几个朋友一起滑雪玩耍 :)",
     "is_free": false,
     "price": "¥ 20.46",
@@ -56,26 +145,9 @@
     "store_url": "https://store.steampowered.com/app/3438850"
   },
   {
-    "appid": 3414580,
-    "name": "Forbidden Solitaire",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3414580/8a947ca0e28a0256c9ab2a1395d0a1218fafae6d/header.jpg?t=1777570176",
-    "short_description": "Forbidden Solitaire is a card-slashing horror game about unearthing the contents of a cryptic 1995 CD-ROM that should have never existed. From the creators of Ancient Enemy and Home Safety Hotline.",
-    "is_free": false,
-    "price": "¥ 56.70",
-    "original_price": "¥ 63.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3414580"
-  },
-  {
     "appid": 2353060,
     "name": "Invincible VS",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/8cd8eff0576c0503650c611cd0ef76faf905d13d/header.jpg?t=1777583634",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/8cd8eff0576c0503650c611cd0ef76faf905d13d/header.jpg?t=1777655401",
     "short_description": "Invincible VS is a brutal superhero 3v3 tag fighting game set in the Invincible universe, where you can battle to the death as a team of fan-favorite characters in iconic locations.",
     "is_free": false,
     "price": "¥ 168.00",
@@ -107,77 +179,5 @@
     "release_date": "2026 年 4 月 30 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1910150"
-  },
-  {
-    "appid": 2356780,
-    "name": "抓抓地牢",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/641b45c940f60342c7bb5174c55f01d56d201b97/header_alt_assets_0_schinese.jpg?t=1777561320",
-    "short_description": "《抓抓地牢》是一款结合了娃娃机玩法的Roguelike卡牌构筑游戏。构建你的卡组，从抓娃娃机中抓取武器和道具！与敌人激战，搭配强大的增益效果，创造出改变战局的组合，并在地牢探险中释放疯狂的连招吧！",
-    "is_free": false,
-    "price": "¥ 33.80",
-    "original_price": "¥ 52.00",
-    "discount_percent": 35,
-    "genres": [
-      "动作",
-      "休闲",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2356780"
-  },
-  {
-    "appid": 3840230,
-    "name": "可爱冒险记",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840230/05cd9dccb83c50220698b255968644005bdf99d5/header.jpg?t=1777569008",
-    "short_description": "化身宝瑞，一只好奇的野猪宝宝。在一场森林大火之后，宝瑞必须学会如何用鼻子去寻找家人。这是一场温暖人心的动物大冒险，你将在这里探索美丽风景，追踪气味，揭开秘密，慢慢地与大自然重新连接。",
-    "is_free": false,
-    "price": "¥ 61.60",
-    "original_price": "¥ 77.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3840230"
-  },
-  {
-    "appid": 2095420,
-    "name": "Bus Bound",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095420/9803e0013dffba0e3e2577691ec09196046bce99/header.jpg?t=1777556824",
-    "short_description": "欢迎跨入《Bus Bound》的驾驶座！这是《Bus Simulator 21》创作团队的最新作品。驾驶官方授权的巴士，探索一座充满活力的城市，然后逐一改造站点，将这座城市塑造为步行圣地",
-    "is_free": false,
-    "price": "¥ 129.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2095420"
-  },
-  {
-    "appid": 4197610,
-    "name": "图书管理员：整理魔法图书馆吧！",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/2162be8e12b6bcbf696e508a4b6297c378c33bda/header.jpg?t=1777553917",
-    "short_description": "《图书管理员：整理魔法图书馆吧！》是一款单人游玩的模拟游戏。 你的任务是将散落在魔法图书馆中的全部 3,072 本书，归回原本的位置。 学习各种能力，运用策略提升整理效率，比任何人更快完成整理吧！",
-    "is_free": false,
-    "price": "¥ 22.10",
-    "original_price": "¥ 26.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4197610"
   }
 ]
