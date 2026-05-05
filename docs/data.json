@@ -1,8 +1,61 @@
 [
   {
+    "appid": 2536720,
+    "name": "U.V.S.化现号",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536720/07112f99353c32c3e979ca5b670ac32a449675fe/header_schinese.jpg?t=1777916744",
+    "short_description": "《U.V.S.化现号》是一款由《改善：工厂物语》与Zach-like类型的制作团队Coincidence开发的工程解谜游戏。登上不归虚空之船化现号，踏上通往宇宙边缘的漫长旅程 ?",
+    "is_free": false,
+    "price": "¥ 49.50",
+    "original_price": "¥ 55.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 5 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2536720"
+  },
+  {
+    "appid": 4447660,
+    "name": "Warframe：TennoCon 2026 虚拟礼包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447660/dbe63843bb58b000b515fb5c89c116e6bb124d4c/header.jpg?t=1777906821",
+    "short_description": "即刻将今年专属的 TennoCon 物品添加到你的军械库，仅限时发售！",
+    "is_free": false,
+    "price": "¥ 138.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 5 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4447660"
+  },
+  {
+    "appid": 3214480,
+    "name": "王牌妖相",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214480/f5beabde5890e1eea95f20bd2de6f6585c7d5281/header.jpg?t=1777899488",
+    "short_description": "一款以卡牌机制驱动的政治 Roguelike 游戏。在这所由货真价实的怪兽构成的议会中博弈求生。争夺选票、践踏规则、周旋于丑闻并强行通过荒谬法案。只为在这个极度扭曲、荒诞至极的民主反乌托邦里，捍卫你的最高权位。",
+    "is_free": false,
+    "price": "¥ 65.45",
+    "original_price": "¥ 77.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3214480"
+  },
+  {
     "appid": 2026820,
     "name": "Die in the Dungeon",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026820/fb36e10fb29c20aa19ff3cbed0deba4d063273a4/header_alt_assets_2.jpg?t=1777752553",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026820/42a0cf38c5dec51fb73f6483faf6e5e68ad19170/header.jpg?t=1777882791",
     "short_description": "在这款类Rogue回合制牌组构建游戏中从神秘的地牢里杀出一条血路，不过你用的不是卡牌，而是骰子！在骰子盘上组合强力骰子来对付敌人，还能用魔法遗物强化骰子的效果。游戏中还有意料之外的遭遇，你需要冒险赌上一切，而结果如何全看天意。",
     "is_free": false,
     "price": "¥ 31.20",
@@ -36,26 +89,6 @@
     "store_url": "https://store.steampowered.com/app/3892270"
   },
   {
-    "appid": 3429890,
-    "name": "Devil of the Plague",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429890/274884499a08d40497df0258f9638a360f7a98b4/header.jpg?t=1777651007",
-    "short_description": "Devil of the Plague 是一款 1–4 人合作恐怖体验。净化被诅咒的土地，执行禁忌仪式，并在不断蔓延的瘟疫中生存下来。恐惧并非预先设定，而是源自你的选择、你的错误，以及你的团队。",
-    "is_free": false,
-    "price": "¥ 32.40",
-    "original_price": "¥ 36.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3429890"
-  },
-  {
     "appid": 3509230,
     "name": "Gambonanza",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/header.jpg?t=1777641170",
@@ -72,43 +105,6 @@
     "release_date": "2026 年 5 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3509230"
-  },
-  {
-    "appid": 3744080,
-    "name": "Mining Merchant",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744080/f1e021c9cfe9d12460becb4cdac562717b80cafe/header.jpg?t=1777635335",
-    "short_description": "Mining Merchant是一款轻松的采矿与店铺经营冒险游戏。白天挖掘，寻找稀有矿石和宝石；夜晚打造首饰并在店中出售。单人或合作重建叔叔的生意，揭开地震之谜。",
-    "is_free": false,
-    "price": "¥ 20.99",
-    "original_price": "¥ 29.99",
-    "discount_percent": 30,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3744080"
-  },
-  {
-    "appid": 3794610,
-    "name": "哥布林维克：窃贼大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794610/2d5dac97894edcfeffa7f190c8b56cf2f431c833/header_schinese.jpg?t=1777694999",
-    "short_description": "夜晚潜行盗宝，白天吹牛卖货。 体验狡诈哥布林的双面人生：在危机四伏的地宫中偷取魔王秘宝，再用天花乱坠的话术把宝物高价卖给冤大头。招募雇员，扩张店铺，在多方势力间左右逢源。从负债累累的贫穷哥布林，一路逆袭成呼风唤雨的黑金大亨！",
-    "is_free": false,
-    "price": "¥ 43.50",
-    "original_price": "¥ 58.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3794610"
   },
   {
     "appid": 3596700,
