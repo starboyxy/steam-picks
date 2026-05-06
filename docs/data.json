@@ -1,8 +1,81 @@
 [
   {
+    "appid": 3868320,
+    "name": "点击炼金术",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868320/8f99ecbe393a3a5c2044f85b9cce8e5bc2fa8a75/header.jpg?t=1778021348",
+    "short_description": "在这款点击放置增量游戏中，踏上成为炼金大师之路。探索神秘的禁忌森林，收集丰富的自然资源，点亮繁茂的技能树，制作各种奇妙的魔法机械。击败怪物，种植作物，打造你的自动化生产线，成为无所不能的点击炼金术师吧！",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3868320"
+  },
+  {
+    "appid": 3404260,
+    "name": "Dead as Disco",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/ae0f4b71735adf4f2494ecb7914fcbafee215277/header.jpg?t=1777993435",
+    "short_description": "在《死亡迪斯科》中，武术与MV节奏激情碰撞。在这款霓虹闪烁的节奏格斗游戏里，每一拳、每一脚、每一个连招都将与音乐完美同步。 跟随查理·迪斯科的脚步，踏上对抗邪恶巨星、重组乐队的征程。",
+    "is_free": false,
+    "price": "¥ 68.80",
+    "original_price": "¥ 86.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3404260"
+  },
+  {
+    "appid": 2830030,
+    "name": "废都电锯姬",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1777989660",
+    "short_description": "在这款氛围绝佳的生活风动作冒险游戏中，在充满各种巨型建筑的废墟间进行跑酷，攀爬巨型机械头目，并猎杀所有建筑设备。",
+    "is_free": false,
+    "price": "¥ 54.00",
+    "original_price": "¥ 60.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2830030"
+  },
+  {
+    "appid": 3242950,
+    "name": "Outworld Station",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242950/e5e55c6f4b10303151dc964950b78b9ea501e7ac/header_alt_assets_1.jpg?t=1777988959",
+    "short_description": "在这款震撼的太空站工厂自动化游戏中，您将作为新任空间站指挥官执掌大权，开拓一个外星恒星系。在充满敌意的宇宙中积累资源、建造星舰，运用日益先进的制造技术并不断扩张您的空间站。",
+    "is_free": false,
+    "price": "¥ 57.60",
+    "original_price": "¥ 72.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3242950"
+  },
+  {
     "appid": 2536720,
     "name": "U.V.S.化现号",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536720/07112f99353c32c3e979ca5b670ac32a449675fe/header_schinese.jpg?t=1777916744",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536720/07112f99353c32c3e979ca5b670ac32a449675fe/header_schinese.jpg?t=1778019435",
     "short_description": "《U.V.S.化现号》是一款由《改善：工厂物语》与Zach-like类型的制作团队Coincidence开发的工程解谜游戏。登上不归虚空之船化现号，踏上通往宇宙边缘的漫长旅程 ?",
     "is_free": false,
     "price": "¥ 49.50",
@@ -37,7 +110,7 @@
   {
     "appid": 3214480,
     "name": "王牌妖相",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214480/f5beabde5890e1eea95f20bd2de6f6585c7d5281/header.jpg?t=1777899488",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214480/f5beabde5890e1eea95f20bd2de6f6585c7d5281/header.jpg?t=1777993657",
     "short_description": "一款以卡牌机制驱动的政治 Roguelike 游戏。在这所由货真价实的怪兽构成的议会中博弈求生。争夺选票、践踏规则、周旋于丑闻并强行通过荒谬法案。只为在这个极度扭曲、荒诞至极的民主反乌托邦里，捍卫你的最高权位。",
     "is_free": false,
     "price": "¥ 65.45",
@@ -105,79 +178,5 @@
     "release_date": "2026 年 5 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3509230"
-  },
-  {
-    "appid": 3596700,
-    "name": "泰拉科技魇团",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/457f2a078f2b4404c174efedab84f4fd12be1c20/header_alt_assets_2_schinese.jpg?t=1777572645",
-    "short_description": "《泰拉科技魇团》，一款混乱爽快的“弹幕射击”建造游戏。自由拼装模块化终极战车，在一波波机械敌潮中破局求生，以高速冲撞与无限弹幕火力，彻底摧毁自由无人机团。",
-    "is_free": false,
-    "price": "¥ 32.40",
-    "original_price": "¥ 36.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3596700"
-  },
-  {
-    "appid": 3438850,
-    "name": "Sledding Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438850/header.jpg?t=1777667611",
-    "short_description": "这是一款游戏的试玩版，游戏内容是几个朋友一起滑雪玩耍 :)",
-    "is_free": false,
-    "price": "¥ 20.46",
-    "original_price": "¥ 33.00",
-    "discount_percent": 38,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟",
-      "体育",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3438850"
-  },
-  {
-    "appid": 2353060,
-    "name": "Invincible VS",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/8cd8eff0576c0503650c611cd0ef76faf905d13d/header.jpg?t=1777655401",
-    "short_description": "Invincible VS is a brutal superhero 3v3 tag fighting game set in the Invincible universe, where you can battle to the death as a team of fan-favorite characters in iconic locations.",
-    "is_free": false,
-    "price": "¥ 168.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2353060"
-  },
-  {
-    "appid": 1910150,
-    "name": "Walk of Life",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910150/0b83feef770ece369fe67f77ab050e25987fdc7f/header_alt_assets_0_schinese.jpg?t=1777571016",
-    "short_description": "《牛马三百六十行》是一款搞笑的生活模拟游戏，玩家将在枯燥的生活中激烈地卷啊卷啊卷。游戏包括各种令人愕然的特色机制，例如找工作、学习、买东西。可以本地联机，也可以在线联机，对抗朋友或者冤家，成为真正的人生赢家！",
-    "is_free": false,
-    "price": "¥ 55.30",
-    "original_price": "¥ 79.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 4 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1910150"
   }
 ]
