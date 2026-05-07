@@ -1,9 +1,61 @@
 [
   {
+    "appid": 3802470,
+    "name": "Turnbound - 武装博弈",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802470/5c489afde5f5a14101202f916913f6e7b062d37f/header_alt_assets_3_schinese.jpg?t=1778117125",
+    "short_description": "刀枪棍棒在手，披挂兜鍪加身，十八般武艺尽出；符文层层叠叠，圣物各司其职，传奇英雄列阵在旁，胜负尽在你的一次次摆放之间。在这里武器、护甲、站位交织成一套严密的战斗体系，你的策略与巧思才是致胜关键。挑选一位英雄，统御你的武装，踏入这场自走棋博弈吧！",
+    "is_free": false,
+    "price": "¥ 46.40",
+    "original_price": "¥ 58.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3802470"
+  },
+  {
+    "appid": 3672400,
+    "name": "Farever",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/af566fcc8238f874ec637ed3c3e201d9b503f568/header_alt_assets_1_schinese.jpg?t=1778079388",
+    "short_description": "在遗忘国度中铸就你的传奇！《Farever》是一款设定于广阔奇幻开放世界的多人在线动作RPG。无论独行还是与好友同行，都能踏上一场史诗冒险！探索荒野与危险地牢，打造多件强力装备，在爽快战斗与平台跳跃中开辟属于自己的道路。",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3672400"
+  },
+  {
+    "appid": 4235230,
+    "name": "Werewolf: The Inner Beast",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235230/49fa542c004c025996d43956580ba4fab7afca5d/header.jpg?t=1778073940",
+    "short_description": "狼人：内在之兽 是一款第三人称3D生存恐怖游戏，女主角视角。故事驱动的线性玩法，带有黑暗、 claustrophobic 的压抑氛围。",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 5 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4235230"
+  },
+  {
     "appid": 3868320,
     "name": "点击炼金术",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868320/8f99ecbe393a3a5c2044f85b9cce8e5bc2fa8a75/header.jpg?t=1778021348",
-    "short_description": "在这款点击放置增量游戏中，踏上成为炼金大师之路。探索神秘的禁忌森林，收集丰富的自然资源，点亮繁茂的技能树，制作各种奇妙的魔法机械。击败怪物，种植作物，打造你的自动化生产线，成为无所不能的点击炼金术师吧！",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868320/8f99ecbe393a3a5c2044f85b9cce8e5bc2fa8a75/header.jpg?t=1778088451",
+    "short_description": "在这款点击放置增量游戏中，踏上成为炼金大师之路。探索神秘的禁忌森林，收集丰富的自然资源，点亮繁茂的技能树，制作各种奇妙的魔法机械。击败怪物，种植作物，打造你的魔法基地，成为无所不能的点击炼金术师吧！",
     "is_free": false,
     "price": "¥ 26.10",
     "original_price": "¥ 29.00",
@@ -73,41 +125,6 @@
     "store_url": "https://store.steampowered.com/app/3242950"
   },
   {
-    "appid": 2536720,
-    "name": "U.V.S.化现号",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536720/07112f99353c32c3e979ca5b670ac32a449675fe/header_schinese.jpg?t=1778019435",
-    "short_description": "《U.V.S.化现号》是一款由《改善：工厂物语》与Zach-like类型的制作团队Coincidence开发的工程解谜游戏。登上不归虚空之船化现号，踏上通往宇宙边缘的漫长旅程 ?",
-    "is_free": false,
-    "price": "¥ 49.50",
-    "original_price": "¥ 55.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 5 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2536720"
-  },
-  {
-    "appid": 4447660,
-    "name": "Warframe：TennoCon 2026 虚拟礼包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447660/dbe63843bb58b000b515fb5c89c116e6bb124d4c/header.jpg?t=1777906821",
-    "short_description": "即刻将今年专属的 TennoCon 物品添加到你的军械库，仅限时发售！",
-    "is_free": false,
-    "price": "¥ 138.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 5 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4447660"
-  },
-  {
     "appid": 3214480,
     "name": "王牌妖相",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214480/f5beabde5890e1eea95f20bd2de6f6585c7d5281/header.jpg?t=1777993657",
@@ -146,7 +163,7 @@
   {
     "appid": 3892270,
     "name": "Gamble With Your Friends",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1777658920",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1778074971",
     "short_description": "An online 1-6 player co-op \u0026quot;casino crawler\u0026quot; where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
     "is_free": false,
     "price": "¥ 20.46",
@@ -160,23 +177,5 @@
     "release_date": "2026 年 5 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3892270"
-  },
-  {
-    "appid": 3509230,
-    "name": "Gambonanza",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/header.jpg?t=1777641170",
-    "short_description": "《千棋百计》是一款融合国际象棋和肉鸽元素的回合制游戏，玩家将在危机四伏的微型棋盘上展开对弈。你需要精通诡变策略，懂得运用奖金资源，不断发掘打破常规的全新弃兵、棋格和棋子组合。你可以对抗极富挑战性的BOSS，尽情探索颠覆传统国际象棋陈规的无限可能！",
-    "is_free": false,
-    "price": "¥ 33.80",
-    "original_price": "¥ 52.00",
-    "discount_percent": 35,
-    "genres": [
-      "休闲",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3509230"
   }
 ]
