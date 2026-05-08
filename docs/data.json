@@ -1,181 +1,182 @@
 [
   {
-    "appid": 3802470,
-    "name": "Turnbound - 武装博弈",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802470/5c489afde5f5a14101202f916913f6e7b062d37f/header_alt_assets_3_schinese.jpg?t=1778117125",
-    "short_description": "刀枪棍棒在手，披挂兜鍪加身，十八般武艺尽出；符文层层叠叠，圣物各司其职，传奇英雄列阵在旁，胜负尽在你的一次次摆放之间。在这里武器、护甲、站位交织成一套严密的战斗体系，你的策略与巧思才是致胜关键。挑选一位英雄，统御你的武装，踏入这场自走棋博弈吧！",
+    "appid": 1826420,
+    "name": "CarX Drift Racing Online 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1826420/cf7ed43dcda250d187aadc1f3de394259820a5d1/header.jpg?t=1778185860",
+    "short_description": "A drifting simulator featuring an authentic competition format and a judging system inspired by modern drift championships. Enhanced and updated physics, developed in collaboration with the CarX Motorsport team.",
     "is_free": false,
-    "price": "¥ 46.40",
-    "original_price": "¥ 58.00",
-    "discount_percent": 20,
+    "price": "¥ 92.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3802470"
-  },
-  {
-    "appid": 3672400,
-    "name": "Farever",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/af566fcc8238f874ec637ed3c3e201d9b503f568/header_alt_assets_1_schinese.jpg?t=1778079388",
-    "short_description": "在遗忘国度中铸就你的传奇！《Farever》是一款设定于广阔奇幻开放世界的多人在线动作RPG。无论独行还是与好友同行，都能踏上一场史诗冒险！探索荒野与危险地牢，打造多件强力装备，在爽快战斗与平台跳跃中开辟属于自己的道路。",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3672400"
-  },
-  {
-    "appid": 4235230,
-    "name": "Werewolf: The Inner Beast",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235230/49fa542c004c025996d43956580ba4fab7afca5d/header.jpg?t=1778073940",
-    "short_description": "狼人：内在之兽 是一款第三人称3D生存恐怖游戏，女主角视角。故事驱动的线性玩法，带有黑暗、 claustrophobic 的压抑氛围。",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 5 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4235230"
-  },
-  {
-    "appid": 3868320,
-    "name": "点击炼金术",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868320/8f99ecbe393a3a5c2044f85b9cce8e5bc2fa8a75/header.jpg?t=1778088451",
-    "short_description": "在这款点击放置增量游戏中，踏上成为炼金大师之路。探索神秘的禁忌森林，收集丰富的自然资源，点亮繁茂的技能树，制作各种奇妙的魔法机械。击败怪物，种植作物，打造你的魔法基地，成为无所不能的点击炼金术师吧！",
-    "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
+      "大型多人在线",
+      "竞速",
       "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3868320"
-  },
-  {
-    "appid": 3404260,
-    "name": "Dead as Disco",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/ae0f4b71735adf4f2494ecb7914fcbafee215277/header.jpg?t=1777993435",
-    "short_description": "在《死亡迪斯科》中，武术与MV节奏激情碰撞。在这款霓虹闪烁的节奏格斗游戏里，每一拳、每一脚、每一个连招都将与音乐完美同步。 跟随查理·迪斯科的脚步，踏上对抗邪恶巨星、重组乐队的征程。",
-    "is_free": false,
-    "price": "¥ 68.80",
-    "original_price": "¥ 86.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立",
+      "体育",
       "抢先体验"
     ],
-    "release_date": "2026 年 5 月 5 日",
+    "release_date": "2026 年 5 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3404260"
+    "store_url": "https://store.steampowered.com/app/1826420"
   },
   {
-    "appid": 2830030,
-    "name": "废都电锯姬",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1777989660",
-    "short_description": "在这款氛围绝佳的生活风动作冒险游戏中，在充满各种巨型建筑的废墟间进行跑酷，攀爬巨型机械头目，并猎杀所有建筑设备。",
+    "appid": 2474430,
+    "name": "TetherGeist",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2474430/d917674ba0c744ac89230264c63b926b374b39c4/header.jpg?t=1778182177",
+    "short_description": "一款充满挑战与温情的硬核跳台游戏。运用灵魂出窍的神奇力量，完成一场危机四伏的成长试炼之旅。精通灵敏操控，克服重重考验，让灵体指引你抵达旅程终点。",
     "is_free": false,
-    "price": "¥ 54.00",
-    "original_price": "¥ 60.00",
-    "discount_percent": 10,
+    "price": "¥ 53.60",
+    "original_price": "¥ 67.00",
+    "discount_percent": 20,
     "genres": [
       "动作",
       "冒险",
       "独立"
     ],
-    "release_date": "2026 年 5 月 5 日",
+    "release_date": "2026 年 5 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2830030"
+    "store_url": "https://store.steampowered.com/app/2474430"
   },
   {
-    "appid": 3242950,
-    "name": "Outworld Station",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242950/e5e55c6f4b10303151dc964950b78b9ea501e7ac/header_alt_assets_1.jpg?t=1777988959",
-    "short_description": "在这款震撼的太空站工厂自动化游戏中，您将作为新任空间站指挥官执掌大权，开拓一个外星恒星系。在充满敌意的宇宙中积累资源、建造星舰，运用日益先进的制造技术并不断扩张您的空间站。",
+    "appid": 3232380,
+    "name": "蛙穿雪境",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/8223ca87cfd9aea7feaab4e1ddb5b443b49775e7/header_schinese.jpg?t=1778169645",
+    "short_description": "在这款生存类 Roguelike 游戏中，扮演一只蛙蛙，挖掘积雪、寻找宝藏、解锁升级，对抗神秘生物。想活下去？要么找到逃生之门，远走高飞；要么强化实力，干掉最终 Boss。",
     "is_free": false,
-    "price": "¥ 57.60",
-    "original_price": "¥ 72.00",
-    "discount_percent": 20,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
     "genres": [
+      "动作",
       "独立",
-      "模拟",
       "策略"
     ],
-    "release_date": "2026 年 5 月 5 日",
+    "release_date": "2026 年 5 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3242950"
+    "store_url": "https://store.steampowered.com/app/3232380"
   },
   {
-    "appid": 3214480,
-    "name": "王牌妖相",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214480/f5beabde5890e1eea95f20bd2de6f6585c7d5281/header.jpg?t=1777993657",
-    "short_description": "一款以卡牌机制驱动的政治 Roguelike 游戏。在这所由货真价实的怪兽构成的议会中博弈求生。争夺选票、践踏规则、周旋于丑闻并强行通过荒谬法案。只为在这个极度扭曲、荒诞至极的民主反乌托邦里，捍卫你的最高权位。",
+    "appid": 3161400,
+    "name": "战术扫雷：肉鸽Plus",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161400/2a5a5713a6fc7b78e93d3e9cd558edf64113eb3d/header_schinese.jpg?t=1778172604",
+    "short_description": "当扫雷遇上肉鸽，用战术思维扫清迷雾。基于经典扫雷，以Rogue-lite玩法赋予无限可能。卡牌、改造方块、永久强化三重成长，扫雷爽局一键解压。规划你的经济，组合强化套路，思考战术打法，对抗复杂且致命的雷区陷阱。随机生成关卡，无限挑战，体验新世代的扫雷Plus。",
     "is_free": false,
-    "price": "¥ 65.45",
-    "original_price": "¥ 77.00",
-    "discount_percent": 15,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
     "genres": [
       "休闲",
       "独立",
       "策略"
     ],
-    "release_date": "2026 年 5 月 4 日",
+    "release_date": "2026 年 5 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3214480"
+    "store_url": "https://store.steampowered.com/app/3161400"
   },
   {
-    "appid": 2026820,
-    "name": "Die in the Dungeon",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026820/42a0cf38c5dec51fb73f6483faf6e5e68ad19170/header.jpg?t=1777882791",
-    "short_description": "在这款类Rogue回合制牌组构建游戏中从神秘的地牢里杀出一条血路，不过你用的不是卡牌，而是骰子！在骰子盘上组合强力骰子来对付敌人，还能用魔法遗物强化骰子的效果。游戏中还有意料之外的遭遇，你需要冒险赌上一切，而结果如何全看天意。",
+    "appid": 2680670,
+    "name": "闻鼓而战",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/757474155250659dc1aff0a30e10c920f38885d5/header.jpg?t=1778169981",
+    "short_description": "在这款 Roguelite 战略回合制游戏中，带领一支部落战乐团，与 Wardrum 的节拍协同来发动攻势吧！在这个弥漫着节奏魔法的严酷幻想世界中开辟道路、直面死亡并强化你的战士，最终清除败侵蚀这片大陆的黑暗巫术。",
     "is_free": false,
-    "price": "¥ 31.20",
-    "original_price": "¥ 48.00",
-    "discount_percent": 35,
+    "price": "¥ 60.79",
+    "original_price": "¥ 75.99",
+    "discount_percent": 20,
     "genres": [
-      "独立",
       "角色扮演",
       "策略"
     ],
-    "release_date": "2026 年 5 月 1 日",
+    "release_date": "2026 年 5 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2026820"
+    "store_url": "https://store.steampowered.com/app/2680670"
   },
   {
-    "appid": 3892270,
-    "name": "Gamble With Your Friends",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1778074971",
-    "short_description": "An online 1-6 player co-op \u0026quot;casino crawler\u0026quot; where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
+    "appid": 2570210,
+    "name": "Eden Crafters",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570210/9887c3a4f9b82d9e32c14b07bfe122c63326b707/header.jpg?t=1778176464",
+    "short_description": "在 Eden Crafters 中踏上生存、手工和自动化的冒险之旅，这是一款开放世界的合作游戏，挑战你将一个充满敌意的星球变成人类的避难所。 调节气候，创造可呼吸的大气和海洋：塑造一个新世界！",
     "is_free": false,
-    "price": "¥ 20.46",
-    "original_price": "¥ 33.00",
-    "discount_percent": 38,
+    "price": "¥ 60.80",
+    "original_price": "¥ 76.00",
+    "discount_percent": 20,
     "genres": [
       "冒险",
       "独立",
-      "模拟"
+      "模拟",
+      "策略"
     ],
-    "release_date": "2026 年 5 月 1 日",
+    "release_date": "2026 年 5 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3892270"
+    "store_url": "https://store.steampowered.com/app/2570210"
+  },
+  {
+    "appid": 4114070,
+    "name": "双点博物馆：艺想天开",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114070/66b8b99ee5fd19a5a348a75ee00baf35a4d0e3e4/header_schinese.jpg?t=1778162441",
+    "short_description": "《双点博物馆：艺想天开》包含了艺术、想象，以及想象中的艺术品。现在正在招聘艺术专家前来建立艺术工作室、创作原创作品，并让访客感受万千情绪。",
+    "is_free": false,
+    "price": "¥ 39.60",
+    "original_price": "¥ 44.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4114070"
+  },
+  {
+    "appid": 2473350,
+    "name": "HUNTDOWN: OVERTIME",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1778162013",
+    "short_description": "大财团将犯罪横行的街道化作赏金猎手的牟利场，约翰·索耶即将大赚一笔。在这部刺激的Roguelite前传中不断猎杀、阵亡、升级，每项战略升级都将剥离更多血肉，以机械义肢逐步锻造生化人战士。",
+    "is_free": false,
+    "price": "¥ 70.20",
+    "original_price": "¥ 78.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2473350"
+  },
+  {
+    "appid": 3144860,
+    "name": "WILL: Follow The Light",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144860/3fb15b767ff7a032ddd81661c2791e056badfd00/header.jpg?t=1778188495",
+    "short_description": "深入体验一场现实主义的单人第一人称冒险之旅，穿越严酷的北纬地区，在这片无尽水域上航行，寻找回到您所爱之人身边的路。您会跟随光的指引吗？",
+    "is_free": false,
+    "price": "¥ 60.00",
+    "original_price": "¥ 75.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3144860"
+  },
+  {
+    "appid": 2582320,
+    "name": "Mixtape",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/95bbf1097b6f66f39b56f6388250c97a2f43b59e/header.jpg?t=1778170796",
+    "short_description": "在齐聚的最后一晚，三位好友踏上了最后一次冒险之旅。伴着混音带走过青春记忆，陶醉在属于一代人的经典旋律中。",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2582320"
   }
 ]
