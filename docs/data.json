@@ -1,5 +1,25 @@
 [
   {
+    "appid": 3582250,
+    "name": "从农场到餐桌 / Farm to Table",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/fcf5b2483f10aba7ea17aec04b230faaf82fa977/header_schinese.jpg?t=1778338157",
+    "short_description": "含基地建造的农场\u0026amp;餐厅经营模拟。后院种植、烹饪并上桌！探索小岛食材解锁新食谱：采集、钓鱼、养动物、用机器生产。管理资源、雇员工，把有机事业做成五星餐厅！",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3582250"
+  },
+  {
     "appid": 3526710,
     "name": "万物皆可蟹：动物进化 Roguelite | Everything is Crab",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287",
@@ -19,27 +39,9 @@
     "store_url": "https://store.steampowered.com/app/3526710"
   },
   {
-    "appid": 3804180,
-    "name": "在姉正泰镇渡过的暑假",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3804180/2bdab101d0975cade4eda54d4a92e378110398e6/header_schinese.jpg?t=1778252215",
-    "short_description": "邻家姐姐、辣妹、学生会长、朋友的妈妈……被各种大姐姐包围的我，究竟这个暑假会变得有多好玩呢？",
-    "is_free": false,
-    "price": "¥ 62.67",
-    "original_price": "¥ 69.64",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 5 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3804180"
-  },
-  {
     "appid": 3232380,
     "name": "蛙穿雪境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/8223ca87cfd9aea7feaab4e1ddb5b443b49775e7/header_schinese.jpg?t=1778169645",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/4aec6dc45dab3a096faeda88c8036627817f0cfe/header_alt_assets_0.jpg?t=1778327987",
     "short_description": "在这款生存类 Roguelike 游戏中，扮演一只蛙蛙，挖掘积雪、寻找宝藏、解锁升级，对抗神秘生物。想活下去？要么找到逃生之门，远走高飞；要么强化实力，干掉最终 Boss。",
     "is_free": false,
     "price": "¥ 53.10",
@@ -53,6 +55,24 @@
     "release_date": "2026 年 5 月 7 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3232380"
+  },
+  {
+    "appid": 3161400,
+    "name": "战术扫雷：肉鸽Plus",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161400/2a5a5713a6fc7b78e93d3e9cd558edf64113eb3d/header_schinese.jpg?t=1778235664",
+    "short_description": "当扫雷遇上肉鸽，用战术思维扫清迷雾。基于经典扫雷，以Rogue-lite玩法赋予无限可能。卡牌、改造方块、永久强化三重成长，扫雷爽局一键解压。规划你的经济，组合强化套路，思考战术打法，对抗复杂且致命的雷区陷阱。随机生成关卡，无限挑战，体验新世代的扫雷Plus。",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3161400"
   },
   {
     "appid": 2473350,
@@ -70,23 +90,6 @@
     "release_date": "2026 年 5 月 7 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2473350"
-  },
-  {
-    "appid": 3144860,
-    "name": "WILL: Follow The Light",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144860/3fb15b767ff7a032ddd81661c2791e056badfd00/header.jpg?t=1778188495",
-    "short_description": "深入体验一场现实主义的单人第一人称冒险之旅，穿越严酷的北纬地区，在这片无尽水域上航行，寻找回到您所爱之人身边的路。您会跟随光的指引吗？",
-    "is_free": false,
-    "price": "¥ 60.00",
-    "original_price": "¥ 75.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3144860"
   },
   {
     "appid": 2582320,
@@ -126,7 +129,7 @@
   {
     "appid": 3672400,
     "name": "Farever",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/af566fcc8238f874ec637ed3c3e201d9b503f568/header_alt_assets_1_schinese.jpg?t=1778280648",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/af566fcc8238f874ec637ed3c3e201d9b503f568/header_alt_assets_1_schinese.jpg?t=1778346609",
     "short_description": "在遗忘国度中铸就你的传奇！《Farever》是一款设定于广阔奇幻开放世界的多人在线动作RPG。无论独行还是与好友同行，都能踏上一场史诗冒险！探索荒野与危险地牢，打造多件强力装备，在爽快战斗与平台跳跃中开辟属于自己的道路。",
     "is_free": false,
     "price": "¥ 68.40",
@@ -141,6 +144,25 @@
     "release_date": "2026 年 5 月 6 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3672400"
+  },
+  {
+    "appid": 3868320,
+    "name": "点击炼金术",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868320/8f99ecbe393a3a5c2044f85b9cce8e5bc2fa8a75/header.jpg?t=1778178665",
+    "short_description": "在这款点击放置增量游戏中，踏上成为炼金大师之路。探索神秘的禁忌森林，收集丰富的自然资源，点亮繁茂的技能树，制作各种奇妙的魔法机械。击败怪物，种植作物，打造你的魔法基地，成为无所不能的点击炼金术师吧！",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3868320"
   },
   {
     "appid": 3404260,
@@ -159,23 +181,5 @@
     "release_date": "2026 年 5 月 5 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3404260"
-  },
-  {
-    "appid": 2830030,
-    "name": "废都电锯姬",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1778300297",
-    "short_description": "在这款氛围绝佳的生活风动作冒险游戏中，在充满各种巨型建筑的废墟间进行跑酷，攀爬巨型机械头目，并猎杀所有建筑设备。",
-    "is_free": false,
-    "price": "¥ 54.00",
-    "original_price": "¥ 60.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2830030"
   }
 ]
