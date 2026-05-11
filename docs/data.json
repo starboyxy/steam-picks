@@ -41,7 +41,7 @@
   {
     "appid": 3232380,
     "name": "蛙穿雪境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/4aec6dc45dab3a096faeda88c8036627817f0cfe/header_alt_assets_0.jpg?t=1778327987",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/4aec6dc45dab3a096faeda88c8036627817f0cfe/header_alt_assets_0.jpg?t=1778446021",
     "short_description": "在这款生存类 Roguelike 游戏中，扮演一只蛙蛙，挖掘积雪、寻找宝藏、解锁升级，对抗神秘生物。想活下去？要么找到逃生之门，远走高飞；要么强化实力，干掉最终 Boss。",
     "is_free": false,
     "price": "¥ 53.10",
@@ -55,24 +55,6 @@
     "release_date": "2026 年 5 月 7 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3232380"
-  },
-  {
-    "appid": 3161400,
-    "name": "战术扫雷：肉鸽Plus",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161400/2a5a5713a6fc7b78e93d3e9cd558edf64113eb3d/header_schinese.jpg?t=1778235664",
-    "short_description": "当扫雷遇上肉鸽，用战术思维扫清迷雾。基于经典扫雷，以Rogue-lite玩法赋予无限可能。卡牌、改造方块、永久强化三重成长，扫雷爽局一键解压。规划你的经济，组合强化套路，思考战术打法，对抗复杂且致命的雷区陷阱。随机生成关卡，无限挑战，体验新世代的扫雷Plus。",
-    "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 48.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3161400"
   },
   {
     "appid": 2473350,
@@ -167,7 +149,7 @@
   {
     "appid": 3404260,
     "name": "Dead as Disco",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/ae0f4b71735adf4f2494ecb7914fcbafee215277/header.jpg?t=1777993435",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/b2764acfbeb028db1d5641d45c60e8ee6d4b7f40/header_schinese.jpg?t=1778394434",
     "short_description": "在《死亡迪斯科》中，武术与MV节奏激情碰撞。在这款霓虹闪烁的节奏格斗游戏里，每一拳、每一脚、每一个连招都将与音乐完美同步。 跟随查理·迪斯科的脚步，踏上对抗邪恶巨星、重组乐队的征程。",
     "is_free": false,
     "price": "¥ 68.80",
@@ -181,5 +163,23 @@
     "release_date": "2026 年 5 月 5 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3404260"
+  },
+  {
+    "appid": 2830030,
+    "name": "废都电锯姬",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1778341635",
+    "short_description": "在这款氛围绝佳的生活风动作冒险游戏中，在充满各种巨型建筑的废墟间进行跑酷，攀爬巨型机械头目，并猎杀所有建筑设备。",
+    "is_free": false,
+    "price": "¥ 54.00",
+    "original_price": "¥ 60.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2830030"
   }
 ]
