@@ -1,5 +1,57 @@
 [
   {
+    "appid": 2535950,
+    "name": "Battlestar Galactica: Scattered Hopes",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778511533",
+    "short_description": "In Battlestar Galactica: Scattered Hopes, take command of a fleet escaping the annihilation of the Twelve Colonies. Manage crises on board as you prepare for the next encounter with the Cylon Fleet. Times are dire, and hard choices must be made. Your only hope: rejoin the Battlestar Galactica.",
+    "is_free": false,
+    "price": "¥ 84.58",
+    "original_price": "¥ 105.73",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2535950"
+  },
+  {
+    "appid": 2681030,
+    "name": "Outbound / 拾光旅人",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/1492e5d5bd487a3a80c379528396af2fc3f993da/header_schinese.jpg?t=1778519137",
+    "short_description": "探索这个绚丽多彩的世界，建造属于你的温馨移动之家。制作工作台，利用太阳能、风能或水能，升级并定制车辆，种植庄稼，实现自给自足的可持续生活，支持4名玩家组队冒险。",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 5 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2681030"
+  },
+  {
+    "appid": 4187140,
+    "name": "别慌！还剩一个引擎哈",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187140/3afa3d5d9f851962ed617a33207204859ec37b15/header_schinese.jpg?t=1778496613",
+    "short_description": "一款节奏紧凑的合作解谜游戏,飞行员与空中交通管制员必须沟通、破译并即兴应变,以拯救一架即将坠毁的飞机。说得快,解得更快,并尽量别坠机。",
+    "is_free": false,
+    "price": "¥ 22.40",
+    "original_price": "¥ 28.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4187140"
+  },
+  {
     "appid": 3582250,
     "name": "从农场到餐桌 / Farm to Table",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/fcf5b2483f10aba7ea17aec04b230faaf82fa977/header_schinese.jpg?t=1778338157",
@@ -76,7 +128,7 @@
   {
     "appid": 2582320,
     "name": "Mixtape",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/95bbf1097b6f66f39b56f6388250c97a2f43b59e/header.jpg?t=1778291163",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/95bbf1097b6f66f39b56f6388250c97a2f43b59e/header.jpg?t=1778541597",
     "short_description": "在齐聚的最后一晚，三位好友踏上了最后一次冒险之旅。伴着混音带走过青春记忆，陶醉在属于一代人的经典旋律中。",
     "is_free": false,
     "price": "¥ 61.20",
@@ -126,60 +178,5 @@
     "release_date": "2026 年 5 月 6 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3672400"
-  },
-  {
-    "appid": 3868320,
-    "name": "点击炼金术",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868320/8f99ecbe393a3a5c2044f85b9cce8e5bc2fa8a75/header.jpg?t=1778178665",
-    "short_description": "在这款点击放置增量游戏中，踏上成为炼金大师之路。探索神秘的禁忌森林，收集丰富的自然资源，点亮繁茂的技能树，制作各种奇妙的魔法机械。击败怪物，种植作物，打造你的魔法基地，成为无所不能的点击炼金术师吧！",
-    "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3868320"
-  },
-  {
-    "appid": 3404260,
-    "name": "Dead as Disco",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/b2764acfbeb028db1d5641d45c60e8ee6d4b7f40/header_schinese.jpg?t=1778394434",
-    "short_description": "在《死亡迪斯科》中，武术与MV节奏激情碰撞。在这款霓虹闪烁的节奏格斗游戏里，每一拳、每一脚、每一个连招都将与音乐完美同步。 跟随查理·迪斯科的脚步，踏上对抗邪恶巨星、重组乐队的征程。",
-    "is_free": false,
-    "price": "¥ 68.80",
-    "original_price": "¥ 86.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3404260"
-  },
-  {
-    "appid": 2830030,
-    "name": "废都电锯姬",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1778341635",
-    "short_description": "在这款氛围绝佳的生活风动作冒险游戏中，在充满各种巨型建筑的废墟间进行跑酷，攀爬巨型机械头目，并猎杀所有建筑设备。",
-    "is_free": false,
-    "price": "¥ 54.00",
-    "original_price": "¥ 60.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2830030"
   }
 ]
