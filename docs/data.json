@@ -1,8 +1,94 @@
 [
   {
+    "appid": 4485430,
+    "name": "《守望先锋®》：安娜完整神话英雄皮肤礼包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485430/73ea0b7cb6e1428f72a324a80504aef60c655831/header.jpg?t=1778608820",
+    "short_description": "获取安娜完整神话英雄皮肤和20级战令等级直升！",
+    "is_free": false,
+    "price": "¥ 258.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 5 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4485430"
+  },
+  {
+    "appid": 3100370,
+    "name": "地狱黑杰克 Black Jacket",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100370/6c18de249108fd1afd82558a2bf909f7f7b89572/header_schinese.jpg?t=1778622125",
+    "short_description": "一款以21点规则为基础的卡牌构筑游戏，在冥界与徘徊的亡魂对局21点。构建卡组、觉醒卡牌、收集神器，与过往的亡魂对决，揭开纠缠的过去，赢取灵魂硬币，贿赂摆渡人——逃离这个永不结束的噩梦。",
+    "is_free": false,
+    "price": "¥ 42.49",
+    "original_price": "¥ 49.99",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3100370"
+  },
+  {
+    "appid": 2255370,
+    "name": "8020号指令",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255370/0083567e3b1ac98ef47b996048ed57f6bb8aac1f/header_schinese.jpg?t=1778615876",
+    "short_description": "地球正在走向终结，人类的时间已所剩无几。距离地球12光年的天仓五f星是最后一线希望。当殖民飞船仙后号在这颗星球紧急着陆后，他们很快就发现自己不是唯一的访客。",
+    "is_free": false,
+    "price": "¥ 245.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 5 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2255370"
+  },
+  {
+    "appid": 4373820,
+    "name": "第 3 赛季战地 Pro——《战地风云™ 6》和禁区冲突",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373820/0cd6c06ef0cf39f9883c29550b192d3ced2d7c5b/header.jpg?t=1778612388",
+    "short_description": "通过《战地风云》Pro 开启你的第 3 赛季征程。获取战斗通行证（含 25 级直升与经验值加成）、六项即时解锁内容、BF Pro 电台、包含战术装备的奖励路径以及更多内容。",
+    "is_free": false,
+    "price": "¥ 138.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 5 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4373820"
+  },
+  {
+    "appid": 2525510,
+    "name": "终末机兵",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525510/326af8b8aa3174eecda14422a6d157c5df47b7cc/header_alt_assets_5.jpg?t=1778572166",
+    "short_description": "这是一款融合了钢铁、烈火、羁绊与热血王道动漫风格的沙盒战术RPG。在这个被暴走AI统治的世界里，组建你的战队，改装你的机甲，投身于电影级演出的回合制战斗。你们之间的羁绊，将决定谁能活到最后！",
+    "is_free": false,
+    "price": "¥ 134.10",
+    "original_price": "¥ 149.00",
+    "discount_percent": 10,
+    "genres": [
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2525510"
+  },
+  {
     "appid": 2535950,
     "name": "Battlestar Galactica: Scattered Hopes",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778511533",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778599517",
     "short_description": "In Battlestar Galactica: Scattered Hopes, take command of a fleet escaping the annihilation of the Twelve Colonies. Manage crises on board as you prepare for the next encounter with the Cylon Fleet. Times are dire, and hard choices must be made. Your only hope: rejoin the Battlestar Galactica.",
     "is_free": false,
     "price": "¥ 84.58",
@@ -34,22 +120,6 @@
     "release_date": "2026 年 5 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2681030"
-  },
-  {
-    "appid": 4187140,
-    "name": "别慌！还剩一个引擎哈",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187140/3afa3d5d9f851962ed617a33207204859ec37b15/header_schinese.jpg?t=1778496613",
-    "short_description": "一款节奏紧凑的合作解谜游戏,飞行员与空中交通管制员必须沟通、破译并即兴应变,以拯救一架即将坠毁的飞机。说得快,解得更快,并尽量别坠机。",
-    "is_free": false,
-    "price": "¥ 22.40",
-    "original_price": "¥ 28.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4187140"
   },
   {
     "appid": 3582250,
@@ -93,7 +163,7 @@
   {
     "appid": 3232380,
     "name": "蛙穿雪境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/4aec6dc45dab3a096faeda88c8036627817f0cfe/header_alt_assets_0.jpg?t=1778446021",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/4aec6dc45dab3a096faeda88c8036627817f0cfe/header_alt_assets_0.jpg?t=1778580427",
     "short_description": "在这款生存类 Roguelike 游戏中，扮演一只蛙蛙，挖掘积雪、寻找宝藏、解锁升级，对抗神秘生物。想活下去？要么找到逃生之门，远走高飞；要么强化实力，干掉最终 Boss。",
     "is_free": false,
     "price": "¥ 53.10",
@@ -107,76 +177,5 @@
     "release_date": "2026 年 5 月 7 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3232380"
-  },
-  {
-    "appid": 2473350,
-    "name": "HUNTDOWN: OVERTIME",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1778162013",
-    "short_description": "大财团将犯罪横行的街道化作赏金猎手的牟利场，约翰·索耶即将大赚一笔。在这部刺激的Roguelite前传中不断猎杀、阵亡、升级，每项战略升级都将剥离更多血肉，以机械义肢逐步锻造生化人战士。",
-    "is_free": false,
-    "price": "¥ 70.20",
-    "original_price": "¥ 78.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2473350"
-  },
-  {
-    "appid": 2582320,
-    "name": "Mixtape",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/95bbf1097b6f66f39b56f6388250c97a2f43b59e/header.jpg?t=1778541597",
-    "short_description": "在齐聚的最后一晚，三位好友踏上了最后一次冒险之旅。伴着混音带走过青春记忆，陶醉在属于一代人的经典旋律中。",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2582320"
-  },
-  {
-    "appid": 3110760,
-    "name": "皓白初晓",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3110760/header.jpg?t=1778168918",
-    "short_description": "在这款由《远星物语（CrossCode）》的创作者带来的全新俯视角2.5D动作冒险游戏中打破倪克斯的诅咒，指引人类的复兴。用华丽的连招与敌人战斗，使用多种神圣武器，解开引人入胜的谜题，探索一个不断变化的世界。",
-    "is_free": false,
-    "price": "¥ 79.05",
-    "original_price": "¥ 93.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3110760"
-  },
-  {
-    "appid": 3672400,
-    "name": "Farever",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/af566fcc8238f874ec637ed3c3e201d9b503f568/header_alt_assets_1_schinese.jpg?t=1778346609",
-    "short_description": "在遗忘国度中铸就你的传奇！《Farever》是一款设定于广阔奇幻开放世界的多人在线动作RPG。无论独行还是与好友同行，都能踏上一场史诗冒险！探索荒野与危险地牢，打造多件强力装备，在爽快战斗与平台跳跃中开辟属于自己的道路。",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3672400"
   }
 ]
