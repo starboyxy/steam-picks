@@ -1,20 +1,59 @@
 [
   {
-    "appid": 4485430,
-    "name": "《守望先锋®》：安娜完整神话英雄皮肤礼包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485430/73ea0b7cb6e1428f72a324a80504aef60c655831/header.jpg?t=1778608820",
-    "short_description": "获取安娜完整神话英雄皮肤和20级战令等级直升！",
+    "appid": 979110,
+    "name": "Space Haven",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1778684449",
+    "short_description": "率领一群身份复杂的下层社会平民，乘坐飞船踏上太空之旅，寻找新的家园。在这款太空船殖民地模拟经营类游戏中，你可以一砖一瓦地建造太空船，创造最佳的气体条件，管理船员的各种需求和情绪，并尽情探索广袤的宇宙。",
     "is_free": false,
-    "price": "¥ 258.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 48.00",
+    "original_price": "¥ 80.00",
+    "discount_percent": 40,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/979110"
+  },
+  {
+    "appid": 2537470,
+    "name": "疫区档案",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/fc9411a8034d67e7a9fb6f9f5cf8af48c55295b5/header_schinese.jpg?t=1778731235",
+    "short_description": "致敬90年代生存恐怖经典《生化危机》。深入被封锁的死城，直面令人窒息的孤立与嗜血的畸变怪物。拼凑散落破碎的真相，在资源极度匮乏的博弈中步步为营。在这里，每一颗子弹都是奢侈的希望。当退路封死、弹尽粮绝，唯有最冷静的大脑，才能在绝境中计算出一线生机。",
+    "is_free": false,
+    "price": "¥ 46.40",
+    "original_price": "¥ 58.00",
+    "discount_percent": 20,
     "genres": [
       "动作",
-      "免费开玩"
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2537470"
+  },
+  {
+    "appid": 2174380,
+    "name": "古神之呼唤",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174380/201700d941962c710f3c7048c03fdfb30dac2d63/header_schinese.jpg?t=1778601220",
+    "short_description": "在这款克苏鲁风格的剧情向解谜冒险游戏中，踏上前往地球偏远角落的旅程，探索远古的恐怖存在。本作为 2020 年广受好评的《海之呼唤》的续篇。",
+    "is_free": false,
+    "price": "¥ 70.40",
+    "original_price": "¥ 88.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立"
     ],
     "release_date": "2026 年 5 月 12 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4485430"
+    "store_url": "https://store.steampowered.com/app/2174380"
   },
   {
     "appid": 3100370,
@@ -34,23 +73,6 @@
     "release_date": "2026 年 5 月 12 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3100370"
-  },
-  {
-    "appid": 2255370,
-    "name": "8020号指令",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255370/0083567e3b1ac98ef47b996048ed57f6bb8aac1f/header_schinese.jpg?t=1778615876",
-    "short_description": "地球正在走向终结，人类的时间已所剩无几。距离地球12光年的天仓五f星是最后一线希望。当殖民飞船仙后号在这颗星球紧急着陆后，他们很快就发现自己不是唯一的访客。",
-    "is_free": false,
-    "price": "¥ 245.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 5 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2255370"
   },
   {
     "appid": 4373820,
@@ -86,27 +108,9 @@
     "store_url": "https://store.steampowered.com/app/2525510"
   },
   {
-    "appid": 2535950,
-    "name": "Battlestar Galactica: Scattered Hopes",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778599517",
-    "short_description": "In Battlestar Galactica: Scattered Hopes, take command of a fleet escaping the annihilation of the Twelve Colonies. Manage crises on board as you prepare for the next encounter with the Cylon Fleet. Times are dire, and hard choices must be made. Your only hope: rejoin the Battlestar Galactica.",
-    "is_free": false,
-    "price": "¥ 84.58",
-    "original_price": "¥ 105.73",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2535950"
-  },
-  {
     "appid": 2681030,
     "name": "Outbound / 拾光旅人",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/1492e5d5bd487a3a80c379528396af2fc3f993da/header_schinese.jpg?t=1778519137",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/1492e5d5bd487a3a80c379528396af2fc3f993da/header_schinese.jpg?t=1778658908",
     "short_description": "探索这个绚丽多彩的世界，建造属于你的温馨移动之家。制作工作台，利用太阳能、风能或水能，升级并定制车辆，种植庄稼，实现自给自足的可持续生活，支持4名玩家组队冒险。",
     "is_free": false,
     "price": "¥ 79.20",
@@ -120,6 +124,22 @@
     "release_date": "2026 年 5 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2681030"
+  },
+  {
+    "appid": 4187140,
+    "name": "别慌！还剩一个引擎哈",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187140/3afa3d5d9f851962ed617a33207204859ec37b15/header_schinese.jpg?t=1778685915",
+    "short_description": "一款节奏紧凑的合作解谜游戏,飞行员与空中交通管制员必须沟通、破译并即兴应变,以拯救一架即将坠毁的飞机。说得快,解得更快,并尽量别坠机。",
+    "is_free": false,
+    "price": "¥ 22.40",
+    "original_price": "¥ 28.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4187140"
   },
   {
     "appid": 3582250,
@@ -159,23 +179,5 @@
     "release_date": "2026 年 5 月 8 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3526710"
-  },
-  {
-    "appid": 3232380,
-    "name": "蛙穿雪境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232380/4aec6dc45dab3a096faeda88c8036627817f0cfe/header_alt_assets_0.jpg?t=1778580427",
-    "short_description": "在这款生存类 Roguelike 游戏中，扮演一只蛙蛙，挖掘积雪、寻找宝藏、解锁升级，对抗神秘生物。想活下去？要么找到逃生之门，远走高飞；要么强化实力，干掉最终 Boss。",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3232380"
   }
 ]
