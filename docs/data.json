@@ -1,5 +1,113 @@
 [
   {
+    "appid": 4466620,
+    "name": "SiNiSistar 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466620/9701d60d415c55948a5a3fc141cbb74f49c73d9b/header.jpg?t=1778889257",
+    "short_description": "化身退魔修女，踏足正在灭亡的异世界。以精致的像素画绘制而成的末日般的世界。恶心恐怖地蠕动着的异形怪物。然后是无数次阻挡住主角的强大boss——描绘抵抗着破灭与绝望，祓除污秽的修女的冒险的暗黑动作RPG。",
+    "is_free": false,
+    "price": "¥ 47.20",
+    "original_price": "¥ 59.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 5 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4466620"
+  },
+  {
+    "appid": 3133650,
+    "name": "钱钱向钱冲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133650/d8db290671096c3f59e678ba38900725e5afeb92/header.jpg?t=1778884799",
+    "short_description": "钱就是万能的。拥抱城市建设的混沌。饲养巨型怪物！观察弱小的冒险家们！用强大的法术和大自然最伟大的力量——金钱，让大自然顺从你的意愿。",
+    "is_free": false,
+    "price": "¥ 59.99",
+    "original_price": "¥ 99.99",
+    "discount_percent": 40,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3133650"
+  },
+  {
+    "appid": 3523750,
+    "name": "与舰同沉",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/08896fbcbb5d18a6cfcc36946b2492c3577ae4a3/header_schinese.jpg?t=1778858227",
+    "short_description": "在这款战略自走棋中设计一艘武装到牙齿的太空战舰。挑选超过 200 种物品，装备船体，并在异步 PvP 中释放它的火力。组合舰长与派系，打造离谱组合并制霸银河。重掷、购买、放置、祈祷。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3523750"
+  },
+  {
+    "appid": 3657890,
+    "name": "《NBA 2K26》名人堂通行证：第7季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3657890/30001ff0214108bb6c466c7fff47e0b52e6784e9/header.jpg?t=1778857271",
+    "short_description": "名人堂通行证：第七赛季包含职业通行证的所有内容：第七赛季、15% 经验值提升器、10 级等级跳过和 15,000 VC！",
+    "is_free": false,
+    "price": "¥ 138.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "体育"
+    ],
+    "release_date": "2026 年 5 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3657890"
+  },
+  {
+    "appid": 3602030,
+    "name": "Steel Artery: Train City Builder",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602030/60da7faed36a98fb223773141add3fab77961c0f/header.jpg?t=1778857634",
+    "short_description": "在这款蒸汽朋克幻想风格的列车城市建造游戏中，打造一座在轨道上奔行的活力都市。管理拥有数千名自主公民的多种族殖民地，平衡他们的需求，经营经济，规划物流，并探索遥远的地区，以确保帝国的繁荣。",
+    "is_free": false,
+    "price": "¥ 44.10",
+    "original_price": "¥ 49.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3602030"
+  },
+  {
+    "appid": 2629230,
+    "name": "The Adventures of Sir Kicksalot",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629230/25ae1937f8b9d3f93104784e52bc8724df4d9cd7/header.jpg?t=1778850155",
+    "short_description": "这是一款第一人称动作游戏，你可以通过多种方式击败敌人：无论是武器、法术、潜行，还是使用战术将他们一脚踢进致命尖刺。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 5 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2629230"
+  },
+  {
     "appid": 3088070,
     "name": "Dark Light: Survivor",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088070/67fac2154cb1277ad161f57425efe8585bfd85ce/header.jpg?t=1778795968",
@@ -17,23 +125,6 @@
     "release_date": "2026 年 5 月 14 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3088070"
-  },
-  {
-    "appid": 4523380,
-    "name": "Company of Heroes 3: Dare \u0026 Destroy",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4523380/e9c65163fabebfc7da37afef05ca452a44454e1c/header.jpg?t=1778782822",
-    "short_description": "此内容需要在Steam平台上下载并安装《英雄连3》这款基础游戏才能进行游玩。",
-    "is_free": false,
-    "price": "¥ 88.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4523380"
   },
   {
     "appid": 3486960,
@@ -55,7 +146,7 @@
   {
     "appid": 2091020,
     "name": "《烈焰之刃》 Blades of Fire",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2091020/5fa9a1bf1f65491a6e700c6457a23de681915728/header_schinese.jpg?t=1778774833",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2091020/5fa9a1bf1f65491a6e700c6457a23de681915728/header_schinese.jpg?t=1778841572",
     "short_description": "黑暗奇幻风格的冒险，在这里，战斗、成长与命运，一切定于铸造钢铁。",
     "is_free": false,
     "price": "¥ 102.00",
@@ -72,7 +163,7 @@
   {
     "appid": 1602000,
     "name": "酒店建筑师 Hotel Architect",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602000/6ad567d1cc6d86c5094d141f4bee0f37e4fd5948/header_alt_assets_8_schinese.jpg?t=1778771972",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602000/6ad567d1cc6d86c5094d141f4bee0f37e4fd5948/header_alt_assets_8_schinese.jpg?t=1778839230",
     "short_description": "缔造您的连锁酒店商业帝国！设计酒店，调度员工，应对宾客，招待挑剔的评论家，从家庭旅馆到豪华五星酒店，亲手书写属于您的商业传奇。从边陲小镇、风景名胜，到繁华都市，让您的酒店遍布世界上每个值得驻足的地方。现在，迈出第一步，开启您的酒店大亨人生。",
     "is_free": false,
     "price": "¥ 76.44",
@@ -86,97 +177,5 @@
     "release_date": "2026 年 5 月 14 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1602000"
-  },
-  {
-    "appid": 3774440,
-    "name": "帝国幻想乡~TOHOTOPIA",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774440/22e97e2df2b26c7e902589db2a85be9fb3a26e91/header.jpg?t=1778764625",
-    "short_description": "4X战争游戏的热潮席卷整个幻想乡，“电竞大赛”热烈开幕，少女们踊跃参赛！ 一时间群雄并起，逐鹿中原。 无论是化身“法老”的蕾米莉亚、扮演“皇帝”的辉夜，还是“大帝”神奈子、“哲人王”神子—— 就在此刻，打开游戏，领导你的帝国，制霸幻想乡！",
-    "is_free": false,
-    "price": "¥ 25.20",
-    "original_price": "¥ 28.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3774440"
-  },
-  {
-    "appid": 1461910,
-    "name": "Rogue Command",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/e9d07d55183ed7f733eb14580d42a4fae4243c00/header_alt_assets_3.jpg?t=1778748664",
-    "short_description": "真正经典的 RTS，融合 Roguelite 构筑。以子弹时间般的精准度操控单位。空投基地，集结军队。每一局，都是全新的兵器库。打造能打破游戏的构筑。或被游戏打破。",
-    "is_free": false,
-    "price": "¥ 55.30",
-    "original_price": "¥ 79.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1461910"
-  },
-  {
-    "appid": 979110,
-    "name": "Space Haven",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1778684449",
-    "short_description": "率领一群身份复杂的下层社会平民，乘坐飞船踏上太空之旅，寻找新的家园。在这款太空船殖民地模拟经营类游戏中，你可以一砖一瓦地建造太空船，创造最佳的气体条件，管理船员的各种需求和情绪，并尽情探索广袤的宇宙。",
-    "is_free": false,
-    "price": "¥ 48.00",
-    "original_price": "¥ 80.00",
-    "discount_percent": 40,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/979110"
-  },
-  {
-    "appid": 2537470,
-    "name": "疫区档案",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537470/fc9411a8034d67e7a9fb6f9f5cf8af48c55295b5/header_schinese.jpg?t=1778731235",
-    "short_description": "致敬90年代生存恐怖经典《生化危机》。深入被封锁的死城，直面令人窒息的孤立与嗜血的畸变怪物。拼凑散落破碎的真相，在资源极度匮乏的博弈中步步为营。在这里，每一颗子弹都是奢侈的希望。当退路封死、弹尽粮绝，唯有最冷静的大脑，才能在绝境中计算出一线生机。",
-    "is_free": false,
-    "price": "¥ 46.40",
-    "original_price": "¥ 58.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2537470"
-  },
-  {
-    "appid": 2174380,
-    "name": "古神之呼唤",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174380/201700d941962c710f3c7048c03fdfb30dac2d63/header_schinese.jpg?t=1778601220",
-    "short_description": "在这款克苏鲁风格的剧情向解谜冒险游戏中，踏上前往地球偏远角落的旅程，探索远古的恐怖存在。本作为 2020 年广受好评的《海之呼唤》的续篇。",
-    "is_free": false,
-    "price": "¥ 70.40",
-    "original_price": "¥ 88.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2174380"
   }
 ]
