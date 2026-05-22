@@ -1,19 +1,142 @@
 [
   {
-    "appid": 4216130,
-    "name": "深岩银河：异动核心 - 支持者升级包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216130/dc31bab14f827b64ec3bacf4d4d7efc464ad623e/header.jpg?t=1779292892",
-    "short_description": "想更进一步支持《异动核心》的幕后开发团队吗？购买此 DLC，往我们 (Ghost Ship Games) 的小费罐里投点小钱吧！同时，作为我们的一点心意，也会为你解锁游戏内闪亮亮的小玩意儿。",
+    "appid": 2532480,
+    "name": "Warhammer 40,000: Mechanicus II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532480/4b9ea5b45f304a841fc68520cc729307629fa9bd/header.jpg?t=1779383649",
+    "short_description": "在这款备受赞誉的《Warhammer 40,000: Mechanicus》续作中，快节奏的战术战斗与战略管理相结合。你可以掌控古老而不死的太空死灵军团，或是欧姆尼塞亚的科技宗教侍僧，世界的命运就掌握在你手中。",
     "is_free": false,
-    "price": "¥ 58.00",
+    "price": "¥ 179.10",
+    "original_price": "¥ 199.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2532480"
+  },
+  {
+    "appid": 3412160,
+    "name": "拉斯维加斯模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412160/7893c176c534db9e7627665928834af47ad01270/header_schinese.jpg?t=1779398735",
+    "short_description": "在本中，单人或合作打造成功的经营场所。从零开始，取悦顾客，应对混乱—破坏分子、故障，甚至外星来客。",
+    "is_free": false,
+    "price": "¥ 46.79",
+    "original_price": "¥ 51.99",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3412160"
+  },
+  {
+    "appid": 4399460,
+    "name": "Total War: WARHAMMER III - Bhashiva – Character Pack",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399460/1a22545f8644fe2bdd222c1d1abf8e072bf76901/header_alt_assets_0.jpg?t=1779381574",
+    "short_description": "“白虎”珀希瓦角色包将为游戏推出全新可玩传奇领主——“白虎”珀希瓦，同时为震旦天朝的军队增加一批致命的虎人战士佣兵部队。",
+    "is_free": false,
+    "price": "¥ 28.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "动作"
+      "动作",
+      "策略"
     ],
-    "release_date": "2026 年 5 月 20 日",
+    "release_date": "2026 年 5 月 21 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4216130"
+    "store_url": "https://store.steampowered.com/app/4399460"
+  },
+  {
+    "appid": 3161220,
+    "name": "Coffee Talk Tokyo",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161220/dd7ae7a3c0dd1b36c273155ede27912d106116e0/header.jpg?t=1779371303",
+    "short_description": "《Coffee Talk Tokyo》是这款广受喜爱的系列最新作，故事发生在东京的一家深夜咖啡馆。调制饮品，邂逅人类与妖怪，在一个温馨且注重剧情的世界中体验动人的故事。",
+    "is_free": false,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3161220"
+  },
+  {
+    "appid": 3126340,
+    "name": "烦恼驿站",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3126340/0c3be90230735480e30b72a7d7c500cd892c5c91/header_schinese.jpg?t=1779380423",
+    "short_description": "一款超现实叙事冒险游戏，你将在对话中变形，揭开神明失踪之谜。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3126340"
+  },
+  {
+    "appid": 4351410,
+    "name": "House Flipper 2 - Sakura DLC",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351410/ef28fe9466f3b40f02674e65c57f36c08b7a920f/header.jpg?t=1779369847",
+    "short_description": "和我们一起通过《房产达人2：樱花DLC》前往日本吧！翻新茶室、温泉、学校……或者使用春季和日本主题的物品建造传统日式房屋，并将其出售给一位新的、独特的买家！",
+    "is_free": false,
+    "price": "¥ 49.49",
+    "original_price": "¥ 54.99",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4351410"
+  },
+  {
+    "appid": 2111550,
+    "name": "Schrodinger's Cat Burglar",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111550/fce719144a3abd16ce110c0277af94e3e86d25a5/header.jpg?t=1779368037",
+    "short_description": "传送门与猫——加入这场量子解谜冒险吧！米腾斯获得了同时身处异地的不可思议之力。探索扭曲的测验密室，搞怪捣蛋，并以毫厘之差逃脱追捕！🐈🐈‍⬛",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2111550"
+  },
+  {
+    "appid": 2863680,
+    "name": "归零巡礼：亡谍镇魂曲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/267ca0c8d31e17a8eb9512efce3ff771b1fbb569/header_schinese.jpg?t=1779357975",
+    "short_description": "来自《极乐迪斯科》原班团队的下一款作品：《归零巡礼：亡谍镇魂曲》——一款间谍角色扮演游戏。你扮演一名天赋异禀却饱受折磨的行动员，去执行一项艰巨的任务。重整你破碎的情报网络，解开阴谋之网，在世界舞台上证明自己——或者重演败局。",
+    "is_free": false,
+    "price": "¥ 128.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 5 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2863680"
   },
   {
     "appid": 2605790,
@@ -35,7 +158,7 @@
   {
     "appid": 3341000,
     "name": "面面俱盗",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/fb9e9690597f7675a895fb6f46b7c746e70b75b5/header_schinese.jpg?t=1779288710",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/fb9e9690597f7675a895fb6f46b7c746e70b75b5/header_schinese.jpg?t=1779360426",
     "short_description": "《面面俱盗》是一款潜行动作盗窃游戏，支持单人游玩或与搭档在多人合作模式中并肩作案。在这款颠覆传统的潜行游戏中，通过精妙的玩法，在短时任务中掌握行窃之道。",
     "is_free": false,
     "price": "¥ 29.00",
@@ -49,132 +172,5 @@
     "release_date": "2026 年 5 月 20 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3341000"
-  },
-  {
-    "appid": 1206070,
-    "name": "《喇叭之城 (Phonopolis)》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206070/87a50691d40d18b212ca990ecd6cf4e6173431a0/header.jpg?t=1779285913",
-    "short_description": "《喇叭之城 (Phonopolis)》是一款故事驱动型解谜冒险游戏，背景设定在一个由纯手绘纸板打造的 3D 世界中。 在这座受前卫艺术启发而造就的反乌托邦城市，你要设法解开各种有趣的谜题，并帮助菲利克斯打破首领的控制。",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1206070"
-  },
-  {
-    "appid": 4558510,
-    "name": "ARK Fantastic Tames Season 1",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558510/5ba0f5cefd837dc85001a1230ebf01e43466b7bd/header.jpg?t=1779286118",
-    "short_description": "《奇幻驯兽》第一季带来三位全新伙伴：掘地鹿、地狱犬和谜龙。它们可以钻地而出，用多头攻击撕裂前线，或者模仿窃取的生物形态！",
-    "is_free": false,
-    "price": "¥ 70.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "大型多人在线",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 5 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4558510"
-  },
-  {
-    "appid": 2313720,
-    "name": "Noun Town 语言学习",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313720/e6ef06b949126cc439345e7d65a3f1faffe9b187/header.jpg?t=1779282703",
-    "short_description": "用玩游戏的方式，学会1000多个单词和短语，包括英语、日语等12种语言。在五颜六色的大地图里探索，玩单词小游戏，还能对着游戏角色开口说话练习口语。不再只会背单词，每个词都真正记住、真正会用。买一次永久玩，没有广告，没有月费。",
-    "is_free": false,
-    "price": "¥ 29.25",
-    "original_price": "¥ 39.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险",
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 5 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2313720"
-  },
-  {
-    "appid": 3542380,
-    "name": "符文之骰",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3542380/2cc0e31c523733d3805ce1733215f82f0b4a05b8/header.jpg?t=1779267089",
-    "short_description": "短时战术构筑。投掷骰子，创造魔法连锁反应。从具有独特技能的不同英雄职业中选择。在骰子、圣物和符文之间建立协同效应，击败挑战性Boss。",
-    "is_free": false,
-    "price": "¥ 40.80",
-    "original_price": "¥ 48.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3542380"
-  },
-  {
-    "appid": 4440380,
-    "name": "Forza Horizon 6 VIP Membership",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440380/6a3db3aa7930cb4954cc11029894b7964233e30f/header.jpg?t=1779162771",
-    "short_description": "拥有《Forza Horizon 6》VIP 会员资格，即可在地平线嘉年华永久享有额外奖励。* 畅享 2 倍比赛奖励点数、3 款 VIP 专属极限竞速特别版车辆、每周一次奖励超级抽奖，还有王冠图标、表情与喇叭等特别个性物品！",
-    "is_free": false,
-    "price": "¥ 68.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 5 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4440380"
-  },
-  {
-    "appid": 2483190,
-    "name": "极限竞速：地平线 6",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/27abb1584a118d50d0e3950fd48d557c51981db7/header.jpg?t=1779221600",
-    "short_description": "驾驶超过 550 辆真实存在的赛车，探索日本的绝美风光，在《Forza Horizon》有史以来最宏大的冒险中成为竞速传奇。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 5 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2483190"
-  },
-  {
-    "appid": 3693650,
-    "name": "淘淘旧货铺",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693650/d4478138f98accd49c0026f246d318bd32a85184/header.jpg?t=1779124564",
-    "short_description": "进入轻松惬意的《淘淘旧货铺》，模拟经营属于你的复古杂货铺！在成堆的货箱中寻宝，将满载回忆的衣物、玩具与古董布置成迷人的风景。与熟客成为朋友，帮他们圆梦，把小店扩展成邻里欢聚的暖心角落！",
-    "is_free": false,
-    "price": "¥ 44.10",
-    "original_price": "¥ 49.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 5 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3693650"
   }
 ]
