@@ -35,24 +35,6 @@
     "store_url": "https://store.steampowered.com/app/3237970"
   },
   {
-    "appid": 2532480,
-    "name": "Warhammer 40,000: Mechanicus II",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532480/4b9ea5b45f304a841fc68520cc729307629fa9bd/header.jpg?t=1779444541",
-    "short_description": "在这款备受赞誉的《Warhammer 40,000: Mechanicus》续作中，快节奏的战术战斗与战略管理相结合。你可以掌控古老而不死的太空死灵军团，或是欧姆尼塞亚的科技宗教侍僧，世界的命运就掌握在你手中。",
-    "is_free": false,
-    "price": "¥ 179.10",
-    "original_price": "¥ 199.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2532480"
-  },
-  {
     "appid": 3412160,
     "name": "拉斯维加斯模拟器",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412160/7893c176c534db9e7627665928834af47ad01270/header_schinese.jpg?t=1779573768",
@@ -174,5 +156,23 @@
     "release_date": "2026 年 5 月 20 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3341000"
+  },
+  {
+    "appid": 3542380,
+    "name": "符文之骰",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3542380/2cc0e31c523733d3805ce1733215f82f0b4a05b8/header.jpg?t=1779267089",
+    "short_description": "短时战术构筑。投掷骰子，创造魔法连锁反应。从具有独特技能的不同英雄职业中选择。在骰子、圣物和符文之间建立协同效应，击败挑战性Boss。",
+    "is_free": false,
+    "price": "¥ 40.80",
+    "original_price": "¥ 48.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3542380"
   }
 ]
