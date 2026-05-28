@@ -1,5 +1,62 @@
 [
   {
+    "appid": 1116050,
+    "name": "Starminer",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116050/header.jpg?t=1779896765",
+    "short_description": "在《星际矿业》中，你将在太空中打造一支舰队，通过开采和售卖珍贵矿藏来谋取丰厚利润。但要小心，你的贪婪会吸引来外星人。使用战舰和防御平台，不惜一切代价在真实空间中实时保护你的舰队。",
+    "is_free": false,
+    "price": "¥ 98.10",
+    "original_price": "¥ 109.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1116050"
+  },
+  {
+    "appid": 2090390,
+    "name": "Schrödinger’s Call 薛定谔的电话",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090390/b2663d50496e3f7be00c027d3f40bf7b66ddc3fc/header_schinese.jpg?t=1779938782",
+    "short_description": "世界末日之时，你最后想和谁说话呢？《薛定谔的电话》是一款能体验人与人之间的伤痛与救赎，宛如翻阅绘本般的文字冒险游戏。通过电话去倾听并理解那些徘徊在生死狭缝间的灵魂的遗憾。是的，这是一个通过某人的遗憾映照出你自身的故事。",
+    "is_free": false,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 5 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2090390"
+  },
+  {
+    "appid": 3678970,
+    "name": "TBH: 塔斯克巴·英雄",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1779882076",
+    "short_description": "终极迷你放置RPG！ 可爱的像素勇者们正等待着与你一同踏上冒险——就在你的任务栏旁。 用多样的职业、技能、道具和配装，击退工作和日常生活的无聊吧！",
+    "is_free": true,
+    "price": "免费",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 5 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3678970"
+  },
+  {
     "appid": 4371500,
     "name": "MechWarrior 5: Mercenaries - Chaos Reign",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371500/88b59e783d6dc1f7f942fa0fb801245737cdb6fc/header.jpg?t=1779818604",
@@ -17,27 +74,9 @@
     "store_url": "https://store.steampowered.com/app/4371500"
   },
   {
-    "appid": 2982610,
-    "name": "Stonemachia",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982610/8efb61a9b71968711b74eb54980cfa6ef4ea9ab1/header.jpg?t=1779814810",
-    "short_description": "Fight, Zefiro! Arm yourself with the power of chess and explore Medhelan, a land haunted by the Plague of Angels, in a dark action-adventure with soulslike elements. Will you be able to return to Heaven?",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 5 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2982610"
-  },
-  {
     "appid": 2597080,
     "name": "墨境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/43a87a1f8a22bde590d2f72f84b63be56da7e753/header_schinese.jpg?t=1779840548",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/43a87a1f8a22bde590d2f72f84b63be56da7e753/header_schinese.jpg?t=1779935844",
     "short_description": "《墨境》是一款水墨风动作Roguelite游戏。在猎杀狐妖的过程中，你发现自己的命运被所谓的“天道”掌控着，只有逃离这个世界，才有可能获得真正的自由。黄粱一梦，猝然而醒：“我虽凡尘微末，也当以剑代笔，纵横天下，快意人生！”",
     "is_free": false,
     "price": "¥ 64.80",
@@ -55,8 +94,8 @@
   },
   {
     "appid": 2261430,
-    "name": "LumenTale: Memories of Trey",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/920e71b3b9e6bfa13de49647fd5c3ddbdc72a351/header_schinese.jpg?t=1779813982",
+    "name": "流明物语：特雷的回忆 ",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/920e71b3b9e6bfa13de49647fd5c3ddbdc72a351/header_schinese.jpg?t=1779873419",
     "short_description": "走进《LumenTale: Memories of Trey》富有魔力的旖旎世界，享受引人入胜的怪物收集角色扮演游戏！跟随特睿踏上冒险，找回他丢失的记忆，并与各种各样的“Animon”怪物塑造新的回忆。",
     "is_free": false,
     "price": "¥ 85.49",
@@ -92,7 +131,7 @@
   {
     "appid": 2932150,
     "name": "Life Below",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932150/cec5b5d65b729157864f7286eb668059f4b35027/header.jpg?t=1779807914",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932150/cec5b5d65b729157864f7286eb668059f4b35027/header.jpg?t=1779873738",
     "short_description": "Life Below 是对城市建造游戏类型的全新诠释，背景设定在水下世界。在 Rhianna Pratchett 真挚的叙事中，你将塑造蓬勃生长的珊瑚礁，复兴濒临崩溃的生态系统，并培育一个生机勃勃的海洋景观。你是海洋最后的希望。",
     "is_free": false,
     "price": "¥ 134.10",
@@ -110,7 +149,7 @@
   {
     "appid": 3768760,
     "name": "007 初露锋芒",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/bc081141b67be2f7e3bb1488d85a0d52569e2de7/header_alt_assets_1_schinese.jpg?t=1779804342",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1779903755",
     "short_description": "赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -123,24 +162,6 @@
     "release_date": "2026 年 5 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3768760"
-  },
-  {
-    "appid": 1816640,
-    "name": "Modern Naval Warfare",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1816640/1ff82df84fb9484c95b78a73af04a76569cc56ae/header.jpg?t=1779791728",
-    "short_description": "指挥“无声舰队”。《Modern Naval Warfare》是一款上演于弗吉尼亚级核潜艇耐压壳内的终极战术模拟游戏。这款精益求精的战术模拟在画面、物理和真实作战系统方面拥有无与伦比的深度。",
-    "is_free": false,
-    "price": "¥ 200.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1816640"
   },
   {
     "appid": 1805320,
@@ -161,24 +182,5 @@
     "release_date": "2026 年 5 月 25 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1805320"
-  },
-  {
-    "appid": 2317640,
-    "name": "JUMP KING QUEST",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2317640/aed715dc2f7d1df4bc9493b14e294a3d46b9e6c1/header.jpg?t=1779729416",
-    "short_description": "在《JUMP KING QUEST》中投身于高风险惩罚式平台跳跃！体验动态在线攀爬行动——独自探索，或一起坠落，在攀登至高塔顶那个性感火热美人的疯狂旅程中奋力向上。 在这个世界里，每一处落脚点都是战场……",
-    "is_free": false,
-    "price": "¥ 46.40",
-    "original_price": "¥ 58.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 5 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2317640"
   }
 ]
