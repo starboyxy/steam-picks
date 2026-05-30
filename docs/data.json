@@ -1,8 +1,26 @@
 [
   {
+    "appid": 4194800,
+    "name": "群星收割者 Starvester",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194800/c93bfaa6656086669ab0a208f25cea7e5e5172bc/header.jpg?t=1780063422",
+    "short_description": "一款简短的增量游戏，围绕着扩展一个横跨整个恒星系统的工厂，在太空中建造巨型超级结构。部署成群的无人机，开采资源，解锁升级，并收集恒星的能量！",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4194800"
+  },
+  {
     "appid": 1875580,
     "name": "挖掘者米娜",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780027274",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780106977",
     "short_description": "扮演米娜，一位声名显赫的挖掘者，踏上拯救被诅咒岛屿的绝望之旅。在《挖掘者米娜》这款由《铲子骑士》开发者带来的全新游戏中，挥鞭痛击敌人，钻入地下，探索完美的像素世界！",
     "is_free": false,
     "price": "¥ 77.00",
@@ -111,7 +129,7 @@
   {
     "appid": 3284290,
     "name": "月之魔印 Moonsigil Atlas",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3284290/eed5029e0d5fbaddefde87f8d23644ed0fe6f156/header_schinese.jpg?t=1779990836",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3284290/eed5029e0d5fbaddefde87f8d23644ed0fe6f156/header_schinese.jpg?t=1780059220",
     "short_description": "一款没有能量限制的卡组构筑类肉鸽游戏—利用物理空间来出牌！拼接卡牌，改变卡牌形状，打出超模连招，突破游戏极限！",
     "is_free": false,
     "price": "¥ 68.40",
@@ -162,24 +180,5 @@
     "release_date": "2026 年 5 月 27 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1116050"
-  },
-  {
-    "appid": 3678970,
-    "name": "TBH: 塔斯克巴·英雄",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1779989974",
-    "short_description": "终极迷你放置RPG！ 可爱的像素勇者们正等待着与你一同踏上冒险——就在你的任务栏旁。 用多样的职业、技能、道具和配装，击退工作和日常生活的无聊吧！",
-    "is_free": true,
-    "price": "免费",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 5 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3678970"
   }
 ]
