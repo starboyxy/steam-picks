@@ -72,25 +72,6 @@
     "store_url": "https://store.steampowered.com/app/1299170"
   },
   {
-    "appid": 2702260,
-    "name": "绘途寻踪",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/0a66dcf5d97583a88dd62d8cbdbca8519ffb833a/header_schinese.jpg?t=1779981339",
-    "short_description": "在这款游戏中，地图将由你亲手绘制！作为一支小小冒险队的制图师，你会像真正的探险家一样，使用专业导航工具，探索未知岛屿，寻找传说中的宝藏。",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2702260"
-  },
-  {
     "appid": 2904040,
     "name": "Cheap Car Repair",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904040/dbcdc51dbc0aa6ef105eb6fef5f1f7f63aa17fa1/header.jpg?t=1779977714",
@@ -129,7 +110,7 @@
   {
     "appid": 3284290,
     "name": "月之魔印 Moonsigil Atlas",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3284290/eed5029e0d5fbaddefde87f8d23644ed0fe6f156/header_schinese.jpg?t=1780059220",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3284290/eed5029e0d5fbaddefde87f8d23644ed0fe6f156/header_schinese.jpg?t=1780177835",
     "short_description": "一款没有能量限制的卡组构筑类肉鸽游戏—利用物理空间来出牌！拼接卡牌，改变卡牌形状，打出超模连招，突破游戏极限！",
     "is_free": false,
     "price": "¥ 68.40",
@@ -161,24 +142,39 @@
     "store_url": "https://store.steampowered.com/app/3198890"
   },
   {
-    "appid": 1116050,
-    "name": "Starminer",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116050/header.jpg?t=1779896765",
-    "short_description": "在《星际矿业》中，你将在太空中打造一支舰队，通过开采和售卖珍贵矿藏来谋取丰厚利润。但要小心，你的贪婪会吸引来外星人。使用战舰和防御平台，不惜一切代价在真实空间中实时保护你的舰队。",
+    "appid": 2261430,
+    "name": "流明物语：特雷的回忆 ",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/920e71b3b9e6bfa13de49647fd5c3ddbdc72a351/header_schinese.jpg?t=1780046426",
+    "short_description": "走进《LumenTale: Memories of Trey》富有魔力的旖旎世界，享受引人入胜的怪物收集角色扮演游戏！跟随特睿踏上冒险，找回他丢失的记忆，并与各种各样的“Animon”怪物塑造新的回忆。",
     "is_free": false,
-    "price": "¥ 98.10",
-    "original_price": "¥ 109.00",
+    "price": "¥ 85.49",
+    "original_price": "¥ 94.99",
     "discount_percent": 10,
     "genres": [
       "动作",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略",
-      "抢先体验"
+      "冒险",
+      "角色扮演"
     ],
-    "release_date": "2026 年 5 月 27 日",
+    "release_date": "2026 年 5 月 26 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1116050"
+    "store_url": "https://store.steampowered.com/app/2261430"
+  },
+  {
+    "appid": 3115220,
+    "name": "自在城镇",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/5894cd7043ab1a0484292a0305a2310fa75686a4/header_alt_assets_2.jpg?t=1779955349",
+    "short_description": "建造一座诗情画意的 19 世纪地中海小镇，并帮助它发展成为一座繁荣的城市吧。在这款由《Station to Station》开发者打造的、温馨的城市建设游戏中，自由地放置和自定义每一项元素，为不断增长的人口创造一个完美家园吧。",
+    "is_free": false,
+    "price": "¥ 89.10",
+    "original_price": "¥ 99.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 5 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3115220"
   }
 ]
