@@ -20,7 +20,7 @@
   {
     "appid": 1875580,
     "name": "挖掘者米娜",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780106977",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529",
     "short_description": "扮演米娜，一位声名显赫的挖掘者，踏上拯救被诅咒岛屿的绝望之旅。在《挖掘者米娜》这款由《铲子骑士》开发者带来的全新游戏中，挥鞭痛击敌人，钻入地下，探索完美的像素世界！",
     "is_free": false,
     "price": "¥ 77.00",
@@ -51,25 +51,6 @@
     "release_date": "2026 年 5 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3936730"
-  },
-  {
-    "appid": 1299170,
-    "name": "神奇四叶镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/d80658e2cca2bc65b6fa18f7a4097166fb4ff4e2/header_alt_assets_0.jpg?t=1780003836",
-    "short_description": "摆脱无聊的日子，在四叶镇开启崭新生活吧！在可爱的宠物比洛卜的陪伴下，你将耕种田地、结交新朋，探索未知的土地。邂逅真爱，还是成为最伟大的宠物训练师？书写自己的神奇篇章吧！",
-    "is_free": false,
-    "price": "¥ 62.40",
-    "original_price": "¥ 78.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1299170"
   },
   {
     "appid": 2904040,
@@ -106,22 +87,6 @@
     "release_date": "2026 年 5 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3583210"
-  },
-  {
-    "appid": 3284290,
-    "name": "月之魔印 Moonsigil Atlas",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3284290/eed5029e0d5fbaddefde87f8d23644ed0fe6f156/header_schinese.jpg?t=1780177835",
-    "short_description": "一款没有能量限制的卡组构筑类肉鸽游戏—利用物理空间来出牌！拼接卡牌，改变卡牌形状，打出超模连招，突破游戏极限！",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3284290"
   },
   {
     "appid": 3198890,
@@ -176,5 +141,42 @@
     "release_date": "2026 年 5 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3115220"
+  },
+  {
+    "appid": 3768760,
+    "name": "007 初露锋芒",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780082026",
+    "short_description": "赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 5 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3768760"
+  },
+  {
+    "appid": 1805320,
+    "name": "罗马拓荒录",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805320/7b4b95bbd6b67e283a8dfe36e9a9f64c3ca62036/header_schinese.jpg?t=1780153528",
+    "short_description": "罗马已然陨落！但是这不影响你白天种田搞搞基建，晚上开荒刷刷僵尸。你可以享受单人的惬意时光，没事陪一下罗马的神明，抑或是和你的最多7位朋友们共同享受共同经营的乐趣！",
+    "is_free": false,
+    "price": "¥ 43.20",
+    "original_price": "¥ 48.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 5 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1805320"
   }
 ]
