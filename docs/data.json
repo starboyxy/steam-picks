@@ -1,5 +1,43 @@
 [
   {
+    "appid": 4304930,
+    "name": "Chef Knight",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140",
+    "short_description": "在这款温馨的奇幻风格增量成长游戏中，你需要通过猎杀获取烹饪原料。斩杀怪物，将它们变成美味佳肴，打造你自己的地下城美食帝国！",
+    "is_free": false,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4304930"
+  },
+  {
+    "appid": 4086760,
+    "name": "Arcane Merchant",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086760/dc0e22953aa5e431ed6103afaf020c5a7d7809f1/header.jpg?t=1780345651",
+    "short_description": "在中世纪奇幻世界的中心地带开设你自己的店铺！从药水和宝剑到神秘水晶和传奇神器，应有尽有，让你的货架琳琅满目。设定价格，赢得顾客的信任，成为镇上最富有的商人！",
+    "is_free": false,
+    "price": "¥ 62.99",
+    "original_price": "¥ 69.99",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4086760"
+  },
+  {
     "appid": 4194800,
     "name": "群星收割者 Starvester",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194800/c93bfaa6656086669ab0a208f25cea7e5e5172bc/header.jpg?t=1780063422",
@@ -37,7 +75,7 @@
   {
     "appid": 3936730,
     "name": "星尘轨迹：魔女之愿",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936730/4a5b8539a36b3c5778980062c4ce653771b2bbac/header_schinese.jpg?t=1780024988",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936730/4a5b8539a36b3c5778980062c4ce653771b2bbac/header_schinese.jpg?t=1780330501",
     "short_description": "时机已到——是时候踏上冒险之旅了！跟随少女战士「星」和少年法师「悠」，一起寻找愿望之星的秘密！体验精美的像素动画演出，感受经典SRPG战斗的策略魅力……命运的终点，正等待着你们共同揭晓。",
     "is_free": false,
     "price": "¥ 64.80",
@@ -109,7 +147,7 @@
   {
     "appid": 2261430,
     "name": "流明物语：特雷的回忆 ",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/920e71b3b9e6bfa13de49647fd5c3ddbdc72a351/header_schinese.jpg?t=1780046426",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/920e71b3b9e6bfa13de49647fd5c3ddbdc72a351/header_schinese.jpg?t=1780326233",
     "short_description": "走进《LumenTale: Memories of Trey》富有魔力的旖旎世界，享受引人入胜的怪物收集角色扮演游戏！跟随特睿踏上冒险，找回他丢失的记忆，并与各种各样的“Animon”怪物塑造新的回忆。",
     "is_free": false,
     "price": "¥ 85.49",
@@ -141,42 +179,5 @@
     "release_date": "2026 年 5 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3115220"
-  },
-  {
-    "appid": 3768760,
-    "name": "007 初露锋芒",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780082026",
-    "short_description": "赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 5 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3768760"
-  },
-  {
-    "appid": 1805320,
-    "name": "罗马拓荒录",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805320/7b4b95bbd6b67e283a8dfe36e9a9f64c3ca62036/header_schinese.jpg?t=1780153528",
-    "short_description": "罗马已然陨落！但是这不影响你白天种田搞搞基建，晚上开荒刷刷僵尸。你可以享受单人的惬意时光，没事陪一下罗马的神明，抑或是和你的最多7位朋友们共同享受共同经营的乐趣！",
-    "is_free": false,
-    "price": "¥ 43.20",
-    "original_price": "¥ 48.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 5 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1805320"
   }
 ]
