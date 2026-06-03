@@ -1,5 +1,57 @@
 [
   {
+    "appid": 4623170,
+    "name": "《失落星船：马拉松》赛季奢享币乐趣//警察组合包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623170/8603ed4bca4b62dcfb929861d4ffdcb9985c7adc/header_schinese.jpg?t=1780419635",
+    "short_description": "赛季奢享币乐趣//警察组合包基于失窃的UESC执法技术，重新改造为专属于你的战场装备。原本用于支配战斗的工具，如今由你掌控。",
+    "is_free": false,
+    "price": "¥ 70.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 6 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4623170"
+  },
+  {
+    "appid": 2186990,
+    "name": "Fatekeeper",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780424266",
+    "short_description": "踏入一个精心打造的世界，这里的残垣断壁低语诉说着昔日的剧变。精通剑术与魔法技艺，利用各种神器和咒语，并通过一系列的抉择，来开创你的道路，在这款第一人称角色扮演游戏中塑造属于你的传奇。",
+    "is_free": false,
+    "price": "¥ 46.40",
+    "original_price": "¥ 58.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 6 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2186990"
+  },
+  {
+    "appid": 4731620,
+    "name": "财富磨坊",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780416011",
+    "short_description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
+    "is_free": false,
+    "price": "¥ 24.75",
+    "original_price": "¥ 33.00",
+    "discount_percent": 25,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4731620"
+  },
+  {
     "appid": 4304930,
     "name": "Chef Knight",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140",
@@ -125,59 +177,5 @@
     "release_date": "2026 年 5 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3583210"
-  },
-  {
-    "appid": 3198890,
-    "name": "深海刮刮乐",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3198890/364e4e912ef2f63a0985f1016105b44c15686bdd/header_schinese.jpg?t=1779991276",
-    "short_description": "作为一个迷你渔贩机器人，你将探索各大神秘的钓鱼圣地，抛出鱼线、捕捞奇异的鱼类、享受刮鳞的酥麻爽感、投喂远道而来的神秘食客们，获取金币升级。",
-    "is_free": false,
-    "price": "¥ 30.60",
-    "original_price": "¥ 36.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3198890"
-  },
-  {
-    "appid": 2261430,
-    "name": "流明物语：特雷的回忆 ",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/920e71b3b9e6bfa13de49647fd5c3ddbdc72a351/header_schinese.jpg?t=1780326233",
-    "short_description": "走进《LumenTale: Memories of Trey》富有魔力的旖旎世界，享受引人入胜的怪物收集角色扮演游戏！跟随特睿踏上冒险，找回他丢失的记忆，并与各种各样的“Animon”怪物塑造新的回忆。",
-    "is_free": false,
-    "price": "¥ 85.49",
-    "original_price": "¥ 94.99",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 5 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2261430"
-  },
-  {
-    "appid": 3115220,
-    "name": "自在城镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/5894cd7043ab1a0484292a0305a2310fa75686a4/header_alt_assets_2.jpg?t=1779955349",
-    "short_description": "建造一座诗情画意的 19 世纪地中海小镇，并帮助它发展成为一座繁荣的城市吧。在这款由《Station to Station》开发者打造的、温馨的城市建设游戏中，自由地放置和自定义每一项元素，为不断增长的人口创造一个完美家园吧。",
-    "is_free": false,
-    "price": "¥ 89.10",
-    "original_price": "¥ 99.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3115220"
   }
 ]
