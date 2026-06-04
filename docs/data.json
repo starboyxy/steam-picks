@@ -1,19 +1,77 @@
 [
   {
-    "appid": 4623170,
-    "name": "《失落星船：马拉松》赛季奢享币乐趣//警察组合包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623170/8603ed4bca4b62dcfb929861d4ffdcb9985c7adc/header_schinese.jpg?t=1780419635",
-    "short_description": "赛季奢享币乐趣//警察组合包基于失窃的UESC执法技术，重新改造为专属于你的战场装备。原本用于支配战斗的工具，如今由你掌控。",
+    "appid": 4305480,
+    "name": "IncreKnight",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305480/c480df4f7c8ac801a37a8b8a79853c5b10c29301/header.jpg?t=1780506444",
+    "short_description": "一款关于骑士屠龙的短篇增量游戏。",
     "is_free": false,
-    "price": "¥ 70.00",
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4305480"
+  },
+  {
+    "appid": 1546090,
+    "name": "RAIDBORN",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546090/17cfdc21b7565286e8061cdf5544b756c77c6c38/header_alt_assets_13.jpg?t=1780509835",
+    "short_description": "RAIDBORN是一款具有高重玩性的第一人称奇幻动作角色扮演游戏。探索源源不绝的地下城与任务，投身于酣畅淋漓的战斗之中，掠夺传奇宝藏。打造强力装备，升级前哨基地，并随心定制你的游戏体验——无论是休闲冒险，还是硬核roguelike挑战，一切由你定义。",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 90.00",
+    "discount_percent": 24,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1546090"
+  },
+  {
+    "appid": 4148930,
+    "name": "《F1® 25》：2026赛季组合包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148930/7d23eb2b94b90212971ab88b3ad0285897c6805f/header.jpg?t=1780498842",
+    "short_description": "全新车队奥迪和凯迪拉克加入角逐，带来焕然一新的车手阵容，准备向全场发起挑战，改写赛场格局。驾驶颠覆性的2026赛季赛车驶入新纪元，并征服令人肾上腺素飙升的马德里环赛道。",
+    "is_free": false,
+    "price": "¥ 138.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "动作"
+      "竞速",
+      "模拟",
+      "体育"
     ],
-    "release_date": "2026 年 6 月 2 日",
+    "release_date": "2026 年 6 月 3 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4623170"
+    "store_url": "https://store.steampowered.com/app/4148930"
+  },
+  {
+    "appid": 4409870,
+    "name": "Slots \u0026 Diapers",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409870/91e6a87b7601e66eb93f4114700a9fca9d425d38/header_schinese.jpg?t=1780494600",
+    "short_description": "一个关于经营赌场、榨干爷爷奶奶剩余价值、把人生过成电子功德机的增量挂机游戏。雇佣退休老赌徒，24 小时自动疯狂梭哈，替你永不停机地创造流水。当别人还在悠闲种田的时候，你已经开始打造全自动养老院赌场帝国了。让你边笑边开始怀疑自己道德底线。",
+    "is_free": false,
+    "price": "¥ 20.30",
+    "original_price": "¥ 29.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4409870"
   },
   {
     "appid": 2186990,
@@ -36,7 +94,7 @@
   {
     "appid": 4731620,
     "name": "财富磨坊",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780416011",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780516685",
     "short_description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
     "is_free": false,
     "price": "¥ 24.75",
@@ -50,26 +108,6 @@
     "release_date": "2026 年 6 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4731620"
-  },
-  {
-    "appid": 4304930,
-    "name": "Chef Knight",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140",
-    "short_description": "在这款温馨的奇幻风格增量成长游戏中，你需要通过猎杀获取烹饪原料。斩杀怪物，将它们变成美味佳肴，打造你自己的地下城美食帝国！",
-    "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4304930"
   },
   {
     "appid": 4086760,
@@ -123,43 +161,6 @@
     "release_date": "2026 年 5 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1875580"
-  },
-  {
-    "appid": 3936730,
-    "name": "星尘轨迹：魔女之愿",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936730/4a5b8539a36b3c5778980062c4ce653771b2bbac/header_schinese.jpg?t=1780330501",
-    "short_description": "时机已到——是时候踏上冒险之旅了！跟随少女战士「星」和少年法师「悠」，一起寻找愿望之星的秘密！体验精美的像素动画演出，感受经典SRPG战斗的策略魅力……命运的终点，正等待着你们共同揭晓。",
-    "is_free": false,
-    "price": "¥ 64.80",
-    "original_price": "¥ 72.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3936730"
-  },
-  {
-    "appid": 2904040,
-    "name": "Cheap Car Repair",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904040/dbcdc51dbc0aa6ef105eb6fef5f1f7f63aa17fa1/header.jpg?t=1779977714",
-    "short_description": "你的新座右铭是「也许不是最便宜，但至少能凑合用」！回到 90 年代的波兰，经营你自己的汽车修理厂。能省就省，赚上一大笔钱，还要小心愤怒的客人！",
-    "is_free": false,
-    "price": "¥ 51.75",
-    "original_price": "¥ 69.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2904040"
   },
   {
     "appid": 3583210,
