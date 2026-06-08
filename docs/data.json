@@ -1,5 +1,41 @@
 [
   {
+    "appid": 2262020,
+    "name": "Exo Rally Championship",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262020/header.jpg?t=1780863215",
+    "short_description": "Exo Rally Championship 是银河系最危险的越野赛事活动——这是一场地处偏远、未经勘探、极富异世界感的拉力赛。操控异常逼真的竞速模拟，争分夺秒，力争夺冠。",
+    "is_free": false,
+    "price": "¥ 46.50",
+    "original_price": "¥ 62.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "竞速",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2262020"
+  },
+  {
+    "appid": 3929630,
+    "name": "Terrinoth®: Heroes of Descent",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929630/3791ee560bb2b4702ece93f8ee2dec1b76c69ee5/header.jpg?t=1780864600",
+    "short_description": "源自传奇地下城探险桌游的首款奇幻合作策略RPG，邀你踏入壮丽的《深入绝地》世界。率领无畏英雄小队踏遍特瑞诺斯®，在回合制对决中迎接震撼首领战——无尽黑暗即将吞噬世界，你的旅程将改写命运。",
+    "is_free": false,
+    "price": "¥ 96.05",
+    "original_price": "¥ 113.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3929630"
+  },
+  {
     "appid": 2474770,
     "name": "Momento",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2474770/cd703a3d72e2f6d086a3d227236bc3853fc98d57/header.jpg?t=1780763734",
@@ -52,22 +88,6 @@
     "store_url": "https://store.steampowered.com/app/4285690"
   },
   {
-    "appid": 4200760,
-    "name": "《使命召唤®：黑色行动 7》黑色组织（第4赛季）",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200760/3dff8eebcd55239414d29bdfc46d20e4d3aa7b83/header_schinese.jpg?t=1780595635",
-    "short_description": "获得使命召唤®点数*和《使命召唤®：黑色行动 7》及《使命召唤®：战争地带™》中的游戏内容。",
-    "is_free": false,
-    "price": "¥ 195.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 6 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4200760"
-  },
-  {
     "appid": 4491360,
     "name": "The 7th Guest Remake",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1780650289",
@@ -104,7 +124,7 @@
   {
     "appid": 4731620,
     "name": "财富磨坊",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780807186",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780893167",
     "short_description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
     "is_free": false,
     "price": "¥ 24.75",
@@ -138,24 +158,6 @@
     "release_date": "2026 年 6 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4304930"
-  },
-  {
-    "appid": 4086760,
-    "name": "Arcane Merchant",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086760/dc0e22953aa5e431ed6103afaf020c5a7d7809f1/header.jpg?t=1780345651",
-    "short_description": "在中世纪奇幻世界的中心地带开设你自己的店铺！从药水和宝剑到神秘水晶和传奇神器，应有尽有，让你的货架琳琅满目。设定价格，赢得顾客的信任，成为镇上最富有的商人！",
-    "is_free": false,
-    "price": "¥ 62.99",
-    "original_price": "¥ 69.99",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4086760"
   },
   {
     "appid": 1875580,
