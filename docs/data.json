@@ -1,8 +1,115 @@
 [
   {
+    "appid": 2445690,
+    "name": "失落城堡2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781150492",
+    "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+    "is_free": false,
+    "price": "¥ 47.60",
+    "original_price": "¥ 68.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2445690"
+  },
+  {
+    "appid": 4121170,
+    "name": "Fears to Fathom® - Scratch Creek",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
+    "short_description": "在注意到与《Fears to Fathom》某个篇章有毛骨悚然的相似之处后，泰莎与马库斯决定分享他们自己的经历。斯克拉奇溪仅支持线上双人合作模式。",
+    "is_free": false,
+    "price": "¥ 33.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4121170"
+  },
+  {
+    "appid": 3858650,
+    "name": "时空迷踪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858650/1de97aa8c6610fb1eae78a49db8e0b5cb04e8e84/header_schinese.jpg?t=1781107287",
+    "short_description": "与夏洛克·福尔摩斯和华生博士一同踏上旅程，在这场惊喜不断的“弹性”点击式冒险中自由探索吧。 尽情动动鼠标，抓取、拖拽并释放，协助他们破解这场充满幽默与“元时间”之旅的离奇悬案！",
+    "is_free": false,
+    "price": "¥ 74.40",
+    "original_price": "¥ 93.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3858650"
+  },
+  {
+    "appid": 958520,
+    "name": "33不朽灵魂",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781105822",
+    "short_description": "33不朽灵魂 是一款支持33位玩家一齐上阵的动作Roguelike合作游戏。立即开启冒险，既可单人作战，也可与好友组队。迎战狱魔大军，击败强大头目，在冒险中不断成长强大。使用游戏内表情与其他反抗者协力作战，共同直面神的怒火。",
+    "is_free": false,
+    "price": "¥ 39.26",
+    "original_price": "¥ 58.61",
+    "discount_percent": 33,
+    "genres": [
+      "动作",
+      "独立",
+      "大型多人在线"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/958520"
+  },
+  {
+    "appid": 2679100,
+    "name": "巫塔战记",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/f5340ad576f8b4ec5befc1629fc0c8ab81c4c631/header_alt_assets_1_schinese.jpg?t=1781118464",
+    "short_description": "投身开放世界，开启一场终极的巫师冒险。对战生物、收服魔宠，运用法术建造栖身之所，既可在单人模式中独乐乐，又能在多人模式中和其他巫师携手合作。",
+    "is_free": false,
+    "price": "¥ 72.72",
+    "original_price": "¥ 85.56",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2679100"
+  },
+  {
+    "appid": 3844970,
+    "name": "地精捣蛋团",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+    "short_description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3844970"
+  },
+  {
     "appid": 4704690,
     "name": "MECCHA CHAMELEON",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781061285",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
     "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
     "is_free": false,
     "price": "¥ 20.80",
@@ -18,7 +125,7 @@
   {
     "appid": 2866670,
     "name": "NBA THE RUN",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866670/341cce53e1826ac8d4ff005313e8590f46cfec4c/header.jpg?t=1781027947",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866670/341cce53e1826ac8d4ff005313e8590f46cfec4c/header.jpg?t=1781120286",
     "short_description": "Take your favorite NBA stars to iconic streetball courts around the world, in this fast-paced, online 3v3 basketball game. Stack wins, earn cred and become the GOAT of THE RUN. Who's Got Next?",
     "is_free": false,
     "price": "¥ 109.00",
@@ -36,7 +143,7 @@
   {
     "appid": 3952720,
     "name": "命运2：凯旋奖励银币组合包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952720/e7056145de0ba876b889086958e1acd3abdc43bd/header_schinese.jpg?t=1781024419",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952720/e7056145de0ba876b889086958e1acd3abdc43bd/header_schinese.jpg?t=1781113911",
     "short_description": "购买命运2：凯旋奖励银币组合包可获得芝士恰恰舞传说动作表情和1700银币（1000银币+700额外银币）。你可以使用银币来购买凯旋奖励通票、装饰和更多内容！",
     "is_free": false,
     "price": "¥ 66.00",
@@ -52,137 +159,22 @@
     "store_url": "https://store.steampowered.com/app/3952720"
   },
   {
-    "appid": 2004680,
-    "name": "沃德灵：共生",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781010770",
-    "short_description": "扮演一名寄生末世的太空生物学家，与被称为“沃德灵”的生物神经链接，展开第三人称科幻射击动作冒险。在颠覆传统的怪兽捕捉玩法中，培育数量众多的沃德灵品种，并在丰富的进化路线之中借助基因交配，尝试近乎无穷无尽的物种组合，打造属于你的终极生物！",
+    "appid": 3700980,
+    "name": "How to Make an Atomic Bomb in Your Garden",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700980/a2306eea8ab7e5186042fb4803bd8fdde45d0ff5/header.jpg?t=1781038068",
+    "short_description": "一个荒谬的后院原子弹建造模拟器。筹集资金，规划你的方法，寻找稀有部件，并在保持冷静的同时组装你的原子杰作，避免引起邻居和联邦特工的怀疑。",
     "is_free": false,
-    "price": "¥ 83.70",
-    "original_price": "¥ 93.00",
-    "discount_percent": 10,
+    "price": "¥ 28.05",
+    "original_price": "¥ 33.00",
+    "discount_percent": 15,
     "genres": [
-      "动作",
       "冒险",
-      "角色扮演"
+      "休闲",
+      "独立",
+      "模拟"
     ],
     "release_date": "2026 年 6 月 9 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2004680"
-  },
-  {
-    "appid": 4148240,
-    "name": "女王的游戏：盛世天下 女帝篇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781010952",
-    "short_description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
-    "is_free": false,
-    "price": "¥ 59.20",
-    "original_price": "¥ 74.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4148240"
-  },
-  {
-    "appid": 3219180,
-    "name": "罪业烙印",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/ec9e12a5522116baed86f0823c556114eb93fcb4/header_schinese.jpg?t=1781051144",
-    "short_description": "起身吧，受诅咒者。于迷雾交织的边缘之地，碎裂的王冠静卧尘沙，古旧的赐福在远方如微火颤动。你曾无数次坠落，又无数次被遗忘；神明背弃此土，死亡与毁灭顺着地脉蔓延，而人类的愿望在灰烬里轻声呢喃。 于是如此——在万物黯淡的尽头，你反而成为黑暗中最后的火点。",
-    "is_free": false,
-    "price": "¥ 50.15",
-    "original_price": "¥ 59.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3219180"
-  },
-  {
-    "appid": 3100310,
-    "name": "神之军火",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/6491154c93c9874f9ca5ec4cf76db6660f05f65d/header_schinese.jpg?t=1780949158",
-    "short_description": "装备整齐，在这款动作类 roguelite 自动射击游戏中开启一场史诗级的地狱之战。最多可同时使用五种武器，通过升级与融合，打造所向披靡的组合，追求极致火力。肩负神圣使命，化身神的正义，拯救濒临混乱的世界。",
-    "is_free": false,
-    "price": "¥ 40.80",
-    "original_price": "¥ 48.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3100310"
-  },
-  {
-    "appid": 1597080,
-    "name": "Killer Bean",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6a3e5f6ab36d5b8e42652294c615de30f68720c2/header.jpg?t=1780927030",
-    "short_description": "You are Killer Bean, a rogue assassin coffee bean, who takes out the trash in this world, one bullet at a time. This is a first person / third person action roguelike.",
-    "is_free": false,
-    "price": "¥ 47.20",
-    "original_price": "¥ 59.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1597080"
-  },
-  {
-    "appid": 1805110,
-    "name": "太阳朋克：浮岛家园",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
-    "short_description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
-    "is_free": false,
-    "price": "¥ 85.56",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1805110"
-  },
-  {
-    "appid": 4164900,
-    "name": "秋叶原盲盒店模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164900/1b2e87652e519d5e28808ece6ffb1c4df8f4e42d/header_schinese.jpg?t=1780907983",
-    "short_description": "(6.8发售！)在秋叶原开店是什么体验？进货、摆货、自由定价，亲手打造二次元的梦想圣地！但这不只是生意——你更要化身头号玩家，经营间歇无限连抽！集齐超过10000种变体的海量图鉴！从一家家徒四壁的小店，到陈列稀有手办的传说痛店，用你的商业头脑（偶尔也用一用物理手段），制霸秋叶原！",
-    "is_free": false,
-    "price": "¥ 33.60",
-    "original_price": "¥ 42.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4164900"
+    "store_url": "https://store.steampowered.com/app/3700980"
   }
 ]
