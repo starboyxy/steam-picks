@@ -1,8 +1,65 @@
 [
   {
+    "appid": 1601330,
+    "name": "Survival Machine",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601330/830cd6a03e34b14c09e90276d2c07deb1a699f81/header.jpg?t=1781283756",
+    "short_description": "在移动机器上建造你的基地，穿越拥有不同资源的生物群系，并为僵尸威胁远高于白天的夜晚做好准备。你会一个人去还是和你最好的朋友一起去探索这个新世界?",
+    "is_free": false,
+    "price": "¥ 45.50",
+    "original_price": "¥ 70.00",
+    "discount_percent": 35,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 6 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1601330"
+  },
+  {
+    "appid": 3864450,
+    "name": "Goblin Company",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864450/070bb3c075bf777d70607023befa9ff1fc375e96/header.jpg?t=1781276320",
+    "short_description": "作为 WHAAG MINING INC 的地精矿工，挖掘、铺设轨道并在地下求生。点亮前路，否则黑暗会榨干你的生命。探索完全可破坏的生物群系，对抗敌对生物，单人或在线合作猎取传说中的巨型金块",
+    "is_free": false,
+    "price": "¥ 28.00",
+    "original_price": "¥ 35.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 6 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3864450"
+  },
+  {
+    "appid": 3428570,
+    "name": "囚徒的柜台",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428570/9ff976343c635f3732a74ae59aaf72ee38eaa4bd/header_schinese.jpg?t=1781265859",
+    "short_description": "1980年，身处多事之秋的你好不容易获得了一份银行出纳员的工作。荒唐的政策、严苛的制度、难缠的上司，以及形形色色的客人成为了你每天所打交道的对象。这小小柜台既是避风港，也是修罗场，每日埋头于单据文件和处理交易的你究竟该如何扛起家庭的重担？自我良知和对待他人的善意，又能够在权力和金钱的诱惑面前坚持多久？",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3428570"
+  },
+  {
     "appid": 3337380,
     "name": "桌上谈兵",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/4613b9bda4abea973b57c63914f265e34612dfbb/header_schinese.jpg?t=1781210046",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/4613b9bda4abea973b57c63914f265e34612dfbb/header_schinese.jpg?t=1781266198",
     "short_description": "招募一支狂野的雇佣兵团，在桌面风格的混乱战场上，指挥你的战士冲锋陷阵。无限的构筑可能、残酷的抉择考验、无穷的重玩价值——桌上谈兵，一款专为Roguelike爱好者而生的即时战略游戏。",
     "is_free": false,
     "price": "¥ 43.50",
@@ -14,41 +71,6 @@
     "release_date": "2026 年 6 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3337380"
-  },
-  {
-    "appid": 4310080,
-    "name": "缺氧: 水生行星包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310080/524af3c2aa68e6c6ce19f25b5d22d31d25c8366b/header_schinese.jpg?t=1781217793",
-    "short_description": "一头扎进太空殖民地扩张的深水区《水生行星包》吧！本DLC包含一颗全新的淹没星球，带来海洋生态、资源、小生物、植物等更多内容。毛巾不含在内。",
-    "is_free": false,
-    "price": "¥ 26.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4310080"
-  },
-  {
-    "appid": 1454370,
-    "name": "星际探索者：异星远征",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454370/ec6e7614e478cfd46b694f694e502a9832d76e62/header.jpg?t=1781203030",
-    "short_description": "跟随航队探索星系，精彩尽在《STARSEEKER: Astroneer Expeditions》。",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1454370"
   },
   {
     "appid": 3989960,
@@ -85,25 +107,6 @@
     "release_date": "2026 年 6 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2417470"
-  },
-  {
-    "appid": 4226770,
-    "name": "Warhammer 40,000: Rogue Trader - The Infinite Museion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226770/d496299245c661de28c4e8449eaf41a2814b4d97/header.jpg?t=1781187675",
-    "short_description": "探索由无限者特拉金亲自打造的秘密宝库。了解他对冯·瓦兰修斯王朝的执着，并决定是要破坏还是实现他的计划。",
-    "is_free": false,
-    "price": "¥ 68.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4226770"
   },
   {
     "appid": 3276050,
@@ -144,25 +147,6 @@
     "store_url": "https://store.steampowered.com/app/2340520"
   },
   {
-    "appid": 2445690,
-    "name": "失落城堡2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
-    "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-    "is_free": false,
-    "price": "¥ 47.60",
-    "original_price": "¥ 68.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2445690"
-  },
-  {
     "appid": 4121170,
     "name": "Fears to Fathom® - Scratch Creek",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
@@ -179,5 +163,23 @@
     "release_date": "2026 年 6 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4121170"
+  },
+  {
+    "appid": 958520,
+    "name": "33不朽灵魂",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",
+    "short_description": "33不朽灵魂 是一款支持33位玩家一齐上阵的动作Roguelike合作游戏。立即开启冒险，既可单人作战，也可与好友组队。迎战狱魔大军，击败强大头目，在冒险中不断成长强大。使用游戏内表情与其他反抗者协力作战，共同直面神的怒火。",
+    "is_free": false,
+    "price": "¥ 39.26",
+    "original_price": "¥ 58.61",
+    "discount_percent": 33,
+    "genres": [
+      "动作",
+      "独立",
+      "大型多人在线"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/958520"
   }
 ]
