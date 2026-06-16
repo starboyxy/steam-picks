@@ -1,5 +1,40 @@
 [
   {
+    "appid": 4064510,
+    "name": "MOLE",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064510/60fb8a75026cf12766973a335f00dc360b30b61b/header.jpg?t=1781535415",
+    "short_description": "驾驶战后打造的钻地巨兽——“鼹鼠号”钻探船，深入斯拉夫地底。修复系统故障，追随亡者的呼唤，与同处这具“深渊铁棺”中的未知存在对峙，祈祷自己能活下来。在这地底深处，率先崩溃的，究竟会是这钻地铁躯，还是你自己？",
+    "is_free": false,
+    "price": "¥ 43.20",
+    "original_price": "¥ 48.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4064510"
+  },
+  {
+    "appid": 4241420,
+    "name": "Stellaris: Nomads",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241420/15fab4e49617d31e714a8b2e132f638668ca8d6a/header.jpg?t=1781528335",
+    "short_description": "在《Nomads》中，你将繁荣于庞大的方舟内，载着你的子民、你的工业、你的雄心，跨越群星。在星系中自由移动，承接来自定居帝国的契约，并借由建造驿站留下你的印记。游牧者并不拥有星图——他们是在星图上开辟道路的人。",
+    "is_free": false,
+    "price": "¥ 108.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4241420"
+  },
+  {
     "appid": 4260530,
     "name": "列车安全搜查官梨奈",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260530/b6bc9aabcfa3d42d0de4e667076c4c5d32cbf9bf/header_schinese.jpg?t=1781387491",
@@ -32,26 +67,6 @@
     "release_date": "2026 年 6 月 12 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3864450"
-  },
-  {
-    "appid": 2211170,
-    "name": "一起开火车2：汽笛重鸣",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1781208721",
-    "short_description": "《一起开火车》的续作来啦！快呼朋唤友再建铁轨重鸣汽笛吧！更多特色鲜明的地理环境，升级角色和引擎，选择脑洞大开的全新路线；在火车脱轨前，快将你自定义的关卡设计分享给更多轨道爱好者吧！",
-    "is_free": false,
-    "price": "¥ 58.50",
-    "original_price": "¥ 78.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2211170"
   },
   {
     "appid": 3337380,
@@ -90,7 +105,7 @@
   {
     "appid": 2417470,
     "name": "欢迎光临 Beastro",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417470/e553a225aa092cbf337c3e147e6ec5a6e29ed97a/header.jpg?t=1781201285",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417470/e553a225aa092cbf337c3e147e6ec5a6e29ed97a/header.jpg?t=1781538645",
     "short_description": "Beastro《欢迎光临》！在这趟奇幻与冒险交织的旅途之中，并不是所有主人公都是手持刀剑……有些手上更爱拿着汤勺。而且，有时候要想拯救世界，需要先美餐一顿。",
     "is_free": false,
     "price": "¥ 54.00",
@@ -158,23 +173,5 @@
     "release_date": "2026 年 6 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/958520"
-  },
-  {
-    "appid": 2679100,
-    "name": "巫塔战记",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/f5340ad576f8b4ec5befc1629fc0c8ab81c4c631/header_alt_assets_1_schinese.jpg?t=1781118464",
-    "short_description": "投身开放世界，开启一场终极的巫师冒险。对战生物、收服魔宠，运用法术建造栖身之所，既可在单人模式中独乐乐，又能在多人模式中和其他巫师携手合作。",
-    "is_free": false,
-    "price": "¥ 72.72",
-    "original_price": "¥ 85.56",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2679100"
   }
 ]
