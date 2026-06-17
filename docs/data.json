@@ -1,5 +1,110 @@
 [
   {
+    "appid": 838350,
+    "name": "太吾绘卷：天幕心帷",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781676561",
+    "short_description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+    "is_free": false,
+    "price": "¥ 86.40",
+    "original_price": "¥ 108.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/838350"
+  },
+  {
+    "appid": 4586830,
+    "name": "《守望先锋®》开战礼包2026：第3赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586830/d80921c6c977ce7222733d2b4a4aba27645367af/header.jpg?t=1781632883",
+    "short_description": "获取1000守望金币和商界丽人“金驭”在这个赛季强势开局！",
+    "is_free": false,
+    "price": "¥ 60.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 6 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4586830"
+  },
+  {
+    "appid": 4586820,
+    "name": "《守望先锋®》——终极战令礼包2026：第3赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586820/30c557f08a493d6536dc681a6b3d1005f040315d/header.jpg?t=1781632872",
+    "short_description": "获取《守望先锋》：第3赛季高级战令+20级战令等级直升、2款传奇皮肤、2000守望金币以及更多好礼！",
+    "is_free": false,
+    "price": "¥ 240.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 6 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4586820"
+  },
+  {
+    "appid": 4791830,
+    "name": "Dead by Daylight: Jason",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791830/d1f09f60b1f0a798d6e3cfb79c5e86109282312d/header.jpg?t=1781621916",
+    "short_description": "《黎明杀机：杰森》包括一名全新杀手——杀人魔杰森。购买此DLC可解锁曲棍球面具饰章和雾中小屋横幅。",
+    "is_free": false,
+    "price": "¥ 23.40",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 6 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4791830"
+  },
+  {
+    "appid": 4467980,
+    "name": "《猎人：荒野的召唤™》——秘鲁狩猎保护区",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467980/7efbd4bdbbde6a7eb7635f115fd11dad29b129bb/header.jpg?t=1781618402",
+    "short_description": "从安第斯山巅到茂密丛林，探秘秘鲁极致的生物多样性。猎物众多，从驼鹿到凯门鳄，一应俱全。但请保持警惕，丛林可是美洲豹的天下。",
+    "is_free": false,
+    "price": "¥ 48.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 6 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4467980"
+  },
+  {
+    "appid": 4131670,
+    "name": "Jurassic World Evolution 3: Rebirth Expansion",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/474458897ebb93925de7f420983c641d8750f005/header_schinese.jpg?t=1781615080",
+    "short_description": "深入体验一段由《侏罗纪世界：重生》重大事件延伸而来的全新剧情。接管三处绝密地点，直面四种全新恐龙，其中包括令人胆寒的畸变暴龙！ ",
+    "is_free": false,
+    "price": "¥ 108.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4131670"
+  },
+  {
     "appid": 4064510,
     "name": "MOLE",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064510/60fb8a75026cf12766973a335f00dc360b30b61b/header.jpg?t=1781535415",
@@ -20,7 +125,7 @@
   {
     "appid": 4241420,
     "name": "Stellaris: Nomads",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241420/15fab4e49617d31e714a8b2e132f638668ca8d6a/header.jpg?t=1781528335",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241420/15fab4e49617d31e714a8b2e132f638668ca8d6a/header.jpg?t=1781616685",
     "short_description": "在《Nomads》中，你将繁荣于庞大的方舟内，载着你的子民、你的工业、你的雄心，跨越群星。在星系中自由移动，承接来自定居帝国的契约，并借由建造驿站留下你的印记。游牧者并不拥有星图——他们是在星图上开辟道路的人。",
     "is_free": false,
     "price": "¥ 108.00",
@@ -33,40 +138,6 @@
     "release_date": "2026 年 6 月 15 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4241420"
-  },
-  {
-    "appid": 4260530,
-    "name": "列车安全搜查官梨奈",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260530/b6bc9aabcfa3d42d0de4e667076c4c5d32cbf9bf/header_schinese.jpg?t=1781387491",
-    "short_description": "在这款肉鸽X模拟玩法的游戏里，你将扮演拥有超能力的特殊调查员梨奈，在列车里打击犯罪、降低犯罪率。通过升级并组合各种技能来先发制人吧！同时还能给梨奈换不同的衣服，享受各种造型带来的乐趣。",
-    "is_free": false,
-    "price": "¥ 45.60",
-    "original_price": "¥ 57.00",
-    "discount_percent": 20,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4260530"
-  },
-  {
-    "appid": 3864450,
-    "name": "Goblin Company",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864450/070bb3c075bf777d70607023befa9ff1fc375e96/header.jpg?t=1781276320",
-    "short_description": "作为 WHAAG MINING INC 的地精矿工，挖掘、铺设轨道并在地下求生。点亮前路，否则黑暗会榨干你的生命。探索完全可破坏的生物群系，对抗敌对生物，单人或在线合作猎取传说中的巨型金块",
-    "is_free": false,
-    "price": "¥ 28.00",
-    "original_price": "¥ 35.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 6 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3864450"
   },
   {
     "appid": 3337380,
@@ -87,7 +158,7 @@
   {
     "appid": 3989960,
     "name": "青蛙小队🐸 / Frog Sqwad",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/907d04fa7ec0c3c264bbb75f25f75c2e361e870d/header_schinese.jpg?t=1781193760",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/907d04fa7ec0c3c264bbb75f25f75c2e361e870d/header_schinese.jpg?t=1781613814",
     "short_description": "🐸这是一款最多支持8人合作的撤离式解谜平台游戏。你可以摆荡、跳跃、把朋友弹射出去，还能一路吃吃吃，长成超大巨蛙。快和蛙蛙伙伴组队，在下水道横冲直撞，为沼泽之王的荣耀而战吧！🐸",
     "is_free": false,
     "price": "¥ 19.84",
@@ -101,77 +172,5 @@
     "release_date": "2026 年 6 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3989960"
-  },
-  {
-    "appid": 2417470,
-    "name": "欢迎光临 Beastro",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417470/e553a225aa092cbf337c3e147e6ec5a6e29ed97a/header.jpg?t=1781538645",
-    "short_description": "Beastro《欢迎光临》！在这趟奇幻与冒险交织的旅途之中，并不是所有主人公都是手持刀剑……有些手上更爱拿着汤勺。而且，有时候要想拯救世界，需要先美餐一顿。",
-    "is_free": false,
-    "price": "¥ 54.00",
-    "original_price": "¥ 72.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2417470"
-  },
-  {
-    "appid": 2340520,
-    "name": "青岚物语",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340520/b05492fdc37c3982ec0f45f72dd046adea40fe5f/header_alt_assets_6_schinese.jpg?t=1781193845",
-    "short_description": "一款以青岚岛屿为舞台的妖怪世界治愈田园生活模拟游戏。经营农场、修缮祖宅、与居民缔结温暖羁绊，还能幻化为各式妖怪形态，徜徉在一座随四季流转、悠然焕新的奇幻世界。",
-    "is_free": false,
-    "price": "¥ 61.60",
-    "original_price": "¥ 88.00",
-    "discount_percent": 30,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2340520"
-  },
-  {
-    "appid": 4121170,
-    "name": "Fears to Fathom® - Scratch Creek",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
-    "short_description": "在注意到与《Fears to Fathom》某个篇章有毛骨悚然的相似之处后，泰莎与马库斯决定分享他们自己的经历。斯克拉奇溪仅支持线上双人合作模式。",
-    "is_free": false,
-    "price": "¥ 33.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 6 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4121170"
-  },
-  {
-    "appid": 958520,
-    "name": "33不朽灵魂",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",
-    "short_description": "33不朽灵魂 是一款支持33位玩家一齐上阵的动作Roguelike合作游戏。立即开启冒险，既可单人作战，也可与好友组队。迎战狱魔大军，击败强大头目，在冒险中不断成长强大。使用游戏内表情与其他反抗者协力作战，共同直面神的怒火。",
-    "is_free": false,
-    "price": "¥ 39.26",
-    "original_price": "¥ 58.61",
-    "discount_percent": 33,
-    "genres": [
-      "动作",
-      "独立",
-      "大型多人在线"
-    ],
-    "release_date": "2026 年 6 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/958520"
   }
 ]
