@@ -1,8 +1,114 @@
 [
   {
+    "appid": 3072120,
+    "name": "Backrooms Lost Runners",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3072120/dad7d34f3239a360eee16c3763d82d80501937b7/header.jpg?t=1781718736",
+    "short_description": "Backrooms Lost Runners 是一款合作生存恐怖游戏，拥有团队玩法、语音反应 AI 和沉浸式谜题。这不是“散步模拟器”：探索边缘空间，智胜实体，并记住——即使是耳语也可能暴露你。",
+    "is_free": false,
+    "price": "¥ 50.40",
+    "original_price": "¥ 56.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3072120"
+  },
+  {
+    "appid": 2790700,
+    "name": "SWAPMEAT",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg?t=1781716500",
+    "short_description": "Rip through hostile alien worlds, harvest mutant body parts mid-combat, and adapt faster than your enemies. Every alien you harvest gives you new body parts with unique powers, like triple-jump legs, turret-dropping torsos, grenade-launching turkey heads. Steal, swap, survive.",
+    "is_free": false,
+    "price": "¥ 39.60",
+    "original_price": "¥ 66.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2790700"
+  },
+  {
+    "appid": 4760260,
+    "name": "Warframe：Styanax Prime Access - 武器组合包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760260/4235739fe86e59e44f7700e69e26efa6acfd3dee/header.jpg?t=1781708923",
+    "short_description": "这款专属武器组合包内含圣英 Prime、阿索代 Prime 等。仅可通过 Prime Access 限时购买获得。",
+    "is_free": false,
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4760260"
+  },
+  {
+    "appid": 4760270,
+    "name": "Warframe：Styanax Prime Access - 配件包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760270/1231e62b9b19d05515f01f046851af9aaaaf1c13/header.jpg?t=1781708905",
+    "short_description": "这款专属配件包内含阵兵 Prime 披饰、达斯 Prime 护甲等。仅可通过 Prime Access 限时购买获得。",
+    "is_free": false,
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4760270"
+  },
+  {
+    "appid": 4735390,
+    "name": "Warframe：众星完整组合包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735390/a698499c0760f3f1b4af902d84a6b713ffaa66bf/header.jpg?t=1781708712",
+    "short_description": "向未来注定毁灭的宿命发起挑战。证明当下依然存在和谐的空间。",
+    "is_free": false,
+    "price": "¥ 188.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4735390"
+  },
+  {
+    "appid": 3551190,
+    "name": "最终夺回小分队",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551190/f4ddf7e364bc11a24420fe01748b642d22ede085/header.jpg?t=1781708435",
+    "short_description": "『最终夺回小分队』是一款2.5D单人FPS游戏。你将面对与早期SF作品中常见的外星武器极为酷似的敌人，与它们展开激烈交锋。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3551190"
+  },
+  {
     "appid": 838350,
     "name": "太吾绘卷：天幕心帷",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781676561",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781692191",
     "short_description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
     "is_free": false,
     "price": "¥ 86.40",
@@ -68,109 +174,5 @@
     "release_date": "2026 年 6 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4791830"
-  },
-  {
-    "appid": 4467980,
-    "name": "《猎人：荒野的召唤™》——秘鲁狩猎保护区",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467980/7efbd4bdbbde6a7eb7635f115fd11dad29b129bb/header.jpg?t=1781618402",
-    "short_description": "从安第斯山巅到茂密丛林，探秘秘鲁极致的生物多样性。猎物众多，从驼鹿到凯门鳄，一应俱全。但请保持警惕，丛林可是美洲豹的天下。",
-    "is_free": false,
-    "price": "¥ 48.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 6 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4467980"
-  },
-  {
-    "appid": 4131670,
-    "name": "Jurassic World Evolution 3: Rebirth Expansion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/474458897ebb93925de7f420983c641d8750f005/header_schinese.jpg?t=1781615080",
-    "short_description": "深入体验一段由《侏罗纪世界：重生》重大事件延伸而来的全新剧情。接管三处绝密地点，直面四种全新恐龙，其中包括令人胆寒的畸变暴龙！ ",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4131670"
-  },
-  {
-    "appid": 4064510,
-    "name": "MOLE",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064510/60fb8a75026cf12766973a335f00dc360b30b61b/header.jpg?t=1781535415",
-    "short_description": "驾驶战后打造的钻地巨兽——“鼹鼠号”钻探船，深入斯拉夫地底。修复系统故障，追随亡者的呼唤，与同处这具“深渊铁棺”中的未知存在对峙，祈祷自己能活下来。在这地底深处，率先崩溃的，究竟会是这钻地铁躯，还是你自己？",
-    "is_free": false,
-    "price": "¥ 43.20",
-    "original_price": "¥ 48.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4064510"
-  },
-  {
-    "appid": 4241420,
-    "name": "Stellaris: Nomads",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241420/15fab4e49617d31e714a8b2e132f638668ca8d6a/header.jpg?t=1781616685",
-    "short_description": "在《Nomads》中，你将繁荣于庞大的方舟内，载着你的子民、你的工业、你的雄心，跨越群星。在星系中自由移动，承接来自定居帝国的契约，并借由建造驿站留下你的印记。游牧者并不拥有星图——他们是在星图上开辟道路的人。",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4241420"
-  },
-  {
-    "appid": 3337380,
-    "name": "桌上谈兵",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/4613b9bda4abea973b57c63914f265e34612dfbb/header_schinese.jpg?t=1781266198",
-    "short_description": "招募一支狂野的雇佣兵团，在桌面风格的混乱战场上，指挥你的战士冲锋陷阵。无限的构筑可能、残酷的抉择考验、无穷的重玩价值——桌上谈兵，一款专为Roguelike爱好者而生的即时战略游戏。",
-    "is_free": false,
-    "price": "¥ 43.50",
-    "original_price": "¥ 58.00",
-    "discount_percent": 25,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3337380"
-  },
-  {
-    "appid": 3989960,
-    "name": "青蛙小队🐸 / Frog Sqwad",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/907d04fa7ec0c3c264bbb75f25f75c2e361e870d/header_schinese.jpg?t=1781613814",
-    "short_description": "🐸这是一款最多支持8人合作的撤离式解谜平台游戏。你可以摆荡、跳跃、把朋友弹射出去，还能一路吃吃吃，长成超大巨蛙。快和蛙蛙伙伴组队，在下水道横冲直撞，为沼泽之王的荣耀而战吧！🐸",
-    "is_free": false,
-    "price": "¥ 19.84",
-    "original_price": "¥ 32.00",
-    "discount_percent": 38,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 6 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3989960"
   }
 ]
