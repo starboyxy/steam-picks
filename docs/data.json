@@ -1,5 +1,59 @@
 [
   {
+    "appid": 2169930,
+    "name": "R-Type Tactics I • II Cosmos",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169930/599653ff4961bcab9317c1e8452bb8ad7c9a32af/header.jpg?t=1781798416",
+    "short_description": "彻底颠覆传统的回合制战术策略体验，尽在《R-Type Tactics I • II Cosmos》！本作首次登陆现代主机平台，集结系列两部作品。除了全面升级的视觉表现，还提供多条战役路线与分支任务，让战局发展随着你的每一次选择而改变！",
+    "is_free": false,
+    "price": "¥ 172.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2169930"
+  },
+  {
+    "appid": 3483510,
+    "name": "冒险家艾略特的千年奇谭",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
+    "short_description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3483510"
+  },
+  {
+    "appid": 4394810,
+    "name": "潜水员戴夫 - 丛林 Content Pack",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/5a2a3fa9dba5b2a5b733ea5bccf91c14694caba5/header.jpg?t=1781766044",
+    "short_description": "戴夫的下一次潜水将前往丛林。为了解开神秘的异常现象，戴夫与伙伴们踏上前往丛林村庄的旅程，探索神秘湖泊，并为村民经营餐厅。全新的系统、全新的同伴，以及全新的冒险正等待着你！",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "休闲",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4394810"
+  },
+  {
     "appid": 3072120,
     "name": "Backrooms Lost Runners",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3072120/dad7d34f3239a360eee16c3763d82d80501937b7/header.jpg?t=1781718736",
@@ -37,75 +91,6 @@
     "store_url": "https://store.steampowered.com/app/2790700"
   },
   {
-    "appid": 4760260,
-    "name": "Warframe：Styanax Prime Access - 武器组合包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760260/4235739fe86e59e44f7700e69e26efa6acfd3dee/header.jpg?t=1781708923",
-    "short_description": "这款专属武器组合包内含圣英 Prime、阿索代 Prime 等。仅可通过 Prime Access 限时购买获得。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 6 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4760260"
-  },
-  {
-    "appid": 4760270,
-    "name": "Warframe：Styanax Prime Access - 配件包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760270/1231e62b9b19d05515f01f046851af9aaaaf1c13/header.jpg?t=1781708905",
-    "short_description": "这款专属配件包内含阵兵 Prime 披饰、达斯 Prime 护甲等。仅可通过 Prime Access 限时购买获得。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4760270"
-  },
-  {
-    "appid": 4735390,
-    "name": "Warframe：众星完整组合包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735390/a698499c0760f3f1b4af902d84a6b713ffaa66bf/header.jpg?t=1781708712",
-    "short_description": "向未来注定毁灭的宿命发起挑战。证明当下依然存在和谐的空间。",
-    "is_free": false,
-    "price": "¥ 188.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 6 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4735390"
-  },
-  {
-    "appid": 3551190,
-    "name": "最终夺回小分队",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551190/f4ddf7e364bc11a24420fe01748b642d22ede085/header.jpg?t=1781708435",
-    "short_description": "『最终夺回小分队』是一款2.5D单人FPS游戏。你将面对与早期SF作品中常见的外星武器极为酷似的敌人，与它们展开激烈交锋。",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 6 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3551190"
-  },
-  {
     "appid": 838350,
     "name": "太吾绘卷：天幕心帷",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781692191",
@@ -124,23 +109,6 @@
     "release_date": "2026 年 6 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/838350"
-  },
-  {
-    "appid": 4586830,
-    "name": "《守望先锋®》开战礼包2026：第3赛季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586830/d80921c6c977ce7222733d2b4a4aba27645367af/header.jpg?t=1781632883",
-    "short_description": "获取1000守望金币和商界丽人“金驭”在这个赛季强势开局！",
-    "is_free": false,
-    "price": "¥ 60.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 6 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4586830"
   },
   {
     "appid": 4586820,
@@ -174,5 +142,39 @@
     "release_date": "2026 年 6 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4791830"
+  },
+  {
+    "appid": 4064510,
+    "name": "MOLE",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064510/60fb8a75026cf12766973a335f00dc360b30b61b/header.jpg?t=1781535415",
+    "short_description": "驾驶战后打造的钻地巨兽——“鼹鼠号”钻探船，深入斯拉夫地底。修复系统故障，追随亡者的呼唤，与同处这具“深渊铁棺”中的未知存在对峙，祈祷自己能活下来。在这地底深处，率先崩溃的，究竟会是这钻地铁躯，还是你自己？",
+    "is_free": false,
+    "price": "¥ 43.20",
+    "original_price": "¥ 48.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4064510"
+  },
+  {
+    "appid": 3337380,
+    "name": "桌上谈兵",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/4613b9bda4abea973b57c63914f265e34612dfbb/header_schinese.jpg?t=1781266198",
+    "short_description": "招募一支狂野的雇佣兵团，在桌面风格的混乱战场上，指挥你的战士冲锋陷阵。无限的构筑可能、残酷的抉择考验、无穷的重玩价值——桌上谈兵，一款专为Roguelike爱好者而生的即时战略游戏。",
+    "is_free": false,
+    "price": "¥ 58.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3337380"
   }
 ]
