@@ -1,20 +1,21 @@
 [
   {
-    "appid": 2169930,
-    "name": "R-Type Tactics I • II Cosmos",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169930/599653ff4961bcab9317c1e8452bb8ad7c9a32af/header.jpg?t=1781798416",
-    "short_description": "彻底颠覆传统的回合制战术策略体验，尽在《R-Type Tactics I • II Cosmos》！本作首次登陆现代主机平台，集结系列两部作品。除了全面升级的视觉表现，还提供多条战役路线与分支任务，让战局发展随着你的每一次选择而改变！",
+    "appid": 2881370,
+    "name": "感谢你的投递",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881370/51d71132bc7f89363424e1485e0fb9195caee1cc/header_schinese.jpg?t=1781877003",
+    "short_description": "《感谢你的投递》是一款剧情驱动的面试模拟游戏。经过15轮的面试，你与该岗位不太匹配。你被调剂为初级面试官，根据公司要求筛选候选人的简历，并发出合适的感谢信。",
     "is_free": false,
-    "price": "¥ 172.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 39.95",
+    "original_price": "¥ 47.00",
+    "discount_percent": 15,
     "genres": [
-      "模拟",
-      "策略"
+      "独立",
+      "角色扮演",
+      "模拟"
     ],
-    "release_date": "2026 年 6 月 18 日",
+    "release_date": "2026 年 6 月 19 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2169930"
+    "store_url": "https://store.steampowered.com/app/2881370"
   },
   {
     "appid": 3483510,
@@ -37,7 +38,7 @@
   {
     "appid": 4394810,
     "name": "潜水员戴夫 - 丛林 Content Pack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/5a2a3fa9dba5b2a5b733ea5bccf91c14694caba5/header.jpg?t=1781766044",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/5a2a3fa9dba5b2a5b733ea5bccf91c14694caba5/header.jpg?t=1781934574",
     "short_description": "戴夫的下一次潜水将前往丛林。为了解开神秘的异常现象，戴夫与伙伴们踏上前往丛林村庄的旅程，探索神秘湖泊，并为村民经营餐厅。全新的系统、全新的同伴，以及全新的冒险正等待着你！",
     "is_free": false,
     "price": "¥ 39.00",
@@ -75,7 +76,7 @@
   {
     "appid": 2790700,
     "name": "SWAPMEAT",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg?t=1781716500",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg?t=1781897422",
     "short_description": "Rip through hostile alien worlds, harvest mutant body parts mid-combat, and adapt faster than your enemies. Every alien you harvest gives you new body parts with unique powers, like triple-jump legs, turret-dropping torsos, grenade-launching turkey heads. Steal, swap, survive.",
     "is_free": false,
     "price": "¥ 39.60",
@@ -128,20 +129,21 @@
     "store_url": "https://store.steampowered.com/app/4586820"
   },
   {
-    "appid": 4791830,
-    "name": "Dead by Daylight: Jason",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791830/d1f09f60b1f0a798d6e3cfb79c5e86109282312d/header.jpg?t=1781621916",
-    "short_description": "《黎明杀机：杰森》包括一名全新杀手——杀人魔杰森。购买此DLC可解锁曲棍球面具饰章和雾中小屋横幅。",
+    "appid": 4131670,
+    "name": "Jurassic World Evolution 3: Rebirth Expansion",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/474458897ebb93925de7f420983c641d8750f005/header_schinese.jpg?t=1781615080",
+    "short_description": "深入体验一段由《侏罗纪世界：重生》重大事件延伸而来的全新剧情。接管三处绝密地点，直面四种全新恐龙，其中包括令人胆寒的畸变暴龙！ ",
     "is_free": false,
-    "price": "¥ 23.40",
+    "price": "¥ 108.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "动作"
+      "模拟",
+      "策略"
     ],
     "release_date": "2026 年 6 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4791830"
+    "store_url": "https://store.steampowered.com/app/4131670"
   },
   {
     "appid": 4064510,
