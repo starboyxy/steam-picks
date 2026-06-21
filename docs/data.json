@@ -1,5 +1,41 @@
 [
   {
+    "appid": 3939700,
+    "name": "海边宝藏小铺",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939700/acc28175baf8b5a98e8dd48c5e96ea548b4b42e0/header_schinese.jpg?t=1782011840",
+    "short_description": "听，海浪退潮了！踩着柔软的细沙，循着探测器清脆的“滴滴”声，挖出深埋沙底的惊喜盲盒！将物件带回工坊，伴随毛刷“唰唰”擦拭的白噪音，体验极致解压的变废为宝。把锃光瓦亮的宝物摆进橱窗，在金币落袋的“叮当”声中用心经营你的海边小店。从贪婪酒店手中买回沙滩——别让浪漫变成私人领地，这片自由的海风归你守护！",
+    "is_free": false,
+    "price": "¥ 25.20",
+    "original_price": "¥ 42.00",
+    "discount_percent": 40,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 6 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3939700"
+  },
+  {
+    "appid": 4353630,
+    "name": "与夏日姐姐们的甜蜜时光",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353630/fbd05a6ba48f331493faa1005257b1e73f2d5f6b/header_schinese.jpg?t=1781928023",
+    "short_description": "时隔多年重返乡间，这个夏天优终于要与哈娜、莉娜、希娜三姐妹重逢了！不料母亲因急事匆匆返家，他将独自与三姐妹共度一段时光。宁静温馨的日式乡村里，等待他的会是怎样的夏日趣事呢？",
+    "is_free": false,
+    "price": "¥ 23.20",
+    "original_price": "¥ 29.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4353630"
+  },
+  {
     "appid": 2881370,
     "name": "感谢你的投递",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881370/51d71132bc7f89363424e1485e0fb9195caee1cc/header_schinese.jpg?t=1781877003",
@@ -18,27 +54,9 @@
     "store_url": "https://store.steampowered.com/app/2881370"
   },
   {
-    "appid": 3483510,
-    "name": "冒险家艾略特的千年奇谭",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
-    "short_description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3483510"
-  },
-  {
     "appid": 4394810,
     "name": "潜水员戴夫 - 丛林 Content Pack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/5a2a3fa9dba5b2a5b733ea5bccf91c14694caba5/header.jpg?t=1781934574",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/5a2a3fa9dba5b2a5b733ea5bccf91c14694caba5/header.jpg?t=1781967852",
     "short_description": "戴夫的下一次潜水将前往丛林。为了解开神秘的异常现象，戴夫与伙伴们踏上前往丛林村庄的旅程，探索神秘湖泊，并为村民经营餐厅。全新的系统、全新的同伴，以及全新的冒险正等待着你！",
     "is_free": false,
     "price": "¥ 39.00",
@@ -92,26 +110,6 @@
     "store_url": "https://store.steampowered.com/app/2790700"
   },
   {
-    "appid": 838350,
-    "name": "太吾绘卷：天幕心帷",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781692191",
-    "short_description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-    "is_free": false,
-    "price": "¥ 86.40",
-    "original_price": "¥ 108.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/838350"
-  },
-  {
     "appid": 4586820,
     "name": "《守望先锋®》——终极战令礼包2026：第3赛季",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586820/30c557f08a493d6536dc681a6b3d1005f040315d/header.jpg?t=1781632872",
@@ -127,23 +125,6 @@
     "release_date": "2026 年 6 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4586820"
-  },
-  {
-    "appid": 4131670,
-    "name": "Jurassic World Evolution 3: Rebirth Expansion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/474458897ebb93925de7f420983c641d8750f005/header_schinese.jpg?t=1781615080",
-    "short_description": "深入体验一段由《侏罗纪世界：重生》重大事件延伸而来的全新剧情。接管三处绝密地点，直面四种全新恐龙，其中包括令人胆寒的畸变暴龙！ ",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4131670"
   },
   {
     "appid": 4064510,
@@ -178,5 +159,23 @@
     "release_date": "2026 年 6 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3337380"
+  },
+  {
+    "appid": 2340520,
+    "name": "青岚物语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340520/b05492fdc37c3982ec0f45f72dd046adea40fe5f/header_alt_assets_6_schinese.jpg?t=1781759557",
+    "short_description": "一款以青岚岛屿为舞台的妖怪世界治愈田园生活模拟游戏。经营农场、修缮祖宅、与居民缔结温暖羁绊，还能幻化为各式妖怪形态，徜徉在一座随四季流转、悠然焕新的奇幻世界。",
+    "is_free": false,
+    "price": "¥ 61.60",
+    "original_price": "¥ 88.00",
+    "discount_percent": 30,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2340520"
   }
 ]
