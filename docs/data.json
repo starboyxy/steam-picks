@@ -1,42 +1,58 @@
 [
   {
-    "appid": 4770140,
-    "name": "7,200点高级补给包 -《彩虹六号：围攻》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770140/d2fbed2c77a92c04cccb764bff32b1cfb3e0b9a9/header_schinese.jpg?t=1782237461",
-    "short_description": "获取7,200点R6点数、一件专属杰作武器涂装以及一个七天声望加成道具。优惠限时供应，抓紧时间解锁吧！",
+    "appid": 3954990,
+    "name": "S.A.N.D.Y. - Beach Cleaner",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954990/4d1ff4c3c2e2f013bf432a7c690d6b913899c9df/header.jpg?t=1782331023",
+    "short_description": "在这款简短、轻松又阴郁的游戏中，清理海滩上的垃圾！回收废弃物，升级你的机器人。探索新的领土。清理石油泄漏并拯救动物！",
     "is_free": false,
-    "price": "¥ 598.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4770140"
-  },
-  {
-    "appid": 1910680,
-    "name": "Orb of Creation",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782234207",
-    "short_description": "Orb of Creation is an active incremental-puzzle game in which you recreate the world with nothing but magic and ingenuity. Conjure resources, buy upgrades, and become an all-powerful wizard!",
-    "is_free": false,
-    "price": "¥ 48.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
     "genres": [
       "休闲",
-      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3954990"
+  },
+  {
+    "appid": 4323990,
+    "name": "EMPULSE",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
+    "short_description": "EMPULSE 是一款即将上线的高速6v6移动射击游戏。跑墙、钩爪、Holojump、驾驶机甲、用 P.A.I.N.T. 征服 Freehold 的垂直街道。比对手跑得更快，否则只能被打倒。",
+    "is_free": false,
+    "price": "¥ 61.50",
+    "original_price": "¥ 82.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 6 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4323990"
+  },
+  {
+    "appid": 4446010,
+    "name": "The First Million",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446010/ec8e9f97b463f68513796c48e3a283474fd93fc9/header.jpg?t=1782303812",
+    "short_description": "在这款放置类卡牌构筑游戏中，不断解锁新卡牌和升级，接二连三地发现颠覆游戏的制胜策略，赚到第一个 100 万，然后是更多个百万！",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
       "策略"
     ],
-    "release_date": "2026 年 6 月 23 日",
+    "release_date": "2026 年 6 月 24 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1910680"
+    "store_url": "https://store.steampowered.com/app/4446010"
   },
   {
     "appid": 4562150,
     "name": "How To Grow a Black Hole",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562150/d4246516263f388e53ffcbb896a1500837661173/header.jpg?t=1782234057",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562150/d4246516263f388e53ffcbb896a1500837661173/header.jpg?t=1782283072",
     "short_description": "How To Grow a Black Hole 讲的是……嗯……如何养大一个黑洞。管理你的黑洞，喂食以增加质量，并防止灾难性坍缩。与全球玩家或好友竞争，打造最大的黑洞。也许你会成为第一名。",
     "is_free": false,
     "price": "¥ 15.30",
@@ -54,7 +70,7 @@
   {
     "appid": 2458980,
     "name": "Dimhaven - The Lost Source",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458980/06d5c493e7d088a11372622a0689869126966c19/header.jpg?t=1782229679",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458980/06d5c493e7d088a11372622a0689869126966c19/header.jpg?t=1782336317",
     "short_description": "准备好踏上冒险的旅途了吗？这款第一人称悬疑游戏由《Quern》的团队开发。走进晦港的世界，迎接挑战、探索未知、破解谜题，享受叙事驱动的体验。拿起相机，展现你的智慧！",
     "is_free": false,
     "price": "¥ 84.15",
@@ -122,24 +138,6 @@
     "store_url": "https://store.steampowered.com/app/4355580"
   },
   {
-    "appid": 1803140,
-    "name": "男孩与鹿",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803140/c3ed226e9e97272876e6c5f4572d8dce010740cf/header.jpg?t=1782223719",
-    "short_description": "在这款充满诗意、如同电影般的平台游戏中，一个离家出走的小男孩遇到了一只小鹿。随着友谊的不断加深，他们的能力也将提升。这段旅途的情感重量也在日益增长，达到“无声胜有声”的境界。",
-    "is_free": false,
-    "price": "¥ 70.20",
-    "original_price": "¥ 78.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1803140"
-  },
-  {
     "appid": 3688130,
     "name": " 厨房清洁大师",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3688130/28541e86c6939117b06ff21fa706553edeb43247/header_alt_assets_3_schinese.jpg?t=1782242580",
@@ -158,21 +156,21 @@
     "store_url": "https://store.steampowered.com/app/3688130"
   },
   {
-    "appid": 2819400,
-    "name": "Disc Golf Masters",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2819400/c3690f24f2b95dbcd11e0dd6e1927712995b63e0/header_alt_assets_0.jpg?t=1782238193",
-    "short_description": "The disc golf game built for people who actually play disc golf. Throw real licensed discs, pick your angles, play online, and chase the leaderboards. Made by disc golfers. Updated constantly.",
+    "appid": 1431300,
+    "name": "SAND: Raiders of Sophie",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+    "short_description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
     "is_free": false,
-    "price": "¥ 93.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 71.10",
+    "original_price": "¥ 90.00",
+    "discount_percent": 21,
     "genres": [
-      "模拟",
-      "体育",
+      "动作",
+      "冒险",
       "抢先体验"
     ],
-    "release_date": "2026 年 6 月 23 日",
+    "release_date": "2026 年 6 月 22 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2819400"
+    "store_url": "https://store.steampowered.com/app/1431300"
   }
 ]
