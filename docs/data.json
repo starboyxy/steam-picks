@@ -1,22 +1,5 @@
 [
   {
-    "appid": 3954990,
-    "name": "S.A.N.D.Y. - Beach Cleaner",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954990/4d1ff4c3c2e2f013bf432a7c690d6b913899c9df/header.jpg?t=1782331023",
-    "short_description": "在这款简短、轻松又阴郁的游戏中，清理海滩上的垃圾！回收废弃物，升级你的机器人。探索新的领土。清理石油泄漏并拯救动物！",
-    "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3954990"
-  },
-  {
     "appid": 4323990,
     "name": "EMPULSE",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
@@ -34,40 +17,6 @@
     "store_url": "https://store.steampowered.com/app/4323990"
   },
   {
-    "appid": 4446010,
-    "name": "The First Million",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446010/ec8e9f97b463f68513796c48e3a283474fd93fc9/header.jpg?t=1782303812",
-    "short_description": "在这款放置类卡牌构筑游戏中，不断解锁新卡牌和升级，接二连三地发现颠覆游戏的制胜策略，赚到第一个 100 万，然后是更多个百万！",
-    "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
-    "discount_percent": 10,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4446010"
-  },
-  {
-    "appid": 4562150,
-    "name": "How To Grow a Black Hole",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562150/d4246516263f388e53ffcbb896a1500837661173/header.jpg?t=1782283072",
-    "short_description": "How To Grow a Black Hole 讲的是……嗯……如何养大一个黑洞。管理你的黑洞，喂食以增加质量，并防止灾难性坍缩。与全球玩家或好友竞争，打造最大的黑洞。也许你会成为第一名。",
-    "is_free": false,
-    "price": "¥ 15.30",
-    "original_price": "¥ 18.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4562150"
-  },
-  {
     "appid": 2458980,
     "name": "Dimhaven - The Lost Source",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458980/06d5c493e7d088a11372622a0689869126966c19/header.jpg?t=1782336317",
@@ -83,41 +32,6 @@
     "release_date": "2026 年 6 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2458980"
-  },
-  {
-    "appid": 4657090,
-    "name": "《席德·梅尔的文明® VII：笔毫与刀锋合集》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657090/a8bd695a1aa66f15a7b12b9883c0d161bce94e6e/header.jpg?t=1782246131",
-    "short_description": "在《席德·梅尔的文明®VII》中通过笔毫与刀锋合集里的付费扩展内容探索自定义帝国的全新可能性！",
-    "is_free": false,
-    "price": "¥ 129.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4657090"
-  },
-  {
-    "appid": 4355570,
-    "name": "Warhammer 40,000: Darktide - Skitarii Class",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/5bb3da805ebe9216ce63f358ba4abf83c959320a/header.jpg?t=1782235928",
-    "short_description": "机械神教绝不会允许特提恩巢都的秘密落入异端的手中。护教军A一号都是侍奉欧姆尼塞亚的精英干员，他们会歼灭一切横在面前之敌。",
-    "is_free": false,
-    "price": "¥ 58.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4355570"
   },
   {
     "appid": 4355580,
@@ -138,24 +52,6 @@
     "store_url": "https://store.steampowered.com/app/4355580"
   },
   {
-    "appid": 3688130,
-    "name": " 厨房清洁大师",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3688130/28541e86c6939117b06ff21fa706553edeb43247/header_alt_assets_3_schinese.jpg?t=1782242580",
-    "short_description": "化身美食小英雄，向发霉污渍宣战！握紧你的高压喷枪，切换最精准的喷嘴，在这一场充满治愈感的街机冒险中，将冰箱里的黏腻污垢一扫而空。",
-    "is_free": false,
-    "price": "¥ 32.40",
-    "original_price": "¥ 36.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3688130"
-  },
-  {
     "appid": 1431300,
     "name": "SAND: Raiders of Sophie",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
@@ -172,5 +68,110 @@
     "release_date": "2026 年 6 月 22 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1431300"
+  },
+  {
+    "appid": 3483510,
+    "name": "冒险家艾略特的千年奇谭",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+    "short_description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3483510"
+  },
+  {
+    "appid": 4121170,
+    "name": "Fears to Fathom® - Scratch Creek",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
+    "short_description": "在注意到与《Fears to Fathom》某个篇章有毛骨悚然的相似之处后，泰莎与马库斯决定分享他们自己的经历。斯克拉奇溪仅支持线上双人合作模式。",
+    "is_free": false,
+    "price": "¥ 33.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4121170"
+  },
+  {
+    "appid": 3844970,
+    "name": "地精捣蛋团",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+    "short_description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+    "is_free": false,
+    "price": "¥ 42.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3844970"
+  },
+  {
+    "appid": 4704690,
+    "name": "MECCHA CHAMELEON",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+    "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+    "is_free": false,
+    "price": "¥ 26.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "休闲"
+    ],
+    "release_date": "2026 年 6 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4704690"
+  },
+  {
+    "appid": 2004680,
+    "name": "沃德灵：共生",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/e78a9bdceb41e0b278dfc9377c4e5c482ddb944c/header_schinese.jpg?t=1781263470",
+    "short_description": "在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
+    "is_free": false,
+    "price": "¥ 93.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2004680"
+  },
+  {
+    "appid": 1805110,
+    "name": "太阳朋克：浮岛家园",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1782219094",
+    "short_description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+    "is_free": false,
+    "price": "¥ 85.56",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1805110"
   }
 ]
