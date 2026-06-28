@@ -17,23 +17,6 @@
     "store_url": "https://store.steampowered.com/app/4323990"
   },
   {
-    "appid": 2458980,
-    "name": "Dimhaven - The Lost Source",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458980/06d5c493e7d088a11372622a0689869126966c19/header.jpg?t=1782479584",
-    "short_description": "准备好踏上冒险的旅途了吗？这款第一人称悬疑游戏由《Quern》的团队开发。走进晦港的世界，迎接挑战、探索未知、破解谜题，享受叙事驱动的体验。拿起相机，展现你的智慧！",
-    "is_free": false,
-    "price": "¥ 84.15",
-    "original_price": "¥ 99.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 6 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2458980"
-  },
-  {
     "appid": 1431300,
     "name": "SAND: Raiders of Sophie",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
@@ -125,7 +108,7 @@
   {
     "appid": 4704690,
     "name": "MECCHA CHAMELEON",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782460404",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
     "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
     "is_free": false,
     "price": "¥ 26.00",
@@ -173,5 +156,22 @@
     "release_date": "2026 年 6 月 8 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1805110"
+  },
+  {
+    "appid": 1297900,
+    "name": "Gothic 1 Remake",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782140243",
+    "short_description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+    "is_free": false,
+    "price": "¥ 238.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1297900"
   }
 ]
