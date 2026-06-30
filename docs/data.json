@@ -35,6 +35,24 @@
     "store_url": "https://store.steampowered.com/app/1431300"
   },
   {
+    "appid": 3483510,
+    "name": "冒险家艾略特的千年奇谭",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+    "short_description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3483510"
+  },
+  {
     "appid": 4121170,
     "name": "Fears to Fathom® - Scratch Creek",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
@@ -124,7 +142,7 @@
   {
     "appid": 1297900,
     "name": "Gothic 1 Remake",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782140243",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782739446",
     "short_description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
     "is_free": false,
     "price": "¥ 238.00",
@@ -155,22 +173,5 @@
     "release_date": "2026 年 6 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4731620"
-  },
-  {
-    "appid": 1875580,
-    "name": "挖掘者米娜",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780605554",
-    "short_description": "扮演米娜，一位声名显赫的挖掘者，踏上拯救被诅咒岛屿的绝望之旅。在《挖掘者米娜》这款由《铲子骑士》开发者带来的全新游戏中，挥鞭痛击敌人，钻入地下，探索完美的像素世界！",
-    "is_free": false,
-    "price": "¥ 77.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 5 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1875580"
   }
 ]
