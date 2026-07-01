@@ -1,5 +1,22 @@
 [
   {
+    "appid": 4800590,
+    "name": "Supermarket Chaos",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+    "short_description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+    "is_free": false,
+    "price": "¥ 17.99",
+    "original_price": "¥ 19.99",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 6 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4800590"
+  },
+  {
     "appid": 4323990,
     "name": "EMPULSE",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
@@ -53,6 +70,25 @@
     "store_url": "https://store.steampowered.com/app/3483510"
   },
   {
+    "appid": 4018020,
+    "name": "天使之恋Online：国际版",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018020/6c712c5ca3f34291e596a2d60f2b3961a168c851/header.jpg?t=1782272656",
+    "short_description": "《天使之恋Online 国际版》是一款2D可爱奇幻风格的线上 MMORPG，主打高度自由的养成、多样玩法与跨国共玩体验，让新旧玩家都能轻松投入、长久游玩。可自由选择阵营、搭配技能来培养角色，创造出专属于个人的游戏风格。国际版更提供四倍速练等，加速角色成长，优化背包空间，让收集与探索更无负担。同时支援即时聊天翻译，可与全球玩家一同冒险。游戏装扮可由副本直接掉落，并追加分解、融合系统，将外观转化为实力。",
+    "is_free": true,
+    "price": "免费",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "大型多人在线",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 6 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4018020"
+  },
+  {
     "appid": 4121170,
     "name": "Fears to Fathom® - Scratch Creek",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
@@ -69,6 +105,24 @@
     "release_date": "2026 年 6 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4121170"
+  },
+  {
+    "appid": 2679100,
+    "name": "巫塔战记",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/fb7f504258d3ace8267a937de3fb9be130c246d8/header.jpg?t=1781704867",
+    "short_description": "投身开放世界，开启一场终极的巫师冒险。对战生物、收服魔宠，运用法术建造栖身之所，既可在单人模式中独乐乐，又能在多人模式中和其他巫师携手合作。",
+    "is_free": false,
+    "price": "¥ 85.56",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 6 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2679100"
   },
   {
     "appid": 3844970,
@@ -120,58 +174,5 @@
     "release_date": "2026 年 6 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2004680"
-  },
-  {
-    "appid": 1805110,
-    "name": "太阳朋克：浮岛家园",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1782219094",
-    "short_description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
-    "is_free": false,
-    "price": "¥ 85.56",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1805110"
-  },
-  {
-    "appid": 1297900,
-    "name": "Gothic 1 Remake",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782739446",
-    "short_description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
-    "is_free": false,
-    "price": "¥ 238.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1297900"
-  },
-  {
-    "appid": 4731620,
-    "name": "财富磨坊",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1782064634",
-    "short_description": "一款必须赚到¥1,000,000才能逃脱的增量游戏！投掷飞镖、游玩刮刮乐彩票、解锁自动化、落下柏青哥小球，并寻找协同效果，因为每个游戏都会影响所有其他游戏",
-    "is_free": false,
-    "price": "¥ 33.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4731620"
   }
 ]
