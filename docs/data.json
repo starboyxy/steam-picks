@@ -1,5 +1,45 @@
 [
   {
+    "appid": 4558480,
+    "name": "ARK Tides of Fortune",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558480/272e93410295d126fae1220848c163ac81a54b47/header.jpg?t=1783120993",
+    "short_description": "在这款全新的 ARK 游戏扩展包中，建造并定制你的船只，扬帆起航，在浩瀚的海洋上展开冒险！探索未知的海洋边疆，寻找埋藏的宝藏，驯服深海巨兽，并与残暴的海盗舰队展开战斗！",
+    "is_free": false,
+    "price": "¥ 141.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "大型多人在线",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4558480"
+  },
+  {
+    "appid": 4558490,
+    "name": "ARK: Dragontopia",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558490/8009224b2bd22779f788b648dfc6ff5bb889e7dd/header.jpg?t=1783121005",
+    "short_description": "翱翔天际，进入《方舟：龙之乌托邦》，一个全新的云端世界，这里有漂浮的岛屿、神话般的巨龙、强大的技能树、入侵的军团，以及全新的载具、物品和挑战。驯服传奇巨龙，称霸天空！",
+    "is_free": false,
+    "price": "¥ 211.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "大型多人在线",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4558490"
+  },
+  {
     "appid": 4800590,
     "name": "Supermarket Chaos",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
@@ -52,6 +92,24 @@
     "store_url": "https://store.steampowered.com/app/1431300"
   },
   {
+    "appid": 3483510,
+    "name": "冒险家艾略特的千年奇谭",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+    "short_description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3483510"
+  },
+  {
     "appid": 4121170,
     "name": "Fears to Fathom® - Scratch Creek",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
@@ -68,24 +126,6 @@
     "release_date": "2026 年 6 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4121170"
-  },
-  {
-    "appid": 2679100,
-    "name": "巫塔战记",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/fb7f504258d3ace8267a937de3fb9be130c246d8/header.jpg?t=1781704867",
-    "short_description": "投身开放世界，开启一场终极的巫师冒险。对战生物、收服魔宠，运用法术建造栖身之所，既可在单人模式中独乐乐，又能在多人模式中和其他巫师携手合作。",
-    "is_free": false,
-    "price": "¥ 85.56",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 6 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2679100"
   },
   {
     "appid": 3844970,
@@ -137,40 +177,5 @@
     "release_date": "2026 年 6 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2004680"
-  },
-  {
-    "appid": 1297900,
-    "name": "Gothic 1 Remake",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782739446",
-    "short_description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
-    "is_free": false,
-    "price": "¥ 238.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1297900"
-  },
-  {
-    "appid": 4731620,
-    "name": "财富磨坊",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1783028565",
-    "short_description": "一款必须赚到¥1,000,000才能逃脱的增量游戏！投掷飞镖、游玩刮刮乐彩票、解锁自动化、落下柏青哥小球，并寻找协同效果，因为每个游戏都会影响所有其他游戏",
-    "is_free": false,
-    "price": "¥ 33.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 6 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4731620"
   }
 ]
