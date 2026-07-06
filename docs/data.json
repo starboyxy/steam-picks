@@ -1,25 +1,5 @@
 [
   {
-    "appid": 4558480,
-    "name": "ARK Tides of Fortune",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558480/272e93410295d126fae1220848c163ac81a54b47/header.jpg?t=1783148519",
-    "short_description": "在这款全新的 ARK 游戏扩展包中，建造并定制你的船只，扬帆起航，在浩瀚的海洋上展开冒险！探索未知的海洋边疆，寻找埋藏的宝藏，驯服深海巨兽，并与残暴的海盗舰队展开战斗！",
-    "is_free": false,
-    "price": "¥ 141.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "大型多人在线",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4558480"
-  },
-  {
     "appid": 4800590,
     "name": "Supermarket Chaos",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1783224963",
@@ -70,6 +50,24 @@
     "release_date": "2026 年 6 月 22 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1431300"
+  },
+  {
+    "appid": 3483510,
+    "name": "冒险家艾略特的千年奇谭",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+    "short_description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 6 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3483510"
   },
   {
     "appid": 4121170,
