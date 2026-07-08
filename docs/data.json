@@ -2,7 +2,7 @@
   {
     "appid": 2209900,
     "name": "Moonlight Peaks",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783397812",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783444081",
     "short_description": "在《Moonlight Peaks》中体验吸血鬼的生活！掌握药水制作和咒语施放的艺术，悉心照料你的超自然农场，并与本地狼人、女巫和美人鱼成为好友——甚至坠入爱河。永恒唾手可得！",
     "is_free": false,
     "price": "¥ 160.65",
@@ -21,7 +21,7 @@
   {
     "appid": 2749950,
     "name": "Esports Manager 2026",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783353518",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404",
     "short_description": "建立并领导您自己的职业电子竞技组织。招募球员、管理合同、培养人才、聘请员工、打造品牌，并在深度逼真的管理模拟中争夺冠军头衔。",
     "is_free": false,
     "price": "¥ 54.40",
@@ -53,6 +53,24 @@
     "release_date": "2026 年 6 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4800590"
+  },
+  {
+    "appid": 4049910,
+    "name": "核纪元",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049910/f959f0236c9c4e2af316c9464ac418aea9ed8ff0/header.jpg?t=1782800794",
+    "short_description": "《核纪元》是一款融合建造与战术射击的开放世界生存游戏。在这个后末世的世界中，玩家可以与好友一起探索广阔的废土，建设属于自己的庇护所基地，收集资源打造独特的武器装备。 游戏的核心玩法围绕高风险高回报的副本挑战展开：组建小队深入随机生成的危险区域，搜集珍稀物资并安全撤离。但要小心——死亡意味着失去所携带的全部装备，每一次探险都是勇气与策略的考验。 游戏最大的特色在于完全自定义的装备系统：所有武器的性能数值都由玩家亲手打造决定，没有固定的装备模板，每把武器都是独一无二的。",
+    "is_free": false,
+    "price": "¥ 49.30",
+    "original_price": "¥ 58.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 6 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4049910"
   },
   {
     "appid": 1431300,
@@ -124,41 +142,6 @@
     "store_url": "https://store.steampowered.com/app/4704690"
   },
   {
-    "appid": 2004680,
-    "name": "沃德灵：共生",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/e78a9bdceb41e0b278dfc9377c4e5c482ddb944c/header_schinese.jpg?t=1781263470",
-    "short_description": "在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
-    "is_free": false,
-    "price": "¥ 93.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2004680"
-  },
-  {
-    "appid": 1297900,
-    "name": "Gothic 1 Remake",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782739446",
-    "short_description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
-    "is_free": false,
-    "price": "¥ 238.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 6 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1297900"
-  },
-  {
     "appid": 1875580,
     "name": "挖掘者米娜",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780605554",
@@ -174,5 +157,22 @@
     "release_date": "2026 年 5 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1875580"
+  },
+  {
+    "appid": 3768760,
+    "name": "007 初露锋芒",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1782807423",
+    "short_description": "赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 5 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3768760"
   }
 ]
