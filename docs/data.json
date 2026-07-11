@@ -36,6 +36,42 @@
     "store_url": "https://store.steampowered.com/app/1623730"
   },
   {
+    "appid": 2019620,
+    "name": "GERONIMO",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2019620/c18168bcea25a3fa7d835319ddc4aadb2281e997/header.jpg?t=1783702823",
+    "short_description": "GERONIMO is an immersive, tactical CQB shooter built for Virtual Reality that depicts a modern-day world in which Tier 1 operators are called to implement unconventional operations as members of elite teams. Breaching, in-depth character and weapon customization and more! \u0026quot;Who Dares, Wins\u0026quot;",
+    "is_free": false,
+    "price": "¥ 126.90",
+    "original_price": "¥ 141.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2019620"
+  },
+  {
+    "appid": 4090360,
+    "name": "森林逃生：末班列车 (Forest Escape: Last Train)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/a451315b1a662b61f65342f1b638622196c423ec/header_alt_assets_2_schinese.jpg?t=1783703628",
+    "short_description": "《森林逃生：末班列车》是一款支持 1-4 人联机的多人生存合作游戏。迷雾森林、疯狂典狱长的超现实心魔、随时可能散架的火车......你必须与队友联手修复、升级并捍卫破旧的火车头，开采关键资源。拉响汽笛，在被噩梦彻底吞噬前，驶向唯一的生路！",
+    "is_free": false,
+    "price": "¥ 25.60",
+    "original_price": "¥ 32.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4090360"
+  },
+  {
     "appid": 2244210,
     "name": "艾恩葛朗特 回荡新声",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
@@ -55,7 +91,7 @@
   {
     "appid": 4032350,
     "name": "EA SPORTS™ College Football 27",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783633200",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783700053",
     "short_description": "踏入大学橄榄球的现代时代，在个人抱负与校队荣誉的交汇中展开征程。在沉浸于比赛日传统与盛典氛围的同时，平衡各方期望、自身特质以及周六赛事所要求的一切。",
     "is_free": false,
     "price": "¥ 348.00",
@@ -90,7 +126,7 @@
   {
     "appid": 4380490,
     "name": "猫咪邮政",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1783610189",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1783683473",
     "short_description": "和好友一起变成猫猫，把邮局做大做强！我是一只猫，一夜之间继承了整个邮局...包裹如潮水般涌来！打包、分类、配送，把猫岛村民的心意寄往远方。把凌乱货架变得整整齐齐，享受治愈的慢时光。夜晚还会有神秘的魔法包裹悄然出现...总之，神奇的猫咪邮政，为您服务！",
     "is_free": false,
     "price": "¥ 34.00",
@@ -107,8 +143,8 @@
   {
     "appid": 3935020,
     "name": "Backyard Baseball",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1783621515",
-    "short_description": "The arcade-style classic is back - and it's leveling up. With enhanced gameplay, new game modes, and all the humor \u0026amp; charm of the original, this is Backyard Baseball like it was always meant to be played. Wishlist now for Opening Day on July 9th. Are you ready to play like a kid again?",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1783694167",
+    "short_description": "The arcade-style classic is back - and it's leveling up. With enhanced gameplay, new game modes, and all the humor \u0026amp; charm of the original, this is Backyard Baseball like it was always meant to be played. Are you ready to play like a kid again?",
     "is_free": false,
     "price": "¥ 136.00",
     "original_price": "",
@@ -125,42 +161,6 @@
     "release_date": "2026 年 7 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3935020"
-  },
-  {
-    "appid": 4508570,
-    "name": "真理谭：黑暗城堡的女巫",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/7f4d25988802019907244ae7f5d09b208c72e775/header_schinese.jpg?t=1783565726",
-    "short_description": "打开这本书的那一刻，你就不再只是\u0026quot;读者\u0026quot;——这是一款在书页中冒险的\u0026quot;阅读式\u0026quot;奇幻RPG。曾在香草社（Vanillaware）任职、深耕游戏业界30余年的工匠，倾注6年时光亲手打造，100%纯手工的一册。",
-    "is_free": false,
-    "price": "¥ 60.30",
-    "original_price": "¥ 67.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4508570"
-  },
-  {
-    "appid": 4306890,
-    "name": "碧蓝幻想Relink 无尽黄昏 升级扩展包（特别版）",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1783560543",
-    "short_description": "角色众多、战斗酣畅淋漓的ARPG大幅进化。继承并深化此前备受好评的多人联机相关内容，更追加了众多单人离线挑战的新元素。空之世界的冒险之旅自此踏入“无尽之战”的新舞台。",
-    "is_free": false,
-    "price": "¥ 228.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4306890"
   },
   {
     "appid": 2209900,
