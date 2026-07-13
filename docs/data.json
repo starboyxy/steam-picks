@@ -1,41 +1,5 @@
 [
   {
-    "appid": 3751950,
-    "name": "刺客信条：黑旗 记忆重置",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
-    "short_description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
-    "is_free": false,
-    "price": "¥ 248.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 7 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3751950"
-  },
-  {
-    "appid": 1623730,
-    "name": "Palworld / 幻兽帕鲁",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
-    "short_description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
-    "is_free": false,
-    "price": "¥ 75.60",
-    "original_price": "¥ 108.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1623730"
-  },
-  {
     "appid": 367270,
     "name": "Angels Fall First",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
@@ -52,24 +16,6 @@
     "release_date": "2026 年 7 月 11 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/367270"
-  },
-  {
-    "appid": 4735410,
-    "name": "Warframe：Mesa 传家宝组合包",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735410/873b7960ba00e060784eff7f6b4ac885ffb95812/header.jpg?t=1783782016",
-    "short_description": "通过 Mesa 传家宝组合包来续写一位无与伦比的神枪手的传奇！传家宝自定义装饰象征着时间的流逝和 Tenno 的付出。",
-    "is_free": false,
-    "price": "¥ 128.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 7 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4735410"
   },
   {
     "appid": 3213120,
@@ -90,7 +36,7 @@
   {
     "appid": 4090360,
     "name": "森林逃生：末班列车 (Forest Escape: Last Train)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/a451315b1a662b61f65342f1b638622196c423ec/header_alt_assets_2_schinese.jpg?t=1783703628",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/a451315b1a662b61f65342f1b638622196c423ec/header_alt_assets_2_schinese.jpg?t=1783905160",
     "short_description": "《森林逃生：末班列车》是一款支持 1-4 人联机的多人生存合作游戏。迷雾森林、疯狂典狱长的超现实心魔、随时可能散架的火车......你必须与队友联手修复、升级并捍卫破旧的火车头，开采关键资源。拉响汽笛，在被噩梦彻底吞噬前，驶向唯一的生路！",
     "is_free": false,
     "price": "¥ 25.60",
@@ -105,6 +51,25 @@
     "release_date": "2026 年 7 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4090360"
+  },
+  {
+    "appid": 1623730,
+    "name": "Palworld / 幻兽帕鲁",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
+    "short_description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+    "is_free": false,
+    "price": "¥ 75.60",
+    "original_price": "¥ 108.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1623730"
   },
   {
     "appid": 2244210,
@@ -174,5 +139,44 @@
     "release_date": "2026 年 7 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4380490"
+  },
+  {
+    "appid": 3751950,
+    "name": "刺客信条：黑旗 记忆重置",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
+    "short_description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+    "is_free": false,
+    "price": "¥ 248.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 7 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3751950"
+  },
+  {
+    "appid": 3935020,
+    "name": "Backyard Baseball",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1783694167",
+    "short_description": "The arcade-style classic is back - and it's leveling up. With enhanced gameplay, new game modes, and all the humor \u0026amp; charm of the original, this is Backyard Baseball like it was always meant to be played. Are you ready to play like a kid again?",
+    "is_free": false,
+    "price": "¥ 136.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 7 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3935020"
   }
 ]
