@@ -1,5 +1,74 @@
 [
   {
+    "appid": 3633760,
+    "name": "KAZ",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633760/23e57d565c70084a162c97f8f49b500e58576a18/header.jpg?t=1783958410",
+    "short_description": "KAZ，一剂包裹在极简Roguelike游戏中的多巴胺。使用精准到帧的操控执行闪电般的动作：易学难精。即时、紧张、令人上瘾。解锁大量独特的道具、皮肤和挑战。仅需四个按键，没有借口：证明你的实力，统治排行榜。",
+    "is_free": false,
+    "price": "¥ 24.65",
+    "original_price": "¥ 29.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 7 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3633760"
+  },
+  {
+    "appid": 2219390,
+    "name": "帝国的夙愿",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219390/abda99d626a18c3723f9aad7eab5e566c45e5932/header.jpg?t=1783976318",
+    "short_description": "《帝国的夙愿》是一款历史4X游戏。在游戏中玩家会尝试去发现、探索并殖民新的世界。合理分配劳动力、垄断市场，并与其他势力战斗，在帝国主义时代的泥潭中挣扎求生。",
+    "is_free": false,
+    "price": "¥ 49.50",
+    "original_price": "¥ 55.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2219390"
+  },
+  {
+    "appid": 2697940,
+    "name": "零秒：时光的归途",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/18cae5a3c33761c3c5233cc2ccf0ca00e7c4ded3/header_schinese.jpg?t=1784002409",
+    "short_description": "你是否曾经想象过将时间停止是什么感觉？《零秒：时光的归途》是一款时间策略类的Roguelike游戏。利用停止时间的能力，高效战斗，冲向巅峰！",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2697940"
+  },
+  {
+    "appid": 4634560,
+    "name": "Carpet Cleaning Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634560/30ce64b008c8a9d0828a372fea2a75d015d5f22d/header.jpg?t=1783917119",
+    "short_description": "清洗地毯、赚取金钱并不断强化的增量游戏。 擦、冲、刮——在时间重置之前尽可能赚更多！",
+    "is_free": false,
+    "price": "¥ 24.00",
+    "original_price": "¥ 30.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4634560"
+  },
+  {
     "appid": 367270,
     "name": "Angels Fall First",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
@@ -32,25 +101,6 @@
     "release_date": "2026 年 7 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3213120"
-  },
-  {
-    "appid": 4090360,
-    "name": "森林逃生：末班列车 (Forest Escape: Last Train)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/a451315b1a662b61f65342f1b638622196c423ec/header_alt_assets_2_schinese.jpg?t=1783905160",
-    "short_description": "《森林逃生：末班列车》是一款支持 1-4 人联机的多人生存合作游戏。迷雾森林、疯狂典狱长的超现实心魔、随时可能散架的火车......你必须与队友联手修复、升级并捍卫破旧的火车头，开采关键资源。拉响汽笛，在被噩梦彻底吞噬前，驶向唯一的生路！",
-    "is_free": false,
-    "price": "¥ 25.60",
-    "original_price": "¥ 32.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 7 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4090360"
   },
   {
     "appid": 1623730,
@@ -122,61 +172,5 @@
     "release_date": "2026 年 7 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3265230"
-  },
-  {
-    "appid": 4380490,
-    "name": "猫咪邮政",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1783683473",
-    "short_description": "和好友一起变成猫猫，把邮局做大做强！我是一只猫，一夜之间继承了整个邮局...包裹如潮水般涌来！打包、分类、配送，把猫岛村民的心意寄往远方。把凌乱货架变得整整齐齐，享受治愈的慢时光。夜晚还会有神秘的魔法包裹悄然出现...总之，神奇的猫咪邮政，为您服务！",
-    "is_free": false,
-    "price": "¥ 34.00",
-    "original_price": "¥ 40.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4380490"
-  },
-  {
-    "appid": 3751950,
-    "name": "刺客信条：黑旗 记忆重置",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
-    "short_description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
-    "is_free": false,
-    "price": "¥ 248.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 7 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3751950"
-  },
-  {
-    "appid": 3935020,
-    "name": "Backyard Baseball",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1783694167",
-    "short_description": "The arcade-style classic is back - and it's leveling up. With enhanced gameplay, new game modes, and all the humor \u0026amp; charm of the original, this is Backyard Baseball like it was always meant to be played. Are you ready to play like a kid again?",
-    "is_free": false,
-    "price": "¥ 136.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 7 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3935020"
   }
 ]
