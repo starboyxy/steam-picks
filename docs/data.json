@@ -1,5 +1,129 @@
 [
   {
+    "appid": 4563790,
+    "name": "Easy Red 2: Blood on the Danube",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563790/a22a465bcef1ba5608bba05ece9605c185a3664e/header.jpg?t=1784160624",
+    "short_description": "在二战末期的匈牙利战场上奋战！体验数十种全新载具、武器、任务关卡以及全新的参战阵营！",
+    "is_free": false,
+    "price": "¥ 24.75",
+    "original_price": "¥ 33.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4563790"
+  },
+  {
+    "appid": 3767850,
+    "name": "SpiritVale",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
+    "short_description": "A class-based action MMO inspired by classic RPGs. Explore a fractured world of monsters and ruins, build your own playstyle, and fight alongside friends in real-time, cooperative combat.",
+    "is_free": false,
+    "price": "¥ 59.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3767850"
+  },
+  {
+    "appid": 4120310,
+    "name": "70年代风格机器人动画 杰比-X",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4120310/2d9240675438f6d2730d5c47c7d40fe6ec6bb3e1/header_schinese.jpg?t=1784127579",
+    "short_description": "70年代风格的超级机器人动画，融合高速街机风2D横向卷轴射击玩法。 这款日本经典名作如今首次面向全球发行，并以高清重制版形式重磅回归。",
+    "is_free": false,
+    "price": "¥ 122.40",
+    "original_price": "¥ 136.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 7 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4120310"
+  },
+  {
+    "appid": 2524850,
+    "name": "电车炫客",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/5d84bd2dcb59aacd9a9f3027e3d54192f65971ac/header_alt_assets_0_schinese.jpg?t=1784158945",
+    "short_description": "驾驶电车旋转跳跃、花式炫技、磨轨滑行，在这场离经叛道的快节奏狂飙中，穿越色彩缤纷的日式反乌托邦世界。击败对手帮派，摧毁黑心的巨型企业，凭借高超技巧、极速飞驰与张扬风采，夺回属于你的轨道！",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 7 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2524850"
+  },
+  {
+    "appid": 4512570,
+    "name": "A Game About Chopping Trees",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/3bb6001526b9f15a81b0c59d006012b8702d2059/header.jpg?t=1784122534",
+    "short_description": "带上你的斧头，坐上手摇车，让自己沉浸在森林之中。砍树、升级装备，享受这段旅程 —— 无论是独自一人还是与友同行。",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4512570"
+  },
+  {
+    "appid": 2569760,
+    "name": "The Mound: Omen of Cthulhu",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+    "short_description": "最多可四人合作，组建探险者小队，踏上寻宝之旅。这片被诅咒的丛林危机四伏，怪物扭曲了现实。保持冷静，在丛林吞噬你之前征服它……",
+    "is_free": false,
+    "price": "¥ 87.20",
+    "original_price": "¥ 109.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 7 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2569760"
+  },
+  {
+    "appid": 4478640,
+    "name": "背包地牢",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478640/83807b8b1c48cad774ace10d610b7d769d1bdb70/header_schinese.jpg?t=1784084571",
+    "short_description": "《背包地牢》是一款独特的像素风背包管理 Roguelike 游戏。在这里，你的背包不仅是储物空间，更是战斗的核心——物品的摆放位置、相邻关系和触发机制，决定了你在地牢探险中的生死存亡。这不是传统的角色扮演游戏，而是一场关于空间规划与策略组合的智力挑战。",
+    "is_free": false,
+    "price": "¥ 14.40",
+    "original_price": "¥ 18.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4478640"
+  },
+  {
     "appid": 3312130,
     "name": "工业小镇2：天堂岛",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312130/438ab64ccf7ac95229f8c4162d1321f5d9e25eef/header.jpg?t=1784046775",
@@ -56,128 +180,5 @@
     "release_date": "2026 年 7 月 14 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4297840"
-  },
-  {
-    "appid": 3641000,
-    "name": "加利宅邸悬案",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/8154f6d99d1af1ae564ab0a91b2ed7883ab9c6fe/header_schinese.jpg?t=1784037785",
-    "short_description": "1936年，在加利宅邸中发生了一起极为可怕的案件。数十年后，利用一台能揭示“过去回响”的奇特装置，你必须揭开这桩惨案背后尘封已久的真相。",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险"
-    ],
-    "release_date": "2026 年 7 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3641000"
-  },
-  {
-    "appid": 710230,
-    "name": "Urban Strife",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710230/header.jpg?t=1784039019",
-    "short_description": "老派回合制策略和末日生存角色扮演游戏。招募癫狂的本地人加入你的民兵队伍，与本地势力结盟，与厌恶的人战斗。搜刮战利品，重建避难所，治疗伤口，维修武器。人们需要食物，酒精需要发酵，快加入这场末世狂欢。",
-    "is_free": false,
-    "price": "¥ 88.20",
-    "original_price": "¥ 126.00",
-    "discount_percent": 30,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/710230"
-  },
-  {
-    "appid": 2219390,
-    "name": "帝国的夙愿",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219390/abda99d626a18c3723f9aad7eab5e566c45e5932/header.jpg?t=1783976318",
-    "short_description": "《帝国的夙愿》是一款历史4X游戏。在游戏中玩家会尝试去发现、探索并殖民新的世界。合理分配劳动力、垄断市场，并与其他势力战斗，在帝国主义时代的泥潭中挣扎求生。",
-    "is_free": false,
-    "price": "¥ 49.50",
-    "original_price": "¥ 55.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2219390"
-  },
-  {
-    "appid": 2697940,
-    "name": "零秒：时光的归途",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/18cae5a3c33761c3c5233cc2ccf0ca00e7c4ded3/header_schinese.jpg?t=1784002409",
-    "short_description": "你是否曾经想象过将时间停止是什么感觉？《零秒：时光的归途》是一款时间策略类的Roguelike游戏。利用停止时间的能力，高效战斗，冲向巅峰！",
-    "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 48.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2697940"
-  },
-  {
-    "appid": 4634560,
-    "name": "Carpet Cleaning Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634560/30ce64b008c8a9d0828a372fea2a75d015d5f22d/header.jpg?t=1783917119",
-    "short_description": "清洗地毯、赚取金钱并不断强化的增量游戏。 擦、冲、刮——在时间重置之前尽可能赚更多！",
-    "is_free": false,
-    "price": "¥ 24.00",
-    "original_price": "¥ 30.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4634560"
-  },
-  {
-    "appid": 367270,
-    "name": "Angels Fall First",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
-    "short_description": "From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a rich science fiction setting. Boarding, pilotable capital ships, deep weapon customization and full Bot support included!",
-    "is_free": false,
-    "price": "¥ 54.00",
-    "original_price": "¥ 60.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/367270"
-  },
-  {
-    "appid": 1623730,
-    "name": "Palworld / 幻兽帕鲁",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
-    "short_description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
-    "is_free": false,
-    "price": "¥ 75.60",
-    "original_price": "¥ 108.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1623730"
   }
 ]
