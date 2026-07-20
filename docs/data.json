@@ -90,25 +90,6 @@
     "store_url": "https://store.steampowered.com/app/1696770"
   },
   {
-    "appid": 2646720,
-    "name": "Dead Weight",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646720/b17c0630d68d31515074325c757586dcbbdecc81/header.jpg?t=1784316164",
-    "short_description": "挑战上古神灵！控制你的飞翔海盗船，启程进入死重世界的蒸汽朋克旅程。探索浮岛寻找宝藏。选择一个职业或自己创建一个，在每一步都很重要的微型战场上享受回合制的策略战斗。",
-    "is_free": false,
-    "price": "¥ 33.75",
-    "original_price": "¥ 45.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2646720"
-  },
-  {
     "appid": 3712080,
     "name": "Funnel Runners",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784232579",
@@ -180,5 +161,22 @@
     "release_date": "2026 年 7 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3453910"
+  },
+  {
+    "appid": 4210580,
+    "name": "《采矿工厂小队》- Ore Factory Squad ⛏️",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
+    "short_description": "《矿石工厂小队》是一款合作型采矿和工厂建设游戏，核心玩法为程序生成的采矿系统！单人游玩或与朋友一起玩，购买地产，深入挖掘有价值的资源，完成合同，升级并自动化生产线，将你的工厂发展成庞大的工业帝国！",
+    "is_free": false,
+    "price": "¥ 36.75",
+    "original_price": "¥ 49.00",
+    "discount_percent": 25,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4210580"
   }
 ]
