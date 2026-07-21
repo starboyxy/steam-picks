@@ -1,5 +1,136 @@
 [
   {
+    "appid": 3467040,
+    "name": "Bookshop Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467040/2d2a4d580acb178c1478cdd23d3630a1a4245ebc/header_alt_assets_1.jpg?t=1784578538",
+    "short_description": "从一家小型精品书店开始，迅速发展成你的零售帝国！利用利润进行装饰、扩展并雇佣员工。收集具有强大能力的稀有图书。领养一只猫陪伴你和顾客！",
+    "is_free": false,
+    "price": "¥ 52.70",
+    "original_price": "¥ 62.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3467040"
+  },
+  {
+    "appid": 1605850,
+    "name": "零度空间 ZeroSpace",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605850/2bd01ae8e745793705cf6684830d3fa8ecb30d79/header_schinese.jpg?t=1784567471",
+    "short_description": "《零度空间 ZeroSpace》是一款硬核大型次世代RTS游戏。置身于动态演进的银河版图，斡旋于多方星际势力的博弈与对抗，指挥跨越星区的大规模作战。投身史诗级战役、合作PVE任务以及牵动全服格局的星图阵营战争，以理性的战术推演，主宰异星虫族、人族文明与机械洪流的终极演化。【中文版持续优化中】",
+    "is_free": false,
+    "price": "¥ 142.20",
+    "original_price": "¥ 158.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1605850"
+  },
+  {
+    "appid": 4018550,
+    "name": "猫之岛",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018550/91af4839bed085a213a320df216a855974583d18/header.jpg?t=1784566835",
+    "short_description": "搭上小火车，前往猫之岛吧！在这款温馨的像素风经营游戏中，您将建造餐馆、扩展并装饰小镇。细心照顾猫咪们的各种需求：吃饭、购物、探索，让小岛逐渐成为它们理想的家园。",
+    "is_free": false,
+    "price": "¥ 22.10",
+    "original_price": "¥ 26.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4018550"
+  },
+  {
+    "appid": 4210010,
+    "name": "增量无限",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/304ea9284c28bee7c5be008d45580ad48a2dc138/header_schinese.jpg?t=1784565742",
+    "short_description": "一款增量游戏，让你探索无限延伸、程序生成的技能树。抵御不断增长的数字浪潮，解锁全新能力、完成任务并扩展技能树，成为拥有无限力量的存在。",
+    "is_free": false,
+    "price": "¥ 17.60",
+    "original_price": "¥ 22.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4210010"
+  },
+  {
+    "appid": 4252290,
+    "name": "喵出法随",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/80012b5575877014637bf1236281f34e0b853b8c/header_schinese.jpg?t=1784559240",
+    "short_description": "一款让声音化为魔法的合作奇幻冒险。 扮演猫咪魔法师，对着麦克风喊出法术，探索童话世界、对抗怪物，并带着满载的战利品返回热气球。",
+    "is_free": false,
+    "price": "¥ 20.46",
+    "original_price": "¥ 33.00",
+    "discount_percent": 38,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4252290"
+  },
+  {
+    "appid": 2936290,
+    "name": "The Life and Suffering of Prince Jerian",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936290/07af765e1cc1f571cd94303a2e9cd8e81ff71b4b/header.jpg?t=1784566297",
+    "short_description": "本作是一款剧情向角色扮演类游戏，故事围绕着圣阿卡尼亚帝国的王储展开。你掌握着巨大的权力，但也肩负着责任。你能否在坚持自我的同时改变世界？每个决定都将付出相应的代价。",
+    "is_free": false,
+    "price": "¥ 79.05",
+    "original_price": "¥ 93.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2936290"
+  },
+  {
+    "appid": 4134600,
+    "name": "EverRail",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134600/a9ac500333406730bbabf503f872cf39165cfcfe/header.jpg?t=1784573524",
+    "short_description": "每一位乘客都是一条生命。每一次死亡都让终局更近。这个开放世界生存制造游戏，让您能够探索、回收、制作，在冰封的系外卫星”伊娜拉“上坚持下去。永不停歇的列车要由你来指挥、升级。支持单人或最多4人合作。不前进，就冻僵。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4134600"
+  },
+  {
     "appid": 4178020,
     "name": "Lured In",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178020/ccbed6142b7749032d5d9cf308acab0f4fb75425/header.jpg?t=1784321180",
@@ -51,132 +182,5 @@
     "release_date": "2026 年 7 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2527160"
-  },
-  {
-    "appid": 2195120,
-    "name": "Go-Go Town!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195120/f6246e7ab8ceb5ec049b6d379ad42c4d0b28d11b/header_alt_assets_5.jpg?t=1784246414",
-    "short_description": "化身亲力亲为的镇长，从零开始建设城镇。规划街区布局，实现物流自动化，壮大你的社区——在此期间统筹调度工人与基础设施，化解日常危机，努力打造理想城镇。是游玩单人模式掌控一切，还是与朋友合作体验混乱乐趣，都由你决定。",
-    "is_free": false,
-    "price": "¥ 74.24",
-    "original_price": "¥ 98.99",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2195120"
-  },
-  {
-    "appid": 1696770,
-    "name": "The Mermaid Mask",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/7fb7b905c4004e882bc7671e55507acadc5cd5bb/header.jpg?t=1784233084",
-    "short_description": "离奇的密室谋杀案：在这艘世上最诡异的潜艇里，莫图加船长横尸于一口古老的石釜旁，而船上的每一位船员都心怀鬼胎。 一款手绘风格的点击解谜游戏，充满了辛辣的幽默与烧脑的谜题。 深潜入海，探索由《Tangle Tower》与《Crow Country》开发团队带来的全新谜团。",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1696770"
-  },
-  {
-    "appid": 3712080,
-    "name": "Funnel Runners",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784232579",
-    "short_description": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
-    "is_free": false,
-    "price": "¥ 49.50",
-    "original_price": "¥ 55.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3712080"
-  },
-  {
-    "appid": 3417410,
-    "name": "这个商城不太对劲",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417410/948eb785bc33f5b8e0232b7f20937c08b80b4703/header_alt_assets_1_schinese.jpg?t=1784213910",
-    "short_description": "《超市怪谈》是一款以受诅咒的大型商场为背景的 1-3 人合作解谜恐怖游戏。携手破解商场扭曲的逻辑，并在潜伏的恐怖将你们永远困在此处购物之前，找到逃生之路。",
-    "is_free": false,
-    "price": "¥ 23.20",
-    "original_price": "¥ 29.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3417410"
-  },
-  {
-    "appid": 3914860,
-    "name": "Moss：遗落圣物",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/ae3100336411fccceda99220b87681e139423639/header_schinese.jpg?t=1784211072",
-    "short_description": "《Moss：遗落圣物》是一款情感充沛、氛围浓厚的冒险游戏，背景设定在一本活灵活现的故事书中，洋溢着神话色彩与古老魔法气息。引领一位身型微小却意志坚定的英雄，踏上一段关于挑战、勇气与羁绊的动人旅程。",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3914860"
-  },
-  {
-    "appid": 3453910,
-    "name": "Happy's Humble Burger Cult",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074",
-    "short_description": "经典烹饪+恐怖游戏续作正式上线，支持 1-4 人游戏，开启惊险刺激的冒险之旅。制作汉堡，接待顾客，赶在厨房彻底沦为噩梦之前完成营业任务。当乔伊开始狩猎时，务必拼死逃出生天，带上辛苦赚来的报酬，撑过下次轮班挑战。",
-    "is_free": false,
-    "price": "¥ 33.60",
-    "original_price": "¥ 42.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3453910"
-  },
-  {
-    "appid": 4210580,
-    "name": "《采矿工厂小队》- Ore Factory Squad ⛏️",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
-    "short_description": "《矿石工厂小队》是一款合作型采矿和工厂建设游戏，核心玩法为程序生成的采矿系统！单人游玩或与朋友一起玩，购买地产，深入挖掘有价值的资源，完成合同，升级并自动化生产线，将你的工厂发展成庞大的工业帝国！",
-    "is_free": false,
-    "price": "¥ 36.75",
-    "original_price": "¥ 49.00",
-    "discount_percent": 25,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4210580"
   }
 ]
