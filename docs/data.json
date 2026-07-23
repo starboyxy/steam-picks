@@ -1,186 +1,186 @@
 [
   {
-    "appid": 4301300,
-    "name": "Incrempire",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/96a7fa69f48b8ed490df7a32f236489e04b1ed96/header_alt_assets_3.jpg?t=1784660849",
-    "short_description": "防御。升级。统治。这是一款放置类基地防御游戏，技能树根深叶茂，各种强大技能任君使用。",
+    "appid": 4570720,
+    "name": "龙之剑:觉醒",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784776402",
+    "short_description": "探索由虚幻引擎5打造的动画风格开放世界——奥尔维斯大陆！招募个性十足的伙伴，施展华丽的异常状态联携战斗，踏上拯救世界、对抗沉睡60年后再度苏醒的龙的伟大旅程。",
     "is_free": false,
-    "price": "¥ 24.75",
-    "original_price": "¥ 33.00",
-    "discount_percent": 25,
+    "price": "¥ 98.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4570720"
+  },
+  {
+    "appid": 3561220,
+    "name": "风暴怕死队",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784773941",
+    "short_description": "《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成人间地狱的小岛。",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
       "休闲",
       "独立",
       "角色扮演",
+      "模拟",
       "策略"
     ],
-    "release_date": "2026 年 7 月 21 日",
+    "release_date": "2026 年 7 月 22 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4301300"
+    "store_url": "https://store.steampowered.com/app/3561220"
   },
   {
-    "appid": 1553260,
-    "name": "红鹿旅馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/9109ac9018806e86406fa77e0d52b727e3ecef13/header_schinese.jpg?t=1784647757",
-    "short_description": "一款绣花风格的叙事平台游戏，让感人至深的故事缓缓展开，有趣的角色、阴森的地牢和可怕的怪物共同交织，构建出由斯拉夫民间传说启发的奇幻世界。手中的火把是你免于死亡的唯一护身符。所有角色形象均为实际刺绣而成。",
+    "appid": 4282500,
+    "name": "hololive Dreams",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282500/21d618af6bdb3be75a8b923bf8d38328aaba1820/header.jpg?t=1784771883",
+    "short_description": "【hololive官方】节奏\u0026amp;RPG游戏“hololive dreams (holodori)”登陆Steam平台！ 玩法以节奏游戏为中心，玩家需着手建造主题乐园，还有丰富多彩的迷你游戏等要素！ 总计超过50名hololive成员将在游戏中出场，初始收录乐曲超过150首！ 不论是hololive粉丝还是节奏游戏新手，都可以享受到游戏的乐趣。游玩的方式由你决定！",
+    "is_free": true,
+    "price": "免费",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 7 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4282500"
+  },
+  {
+    "appid": 1845250,
+    "name": "红眼露比",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/header_schinese.jpg?t=1784768415",
+    "short_description": "《红眼露比》是一款黑暗奇幻风格的 Boss Rush 动作游戏。 核心机制“专注”是战斗的关键，通过专注找出敌人的弱点，予以致命一击。 玩家扮演从斯卡雷特王城逃出的公主露比，踏上一场复仇并夺回王国的旅途。",
     "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
+    "price": "¥ 71.10",
+    "original_price": "¥ 79.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1845250"
+  },
+  {
+    "appid": 4223300,
+    "name": "Birds of War",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/0701aee0f0e60e4ff1ca897a42feccab22b0cbd1/header.jpg?t=1784763459",
+    "short_description": "你是一只鸟。你有一个巢。其他鸟想抢你的蛋。 Birds of War 是一款团队制空中 PvP 游戏。突袭鸟巢，偷走鸟蛋，在快节奏、混乱的飞行战斗中正面开打。 你的麦克风始终开着。敌人能听见你。请好好计划。",
+    "is_free": false,
+    "price": "¥ 33.60",
+    "original_price": "¥ 42.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 7 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4223300"
+  },
+  {
+    "appid": 2191280,
+    "name": "愚灵",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191280/e345774dcd271f6e3e8ea8d9c358266284cb9754/header_schinese.jpg?t=1784781260",
+    "short_description": "这是一款剑戟片手绘风格的和风动作游戏。 受命运牵引，神秘的主角“灵”将会直面、战胜各路神灵并习得其力量。",
+    "is_free": false,
+    "price": "¥ 35.91",
+    "original_price": "¥ 39.90",
     "discount_percent": 10,
     "genres": [
       "动作",
       "冒险",
       "独立"
     ],
-    "release_date": "2026 年 7 月 21 日",
+    "release_date": "2026 年 7 月 22 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1553260"
+    "store_url": "https://store.steampowered.com/app/2191280"
   },
   {
-    "appid": 3590290,
-    "name": "生死深潜：雨之子民",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/e0279893a393cecd472e1475d16ddb648aad15a3/header.jpg?t=1784642480",
-    "short_description": "每次下潜都是致命的赌博。 潜入被诅咒的深渊，否则等待你的就是死亡，直面异界的恐怖生物，揭开黑雨的谜团。 搜刮物资，升级装备，招募同伴，献祭生灵。 拯救你的营地吧……只因洪潮将至。",
+    "appid": 3722330,
+    "name": "午夜轮班",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222",
+    "short_description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
     "is_free": false,
-    "price": "¥ 58.40",
-    "original_price": "¥ 73.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3590290"
-  },
-  {
-    "appid": 4286120,
-    "name": "深夜照相馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286120/72c76b492df317f9733b7c02aca745100e685102/header_schinese.jpg?t=1784643115",
-    "short_description": "在这款PSX风恐怖游戏中，你将经营一家照相馆。补充物资、购买升级项目、为顾客拍摄并冲印照片，同时应对各种突发事件。",
-    "is_free": false,
-    "price": "¥ 17.60",
-    "original_price": "¥ 22.00",
-    "discount_percent": 20,
+    "price": "¥ 34.20",
+    "original_price": "¥ 38.00",
+    "discount_percent": 10,
     "genres": [
       "独立",
       "模拟"
     ],
-    "release_date": "2026 年 7 月 21 日",
+    "release_date": "2026 年 7 月 22 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4286120"
+    "store_url": "https://store.steampowered.com/app/3722330"
   },
   {
-    "appid": 3279440,
-    "name": "Drone Sector",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/9417319f909f2fabe957cb66b8ad5bb1f8372401/header.jpg?t=1784631068",
-    "short_description": "Drone Sector 是一款未来风格的空中炮艇游戏。通过发射多种武器打击敌人，并通过指令引导你的盟军部队。确保你的部队存活，完成任务，收集资源并招募工程师。为空中炮艇和部队研发更强大的武器。",
+    "appid": 1913120,
+    "name": "Tears of Metal",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
+    "short_description": "Tears of Metal 是一款中世纪风格的合作型 roguelike 游戏，玩家将与强大的苏格兰军团一起，穿越敌人的阵线，夺回自己的岛屿。随着你深入战壕，你将揭示更多关于神秘的龙陨石和危险的敌人入侵的信息。",
     "is_free": false,
-    "price": "¥ 60.30",
-    "original_price": "¥ 67.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 7 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3279440"
-  },
-  {
-    "appid": 4600470,
-    "name": "第 4 战地风云 Pro——《战地风云™ 6》和禁区冲突",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600470/a340b5e62cc076b637c18579f06882f9b31bb31d/header.jpg?t=1784624333",
-    "short_description": "利用《战地风云》Pro 扭转战局，尽享终极战斗通行证体验。解锁高级奖励、完整的第 4 赛季战斗通行证、25 级跳级道具、+5% 经验值加成、专属奖励路径等更多内容。",
-    "is_free": false,
-    "price": "¥ 138.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 7 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4600470"
-  },
-  {
-    "appid": 3467040,
-    "name": "Bookshop Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467040/2d2a4d580acb178c1478cdd23d3630a1a4245ebc/header_alt_assets_1.jpg?t=1784578538",
-    "short_description": "从一家小型精品书店开始，迅速发展成你的零售帝国！利用利润进行装饰、扩展并雇佣员工。收集具有强大能力的稀有图书。领养一只猫陪伴你和顾客！",
-    "is_free": false,
-    "price": "¥ 52.70",
-    "original_price": "¥ 62.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 7 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3467040"
-  },
-  {
-    "appid": 1605850,
-    "name": "零度空间 ZeroSpace",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605850/2bd01ae8e745793705cf6684830d3fa8ecb30d79/header_schinese.jpg?t=1784683745",
-    "short_description": "《零度空间 ZeroSpace》是一款硬核大型次世代RTS游戏。置身于动态演进的银河版图，斡旋于多方星际势力的博弈与对抗，指挥跨越星区的大规模作战。投身史诗级战役、合作PVE任务以及牵动全服格局的星图阵营战争，以理性的战术推演，主宰异星虫族、人族文明与机械洪流的终极演化。【中文版持续优化中】",
-    "is_free": false,
-    "price": "¥ 142.20",
-    "original_price": "¥ 158.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "大型多人在线",
-      "角色扮演",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 7 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1605850"
-  },
-  {
-    "appid": 4252290,
-    "name": "喵出法随",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/80012b5575877014637bf1236281f34e0b853b8c/header_schinese.jpg?t=1784559240",
-    "short_description": "一款让声音化为魔法的合作奇幻冒险。 扮演猫咪魔法师，对着麦克风喊出法术，探索童话世界、对抗怪物，并带着满载的战利品返回热气球。",
-    "is_free": false,
-    "price": "¥ 20.46",
-    "original_price": "¥ 33.00",
-    "discount_percent": 38,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 7 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4252290"
-  },
-  {
-    "appid": 2936290,
-    "name": "The Life and Suffering of Prince Jerian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936290/07af765e1cc1f571cd94303a2e9cd8e81ff71b4b/header.jpg?t=1784566297",
-    "short_description": "本作是一款剧情向角色扮演类游戏，故事围绕着圣阿卡尼亚帝国的王储展开。你掌握着巨大的权力，但也肩负着责任。你能否在坚持自我的同时改变世界？每个决定都将付出相应的代价。",
-    "is_free": false,
-    "price": "¥ 79.05",
+    "price": "¥ 83.70",
     "original_price": "¥ 93.00",
-    "discount_percent": 15,
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1913120"
+  },
+  {
+    "appid": 4324480,
+    "name": "小本生意",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/227675e9169909ee50409387762718a691bb9dca/header_schinese.jpg?t=1784733062",
+    "short_description": "喊上好友，或独自一人，建立“地下产业”。从“草药”种植，“烟花”贩卖，到“清洗”服务，“代金券”印制，真正的生意人永远懂得“生产销售一手抓”！想尽办法把混乱变为利润，从第一桶黑金开始，最终垄断市场。",
+    "is_free": false,
+    "price": "¥ 47.20",
+    "original_price": "¥ 59.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4324480"
+  },
+  {
+    "appid": 2819470,
+    "name": "Aquapark Tycoon",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2819470/264f3ff0f058226da13e4a42a40a1de811eb1123/header.jpg?t=1784729390",
+    "short_description": "﻿在这款温馨的模拟游戏中，打造终极水上乐园天堂！设计并定制水上滑梯、泳池和桑拿房，以满足客人的各种需求。玩转创意、策略与管理，在水上乐园世界中掀起波澜，并成为终极水上乐园大亨！",
+    "is_free": false,
+    "price": "¥ 77.00",
+    "original_price": "¥ 85.56",
+    "discount_percent": 10,
     "genres": [
       "独立",
-      "角色扮演"
+      "模拟",
+      "策略",
+      "抢先体验"
     ],
-    "release_date": "2026 年 7 月 20 日",
+    "release_date": "2026 年 7 月 22 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2936290"
+    "store_url": "https://store.steampowered.com/app/2819470"
   }
 ]
