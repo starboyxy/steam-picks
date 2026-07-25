@@ -1,8 +1,112 @@
 [
   {
+    "appid": 387990,
+    "name": "Scrap Mechanic",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
+    "short_description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+    "is_free": false,
+    "price": "¥ 109.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/387990"
+  },
+  {
+    "appid": 4668890,
+    "name": "一起来开大商场",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668890/ffb7e99c0bbc2a046368f436ca4faeeaecf19561/header_schinese.jpg?t=1784897459",
+    "short_description": "告别“社畜”生活，与朋友一起过把“商场老板”的瘾！从第一家门店做起，直到琳琅满目的各类商店塞满你的商场，装修、进货、销售、管理库存，再到与各大品牌签约，你的商场你做主，让客人带着笑容走，把钱留下来！[支持1-4人游玩]",
+    "is_free": false,
+    "price": "¥ 35.10",
+    "original_price": "¥ 39.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4668890"
+  },
+  {
+    "appid": 4112070,
+    "name": "An Eggstremely Hard Game",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112070/af1b508f0fea8862f209b5636d34902b049e6252/header.jpg?t=1784891682",
+    "short_description": "作为高度专业的鹅父母，一起努力把你们的小蛋安全带回家。每次碰撞都会让控制更困难，每次失误都更加搞笑。这是一款支持2或4名玩家的合作物理游戏，关于团队合作、笨拙与鹅叫声。 HONK!",
+    "is_free": false,
+    "price": "¥ 18.00",
+    "original_price": "¥ 20.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲"
+    ],
+    "release_date": "2026 年 7 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4112070"
+  },
+  {
+    "appid": 4124920,
+    "name": "些许人亡",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124920/148bd0b16a0ec8a123a1010b6e849d43c556ebe1/header_schinese.jpg?t=1784888337",
+    "short_description": "在这款肉鸽自走棋游戏中，你可以升级一切：英雄、属性与技能！但请做好牺牲的准备。召集英雄，踏上单人冒险之旅，或与其他玩家在线对决！",
+    "is_free": false,
+    "price": "¥ 38.25",
+    "original_price": "¥ 45.00",
+    "discount_percent": 15,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4124920"
+  },
+  {
+    "appid": 3683770,
+    "name": "奶茶店模拟器 - 重生之我在冰堡甜城当店长",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/30eaf83654acb1188379662c0499c04f5ec15acc/header_schinese.jpg?t=1784893308",
+    "short_description": "你重生了，重生在创业之初，上一世你因经营不善，最终奶茶店被对手碾碎；这一世，炼乳的甜香在血液里翻滚，你立志只做一件事——让「冰堡甜城」成为行业巅峰！最多8人合作经营奶茶店，亲手制作饮品、设计菜单与定价、摆放设备、装修店铺，应对客流与外卖平台，打造你的奶茶帝国。",
+    "is_free": false,
+    "price": "¥ 33.80",
+    "original_price": "¥ 52.00",
+    "discount_percent": 35,
+    "genres": [
+      "休闲",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3683770"
+  },
+  {
+    "appid": 2251220,
+    "name": "云霄一刻 (High Times)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2251220/cd5c3409963789152b3facfa5d7d027929419fa9/header.jpg?t=1784902176",
+    "short_description": "经营属于你自己的咖啡馆，在这款温馨治愈的恋爱×烹饪模拟游戏中成为一名甜甜圈治疗师。制作能够改变心情的甜甜圈，装饰你的店铺，并帮助顾客一步一步面对人生、爱情与心碎。",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2251220"
+  },
+  {
     "appid": 3440070,
     "name": "这龙带刀",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/e3da1987c956404cfbdf0527410baf5d93637af2/header_schinese.jpg?t=1784863991",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/e3da1987c956404cfbdf0527410baf5d93637af2/header_schinese.jpg?t=1784885012",
     "short_description": "《这龙带刀》 是一款硬核动作RPG，故事发生在一个被浩劫永久重塑的史前世界。你将化身为年轻的棘龙，手握远古之力铸就的巨型大剑，迎战那些同样持有凶器的恐龙宿敌——血战不休，只为阻挡那步步逼近的灭绝之影。",
     "is_free": false,
     "price": "¥ 39.60",
@@ -34,57 +138,23 @@
     "store_url": "https://store.steampowered.com/app/4200770"
   },
   {
-    "appid": 4739910,
-    "name": "蛮棍狂徒 - 英雄 - 荣耀战魂",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739910/789a3321abb733bc8f13306832d7fbd26df17756/header.jpg?t=1784819034",
-    "short_description": "迎战多名对手，不择手段拿下又一场胜利。蛮棍狂徒手持双拐，战力极其凶悍。",
+    "appid": 4358310,
+    "name": "硬币酒馆",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/14c1528fd1d07f3fad6fc6f704f6f814bcb9485a/header_schinese.jpg?t=1784816428",
+    "short_description": "《硬币酒馆》可不是普通的酒馆！在这款 roguelike 游戏里，你将使用各式各样奇趣的硬币，搭建出独属于你的硬币牌组。在随机生成的对局中，囤积硬币、打磨策略、精简牌组、解锁隐藏宝物，还能打出超离谱的连招！",
     "is_free": false,
-    "price": "¥ 40.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 35.70",
+    "original_price": "¥ 42.00",
+    "discount_percent": 15,
     "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4739910"
-  },
-  {
-    "appid": 1181550,
-    "name": "Carnival Hunt",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1784823412",
-    "short_description": "Carnival Hunt 是一款 5 对 1 第一人称非对称恐怖游戏。五只发条兔必须齐心协力，管理会发出声响的钥匙，并逃离不断变化的嘉年华世界。另一名玩家则会化身嘉年华怪物，展开追猎。",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
+      "休闲",
       "独立",
-      "策略",
-      "抢先体验"
+      "模拟",
+      "策略"
     ],
     "release_date": "2026 年 7 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1181550"
-  },
-  {
-    "appid": 1444080,
-    "name": "Dewdrop Dynasty",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444080/5b91a62a2f4ea0dbe663dad3afd91bb79a5478f2/header.jpg?t=1784818773",
-    "short_description": "在这个节奏快、轻松愉快的类银河战士游戏中，跳跃穿越一个充满奇特怪物、棘手谜题和离奇Boss的喧闹世界。",
-    "is_free": false,
-    "price": "¥ 77.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1444080"
+    "store_url": "https://store.steampowered.com/app/4358310"
   },
   {
     "appid": 2699230,
@@ -104,77 +174,5 @@
     "release_date": "2026 年 7 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2699230"
-  },
-  {
-    "appid": 2424420,
-    "name": "Avatar Legends: The Fighting Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784815174",
-    "short_description": "Avatar Legends: The Fighting Game is a fast-paced 1v1 fighter where you battle as your favorite characters from the Avatar franchise. Featuring hand-drawn 2D animation true to the series’ roots, proprietary rollback netcode, and full cross-play for smooth, competitive gameplay.",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2424420"
-  },
-  {
-    "appid": 2803490,
-    "name": "Atomcraft",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803490/e940a217b5b850e4466cb22d9ac8ea226bb79fa6/header.jpg?t=1784779499",
-    "short_description": "探索一个每个像素都经过物理与化学模拟的世界！利用周围的像素建造复杂且完全可运行的机器。收集、触发反应并操控全部118种元素，从简单工具到复杂系统，一切皆可创造。",
-    "is_free": false,
-    "price": "¥ 39.99",
-    "original_price": "¥ 49.99",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2803490"
-  },
-  {
-    "appid": 4742640,
-    "name": "DragonSword Awakening - Deluxe Pack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742640/e77080b6194785d0f4ab2ff997c0b7fea00120bf/header.jpg?t=1784781543",
-    "short_description": "“豪华礼包”是包含可在游戏内使用的“使魔：英勇的小龙”、数字美术设定集与原声带的内容。",
-    "is_free": false,
-    "price": "¥ 63.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4742640"
-  },
-  {
-    "appid": 4570720,
-    "name": "龙之剑:觉醒",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371",
-    "short_description": "踏入由虚幻引擎5打造的动画风格开放世界，探索奥尔比斯大陆！集结个性鲜明的伙伴，以状态异常触发华丽的接力连携，共同迎战沉寂60年后再度复苏的巨龙，踏上拯救世界的壮阔旅程。",
-    "is_free": false,
-    "price": "¥ 98.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4570720"
   }
 ]
