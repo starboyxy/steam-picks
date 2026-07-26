@@ -1,5 +1,23 @@
 [
   {
+    "appid": 3894850,
+    "name": "机场安检模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/adcfc8dab869b353d20990720342164a88cb8c59/header_schinese.jpg?t=1784974637",
+    "short_description": "欢迎来到刺激的安检现场！在这里，你将化身安检员，扫描行李、检查身份、搜寻暗袋！那一串串的阴影，是香肠还是雷管？等下，怎么还有假肢？锻炼你的火眼金睛！这里没有枯燥的站岗，只有解压的找茬和意想不到的惊喜。没收违禁品还能变现升级工位，把安检站变成你独属基地。",
+    "is_free": false,
+    "price": "¥ 22.40",
+    "original_price": "¥ 32.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3894850"
+  },
+  {
     "appid": 387990,
     "name": "Scrap Mechanic",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
@@ -50,22 +68,6 @@
     "release_date": "2026 年 7 月 24 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4112070"
-  },
-  {
-    "appid": 4124920,
-    "name": "些许人亡",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124920/148bd0b16a0ec8a123a1010b6e849d43c556ebe1/header_schinese.jpg?t=1784888337",
-    "short_description": "在这款肉鸽自走棋游戏中，你可以升级一切：英雄、属性与技能！但请做好牺牲的准备。召集英雄，踏上单人冒险之旅，或与其他玩家在线对决！",
-    "is_free": false,
-    "price": "¥ 38.25",
-    "original_price": "¥ 45.00",
-    "discount_percent": 15,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4124920"
   },
   {
     "appid": 3683770,
@@ -138,25 +140,6 @@
     "store_url": "https://store.steampowered.com/app/4200770"
   },
   {
-    "appid": 4358310,
-    "name": "硬币酒馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/14c1528fd1d07f3fad6fc6f704f6f814bcb9485a/header_schinese.jpg?t=1784816428",
-    "short_description": "《硬币酒馆》可不是普通的酒馆！在这款 roguelike 游戏里，你将使用各式各样奇趣的硬币，搭建出独属于你的硬币牌组。在随机生成的对局中，囤积硬币、打磨策略、精简牌组、解锁隐藏宝物，还能打出超离谱的连招！",
-    "is_free": false,
-    "price": "¥ 35.70",
-    "original_price": "¥ 42.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4358310"
-  },
-  {
     "appid": 2699230,
     "name": "Grim Dawn - Fangs of Asterkarn",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
@@ -174,5 +157,21 @@
     "release_date": "2026 年 7 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2699230"
+  },
+  {
+    "appid": 2424420,
+    "name": "Avatar Legends: The Fighting Game",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230",
+    "short_description": "Avatar Legends: The Fighting Game is a fast-paced 1v1 fighter where you battle as your favorite characters from the Avatar franchise. Featuring hand-drawn 2D animation true to the series’ roots, proprietary rollback netcode, and full cross-play for smooth, competitive gameplay.",
+    "is_free": false,
+    "price": "¥ 108.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 7 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2424420"
   }
 ]
