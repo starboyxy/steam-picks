@@ -1,8 +1,80 @@
 [
   {
+    "appid": 4796640,
+    "name": "UNBEATABLE - The Jamie Paige Content Companion",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796640/7846f6eca6c8251d9f70739c4f60f460c286cab8/header.jpg?t=1785171598",
+    "short_description": "《UNBEATABLE》——“Jamie Paige's Content Companion”包含全新歌曲、角色和挑战。",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 7 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4796640"
+  },
+  {
+    "appid": 2684630,
+    "name": "Endacopia",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1785164359",
+    "short_description": "Endacopia 是一款点击式解谜冒险游戏，其视觉风格仿佛来自早期电脑教育游戏……然而，在这份怀旧表象之下潜藏着恐怖。",
+    "is_free": false,
+    "price": "¥ 58.56",
+    "original_price": "¥ 65.07",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 7 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2684630"
+  },
+  {
+    "appid": 2479090,
+    "name": "黄昏远征军",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479090/3732f19088705ba85e8fe98d01e61a7d4b9e1a83/header_schinese.jpg?t=1785171502",
+    "short_description": "“何等铁砧，何等熔炉，掐住骇人的雷霆？” 在这款暗黑风的战术RPG中，你将扮演卸甲归隐的铁匠索伦，在灰烬与血海中集结一群伤痕累累的同盟。于方寸死局间运筹帷幄，直面疯狂的圣战团与撕裂帷幕的诡秘魔物。挥舞利刃，精算协同，但请谨慎你的每一次落子——因为比死亡更令人战栗的，是无声剥落的理智。",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 7 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2479090"
+  },
+  {
+    "appid": 3330210,
+    "name": "旧日铁锅炖主理人",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/c5bfb4c58a176cb3a66eac69aab1c38fddad9afd/header_schinese.jpg?t=1785151645",
+    "short_description": "在《旧日铁锅炖主理人》里拿大锅乱炖一切吧！你将担任这家铁锅炖的主厨，站在传说中的宇宙大铁锅前，为那些来自宇宙深处的食客炖煮奇异的美食...各类食材被不断放入锅内，它们在铁锅中疯狂碰撞、融合、引发不可名状的反应。",
+    "is_free": false,
+    "price": "¥ 39.75",
+    "original_price": "¥ 53.00",
+    "discount_percent": 25,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3330210"
+  },
+  {
     "appid": 3894850,
     "name": "机场安检模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/adcfc8dab869b353d20990720342164a88cb8c59/header_schinese.jpg?t=1784974637",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/adcfc8dab869b353d20990720342164a88cb8c59/header_schinese.jpg?t=1785146697",
     "short_description": "欢迎来到刺激的安检现场！在这里，你将化身安检员，扫描行李、检查身份、搜寻暗袋！那一串串的阴影，是香肠还是雷管？等下，怎么还有假肢？锻炼你的火眼金睛！这里没有枯燥的站岗，只有解压的找茬和意想不到的惊喜。没收违禁品还能变现升级工位，把安检站变成你独属基地。",
     "is_free": false,
     "price": "¥ 22.40",
@@ -39,7 +111,7 @@
   {
     "appid": 3683770,
     "name": "奶茶店模拟器 - 重生之我在冰堡甜城当店长",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/30eaf83654acb1188379662c0499c04f5ec15acc/header_schinese.jpg?t=1784893308",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/30eaf83654acb1188379662c0499c04f5ec15acc/header_schinese.jpg?t=1785157914",
     "short_description": "你重生了，重生在创业之初，上一世你因经营不善，最终奶茶店被对手碾碎；这一世，炼乳的甜香在血液里翻滚，你立志只做一件事——让「冰堡甜城」成为行业巅峰！最多8人合作经营奶茶店，亲手制作饮品、设计菜单与定价、摆放设备、装修店铺，应对客流与外卖平台，打造你的奶茶帝国。",
     "is_free": false,
     "price": "¥ 33.80",
@@ -106,83 +178,5 @@
     "release_date": "2026 年 7 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2424420"
-  },
-  {
-    "appid": 2803490,
-    "name": "Atomcraft",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803490/e940a217b5b850e4466cb22d9ac8ea226bb79fa6/header.jpg?t=1784779499",
-    "short_description": "探索一个每个像素都经过物理与化学模拟的世界！利用周围的像素建造复杂且完全可运行的机器。收集、触发反应并操控全部118种元素，从简单工具到复杂系统，一切皆可创造。",
-    "is_free": false,
-    "price": "¥ 39.99",
-    "original_price": "¥ 49.99",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2803490"
-  },
-  {
-    "appid": 4570720,
-    "name": "龙之剑:觉醒",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784900913",
-    "short_description": "踏入由虚幻引擎5打造的动画风格开放世界，探索奥尔比斯大陆！集结个性鲜明的伙伴，以状态异常触发华丽的接力连携，共同迎战沉寂60年后再度复苏的巨龙，踏上拯救世界的壮阔旅程。",
-    "is_free": false,
-    "price": "¥ 98.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4570720"
-  },
-  {
-    "appid": 3561220,
-    "name": "风暴怕死队",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784799208",
-    "short_description": "《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成人间地狱的小岛。",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3561220"
-  },
-  {
-    "appid": 1845250,
-    "name": "红眼露比",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/header_schinese.jpg?t=1785130323",
-    "short_description": "《红眼露比》是一款黑色童话风格，难度极高的 Boss Rush 动作游戏。 核心机制“专注”是战斗的关键，通过专注找出敌人的弱点，予以致命一击。 玩家扮演从斯卡雷特王城逃出的公主露比，踏上一场复仇并夺回王国的旅途。",
-    "is_free": false,
-    "price": "¥ 71.10",
-    "original_price": "¥ 79.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1845250"
   }
 ]
