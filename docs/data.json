@@ -1,20 +1,112 @@
 [
   {
-    "appid": 4796640,
-    "name": "UNBEATABLE - The Jamie Paige Content Companion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796640/7846f6eca6c8251d9f70739c4f60f460c286cab8/header.jpg?t=1785171598",
-    "short_description": "《UNBEATABLE》——“Jamie Paige's Content Companion”包含全新歌曲、角色和挑战。",
+    "appid": 4078110,
+    "name": "Suncraft",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/512b1a9a23afa111a2016ea17d6c8c6db769d145/header.jpg?t=1785258069",
+    "short_description": "阳光明媚的新一天在这个温馨的像素风冒险中开始了。收集资源，制作物品，并升级工具来扩展土地。你能否重建宏伟的灯塔，让村庄重返昔日的黄金时代？",
     "is_free": false,
-    "price": "¥ 39.00",
+    "price": "¥ 21.66",
+    "original_price": "¥ 25.49",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4078110"
+  },
+  {
+    "appid": 3497800,
+    "name": "Bonehold",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/header.jpg?t=1785259777",
+    "short_description": "融合Roguelike和ARPG元素的地牢探索游戏。消灭成群的敌人，挑战强大的Boss，获取传奇战利品！",
+    "is_free": false,
+    "price": "¥ 37.67",
+    "original_price": "¥ 41.86",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3497800"
+  },
+  {
+    "appid": 3432480,
+    "name": "Shards of Order",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432480/de1f381959957cf38a8c3411ad0f04469e5defff/header.jpg?t=1785254329",
+    "short_description": "一款黑暗 RPG，采用卡牌式战斗系统，在这里，没有什么会真正死去。带领一队幸存者穿越一个被破碎“法则”颠覆的世界。修复它们，重塑游戏规则——但也要准备好面对随之而来的后果。",
+    "is_free": false,
+    "price": "¥ 36.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "冒险",
-      "独立"
+      "独立",
+      "角色扮演",
+      "策略"
     ],
-    "release_date": "2026 年 7 月 27 日",
+    "release_date": "2026 年 7 月 28 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4796640"
+    "store_url": "https://store.steampowered.com/app/3432480"
+  },
+  {
+    "appid": 2806050,
+    "name": "Halo: Campaign Evolved",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966",
+    "short_description": "体验传奇的起点.",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 7 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2806050"
+  },
+  {
+    "appid": 4594150,
+    "name": "长官，兽人大军冲上来了",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/d8a7b3d55e3a2b42350732db0155fc2a9346c10b/header.jpg?t=1785243619",
+    "short_description": "《长官，兽人大军冲上来了》是一款渐进式风格的塔防游戏。在这款游戏中，你将会面对潮水般涌来的庞大兽人军团。用铺天盖地的子弹、炸弹和激光来给予它们迎头痛击！",
+    "is_free": false,
+    "price": "¥ 30.60",
+    "original_price": "¥ 34.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4594150"
+  },
+  {
+    "appid": 4906890,
+    "name": "Le Mans Ultimate - US Track Pass",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906890/7687df74a006c588d0a7213c6e91772902449589/header.jpg?t=1785238701",
+    "short_description": "The US Track Pass DLC will be your ticket to the brand new US content, and will bundle together all the packs and will consist of 6 awesome new tracks to try! ",
+    "is_free": false,
+    "price": "¥ 275.39",
+    "original_price": "¥ 305.99",
+    "discount_percent": 10,
+    "genres": [
+      "竞速",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 7 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4906890"
   },
   {
     "appid": 2684630,
@@ -36,7 +128,7 @@
   {
     "appid": 2479090,
     "name": "黄昏远征军",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479090/3732f19088705ba85e8fe98d01e61a7d4b9e1a83/header_schinese.jpg?t=1785171502",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479090/3732f19088705ba85e8fe98d01e61a7d4b9e1a83/header_schinese.jpg?t=1785256229",
     "short_description": "“何等铁砧，何等熔炉，掐住骇人的雷霆？” 在这款暗黑风的战术RPG中，你将扮演卸甲归隐的铁匠索伦，在灰烬与血海中集结一群伤痕累累的同盟。于方寸死局间运筹帷幄，直面疯狂的圣战团与撕裂帷幕的诡秘魔物。挥舞利刃，精算协同，但请谨慎你的每一次落子——因为比死亡更令人战栗的，是无声剥落的理智。",
     "is_free": false,
     "price": "¥ 68.40",
@@ -52,42 +144,6 @@
     "release_date": "2026 年 7 月 27 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2479090"
-  },
-  {
-    "appid": 3330210,
-    "name": "旧日铁锅炖主理人",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/c5bfb4c58a176cb3a66eac69aab1c38fddad9afd/header_schinese.jpg?t=1785151645",
-    "short_description": "在《旧日铁锅炖主理人》里拿大锅乱炖一切吧！你将担任这家铁锅炖的主厨，站在传说中的宇宙大铁锅前，为那些来自宇宙深处的食客炖煮奇异的美食...各类食材被不断放入锅内，它们在铁锅中疯狂碰撞、融合、引发不可名状的反应。",
-    "is_free": false,
-    "price": "¥ 39.75",
-    "original_price": "¥ 53.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3330210"
-  },
-  {
-    "appid": 3894850,
-    "name": "机场安检模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/adcfc8dab869b353d20990720342164a88cb8c59/header_schinese.jpg?t=1785146697",
-    "short_description": "欢迎来到刺激的安检现场！在这里，你将化身安检员，扫描行李、检查身份、搜寻暗袋！那一串串的阴影，是香肠还是雷管？等下，怎么还有假肢？锻炼你的火眼金睛！这里没有枯燥的站岗，只有解压的找茬和意想不到的惊喜。没收违禁品还能变现升级工位，把安检站变成你独属基地。",
-    "is_free": false,
-    "price": "¥ 22.40",
-    "original_price": "¥ 32.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3894850"
   },
   {
     "appid": 387990,
@@ -111,7 +167,7 @@
   {
     "appid": 3683770,
     "name": "奶茶店模拟器 - 重生之我在冰堡甜城当店长",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/30eaf83654acb1188379662c0499c04f5ec15acc/header_schinese.jpg?t=1785157914",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/30eaf83654acb1188379662c0499c04f5ec15acc/header_schinese.jpg?t=1785229416",
     "short_description": "你重生了，重生在创业之初，上一世你因经营不善，最终奶茶店被对手碾碎；这一世，炼乳的甜香在血液里翻滚，你立志只做一件事——让「冰堡甜城」成为行业巅峰！最多8人合作经营奶茶店，亲手制作饮品、设计菜单与定价、摆放设备、装修店铺，应对客流与外卖平台，打造你的奶茶帝国。",
     "is_free": false,
     "price": "¥ 33.80",
@@ -125,58 +181,5 @@
     "release_date": "2026 年 7 月 24 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3683770"
-  },
-  {
-    "appid": 3440070,
-    "name": "这龙带刀",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/e3da1987c956404cfbdf0527410baf5d93637af2/header_schinese.jpg?t=1784885012",
-    "short_description": "《这龙带刀》 是一款硬核动作RPG，故事发生在一个被浩劫永久重塑的史前世界。你将化身为年轻的棘龙，手握远古之力铸就的巨型大剑，迎战那些同样持有凶器的恐龙宿敌——血战不休，只为阻挡那步步逼近的灭绝之影。",
-    "is_free": false,
-    "price": "¥ 39.60",
-    "original_price": "¥ 44.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3440070"
-  },
-  {
-    "appid": 2699230,
-    "name": "Grim Dawn - Fangs of Asterkarn",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
-    "short_description": "Fangs of Asterkarn is our largest addition to the apocalyptic fantasy world of Grim Dawn, introducing players to the mighty Kurn tribes of Asterkarn as they contend with Ch'thonic corruption. Customize your potions, awaken the true power of Epic items, and enable the challenging new Ascendant mode.",
-    "is_free": false,
-    "price": "¥ 65.70",
-    "original_price": "¥ 73.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2699230"
-  },
-  {
-    "appid": 2424420,
-    "name": "Avatar Legends: The Fighting Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230",
-    "short_description": "Avatar Legends: The Fighting Game is a fast-paced 1v1 fighter where you battle as your favorite characters from the Avatar franchise. Featuring hand-drawn 2D animation true to the series’ roots, proprietary rollback netcode, and full cross-play for smooth, competitive gameplay.",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 7 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2424420"
   }
 ]
