@@ -1,30 +1,135 @@
 [
   {
-    "appid": 4078110,
-    "name": "Suncraft",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/512b1a9a23afa111a2016ea17d6c8c6db769d145/header.jpg?t=1785258069",
-    "short_description": "阳光明媚的新一天在这个温馨的像素风冒险中开始了。收集资源，制作物品，并升级工具来扩展土地。你能否重建宏伟的灯塔，让村庄重返昔日的黄金时代？",
+    "appid": 4572310,
+    "name": "雾影猎人-升级为豪华版",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572310/9eee04e620e5fee7c9106832a9f04f8aa95a375a/header.jpg?t=1785386015",
+    "short_description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
     "is_free": false,
-    "price": "¥ 21.66",
-    "original_price": "¥ 25.49",
-    "discount_percent": 15,
+    "price": "¥ 45.00",
+    "original_price": "¥ 50.00",
+    "discount_percent": 10,
     "genres": [
-      "冒险",
-      "休闲",
-      "模拟"
+      "动作",
+      "冒险"
     ],
-    "release_date": "2026 年 7 月 28 日",
+    "release_date": "2026 年 7 月 29 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4078110"
+    "store_url": "https://store.steampowered.com/app/4572310"
   },
   {
-    "appid": 3497800,
-    "name": "Bonehold",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/header.jpg?t=1785259777",
-    "short_description": "融合Roguelike和ARPG元素的地牢探索游戏。消灭成群的敌人，挑战强大的Boss，获取传奇战利品！",
+    "appid": 4433900,
+    "name": "七龙珠 电光炸裂！ZERO 极限超突破DLC“NEO”",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/bcdb605e47017334d273ede0af62e4ca9ac05586/header.jpg?t=1785366920",
+    "short_description": "“极限超突破DLC‘NEO’”在“七龙珠 电光炸裂！ZERO”登场啰！ 新增全新的可操作角色、装扮、招式、擂台，甚至还有单人模式。 来体验突破极限的七龙珠战斗吧！",
     "is_free": false,
-    "price": "¥ 37.67",
-    "original_price": "¥ 41.86",
+    "price": "¥ 208.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4433900"
+  },
+  {
+    "appid": 4421010,
+    "name": "账单必须支付 Bills Must Be Paid",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785365619",
+    "short_description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
+    "is_free": false,
+    "price": "¥ 19.60",
+    "original_price": "¥ 28.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4421010"
+  },
+  {
+    "appid": 4836540,
+    "name": "《英雄连3：最终防线》Company of Heroes 3: Final Stand",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836540/6947d6be8800b8ed737f04c110ad929ae3c86123/header.jpg?t=1785352046",
+    "short_description": "《英雄连3：最终防线》带来全新的独立波次防御体验，让你无论是独自一人还是与好友组队，都能直接投入战斗。",
+    "is_free": false,
+    "price": "¥ 91.80",
+    "original_price": "¥ 102.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4836540"
+  },
+  {
+    "appid": 4252700,
+    "name": "执政官之魂",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/ad054dd940556874745fc3ed2a4159ef42137f54/header_schinese.jpg?t=1785337338",
+    "short_description": "《执政官之魂》是一款 2D 风格 Roguelike 骰子构筑游戏，玩家可以更换骰面、符文及骰体，打造具有独特效果的强力骰子。精心构筑法术库，实现强大的协同效果，击败众多头目，最终征服执政官的宫殿。",
+    "is_free": false,
+    "price": "¥ 39.90",
+    "original_price": "¥ 57.00",
+    "discount_percent": 30,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4252700"
+  },
+  {
+    "appid": 2895680,
+    "name": "Below, Rusted Gods",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2895680/7136578c8c2876c7aa5e75d34543fc820787c61e/header.jpg?t=1785330035",
+    "short_description": "一支深入未知的远征队能否生还，关键在于你。解读仪器数据，探索设施，让自己和小队活下来，并发现某个古老而渴望降生的存在。",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2895680"
+  },
+  {
+    "appid": 3938640,
+    "name": "美味回转寿司店模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938640/ef242839d6fa0c860947286cb029da0493c50bc9/header_schinese.jpg?t=1785315977",
+    "short_description": "欢迎来到《美味回转寿司店模拟器》！在这里，经营一家小小的寿司店。解锁食材，丰富菜单，用匠心制作精美可口的寿司；升级设施，为你的客人提供全方位的五星级体验。用美食链接羁绊，邂逅千奇百怪的客人。现在就开启你温馨治愈的寿司店经营之旅吧。",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "¥ 52.00",
+    "discount_percent": 25,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3938640"
+  },
+  {
+    "appid": 2939790,
+    "name": "星之旅Lunarium",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939790/a832609701560443d0255cf9d8be109567a30506/header_schinese.jpg?t=1785292835",
+    "short_description": "《Lunarium》是一款箱庭式关卡的奇幻动作冒险游戏。玩家将扮演轻装骑士艾芙，与有着未知使命的“星使”卢恩相遇，为了拯救濒临破灭的世界而踏上旅途，在具有挑战性的战斗中寻回旧日的星辉和遗落的记忆，逐渐揭开群星的秘密。",
+    "is_free": false,
+    "price": "¥ 62.10",
+    "original_price": "¥ 69.00",
     "discount_percent": 10,
     "genres": [
       "动作",
@@ -34,7 +139,7 @@
     ],
     "release_date": "2026 年 7 月 28 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3497800"
+    "store_url": "https://store.steampowered.com/app/2939790"
   },
   {
     "appid": 3432480,
@@ -58,7 +163,7 @@
   {
     "appid": 2806050,
     "name": "Halo: Campaign Evolved",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
     "short_description": "体验传奇的起点.",
     "is_free": false,
     "price": "¥ 298.00",
@@ -71,115 +176,5 @@
     "release_date": "2026 年 7 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2806050"
-  },
-  {
-    "appid": 4594150,
-    "name": "长官，兽人大军冲上来了",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/d8a7b3d55e3a2b42350732db0155fc2a9346c10b/header.jpg?t=1785243619",
-    "short_description": "《长官，兽人大军冲上来了》是一款渐进式风格的塔防游戏。在这款游戏中，你将会面对潮水般涌来的庞大兽人军团。用铺天盖地的子弹、炸弹和激光来给予它们迎头痛击！",
-    "is_free": false,
-    "price": "¥ 30.60",
-    "original_price": "¥ 34.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4594150"
-  },
-  {
-    "appid": 4906890,
-    "name": "Le Mans Ultimate - US Track Pass",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906890/7687df74a006c588d0a7213c6e91772902449589/header.jpg?t=1785238701",
-    "short_description": "The US Track Pass DLC will be your ticket to the brand new US content, and will bundle together all the packs and will consist of 6 awesome new tracks to try! ",
-    "is_free": false,
-    "price": "¥ 275.39",
-    "original_price": "¥ 305.99",
-    "discount_percent": 10,
-    "genres": [
-      "竞速",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 7 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4906890"
-  },
-  {
-    "appid": 2684630,
-    "name": "Endacopia",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1785164359",
-    "short_description": "Endacopia 是一款点击式解谜冒险游戏，其视觉风格仿佛来自早期电脑教育游戏……然而，在这份怀旧表象之下潜藏着恐怖。",
-    "is_free": false,
-    "price": "¥ 58.56",
-    "original_price": "¥ 65.07",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2684630"
-  },
-  {
-    "appid": 2479090,
-    "name": "黄昏远征军",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479090/3732f19088705ba85e8fe98d01e61a7d4b9e1a83/header_schinese.jpg?t=1785256229",
-    "short_description": "“何等铁砧，何等熔炉，掐住骇人的雷霆？” 在这款暗黑风的战术RPG中，你将扮演卸甲归隐的铁匠索伦，在灰烬与血海中集结一群伤痕累累的同盟。于方寸死局间运筹帷幄，直面疯狂的圣战团与撕裂帷幕的诡秘魔物。挥舞利刃，精算协同，但请谨慎你的每一次落子——因为比死亡更令人战栗的，是无声剥落的理智。",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 7 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2479090"
-  },
-  {
-    "appid": 387990,
-    "name": "Scrap Mechanic",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
-    "short_description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
-    "is_free": false,
-    "price": "¥ 109.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/387990"
-  },
-  {
-    "appid": 3683770,
-    "name": "奶茶店模拟器 - 重生之我在冰堡甜城当店长",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/30eaf83654acb1188379662c0499c04f5ec15acc/header_schinese.jpg?t=1785229416",
-    "short_description": "你重生了，重生在创业之初，上一世你因经营不善，最终奶茶店被对手碾碎；这一世，炼乳的甜香在血液里翻滚，你立志只做一件事——让「冰堡甜城」成为行业巅峰！最多8人合作经营奶茶店，亲手制作饮品、设计菜单与定价、摆放设备、装修店铺，应对客流与外卖平台，打造你的奶茶帝国。",
-    "is_free": false,
-    "price": "¥ 33.80",
-    "original_price": "¥ 52.00",
-    "discount_percent": 35,
-    "genres": [
-      "休闲",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3683770"
   }
 ]
