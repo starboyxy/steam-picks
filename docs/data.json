@@ -1,8 +1,83 @@
 [
   {
+    "appid": 2059170,
+    "name": "Quasimorph",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2a9b43b4775fdd7e045d03a3e8a85f41f8c3c9a9/header_alt_assets_1.jpg?t=1785516925",
+    "short_description": "在这款黑暗的回合制劫掠撤离类RPG中扮演一位身经百战的私人武装公司佣兵。挑战残酷战斗并管理你的飞船，用无数克隆体的生命堆砌出前进的道路，最终解开威胁全宇宙生命的黑暗秘密。",
+    "is_free": false,
+    "price": "¥ 62.31",
+    "original_price": "¥ 93.00",
+    "discount_percent": 33,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2059170"
+  },
+  {
+    "appid": 1368140,
+    "name": "纵横秘湾 Corsair Cove",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785527747",
+    "short_description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
+    "is_free": false,
+    "price": "¥ 111.75",
+    "original_price": "¥ 149.00",
+    "discount_percent": 25,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1368140"
+  },
+  {
+    "appid": 3293260,
+    "name": "水上乐园模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d777414ab68027db0399200587fd78d409cc9602/header_alt_assets_5.jpg?t=1785510020",
+    "short_description": "建造并经营属于你的水上乐园。设计滑水道，在布偶物理的加持下让游客漫天飞舞，管理员工，并全面自定义你的乐园。进入这款第一人称经营模拟游戏，在一片混乱中打造出五星级帝国吧！",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 7 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3293260"
+  },
+  {
+    "appid": 2436940,
+    "name": "赛菲莉娅",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/21b1476794fd8a2e0a3076448d28929e8139aad0/header_alt_assets_0.jpg?t=1785481238",
+    "short_description": "《Dungreed》原班人马打造的俯视角动作 RPG 肉鸽游戏。潜入高塔深处探索，收集并强化神器，击退成群涌来的恶魔，守护危在旦夕的兔子村！",
+    "is_free": false,
+    "price": "¥ 34.80",
+    "original_price": "¥ 58.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 7 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2436940"
+  },
+  {
     "appid": 3282420,
     "name": "Zoominoes",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282420/586a5dfccb5f7a10bbc3d8a7b5cfce607c1dcc71/header.jpg?t=1785431440",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282420/586a5dfccb5f7a10bbc3d8a7b5cfce607c1dcc71/header.jpg?t=1785544310",
     "short_description": "《动物多米诺》是一款 roguelike 卡牌构建游戏。玩家需要选择动物、喂食，并通过获取纪念品来增强它们的能力。探索强力组合冲击高分吧！",
     "is_free": false,
     "price": "¥ 50.15",
@@ -15,25 +90,6 @@
     "release_date": "2026 年 7 月 30 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3282420"
-  },
-  {
-    "appid": 3227240,
-    "name": "MineGeon: Renegades",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3227240/2d8cde825ba65743a7cb045f3ac10c6147241116/header.jpg?t=1785430230",
-    "short_description": "在 MineGeon: Renegades 中降落至正在死去的帕伊莫星，这是一款以资源收集为核心的 合作 roguelite 弹幕游戏。无论是单人游玩，还是与朋友并肩作战，你们都将一起战斗、收集并强化自身。直面深渊，多次陨落再爬起，直到你揭开隐藏在地表之下的真相。",
-    "is_free": false,
-    "price": "¥ 65.45",
-    "original_price": "¥ 77.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3227240"
   },
   {
     "appid": 3558600,
@@ -56,7 +112,7 @@
   {
     "appid": 1714510,
     "name": "九山：狼之城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714510/a27ce9cab51ff84bce633cc6ad7bce983fc2f17d/header_schinese.jpg?t=1785432645",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714510/a27ce9cab51ff84bce633cc6ad7bce983fc2f17d/header_schinese.jpg?t=1785506962",
     "short_description": "《九山：狼之城》是一款背景设定于枪火与腐败横行的残酷都市丛林之中的高能硬核俯视角射击游戏。",
     "is_free": false,
     "price": "¥ 41.60",
@@ -73,7 +129,7 @@
   {
     "appid": 4108000,
     "name": "机械狂欢",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785433392",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785485527",
     "short_description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
     "is_free": false,
     "price": "¥ 28.05",
@@ -90,7 +146,7 @@
   {
     "appid": 3934270,
     "name": "多少兄弟？",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934270/4109803407c1f5e78c3a3d721478a7db0b10422e/header_schinese.jpg?t=1785428583",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934270/4109803407c1f5e78c3a3d721478a7db0b10422e/header_schinese.jpg?t=1785538360",
     "short_description": "这是一款以“兄弟养成”为主题的肉鸽自走棋游戏。招募一支兄弟大军征战荒谬战场，解开人类史上最古老的谜题：需要多少兄弟才能揍趴大猩猩？打赢一千个熊孩子？干翻像马一样大的鸭子？击败神明？走进你的兄弟营地，寻找答案吧！",
     "is_free": false,
     "price": "¥ 35.10",
@@ -109,7 +165,7 @@
   {
     "appid": 4572310,
     "name": "雾影猎人-升级为豪华版",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572310/9eee04e620e5fee7c9106832a9f04f8aa95a375a/header.jpg?t=1785401855",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572310/9eee04e620e5fee7c9106832a9f04f8aa95a375a/header.jpg?t=1785519879",
     "short_description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
     "is_free": false,
     "price": "¥ 45.00",
@@ -122,60 +178,5 @@
     "release_date": "2026 年 7 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4572310"
-  },
-  {
-    "appid": 4433900,
-    "name": "七龙珠 电光炸裂！ZERO 极限超突破DLC“NEO”",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/bcdb605e47017334d273ede0af62e4ca9ac05586/header.jpg?t=1785366920",
-    "short_description": "“极限超突破DLC‘NEO’”在“七龙珠 电光炸裂！ZERO”登场啰！ 新增全新的可操作角色、装扮、招式、擂台，甚至还有单人模式。 来体验突破极限的七龙珠战斗吧！",
-    "is_free": false,
-    "price": "¥ 208.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 7 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4433900"
-  },
-  {
-    "appid": 4421010,
-    "name": "账单必须支付 Bills Must Be Paid",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785365619",
-    "short_description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
-    "is_free": false,
-    "price": "¥ 19.60",
-    "original_price": "¥ 28.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4421010"
-  },
-  {
-    "appid": 3938640,
-    "name": "美味回转寿司店模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938640/ef242839d6fa0c860947286cb029da0493c50bc9/header_schinese.jpg?t=1785387715",
-    "short_description": "欢迎来到《美味回转寿司店模拟器》！在这里，经营一家小小的寿司店。解锁食材，丰富菜单，用匠心制作精美可口的寿司；升级设施，为你的客人提供全方位的五星级体验。用美食链接羁绊，邂逅千奇百怪的客人。现在就开启你温馨治愈的寿司店经营之旅吧。",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "¥ 52.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3938640"
   }
 ]
