@@ -1,8 +1,26 @@
 [
   {
+    "appid": 2980270,
+    "name": "HackHub - Ultimate Hacker Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/header.jpg?t=1785579825",
+    "short_description": "作为 Hackhub 中熟练的黑客，揭开网络秘密并挫败大规模监控。挑战权威，改写规则，成为终极数字反叛者。",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 48.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2980270"
+  },
+  {
     "appid": 2059170,
     "name": "Quasimorph",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2a9b43b4775fdd7e045d03a3e8a85f41f8c3c9a9/header_alt_assets_1.jpg?t=1785516925",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2a9b43b4775fdd7e045d03a3e8a85f41f8c3c9a9/header_alt_assets_1.jpg?t=1785584712",
     "short_description": "在这款黑暗的回合制劫掠撤离类RPG中扮演一位身经百战的私人武装公司佣兵。挑战残酷战斗并管理你的飞船，用无数克隆体的生命堆砌出前进的道路，最终解开威胁全宇宙生命的黑暗秘密。",
     "is_free": false,
     "price": "¥ 62.31",
@@ -75,23 +93,6 @@
     "store_url": "https://store.steampowered.com/app/2436940"
   },
   {
-    "appid": 3282420,
-    "name": "Zoominoes",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282420/586a5dfccb5f7a10bbc3d8a7b5cfce607c1dcc71/header.jpg?t=1785544310",
-    "short_description": "《动物多米诺》是一款 roguelike 卡牌构建游戏。玩家需要选择动物、喂食，并通过获取纪念品来增强它们的能力。探索强力组合冲击高分吧！",
-    "is_free": false,
-    "price": "¥ 50.15",
-    "original_price": "¥ 59.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3282420"
-  },
-  {
     "appid": 3558600,
     "name": "绿植小筑",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e3c1339cf21fd3971cfe36cd1566130bc67fc4b1/header_schinese.jpg?t=1785432023",
@@ -108,23 +109,6 @@
     "release_date": "2026 年 7 月 30 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3558600"
-  },
-  {
-    "appid": 1714510,
-    "name": "九山：狼之城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1714510/a27ce9cab51ff84bce633cc6ad7bce983fc2f17d/header_schinese.jpg?t=1785506962",
-    "short_description": "《九山：狼之城》是一款背景设定于枪火与腐败横行的残酷都市丛林之中的高能硬核俯视角射击游戏。",
-    "is_free": false,
-    "price": "¥ 41.60",
-    "original_price": "¥ 52.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 7 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1714510"
   },
   {
     "appid": 4108000,
@@ -165,7 +149,7 @@
   {
     "appid": 4572310,
     "name": "雾影猎人-升级为豪华版",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572310/9eee04e620e5fee7c9106832a9f04f8aa95a375a/header.jpg?t=1785519879",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572310/9eee04e620e5fee7c9106832a9f04f8aa95a375a/header.jpg?t=1785564488",
     "short_description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
     "is_free": false,
     "price": "¥ 45.00",
@@ -178,5 +162,21 @@
     "release_date": "2026 年 7 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4572310"
+  },
+  {
+    "appid": 4433900,
+    "name": "七龙珠 电光炸裂！ZERO 极限超突破DLC“NEO”",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/bcdb605e47017334d273ede0af62e4ca9ac05586/header.jpg?t=1785488066",
+    "short_description": "“极限超突破DLC‘NEO’”在“七龙珠 电光炸裂！ZERO”登场啰！ 新增全新的可操作角色、装扮、招式、擂台，甚至还有单人模式。 来体验突破极限的七龙珠战斗吧！",
+    "is_free": false,
+    "price": "¥ 208.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 7 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4433900"
   }
 ]
