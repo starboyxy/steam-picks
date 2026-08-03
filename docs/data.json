@@ -93,6 +93,23 @@
     "store_url": "https://store.steampowered.com/app/2436940"
   },
   {
+    "appid": 3282420,
+    "name": "Zoominoes",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282420/586a5dfccb5f7a10bbc3d8a7b5cfce607c1dcc71/header.jpg?t=1785544310",
+    "short_description": "《动物多米诺》是一款 roguelike 卡牌构建游戏。玩家需要选择动物、喂食，并通过获取纪念品来增强它们的能力。探索强力组合冲击高分吧！",
+    "is_free": false,
+    "price": "¥ 50.15",
+    "original_price": "¥ 59.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3282420"
+  },
+  {
     "appid": 3558600,
     "name": "绿植小筑",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e3c1339cf21fd3971cfe36cd1566130bc67fc4b1/header_schinese.jpg?t=1785432023",
@@ -113,7 +130,7 @@
   {
     "appid": 4108000,
     "name": "机械狂欢",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785485527",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785684305",
     "short_description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
     "is_free": false,
     "price": "¥ 28.05",
@@ -162,21 +179,5 @@
     "release_date": "2026 年 7 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4572310"
-  },
-  {
-    "appid": 4433900,
-    "name": "七龙珠 电光炸裂！ZERO 极限超突破DLC“NEO”",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/bcdb605e47017334d273ede0af62e4ca9ac05586/header.jpg?t=1785488066",
-    "short_description": "“极限超突破DLC‘NEO’”在“七龙珠 电光炸裂！ZERO”登场啰！ 新增全新的可操作角色、装扮、招式、擂台，甚至还有单人模式。 来体验突破极限的七龙珠战斗吧！",
-    "is_free": false,
-    "price": "¥ 208.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 7 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4433900"
   }
 ]
