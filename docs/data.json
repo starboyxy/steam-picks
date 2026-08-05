@@ -1,93 +1,71 @@
 [
   {
-    "appid": 2001760,
-    "name": "轮回之兽",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1785811991",
-    "short_description": "Game Freak 诚意新作：《轮回之兽》是一款融合了即时与回合制战斗的动作角色扮演游戏。在美丽而又严酷的《轮回之兽》世界中，享受创新的“一人一狗协作动作角色扮演”体验。在艾玛和小库的旅程终点会有什么在等待着他们呢？",
+    "appid": 4619420,
+    "name": "Slot Grind",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619420/10c92724f55a4ac195c00ac08d62c78e240cddf8/header.jpg?t=1785865125",
+    "short_description": "《Slot Grind》是一款增量式老虎机游戏。你需要不断旋转、赚钱，再把收益投入升级。解锁回报更高的新老虎机，强化它们并实现自动化，让利润一路增长，直到你最终还清所有债务。",
     "is_free": false,
-    "price": "¥ 248.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 8 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2001760"
-  },
-  {
-    "appid": 4098230,
-    "name": "Flats Full of Cats",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098230/62c0da90b0d1648279a00ed856cd205b51538364/header.jpg?t=1785786367",
-    "short_description": "Flats Full of Cats是一款温馨的找物游戏，你将在其中探索充满猫咪朋友的可爱公寓！",
-    "is_free": true,
-    "price": "免费",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "独立",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 8 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4098230"
-  },
-  {
-    "appid": 3156330,
-    "name": "鹰派大统领",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/4336d8a1d00c9ddba5a09388054974356099cfe2/header_alt_assets_1_schinese.jpg?t=1785808525",
-    "short_description": "好评如潮的《时空叛客》制作组最新力作！在这款动作肉鸽游戏中，你将挑战邪恶的现任总统！白天，建设基地、争取选票；夜晚，化身西装暴徒，深入敌后，击溃犯罪组织，拯救毛茸茸的外星生物。随心搭配数十种异能与武器，在千变万化的关卡中构筑你的专属流派！",
-    "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 48.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3156330"
-  },
-  {
-    "appid": 4540820,
-    "name": "无尽矿山",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540820/73c113e9351b152ba66a6e156c5024919dfa4825/header_schinese.jpg?t=1785815523",
-    "short_description": "全自动暴击勇者正在杀穿整座矿山！成为超强狐狸勇者爆杀魔物，无需繁琐死板的微操，只需轻松指引方向，打怪升级，夺取宝藏，享受伤害成倍飙升的极致快感！更能全自动战斗开采，全屏暴击，金币暴涨！在这场永无止境的远征中，用无限成长的数值征服整座矿洞！",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
     "discount_percent": 10,
     "genres": [
+      "休闲",
       "独立"
     ],
-    "release_date": "2026 年 8 月 3 日",
+    "release_date": "2026 年 8 月 4 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4540820"
+    "store_url": "https://store.steampowered.com/app/4619420"
   },
   {
-    "appid": 2980270,
-    "name": "HackHub - Ultimate Hacker Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/header.jpg?t=1785579825",
-    "short_description": "作为 Hackhub 中熟练的黑客，揭开网络秘密并挫败大规模监控。挑战权威，改写规则，成为终极数字反叛者。",
+    "appid": 247970,
+    "name": "Korea. IL-2 Series",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1785882487",
+    "short_description": "《IL2捍卫雄鹰：朝鲜战争》是一款以朝鲜战争为背景的次世代飞行模拟游戏。坐进早期喷气式战斗机的驾驶舱，亲手改写那场传奇空战的历史吧。",
     "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 48.00",
-    "discount_percent": 20,
+    "price": "¥ 339.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "独立",
-      "模拟",
-      "策略"
+      "动作",
+      "模拟"
     ],
-    "release_date": "2026 年 8 月 1 日",
+    "release_date": "2026 年 8 月 4 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2980270"
+    "store_url": "https://store.steampowered.com/app/247970"
+  },
+  {
+    "appid": 3399900,
+    "name": "地狱仆从2  (HellSlave II)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399900/53131b59c4ce37807820c39c929bfec101edd91c/header.jpg?t=1785851484",
+    "short_description": "《地狱仆从II：神罚降临》是一款黑暗奇幻地牢探险游戏，你需在天堂净化世界前消灭所有恶魔领主。自定义角色、掌握残酷的回合制战斗，探索介于神罚与诅咒之间的末日世界。",
+    "is_free": false,
+    "price": "¥ 57.80",
+    "original_price": "¥ 68.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 8 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3399900"
+  },
+  {
+    "appid": 1478500,
+    "name": "Big Walk",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785861188",
+    "short_description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+    "is_free": false,
+    "price": "¥ 58.50",
+    "original_price": "¥ 78.00",
+    "discount_percent": 25,
+    "genres": [
+      "冒险"
+    ],
+    "release_date": "2026 年 8 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1478500"
   },
   {
     "appid": 2059170,
@@ -113,7 +91,7 @@
   {
     "appid": 1368140,
     "name": "纵横秘湾 Corsair Cove",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785750972",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785860713",
     "short_description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
     "is_free": false,
     "price": "¥ 111.75",
@@ -130,7 +108,7 @@
   {
     "appid": 3293260,
     "name": "水上乐园模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d777414ab68027db0399200587fd78d409cc9602/header_alt_assets_5.jpg?t=1785510020",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d777414ab68027db0399200587fd78d409cc9602/header_alt_assets_5.jpg?t=1785859866",
     "short_description": "建造并经营属于你的水上乐园。设计滑水道，在布偶物理的加持下让游客漫天飞舞，管理员工，并全面自定义你的乐园。进入这款第一人称经营模拟游戏，在一片混乱中打造出五星级帝国吧！",
     "is_free": false,
     "price": "¥ 38.40",
@@ -165,9 +143,26 @@
     "store_url": "https://store.steampowered.com/app/2436940"
   },
   {
+    "appid": 3282420,
+    "name": "Zoominoes",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282420/586a5dfccb5f7a10bbc3d8a7b5cfce607c1dcc71/header.jpg?t=1785887244",
+    "short_description": "在数字不断攀升的 roguelike 卡牌构建游戏中，打造你的终极动物园。寻找强大的神话动物，用食物强化它们，甚至操控棋盘本身。用疯狂连击赚取百万（甚至更多）分，彻底玩转游戏！",
+    "is_free": false,
+    "price": "¥ 50.15",
+    "original_price": "¥ 59.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 7 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3282420"
+  },
+  {
     "appid": 3558600,
     "name": "绿植小筑",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e3c1339cf21fd3971cfe36cd1566130bc67fc4b1/header_schinese.jpg?t=1785432023",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e3c1339cf21fd3971cfe36cd1566130bc67fc4b1/header_schinese.jpg?t=1785845440",
     "short_description": "在这款温馨惬意的游戏中经营一家可爱的小植物店。种植、售卖并照料各种现实生活中的植物，帮助顾客找到他们梦寐以求的植物，完成订单，还能按照自己喜欢的方式定制温馨小店！",
     "is_free": false,
     "price": "¥ 25.60",
