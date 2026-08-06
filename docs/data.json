@@ -1,5 +1,74 @@
 [
   {
+    "appid": 4908380,
+    "name": "The Bazaar - 双龙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908380/83888c27ca98422f4979b1b466d70d6e3d8522ab/header.jpg?t=1785951762",
+    "short_description": "“双龙”DLC为《大巴扎》新增了全新可玩英雄“双龙”以及超过100件新物品、技能和独特遭遇事件，协助“双龙”组合为大巴扎带来一场音乐革命。",
+    "is_free": false,
+    "price": "¥ 76.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4908380"
+  },
+  {
+    "appid": 1442520,
+    "name": "赤鸟",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442520/9fb9ca2eb59f13b22e84c6eef22b5e03e5d5c906/header.jpg?t=1785956304",
+    "short_description": "Akatori 是一款史诗般的银河战士恶魔城，你挥舞法杖战斗、跳跃并探索不同时代的多样领域。探索各时代世界，与强大敌人作战，帮助 Mako 阻止毒害一切生灵的琥珀风暴。",
+    "is_free": false,
+    "price": "¥ 50.15",
+    "original_price": "¥ 59.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1442520"
+  },
+  {
+    "appid": 2142790,
+    "name": "Fields of Mistria",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
+    "short_description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+    "is_free": false,
+    "price": "¥ 50.40",
+    "original_price": "¥ 56.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2142790"
+  },
+  {
+    "appid": 3724710,
+    "name": "Gunstoppable",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724710/50d011891312fd6043d506c06a33ac12d7542b30/header.jpg?t=1785940248",
+    "short_description": "这是一款节奏极快且移速决定伤害的 Roguelite 第一人称射击游戏。双手握持强力的武器组合，扭曲时间，消灭敌方的机器人大军，推翻幕后的金主首领！",
+    "is_free": false,
+    "price": "¥ 39.99",
+    "original_price": "¥ 49.99",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3724710"
+  },
+  {
     "appid": 4619420,
     "name": "Slot Grind",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619420/10c92724f55a4ac195c00ac08d62c78e240cddf8/header.jpg?t=1785865125",
@@ -19,7 +88,7 @@
   {
     "appid": 247970,
     "name": "Korea. IL-2 Series",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1785882487",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1785940171",
     "short_description": "《IL2捍卫雄鹰：朝鲜战争》是一款以朝鲜战争为背景的次世代飞行模拟游戏。坐进早期喷气式战斗机的驾驶舱，亲手改写那场传奇空战的历史吧。",
     "is_free": false,
     "price": "¥ 339.00",
@@ -36,7 +105,7 @@
   {
     "appid": 3399900,
     "name": "地狱仆从2  (HellSlave II)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399900/53131b59c4ce37807820c39c929bfec101edd91c/header.jpg?t=1785851484",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399900/53131b59c4ce37807820c39c929bfec101edd91c/header.jpg?t=1785920813",
     "short_description": "《地狱仆从II：神罚降临》是一款黑暗奇幻地牢探险游戏，你需在天堂净化世界前消灭所有恶魔领主。自定义角色、掌握残酷的回合制战斗，探索介于神罚与诅咒之间的末日世界。",
     "is_free": false,
     "price": "¥ 57.80",
@@ -54,7 +123,7 @@
   {
     "appid": 1478500,
     "name": "Big Walk",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785861188",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
     "short_description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
     "is_free": false,
     "price": "¥ 58.50",
@@ -104,77 +173,5 @@
     "release_date": "2026 年 7 月 31 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1368140"
-  },
-  {
-    "appid": 3293260,
-    "name": "水上乐园模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d777414ab68027db0399200587fd78d409cc9602/header_alt_assets_5.jpg?t=1785859866",
-    "short_description": "建造并经营属于你的水上乐园。设计滑水道，在布偶物理的加持下让游客漫天飞舞，管理员工，并全面自定义你的乐园。进入这款第一人称经营模拟游戏，在一片混乱中打造出五星级帝国吧！",
-    "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 48.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3293260"
-  },
-  {
-    "appid": 2436940,
-    "name": "赛菲莉娅",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/21b1476794fd8a2e0a3076448d28929e8139aad0/header_alt_assets_0.jpg?t=1785481238",
-    "short_description": "《Dungreed》原班人马打造的俯视角动作 RPG 肉鸽游戏。潜入高塔深处探索，收集并强化神器，击退成群涌来的恶魔，守护危在旦夕的兔子村！",
-    "is_free": false,
-    "price": "¥ 34.80",
-    "original_price": "¥ 58.00",
-    "discount_percent": 40,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 7 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2436940"
-  },
-  {
-    "appid": 3282420,
-    "name": "Zoominoes",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282420/586a5dfccb5f7a10bbc3d8a7b5cfce607c1dcc71/header.jpg?t=1785887244",
-    "short_description": "在数字不断攀升的 roguelike 卡牌构建游戏中，打造你的终极动物园。寻找强大的神话动物，用食物强化它们，甚至操控棋盘本身。用疯狂连击赚取百万（甚至更多）分，彻底玩转游戏！",
-    "is_free": false,
-    "price": "¥ 50.15",
-    "original_price": "¥ 59.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3282420"
-  },
-  {
-    "appid": 3558600,
-    "name": "绿植小筑",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e3c1339cf21fd3971cfe36cd1566130bc67fc4b1/header_schinese.jpg?t=1785845440",
-    "short_description": "在这款温馨惬意的游戏中经营一家可爱的小植物店。种植、售卖并照料各种现实生活中的植物，帮助顾客找到他们梦寐以求的植物，完成订单，还能按照自己喜欢的方式定制温馨小店！",
-    "is_free": false,
-    "price": "¥ 25.60",
-    "original_price": "¥ 32.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 7 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3558600"
   }
 ]
