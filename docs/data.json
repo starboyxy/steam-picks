@@ -1,37 +1,146 @@
 [
   {
-    "appid": 4908380,
-    "name": "The Bazaar - 双龙",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908380/83888c27ca98422f4979b1b466d70d6e3d8522ab/header.jpg?t=1785951762",
-    "short_description": "“双龙”DLC为《大巴扎》新增了全新可玩英雄“双龙”以及超过100件新物品、技能和独特遭遇事件，协助“双龙”组合为大巴扎带来一场音乐革命。",
+    "appid": 3904850,
+    "name": "Approximately Up",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3904850/d91f2e97c92cb98f97b3c773ff1e2d84bf6bc127/header.jpg?t=1786035600",
+    "short_description": "Build, crash, rebuild! Explore new planets in co-op multiplayer with your fully modular spaceship made from whatever bolts together long enough to fly. Mount giant thrusters, annoying cables, and everything in between. Complete wild missions, face the dangers of space and argue with your crew!",
     "is_free": false,
-    "price": "¥ 76.00",
+    "price": "¥ 74.40",
+    "original_price": "¥ 93.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3904850"
+  },
+  {
+    "appid": 3501540,
+    "name": "Spiritstead",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501540/9fe048e5e64a64afce266bf57c119962ab43ae5f/header.jpg?t=1786033527",
+    "short_description": "这是一款设定在魔法世界中的城市建设游戏。建造并发展属于你的村庄，照料在这里生活的居民，在旅途中发现隐藏的精灵，并借助它们的力量打造繁荣家园。随着不断扩张与装饰，见证你的城镇逐渐兴盛起来。",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 35.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3501540"
+  },
+  {
+    "appid": 4113940,
+    "name": "君王之塔 / Sovereign Tower",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/a96fbd6a499be61f2523fd112552c0f04695fa00/header_schinese.jpg?t=1786033469",
+    "short_description": "扮演一座魔法高塔的君主，感受这款剧情向的圆桌骑士模拟 RPG 吧。招募性格迥异的骑士，分配任务，平衡各方势力，共同谱写王国的命运。如果命运不如你所愿，那就不断逆转时间，揭开秘密，一次又一次地改写命运。",
+    "is_free": false,
+    "price": "¥ 57.80",
+    "original_price": "¥ 68.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4113940"
+  },
+  {
+    "appid": 3812600,
+    "name": "维修物语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786056257",
+    "short_description": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。",
+    "is_free": false,
+    "price": "¥ 49.50",
+    "original_price": "¥ 55.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3812600"
+  },
+  {
+    "appid": 3141630,
+    "name": "梦塔比",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3141630/2871009277d340c65efecdd6ae8d8d6947892684/header_schinese.jpg?t=1786052972",
+    "short_description": "收服，收集，战斗！游玩这款生物收集Roguelike卡牌构筑游戏，组建一支所向披靡的梦塔比队伍。掌握它们的强大能力，巧妙发挥协同优势，通过回合制战术战斗拯救城市！",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3141630"
+  },
+  {
+    "appid": 3787240,
+    "name": "《漫威斗魂》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/82b30184ef30af41cf3c6eb93b5b3423f8f1c2c5/header_schinese.jpg?t=1786028588",
+    "short_description": "集结传奇漫威角色组建战队，激战终极4v4团队格斗游戏。",
+    "is_free": false,
+    "price": "¥ 298.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "策略"
+      "动作",
+      "休闲"
     ],
-    "release_date": "2026 年 8 月 5 日",
+    "release_date": "2026 年 8 月 6 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4908380"
+    "store_url": "https://store.steampowered.com/app/3787240"
   },
   {
-    "appid": 1442520,
-    "name": "赤鸟",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442520/9fb9ca2eb59f13b22e84c6eef22b5e03e5d5c906/header.jpg?t=1785956304",
-    "short_description": "Akatori 是一款史诗般的银河战士恶魔城，你挥舞法杖战斗、跳跃并探索不同时代的多样领域。探索各时代世界，与强大敌人作战，帮助 Mako 阻止毒害一切生灵的琥珀风暴。",
+    "appid": 2950790,
+    "name": "铁巢重炮",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
+    "short_description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
     "is_free": false,
-    "price": "¥ 50.15",
+    "price": "¥ 44.25",
     "original_price": "¥ 59.00",
-    "discount_percent": 15,
+    "discount_percent": 25,
     "genres": [
       "动作",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2950790"
+  },
+  {
+    "appid": 2285550,
+    "name": "多洛可小镇",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/4bc7a0e18828976601330b12641670041c8fd3cb/header_alt_assets_1_schinese.jpg?t=1786072996",
+    "short_description": "谁说末日不能种田？扮演拾荒少女，在酸雨与烈日下把农场一层层搭向天空；解锁基因改造与无人机流水线，从捡垃圾的拾荒者成长为躺着收成的农场主。再亲手驱散恶劣天气，把废土一点点变回伊甸园。",
+    "is_free": false,
+    "price": "¥ 46.40",
+    "original_price": "¥ 58.00",
+    "discount_percent": 20,
+    "genres": [
       "冒险",
-      "独立"
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟"
     ],
     "release_date": "2026 年 8 月 5 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1442520"
+    "store_url": "https://store.steampowered.com/app/2285550"
   },
   {
     "appid": 2142790,
@@ -52,43 +161,9 @@
     "store_url": "https://store.steampowered.com/app/2142790"
   },
   {
-    "appid": 3724710,
-    "name": "Gunstoppable",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724710/50d011891312fd6043d506c06a33ac12d7542b30/header.jpg?t=1785940248",
-    "short_description": "这是一款节奏极快且移速决定伤害的 Roguelite 第一人称射击游戏。双手握持强力的武器组合，扭曲时间，消灭敌方的机器人大军，推翻幕后的金主首领！",
-    "is_free": false,
-    "price": "¥ 39.99",
-    "original_price": "¥ 49.99",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3724710"
-  },
-  {
-    "appid": 4619420,
-    "name": "Slot Grind",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619420/10c92724f55a4ac195c00ac08d62c78e240cddf8/header.jpg?t=1785865125",
-    "short_description": "《Slot Grind》是一款增量式老虎机游戏。你需要不断旋转、赚钱，再把收益投入升级。解锁回报更高的新老虎机，强化它们并实现自动化，让利润一路增长，直到你最终还清所有债务。",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4619420"
-  },
-  {
     "appid": 247970,
     "name": "Korea. IL-2 Series",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1785940171",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1786004002",
     "short_description": "《IL2捍卫雄鹰：朝鲜战争》是一款以朝鲜战争为背景的次世代飞行模拟游戏。坐进早期喷气式战斗机的驾驶舱，亲手改写那场传奇空战的历史吧。",
     "is_free": false,
     "price": "¥ 339.00",
@@ -101,77 +176,5 @@
     "release_date": "2026 年 8 月 4 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/247970"
-  },
-  {
-    "appid": 3399900,
-    "name": "地狱仆从2  (HellSlave II)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399900/53131b59c4ce37807820c39c929bfec101edd91c/header.jpg?t=1785920813",
-    "short_description": "《地狱仆从II：神罚降临》是一款黑暗奇幻地牢探险游戏，你需在天堂净化世界前消灭所有恶魔领主。自定义角色、掌握残酷的回合制战斗，探索介于神罚与诅咒之间的末日世界。",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 8 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3399900"
-  },
-  {
-    "appid": 1478500,
-    "name": "Big Walk",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
-    "short_description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
-    "is_free": false,
-    "price": "¥ 58.50",
-    "original_price": "¥ 78.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险"
-    ],
-    "release_date": "2026 年 8 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1478500"
-  },
-  {
-    "appid": 2059170,
-    "name": "Quasimorph",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2a9b43b4775fdd7e045d03a3e8a85f41f8c3c9a9/header_alt_assets_1.jpg?t=1785584712",
-    "short_description": "在这款黑暗的回合制劫掠撤离类RPG中扮演一位身经百战的私人武装公司佣兵。挑战残酷战斗并管理你的飞船，用无数克隆体的生命堆砌出前进的道路，最终解开威胁全宇宙生命的黑暗秘密。",
-    "is_free": false,
-    "price": "¥ 62.31",
-    "original_price": "¥ 93.00",
-    "discount_percent": 33,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2059170"
-  },
-  {
-    "appid": 1368140,
-    "name": "纵横秘湾 Corsair Cove",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785860713",
-    "short_description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
-    "is_free": false,
-    "price": "¥ 111.75",
-    "original_price": "¥ 149.00",
-    "discount_percent": 25,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 7 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1368140"
   }
 ]
