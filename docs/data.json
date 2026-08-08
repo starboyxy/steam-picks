@@ -1,5 +1,76 @@
 [
   {
+    "appid": 4450620,
+    "name": "GRAIN ROT",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521",
+    "short_description": "一款设定于焦土废土世界中的恐怖合作撤离建造游戏，在这里，万物皆会燃烧。与你的好友一同深入不断变化的地下遗迹，搬走家具、搜刮战利品，并在被腐化者逼近之前逃出生天。活着返回哨站，重建据点，为下一次出征做好准备。",
+    "is_free": false,
+    "price": "¥ 35.10",
+    "original_price": "¥ 39.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4450620"
+  },
+  {
+    "appid": 4369130,
+    "name": "Chop Chop Inc.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/8bceabf2e3a7a845696baf18c09b377684d116ae/header.jpg?t=1786107301",
+    "short_description": "在被Furnox Corp解雇后，建立自己的家具帝国 🖕。砍树、加工木材、自动化生产并出售精巧的家具套装来赚取额外奖金。探索一个充满怪人、秘密和那些极其渴望被砍伐的树木的手工世界。",
+    "is_free": false,
+    "price": "¥ 42.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险"
+    ],
+    "release_date": "2026 年 8 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4369130"
+  },
+  {
+    "appid": 3423990,
+    "name": "Frozen Ship",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3423990/9def76ecd226046502b6bc293740623de4493214/header.jpg?t=1786085904",
+    "short_description": "《冰封之船》是一款叙事冒险游戏，背景设定在末日后的严酷世界中，将开放世界生存与移动城市的管理相结合。",
+    "is_free": false,
+    "price": "¥ 65.45",
+    "original_price": "¥ 77.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3423990"
+  },
+  {
+    "appid": 4935510,
+    "name": "Cellar Keeper",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935510/ab1492f2753a3cafaebddb8bb86e636d0e536429/header.jpg?t=1786067985",
+    "short_description": "《Cellar Keeper》是一款温馨惬意的单人整理模拟游戏。整理一座被遗忘酒窖中散落的2,448瓶藏品，将每一瓶放回正确的酒架，按品类完成收藏，解锁实用技能，并以最高效率恢复井然有序的酒窖。",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4935510"
+  },
+  {
     "appid": 3904850,
     "name": "Approximately Up",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3904850/d91f2e97c92cb98f97b3c773ff1e2d84bf6bc127/header.jpg?t=1786035600",
@@ -18,28 +89,9 @@
     "store_url": "https://store.steampowered.com/app/3904850"
   },
   {
-    "appid": 3501540,
-    "name": "Spiritstead",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501540/9fe048e5e64a64afce266bf57c119962ab43ae5f/header.jpg?t=1786033527",
-    "short_description": "这是一款设定在魔法世界中的城市建设游戏。建造并发展属于你的村庄，照料在这里生活的居民，在旅途中发现隐藏的精灵，并借助它们的力量打造繁荣家园。随着不断扩张与装饰，见证你的城镇逐渐兴盛起来。",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 35.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3501540"
-  },
-  {
     "appid": 4113940,
     "name": "君王之塔 / Sovereign Tower",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/a96fbd6a499be61f2523fd112552c0f04695fa00/header_schinese.jpg?t=1786033469",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/a96fbd6a499be61f2523fd112552c0f04695fa00/header_schinese.jpg?t=1786107346",
     "short_description": "扮演一座魔法高塔的君主，感受这款剧情向的圆桌骑士模拟 RPG 吧。招募性格迥异的骑士，分配任务，平衡各方势力，共同谱写王国的命运。如果命运不如你所愿，那就不断逆转时间，揭开秘密，一次又一次地改写命运。",
     "is_free": false,
     "price": "¥ 57.80",
@@ -56,7 +108,7 @@
   {
     "appid": 3812600,
     "name": "维修物语",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786056257",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786119982",
     "short_description": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。",
     "is_free": false,
     "price": "¥ 49.50",
@@ -71,26 +123,9 @@
     "store_url": "https://store.steampowered.com/app/3812600"
   },
   {
-    "appid": 3141630,
-    "name": "梦塔比",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3141630/2871009277d340c65efecdd6ae8d8d6947892684/header_schinese.jpg?t=1786052972",
-    "short_description": "收服，收集，战斗！游玩这款生物收集Roguelike卡牌构筑游戏，组建一支所向披靡的梦塔比队伍。掌握它们的强大能力，巧妙发挥协同优势，通过回合制战术战斗拯救城市！",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3141630"
-  },
-  {
     "appid": 3787240,
     "name": "《漫威斗魂》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/82b30184ef30af41cf3c6eb93b5b3423f8f1c2c5/header_schinese.jpg?t=1786028588",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/82b30184ef30af41cf3c6eb93b5b3423f8f1c2c5/header_schinese.jpg?t=1786097849",
     "short_description": "集结传奇漫威角色组建战队，激战终极4v4团队格斗游戏。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -141,40 +176,5 @@
     "release_date": "2026 年 8 月 5 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2285550"
-  },
-  {
-    "appid": 2142790,
-    "name": "Fields of Mistria",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
-    "short_description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
-    "is_free": false,
-    "price": "¥ 50.40",
-    "original_price": "¥ 56.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2142790"
-  },
-  {
-    "appid": 247970,
-    "name": "Korea. IL-2 Series",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1786004002",
-    "short_description": "《IL2捍卫雄鹰：朝鲜战争》是一款以朝鲜战争为背景的次世代飞行模拟游戏。坐进早期喷气式战斗机的驾驶舱，亲手改写那场传奇空战的历史吧。",
-    "is_free": false,
-    "price": "¥ 339.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/247970"
   }
 ]
