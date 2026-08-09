@@ -34,25 +34,6 @@
     "store_url": "https://store.steampowered.com/app/4369130"
   },
   {
-    "appid": 3423990,
-    "name": "Frozen Ship",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3423990/9def76ecd226046502b6bc293740623de4493214/header.jpg?t=1786085904",
-    "short_description": "《冰封之船》是一款叙事冒险游戏，背景设定在末日后的严酷世界中，将开放世界生存与移动城市的管理相结合。",
-    "is_free": false,
-    "price": "¥ 65.45",
-    "original_price": "¥ 77.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3423990"
-  },
-  {
     "appid": 4935510,
     "name": "Cellar Keeper",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935510/ab1492f2753a3cafaebddb8bb86e636d0e536429/header.jpg?t=1786067985",
@@ -176,5 +157,23 @@
     "release_date": "2026 年 8 月 5 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2285550"
+  },
+  {
+    "appid": 2142790,
+    "name": "Fields of Mistria",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
+    "short_description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+    "is_free": false,
+    "price": "¥ 50.40",
+    "original_price": "¥ 56.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2142790"
   }
 ]
