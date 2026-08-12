@@ -1,179 +1,180 @@
 [
   {
-    "appid": 4450620,
-    "name": "GRAIN ROT",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521",
-    "short_description": "一款设定于焦土废土世界中的恐怖合作撤离建造游戏，在这里，万物皆会燃烧。与你的好友一同深入不断变化的地下遗迹，搬走家具、搜刮战利品，并在被腐化者逼近之前逃出生天。活着返回哨站，重建据点，为下一次出征做好准备。",
+    "appid": 4815780,
+    "name": "《守望先锋®》开战礼包2026：第4赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815780/48bf83be9d0a31f1f2a84dd9bf73ff6ba6b7d99e/header.jpg?t=1786471242",
+    "short_description": "获取1000守望金币和仙鹤瑞稀，在这个赛季强势开局！",
     "is_free": false,
-    "price": "¥ 35.10",
-    "original_price": "¥ 39.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 7 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4450620"
-  },
-  {
-    "appid": 4369130,
-    "name": "Chop Chop Inc.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/8bceabf2e3a7a845696baf18c09b377684d116ae/header.jpg?t=1786107301",
-    "short_description": "在被Furnox Corp解雇后，建立自己的家具帝国 🖕。砍树、加工木材、自动化生产并出售精巧的家具套装来赚取额外奖金。探索一个充满怪人、秘密和那些极其渴望被砍伐的树木的手工世界。",
-    "is_free": false,
-    "price": "¥ 42.00",
+    "price": "¥ 60.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "冒险"
+      "动作"
     ],
-    "release_date": "2026 年 8 月 7 日",
+    "release_date": "2026 年 8 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4369130"
+    "store_url": "https://store.steampowered.com/app/4815780"
   },
   {
-    "appid": 4935510,
-    "name": "Cellar Keeper",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935510/ab1492f2753a3cafaebddb8bb86e636d0e536429/header.jpg?t=1786067985",
-    "short_description": "《Cellar Keeper》是一款温馨惬意的单人整理模拟游戏。整理一座被遗忘酒窖中散落的2,448瓶藏品，将每一瓶放回正确的酒架，按品类完成收藏，解锁实用技能，并以最高效率恢复井然有序的酒窖。",
+    "appid": 4815770,
+    "name": "《守望先锋®》——终极战令礼包2026：第4赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815770/c3d073eb0006e83f51e4625307fe60c38970f0e5/header.jpg?t=1786471225",
+    "short_description": "获取《守望先锋》：第4赛季高级战令+20级战令等级直升，选择更多，还可以切换奖励，还有2款传奇皮肤、2000守望金币以及更多好礼！",
     "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
+    "price": "¥ 240.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 8 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4815770"
+  },
+  {
+    "appid": 2523770,
+    "name": "The Lord of the Rings: War in the North™ - Legacy Edition",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523770/ce49411b23ef7bfe8dd88c1c58f29a4584cf961e/header.jpg?t=1786466870",
+    "short_description": "北方阴影再起。踏入一个更加黑暗与残酷的中土大陆吧。战火已蔓延至远离护戒使者旅途的疆域。《指环王™：北境之战™》传世版扩展了托尔金的史诗传说，揭示了阿甘达尔的残酷秘史——这个黑暗努门诺尔人也是索伦的仆从，如今在佛诺斯特的废墟中集结起了一支庞大军队。当佛罗多与山姆怀斯踏上末日山之旅时，新的同盟也必须崛起，保卫北境。这一刻，让我们拔剑并肩作战吧！",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
     "discount_percent": 10,
     "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4935510"
-  },
-  {
-    "appid": 3904850,
-    "name": "Approximately Up",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3904850/d91f2e97c92cb98f97b3c773ff1e2d84bf6bc127/header.jpg?t=1786035600",
-    "short_description": "Build, crash, rebuild! Explore new planets in co-op multiplayer with your fully modular spaceship made from whatever bolts together long enough to fly. Mount giant thrusters, annoying cables, and everything in between. Complete wild missions, face the dangers of space and argue with your crew!",
-    "is_free": false,
-    "price": "¥ 74.40",
-    "original_price": "¥ 93.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3904850"
-  },
-  {
-    "appid": 4113940,
-    "name": "君王之塔 / Sovereign Tower",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/a96fbd6a499be61f2523fd112552c0f04695fa00/header_schinese.jpg?t=1786107346",
-    "short_description": "扮演一座魔法高塔的君主，感受这款剧情向的圆桌骑士模拟 RPG 吧。招募性格迥异的骑士，分配任务，平衡各方势力，共同谱写王国的命运。如果命运不如你所愿，那就不断逆转时间，揭开秘密，一次又一次地改写命运。",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
+      "动作",
       "角色扮演"
     ],
-    "release_date": "2026 年 8 月 6 日",
+    "release_date": "2026 年 8 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4113940"
+    "store_url": "https://store.steampowered.com/app/2523770"
   },
   {
-    "appid": 3812600,
-    "name": "维修物语",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786119982",
-    "short_description": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。",
+    "appid": 4502710,
+    "name": "磐石守卫",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502710/c57ab526296dfdab54cbc5aa2b93bc1fb46f5acd/header.jpg?t=1786461683",
+    "short_description": "矮人开战！Stonewards 是一款支持 1–4 人合作的第一人称 roguelite 防御游戏。带领一队倔强的矮人从你的大本营出发，援助附近的王国，深入地下采集资源，打造强大的升级，并坚守防线，抵御无情的怪物进攻。",
     "is_free": false,
-    "price": "¥ 49.50",
-    "original_price": "¥ 55.00",
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
     "discount_percent": 10,
     "genres": [
+      "动作",
+      "冒险",
       "独立",
-      "模拟"
+      "抢先体验"
     ],
-    "release_date": "2026 年 8 月 6 日",
+    "release_date": "2026 年 8 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3812600"
+    "store_url": "https://store.steampowered.com/app/4502710"
   },
   {
-    "appid": 3787240,
-    "name": "《漫威斗魂》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/82b30184ef30af41cf3c6eb93b5b3423f8f1c2c5/header_schinese.jpg?t=1786097849",
-    "short_description": "集结传奇漫威角色组建战队，激战终极4v4团队格斗游戏。",
+    "appid": 1574480,
+    "name": "Agent 64: Spies Never Die",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786459687",
+    "short_description": "A retro spy FPS inspired by the N64 era. Go guns-blazing in action-packed shootouts, steal secret plans, and accomplish objectives while foiling evildoers’ schemes as a secret agent in a solo or co-op campaign. Fight friends in both local split-screen multiplayer and online with up to 8 opponents.",
     "is_free": false,
-    "price": "¥ 298.00",
+    "price": "¥ 72.83",
+    "original_price": "¥ 81.84",
+    "discount_percent": 11,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1574480"
+  },
+  {
+    "appid": 3929470,
+    "name": "Warhounds",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929470/b596d57d682c7402779961468ff75c50db741500/header_alt_assets_1.jpg?t=1786480353",
+    "short_description": "Warhounds 是一款回合制战术游戏，讲述一支精英佣兵小队，拥有老派动作电影氛围，灵感来自 XCOM 与 Jagged Alliance。招募个性角色、升级基地，没有虚假随机，只有真实弹道与致命战术。",
+    "is_free": false,
+    "price": "¥ 109.65",
+    "original_price": "¥ 129.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3929470"
+  },
+  {
+    "appid": 974480,
+    "name": "秘奥回响",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/7d4c632cf86fdbd96b13ed3044cf405264045a25/header_alt_assets_1_schinese.jpg?t=1786478449",
+    "short_description": "《秘奥法师》续作带来更自由的法术构筑：组合基础法术、触发条件与强化效果，在快节奏动作 Roguelite 战斗中打造专属流派。挣脱旧日阴影，拯救秘奥王国，唤回世界失落的记忆。",
+    "is_free": false,
+    "price": "¥ 77.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
-      "休闲"
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
     ],
-    "release_date": "2026 年 8 月 6 日",
+    "release_date": "2026 年 8 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3787240"
+    "store_url": "https://store.steampowered.com/app/974480"
   },
   {
-    "appid": 2950790,
-    "name": "铁巢重炮",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
-    "short_description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+    "appid": 1648360,
+    "name": "Luminary",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648360/7b3f04d72957e208a495ab1f34f06afbf540d972/header.jpg?t=1786482512",
+    "short_description": "《光之战士》是一款支持1-3人联机合作的开放世界动作RPG，为所有玩家打造平衡且易上手的体验。通过独特的世界与角色成长系统，一起探索广阔的手工打造大陆，发掘隐藏宝藏，提升你的城镇，并用光芒驱退黑",
     "is_free": false,
-    "price": "¥ 44.25",
-    "original_price": "¥ 59.00",
-    "discount_percent": 25,
+    "price": "¥ 65.45",
+    "original_price": "¥ 77.00",
+    "discount_percent": 15,
     "genres": [
       "动作",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 6 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2950790"
-  },
-  {
-    "appid": 2285550,
-    "name": "多洛可小镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/4bc7a0e18828976601330b12641670041c8fd3cb/header_alt_assets_1_schinese.jpg?t=1786072996",
-    "short_description": "谁说末日不能种田？扮演拾荒少女，在酸雨与烈日下把农场一层层搭向天空；解锁基因改造与无人机流水线，从捡垃圾的拾荒者成长为躺着收成的农场主。再亲手驱散恶劣天气，把废土一点点变回伊甸园。",
-    "is_free": false,
-    "price": "¥ 46.40",
-    "original_price": "¥ 58.00",
-    "discount_percent": 20,
-    "genres": [
       "冒险",
-      "休闲",
       "独立",
       "角色扮演",
-      "模拟"
+      "抢先体验"
     ],
-    "release_date": "2026 年 8 月 5 日",
+    "release_date": "2026 年 8 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2285550"
+    "store_url": "https://store.steampowered.com/app/1648360"
   },
   {
-    "appid": 2142790,
-    "name": "Fields of Mistria",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
-    "short_description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+    "appid": 4553980,
+    "name": "Jurassic World Evolution 3: Crocodilia Coast",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553980/ab8ccf1a97a78978d3f8c3665f514a8ba1871e7c/header_schinese.jpg?t=1786453318",
+    "short_description": "购买《侏罗纪世界：进化 3》鳄潮海岸套件，即可获得 5 个家庭单位，以及一系列海岸主题景物部件，进一步扩建你的水边设施！ ",
     "is_free": false,
-    "price": "¥ 50.40",
-    "original_price": "¥ 56.00",
-    "discount_percent": 10,
+    "price": "¥ 69.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "独立",
-      "角色扮演",
-      "模拟"
+      "模拟",
+      "策略"
     ],
-    "release_date": "2026 年 8 月 5 日",
+    "release_date": "2026 年 8 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2142790"
+    "store_url": "https://store.steampowered.com/app/4553980"
+  },
+  {
+    "appid": 292000,
+    "name": "No More Room in Hell 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/775de3f7f26f46a1c6217a7c71656260ee0ca411/header_alt_assets_10.jpg?t=1786490044",
+    "short_description": "《No More Room in Hell 2》是一款惊险刺激的 8 人丧尸射击游戏。 冲破无穷无尽的亡灵尸潮，严防感染，与同伴在炼狱之中艰难求生。",
+    "is_free": false,
+    "price": "¥ 70.20",
+    "original_price": "¥ 108.00",
+    "discount_percent": 35,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/292000"
   }
 ]
