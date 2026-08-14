@@ -1,189 +1,179 @@
 [
   {
-    "appid": 4243990,
-    "name": "放置之路：古神复苏",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243990/a99098033c593d8f2001933c47bf4d1f24666e84/header_schinese.jpg?t=1786586049",
-    "short_description": "这是一款克苏鲁题材，集自动战斗、刷宝、开箱子、策略搭配、城镇建设、装备打造、符文之语、推关、爬塔、异界、赛季玩法于一体的放置挂机游戏。你将成为古神最忠实的仆从，建设城镇，蛊惑神选者，为古神复苏而战！",
+    "appid": 3940610,
+    "name": "EA SPORTS™《Madden NFL 27》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/7ed2213f0170c1b55410b82ed89a8bab3911c6ea/header.jpg?t=1786658331",
+    "short_description": "一步一策，掌控联赛。体验由全新 Persona 引擎驱动的 EA SPORTS™《Madden NFL 27》。",
     "is_free": false,
-    "price": "¥ 34.20",
-    "original_price": "¥ 38.00",
-    "discount_percent": 10,
+    "price": "¥ 348.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4243990"
-  },
-  {
-    "appid": 3621330,
-    "name": "Pro Jank Footy",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3621330/02ffb09d115b8dcf4f21e9e45f604ac4af534d61/header.jpg?t=1786580108",
-    "short_description": "《Pro Jank Footy》是一款风格夸张的街机式喜剧体育游戏。通过进球解锁能改变战局的强化道具，组建一套荒诞的技能卡组，并迎接一个每场比赛都独一无二的赛季。",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "体育"
-    ],
-    "release_date": "2026 年 8 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3621330"
-  },
-  {
-    "appid": 4705650,
-    "name": "Silent Shark",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705650/9b3dae6406c23a4f04fddde5c8a341e8c837bbed/header.jpg?t=1786561159",
-    "short_description": "一款以太平洋战场为背景、基于战术海图的二战潜艇模拟游戏：接近、拦截、隐蔽打击，然后潜入深海。包含真实风格仪表、鱼雷数据计算机（TDC）、完整战役、巡逻区、无线电情报等内容。",
-    "is_free": false,
-    "price": "¥ 55.20",
-    "original_price": "¥ 69.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
       "模拟",
+      "体育",
       "策略"
     ],
-    "release_date": "2026 年 8 月 12 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4705650"
+    "store_url": "https://store.steampowered.com/app/3940610"
   },
   {
-    "appid": 3004390,
-    "name": "The Cave Diver",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004390/7e0e803320878ed401fe7e7f35ac52a466a66d29/header.jpg?t=1786552247",
-    "short_description": "一款极具挑战性的物理恐怖洞穴潜行游戏。 仅凭双手，在令人窒息的洞穴系统中拖拽自己向下前进；每一次抓握，都会把你拉向更深的黑暗。 它既是让人崩溃的高难度游戏，也是洞穴噩梦，更是一场坠入被遗忘民间传说的旅程……",
+    "appid": 4626940,
+    "name": "Scratch the Ticket",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626940/a8ee25a5ec7ad3866e9bd1b3f1352bd1723b0eaa/header.jpg?t=1786640385",
+    "short_description": "Scratch the Ticket 是一款围绕彩票刺激感展开的增量游戏。打印彩票，刮开格子，然后决定：现在收钱，还是赌上一切。结果只取决于你的选择。",
     "is_free": false,
-    "price": "¥ 37.80",
+    "price": "¥ 29.40",
     "original_price": "¥ 42.00",
-    "discount_percent": 10,
+    "discount_percent": 30,
     "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3004390"
-  },
-  {
-    "appid": 4216180,
-    "name": "不义转生",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/8bbaa15593767e1d0785bcd7029bdce6ae1a9531/header_schinese.jpg?t=1786558027",
-    "short_description": "《不义转生》是一款将放置成长与横版清版动作融为一体的2D像素风游戏。你是主人的爪牙，唯一的使命就是杀戮与收割。撕碎挡路的一切敌人，榨取他们的鲜血、白骨和骨髓，用死亡喂养自己的力量。每一次倒下都是重生的起点，每一次重生都比上一次更加凶残。",
-    "is_free": false,
-    "price": "¥ 21.25",
-    "original_price": "¥ 25.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
       "休闲",
       "独立",
       "模拟",
-      "策略"
+      "策略",
+      "免费开玩"
     ],
-    "release_date": "2026 年 8 月 12 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4216180"
+    "store_url": "https://store.steampowered.com/app/4626940"
   },
   {
-    "appid": 3562580,
-    "name": "Agefield High: Rock the School",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562580/a8e9cf70e0a843030ada838228d7414b90bdcdd3/header.jpg?t=1786549826",
-    "short_description": "在阿吉菲尔德小镇重温你的高中岁月。现在是2000年代初期，你的高中生涯还剩三个月。赶快与你的好友纵情反叛，赢得梦中女孩的芳心，并震撼整个学校！",
+    "appid": 4290680,
+    "name": "Flock of the Seraphim",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/3b9320e78aeb91650b4461ae4bcc46443b2711d5/header.jpg?t=1786675069",
+    "short_description": "使用持枪修女与天使驱逐恶魔大军！在这款类Survivors的弹幕天堂中，收集并保留拥有独特武器、属性和能力的天使，打造神级Build，抵御敌人的波次！你的信仰足够支撑下去吗？",
     "is_free": false,
-    "price": "¥ 97.20",
-    "original_price": "¥ 108.00",
-    "discount_percent": 10,
+    "price": "¥ 31.50",
+    "original_price": "¥ 42.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4290680"
+  },
+  {
+    "appid": 1921490,
+    "name": "Wild Blue Skies",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921490/da8d1cf238f5ea548446533bdbfd730d7cb19a20/header.jpg?t=1786640318",
+    "short_description": "《Wild Blue Skies》重塑了90年代经典的轨道式冒险游戏。加入鲍伊·斯特雷和蓝色轰炸机小队，在这场充满动作元素的怀旧之旅中，肩负拯救世界的使命，翱翔天际，与严酷爪展开紧张刺激的战斗！",
+    "is_free": false,
+    "price": "¥ 59.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作",
       "冒险",
       "独立"
     ],
-    "release_date": "2026 年 8 月 12 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3562580"
+    "store_url": "https://store.steampowered.com/app/1921490"
   },
   {
-    "appid": 4246860,
-    "name": "51区安检站",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246860/d5103454fdb6316de25448081ac7a2f1e38a0ecc/header_schinese.jpg?t=1786536676",
-    "short_description": "你是一名深入51区腹地的安保官。审视职员，核查许可，裁定谁有资格踏入电梯，谁又绝不可放行。随着不断深入地下，你越来越无法确定，眼前伫立的……是否还是人类。",
+    "appid": 3079210,
+    "name": "人间地狱：越南 ",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
+    "short_description": "跟随《Hell Let Loose: Vietnam》，踏入另一片枪炮轰鸣的战场。在有史以来最具标志性的战争中扮演关键角色；加入50对50的大规模玩家对抗；用团队合作、战术和威力惊人的武器，塑造出有利于己方团队的战场局势。",
     "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
+    "price": "¥ 151.99",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "大型多人在线",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3079210"
+  },
+  {
+    "appid": 3315060,
+    "name": "Ledgerbound",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3315060/26881e92d135573f1082bf47c88233913a0ea1d0/header.jpg?t=1786642418",
+    "short_description": "世界毁灭事小，保住饭碗才是头等大事。投身幽默诙谐的剧情向战术角色扮演游戏，勇敢踏上战场，与一群杂牌英雄相识（甚至相爱），迎战永生不死的宿敌，保护你爱得深沉的官僚女王国。",
+    "is_free": false,
+    "price": "¥ 98.10",
+    "original_price": "¥ 109.00",
     "discount_percent": 10,
     "genres": [
-      "冒险",
-      "独立",
-      "模拟"
+      "角色扮演",
+      "策略"
     ],
-    "release_date": "2026 年 8 月 12 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4246860"
+    "store_url": "https://store.steampowered.com/app/3315060"
   },
   {
-    "appid": 4156580,
-    "name": "Weed Supermarket Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156580/d406302a0dee9554db1097ba98266bc412370d4b/header.jpg?t=1786532034",
-    "short_description": "Weed Supermarket Simulator 是一款轻松的商店模拟游戏，你可以种植大麻、开发新品种、制定价格并保持货架充足。扩展你的业务，最大化利润，管理员工和库存。",
+    "appid": 3167920,
+    "name": "黑心装修队",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167920/38c43a0e11512df9329e8899d93c645ea976c8c3/header.jpg?t=1786641315",
+    "short_description": "在 90 年代公寓楼里搞装修！追求快速赚钱，能省就省。客户发现缺陷？没办法，钱已经进你口袋了。每天都有新挑战和新决定，可能带来财富……也可能带来麻烦！",
     "is_free": false,
-    "price": "¥ 45.00",
-    "original_price": "¥ 60.00",
+    "price": "¥ 52.49",
+    "original_price": "¥ 69.99",
     "discount_percent": 25,
     "genres": [
-      "休闲",
       "独立",
       "模拟"
     ],
-    "release_date": "2026 年 8 月 12 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4156580"
+    "store_url": "https://store.steampowered.com/app/3167920"
   },
   {
-    "appid": 1733690,
-    "name": "烽沙",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1733690/5e40a5993df0ddb9133e7be99970ee4256adb26f/header_schinese.jpg?t=1786523073",
-    "short_description": "《烽沙》是一款以中国古代春秋战国历史为背景的战争模拟建造游戏。修筑城防、发展产业、招揽百家门客，在乱世的古战场上建造你的城邦。融合自由建造、资源物流与战争即时战术，体验古代兵垒建设与大规模战争的完整循环。",
+    "appid": 2764460,
+    "name": "沙金工业 Sandustry",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786641888",
+    "short_description": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
     "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
+    "price": "¥ 31.85",
+    "original_price": "¥ 49.00",
+    "discount_percent": 35,
     "genres": [
-      "独立",
       "模拟",
       "策略",
       "抢先体验"
     ],
-    "release_date": "2026 年 8 月 11 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1733690"
+    "store_url": "https://store.steampowered.com/app/2764460"
   },
   {
-    "appid": 4815780,
-    "name": "《守望先锋®》开战礼包2026：第4赛季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815780/48bf83be9d0a31f1f2a84dd9bf73ff6ba6b7d99e/header.jpg?t=1786471242",
-    "short_description": "获取1000守望金币和仙鹤瑞稀，在这个赛季强势开局！",
+    "appid": 4992070,
+    "name": "Sort Them Ducks",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1786629601",
+    "short_description": "Sort Them Ducks是一款轻松惬意的整理模拟游戏,你将超过4,000只独特的橡皮鸭分类到正确的货架上。按自己的节奏,享受把杂乱的鸭子商店变成完美整理收藏的满足过程。",
     "is_free": false,
-    "price": "¥ 60.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4992070"
+  },
+  {
+    "appid": 2437670,
+    "name": "Dagger Directive",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/15f6f3213620a0e313e7d7ef0a22850026dd89f9/header_alt_assets_0.jpg?t=1786625907",
+    "short_description": "《匕首指令》是一款第一人称战术射击游戏，在这里你可以用自己的方式执行任务。选择装备和出动时间，再有条不紊地完成任务。在各种任务和环境中战斗时，感受现代的机制和复古的画面。",
+    "is_free": false,
+    "price": "¥ 54.00",
+    "original_price": "¥ 72.00",
+    "discount_percent": 25,
     "genres": [
       "动作"
     ],
-    "release_date": "2026 年 8 月 11 日",
+    "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4815780"
+    "store_url": "https://store.steampowered.com/app/2437670"
   }
 ]
