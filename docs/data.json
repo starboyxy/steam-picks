@@ -1,46 +1,8 @@
 [
   {
-    "appid": 4042160,
-    "name": "静默恐惧：阿瑞斯深渊劫",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042160/1151437bf384ca8e170ac9a2ff9e225ab6a0a963/header_schinese.jpg?t=1786719640",
-    "short_description": "在 claustrophobic 军用潜艇上坠入洛夫克拉夫特式恐怖。作为舰长副手分配任务、分析声呐信号、做出艰难抉择、防止船员陷入疯狂。黑暗恐怖潜伏于内部……以及船体之外。",
-    "is_free": false,
-    "price": "¥ 33.99",
-    "original_price": "¥ 42.49",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4042160"
-  },
-  {
-    "appid": 4632540,
-    "name": "Fellwood",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632540/592ea0496b86c0995b610886a67e600587b73905/header.jpg?t=1786715836",
-    "short_description": "打造一个狂野的奇幻伐木帝国，用斧头、弩炮、大炮和魔法轰击山谷对面的森林。收获飞舞的原木，叠加夸张的升级，并通过自动化获得势不可挡的伐木力量。",
-    "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4632540"
-  },
-  {
     "appid": 4934370,
     "name": "我有一堆录像带",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934370/d6c2aa7fc5b48c3d0cbd31ae8878ae45f48523ed/header_schinese.jpg?t=1786741069",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934370/d6c2aa7fc5b48c3d0cbd31ae8878ae45f48523ed/header_schinese.jpg?t=1786775628",
     "short_description": "把散落的3180盘录像带全部归类上架，让杂乱无章的档案库整齐利落！仔细规划路线、运用不同技能，或与好友联机分工、同场竞速，把满地狼藉变成规整的库存，享受越理越顺、越收越爽的收纳快感！[支持1-4人可玩]",
     "is_free": false,
     "price": "¥ 19.80",
@@ -92,23 +54,6 @@
     "release_date": "2026 年 8 月 13 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3940610"
-  },
-  {
-    "appid": 4290680,
-    "name": "Flock of the Seraphim",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/3b9320e78aeb91650b4461ae4bcc46443b2711d5/header.jpg?t=1786675069",
-    "short_description": "使用持枪修女与天使驱逐恶魔大军！在这款类Survivors的弹幕天堂中，收集并保留拥有独特武器、属性和能力的天使，打造神级Build，抵御敌人的波次！你的信仰足够支撑下去吗？",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 42.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4290680"
   },
   {
     "appid": 3079210,
@@ -165,20 +110,75 @@
     "store_url": "https://store.steampowered.com/app/4992070"
   },
   {
-    "appid": 4208140,
-    "name": "Defender of the Crown: The Legend Returns",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208140/131479ec2e41016e6baf82b98c2106abc562c095/header.jpg?t=1786625969",
-    "short_description": "《Defender of the Crown》现已归来——为新一代骑士强化升级。征服领地、集结军队、攻陷城堡、左右权力格局，在对手领主中出类拔萃，让整个王国统一于你的旗帜之下。",
+    "appid": 2437670,
+    "name": "Dagger Directive",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/15f6f3213620a0e313e7d7ef0a22850026dd89f9/header_alt_assets_0.jpg?t=1786625907",
+    "short_description": "《匕首指令》是一款第一人称战术射击游戏，在这里你可以用自己的方式执行任务。选择装备和出动时间，再有条不紊地完成任务。在各种任务和环境中战斗时，感受现代的机制和复古的画面。",
     "is_free": false,
-    "price": "¥ 65.45",
-    "original_price": "¥ 77.00",
-    "discount_percent": 15,
+    "price": "¥ 54.00",
+    "original_price": "¥ 72.00",
+    "discount_percent": 25,
     "genres": [
-      "角色扮演",
-      "策略"
+      "动作"
     ],
     "release_date": "2026 年 8 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4208140"
+    "store_url": "https://store.steampowered.com/app/2437670"
+  },
+  {
+    "appid": 2542020,
+    "name": "Duskfade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542020/f17f8f31c30ca7f8603b125502e00c0c542c6677/header.jpg?t=1786631734",
+    "short_description": "《时夜渐明》仿佛是一封写给经典3D平台跳跃游戏的情书。在本游戏中，你将冲破时间的枷锁，通过跳跃劈砍等各种操作，在奇幻壮美的世界“提费尔德”里展开冒险。在机械小鸟“咕咕”的陪伴下，游戏主人公齐里安必须从一座使大地陷入永恒黑夜的神秘钟塔中拯救自己的姐姐。",
+    "is_free": false,
+    "price": "¥ 89.60",
+    "original_price": "¥ 112.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 8 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2542020"
+  },
+  {
+    "appid": 3636770,
+    "name": "Servant of the Lake",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786834992",
+    "short_description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+    "is_free": false,
+    "price": "¥ 24.75",
+    "original_price": "¥ 33.00",
+    "discount_percent": 25,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3636770"
+  },
+  {
+    "appid": 3451980,
+    "name": "Soul's Remnant",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451980/header.jpg?t=1786618773",
+    "short_description": "Soul's Remnant is a 2D platformer MMORPG focused on social gameplay and exploration! Customize your character, and conquer dungeons and bosses in this mysterious world. Play with friends or make new ones - just watch out when night falls!",
+    "is_free": true,
+    "price": "免费",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "免费开玩",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 8 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3451980"
   }
 ]
