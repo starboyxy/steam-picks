@@ -1,5 +1,79 @@
 [
   {
+    "appid": 4796830,
+    "name": "WE ARE SO DEAD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796830/d0f51a2e0497ac208b2604562779b648015eb7f3/header.jpg?t=1786989007",
+    "short_description": "一款联机合作的通灵恐怖游戏：你们当中有一人先死了，而只有你能看见正在杀死其他人的东西。你唯一的声音，是一块总被朋友们读错的通灵板。引导他们深入闹鬼宅子的9层，赶在日出前放逐恶魔。2-6名玩家。",
+    "is_free": false,
+    "price": "¥ 20.46",
+    "original_price": "¥ 33.00",
+    "discount_percent": 38,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 8 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4796830"
+  },
+  {
+    "appid": 4415740,
+    "name": "The Pale Mimic",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415740/94ee8d6872fd1fe69231c1c41c023395614d66c9/header.jpg?t=1786977417",
+    "short_description": "《The Pale Mimic》是一款以阿拉斯加荒野为背景的氛围恐怖游戏。作为一名在逃的高级通缉犯，你和你的爱犬在寒冷的森林中相依为命，直到不速之客的到来。",
+    "is_free": false,
+    "price": "¥ 28.05",
+    "original_price": "¥ 33.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 8 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4415740"
+  },
+  {
+    "appid": 3849000,
+    "name": "The Lantern of the Laughless Saint",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3849000/b98fe0c76e1cf48d830922efe33852a83915b5cc/header.jpg?t=1786975870",
+    "short_description": "A solo or co-op RPG inspired by Morrowind. Drawn by a shared dream, you awaken on an isolated island crowned by a silent Tower. Unravel the mystery of the Laughless Saint, confront the weight of human desire, and decide what deserves to be saved when the light beneath the world finally stirs.",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 8 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3849000"
+  },
+  {
+    "appid": 3503710,
+    "name": "中世纪马贩子模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503710/d1a80cd8d2b718fdf338fa28605486fab2127c4d/header.jpg?t=1786971630",
+    "short_description": "交易马匹，配制饲料，培育一代又一代精英种马、赛马、役马、战马等。训练、拍卖、采矿、锻造、耕作、经营商队、组建佣兵势力，并与强大的领主周旋。称霸中世纪马匹贸易。",
+    "is_free": false,
+    "price": "¥ 62.10",
+    "original_price": "¥ 69.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3503710"
+  },
+  {
     "appid": 4934370,
     "name": "我有一堆录像带",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934370/d6c2aa7fc5b48c3d0cbd31ae8878ae45f48523ed/header_schinese.jpg?t=1786775628",
@@ -20,7 +94,7 @@
   {
     "appid": 3091140,
     "name": "掠宝旅团",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091140/0f52f0d28b3e8ae6023d919423a9953cf4c39df6/header.jpg?t=1786719023",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091140/0f52f0d28b3e8ae6023d919423a9953cf4c39df6/header.jpg?t=1786953687",
     "short_description": "Lootbound 是一款黑暗奇幻世界中的战术类 roguelite 游戏，包含回合制战斗、战利品管理和 D\u0026amp;D 元素。与危险的敌人战斗，收集史诗战利品，招募盟友并带领他们踏上冒险之路。",
     "is_free": false,
     "price": "¥ 51.35",
@@ -108,78 +182,5 @@
     "release_date": "2026 年 8 月 13 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4992070"
-  },
-  {
-    "appid": 2542020,
-    "name": "Duskfade",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542020/f17f8f31c30ca7f8603b125502e00c0c542c6677/header.jpg?t=1786631734",
-    "short_description": "《时夜渐明》仿佛是一封写给经典3D平台跳跃游戏的情书。在本游戏中，你将冲破时间的枷锁，通过跳跃劈砍等各种操作，在奇幻壮美的世界“提费尔德”里展开冒险。在机械小鸟“咕咕”的陪伴下，游戏主人公齐里安必须从一座使大地陷入永恒黑夜的神秘钟塔中拯救自己的姐姐。",
-    "is_free": false,
-    "price": "¥ 89.60",
-    "original_price": "¥ 112.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2542020"
-  },
-  {
-    "appid": 3636770,
-    "name": "Servant of the Lake",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786888533",
-    "short_description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
-    "is_free": false,
-    "price": "¥ 24.75",
-    "original_price": "¥ 33.00",
-    "discount_percent": 25,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3636770"
-  },
-  {
-    "appid": 3451980,
-    "name": "Soul's Remnant",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451980/header.jpg?t=1786618773",
-    "short_description": "Soul's Remnant is a 2D platformer MMORPG focused on social gameplay and exploration! Customize your character, and conquer dungeons and bosses in this mysterious world. Play with friends or make new ones - just watch out when night falls!",
-    "is_free": true,
-    "price": "免费",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "大型多人在线",
-      "角色扮演",
-      "免费开玩",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3451980"
-  },
-  {
-    "appid": 2523770,
-    "name": "The Lord of the Rings: War in the North™ - Legacy Edition",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523770/ce49411b23ef7bfe8dd88c1c58f29a4584cf961e/header.jpg?t=1786466870",
-    "short_description": "北方阴影再起。踏入一个更加黑暗与残酷的中土大陆吧。战火已蔓延至远离护戒使者旅途的疆域。《指环王™：北境之战™》传世版扩展了托尔金的史诗传说，揭示了阿甘达尔的残酷秘史——这个黑暗努门诺尔人也是索伦的仆从，如今在佛诺斯特的废墟中集结起了一支庞大军队。当佛罗多与山姆怀斯踏上末日山之旅时，新的同盟也必须崛起，保卫北境。这一刻，让我们拔剑并肩作战吧！",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 8 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2523770"
   }
 ]
