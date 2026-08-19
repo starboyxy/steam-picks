@@ -1,42 +1,110 @@
 [
   {
-    "appid": 4796830,
-    "name": "WE ARE SO DEAD",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796830/d0f51a2e0497ac208b2604562779b648015eb7f3/header.jpg?t=1786989007",
-    "short_description": "一款联机合作的通灵恐怖游戏：你们当中有一人先死了，而只有你能看见正在杀死其他人的东西。你唯一的声音，是一块总被朋友们读错的通灵板。引导他们深入闹鬼宅子的9层，赶在日出前放逐恶魔。2-6名玩家。",
+    "appid": 4964110,
+    "name": "Darkest Dungeon®: The Fire's Edge",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964110/3f8e34ea4124cd88cae82b38e6291e2804fa0292/header.jpg?t=1787078198",
+    "short_description": "“The Fire’s Edge”扩展包为《暗黑地牢》带来了两位全新的可招募英雄——逃离者和决斗家。更有全新战斗机制、强力饰品与新增的小镇建筑等待着你！",
     "is_free": false,
-    "price": "¥ 20.46",
-    "original_price": "¥ 33.00",
-    "discount_percent": 38,
+    "price": "¥ 28.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4964110"
+  },
+  {
+    "appid": 1575990,
+    "name": "Twisted Tower",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575990/0270dc9ee7ddd3b31d2c9f0d5f1fb76cb4879eb8/header.jpg?t=1787070748",
+    "short_description": "在这个被遗弃的五十年代风游乐园中一路冲杀，直面童话吉祥物、扭曲谜题和致命陷阱带来的重重挑战。揭开你过去的黑暗真相，冲向塔顶，拯救你的挚爱。",
+    "is_free": false,
+    "price": "¥ 67.50",
+    "original_price": "¥ 75.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1575990"
+  },
+  {
+    "appid": 3435610,
+    "name": "Exark",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435610/818387538cec45abd16efd29948d03e0c4238e97/header.jpg?t=1787067012",
+    "short_description": "《Exark》是一款以单局构筑为核心的飞船建造游戏。游戏中，你将执掌一艘巨型方舟。你需要建造各类建筑，招募拥有独特技能的船员，触发强大的协同效果，在前往边境之地的漫长旅程中存活下去。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3435610"
+  },
+  {
+    "appid": 3729550,
+    "name": "堆叠妖怪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729550/ccda46043a0a51895a66ee93a958c6437767fe05/header_alt_assets_1_schinese.jpg?t=1787064711",
+    "short_description": "快来游玩这款独具卡牌堆叠特色的宠物收集游戏，堆叠、训练并收集超过 100 种强大的堆叠妖怪！建造你的营地，与对手侦察兵战斗，对抗在你的故乡各处蔓延的神秘腐化现象。",
+    "is_free": false,
+    "price": "¥ 38.25",
+    "original_price": "¥ 45.00",
+    "discount_percent": 15,
     "genres": [
       "冒险",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3729550"
+  },
+  {
+    "appid": 2966320,
+    "name": "星砂岛",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/607b2f7677edc0dca354820ce580d8ecd291eb41/header_schinese.jpg?t=1787059688",
+    "short_description": "厌倦了城市的繁冗生活？那就回到温馨家园星砂岛吧！在这座美丽的小岛上，您将体验一段轻松写意的田园生活。您可以在这里享受慢节奏的日常，与可爱的水豚、猫狗等小动物为邻，体验渔获丰收的喜悦，探索神秘的荧月之森或是单纯享受这座岛屿自然美景。让我们一起逃离无聊的都市，在这片海上桃源重拾生活的美好。",
+    "is_free": false,
+    "price": "¥ 78.40",
+    "original_price": "¥ 98.00",
+    "discount_percent": 20,
+    "genres": [
       "休闲",
       "独立",
       "角色扮演",
-      "模拟",
-      "策略",
-      "抢先体验"
+      "模拟"
     ],
-    "release_date": "2026 年 8 月 17 日",
+    "release_date": "2026 年 8 月 18 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4796830"
+    "store_url": "https://store.steampowered.com/app/2966320"
   },
   {
-    "appid": 4415740,
-    "name": "The Pale Mimic",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415740/94ee8d6872fd1fe69231c1c41c023395614d66c9/header.jpg?t=1786977417",
-    "short_description": "《The Pale Mimic》是一款以阿拉斯加荒野为背景的氛围恐怖游戏。作为一名在逃的高级通缉犯，你和你的爱犬在寒冷的森林中相依为命，直到不速之客的到来。",
+    "appid": 2825860,
+    "name": "The Sinking City 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/05f1db0ecea4914621f13ebaa81710e505de2c6b/header.jpg?t=1787046902",
+    "short_description": "设定于“咆哮的二十年代”，《The Sinking City 2》是一款浸润洛夫克拉夫特式恐惧的生存恐怖游戏。直面远古邪神，探索被洪水淹没的阿卡姆街巷，在亡者的追猎中前行，在一条生命与整座城市之间做出抉择。",
     "is_free": false,
-    "price": "¥ 28.05",
-    "original_price": "¥ 33.00",
-    "discount_percent": 15,
+    "price": "¥ 265.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作",
       "冒险"
     ],
-    "release_date": "2026 年 8 月 17 日",
+    "release_date": "2026 年 8 月 18 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4415740"
+    "store_url": "https://store.steampowered.com/app/2825860"
   },
   {
     "appid": 3849000,
@@ -72,24 +140,6 @@
     "release_date": "2026 年 8 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3503710"
-  },
-  {
-    "appid": 4934370,
-    "name": "我有一堆录像带",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934370/d6c2aa7fc5b48c3d0cbd31ae8878ae45f48523ed/header_schinese.jpg?t=1786775628",
-    "short_description": "把散落的3180盘录像带全部归类上架，让杂乱无章的档案库整齐利落！仔细规划路线、运用不同技能，或与好友联机分工、同场竞速，把满地狼藉变成规整的库存，享受越理越顺、越收越爽的收纳快感！[支持1-4人可玩]",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4934370"
   },
   {
     "appid": 3091140,
@@ -128,59 +178,5 @@
     "release_date": "2026 年 8 月 13 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3940610"
-  },
-  {
-    "appid": 3079210,
-    "name": "人间地狱：越南 ",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
-    "short_description": "跟随《Hell Let Loose: Vietnam》，踏入另一片枪炮轰鸣的战场。在有史以来最具标志性的战争中扮演关键角色；加入50对50的大规模玩家对抗；用团队合作、战术和威力惊人的武器，塑造出有利于己方团队的战场局势。",
-    "is_free": false,
-    "price": "¥ 151.99",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "大型多人在线",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3079210"
-  },
-  {
-    "appid": 2764460,
-    "name": "沙金工业 Sandustry",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786703049",
-    "short_description": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
-    "is_free": false,
-    "price": "¥ 31.85",
-    "original_price": "¥ 49.00",
-    "discount_percent": 35,
-    "genres": [
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2764460"
-  },
-  {
-    "appid": 4992070,
-    "name": "Sort Them Ducks",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1786629601",
-    "short_description": "Sort Them Ducks是一款轻松惬意的整理模拟游戏,你将超过4,000只独特的橡皮鸭分类到正确的货架上。按自己的节奏,享受把杂乱的鸭子商店变成完美整理收藏的满足过程。",
-    "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4992070"
   }
 ]
