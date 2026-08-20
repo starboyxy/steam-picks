@@ -1,5 +1,95 @@
 [
   {
+    "appid": 4132330,
+    "name": "Pizza House Simulator🍕",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132330/643c41a16a8a0d895100e6deff51da2bdf1887be/header_schinese.jpg?t=1787166636",
+    "short_description": "Run your dream pizzeria solo or with up to 6 players in chaotic online co-op multiplayer. Cook authentic pizzas, automate your kitchen, customize your restaurant, survive disasters, invest in stocks, gamble and build the ultimate Italian restaurant empire.",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "¥ 52.00",
+    "discount_percent": 25,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4132330"
+  },
+  {
+    "appid": 4315040,
+    "name": "放置领主：财富之城",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/569674f749bfd131d9f4daa1dbb97e4a8573d54b/header_schinese.jpg?t=1787170538",
+    "short_description": "收集资源，轻松规划，自动运转，持续成长，建立属于你的财富之城。从一处篝火营地开始，分配工人，扩大领地，与其他城邦进行贸易，不断解锁新的建筑、技术、政策，甚至神秘魔法，逐渐发展为大陆上最强大的王国。",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4315040"
+  },
+  {
+    "appid": 4026250,
+    "name": "Project P.I.T.T.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026250/066d9c477e4883dd31e5db4d3b0236a3c70cec3f/header.jpg?t=1787152354",
+    "short_description": "把橡皮鸭喂给企业虚空。建造物理机关。通过连锁组合获取利润，而巨口也会变得越来越饥饿……越来越庞大。 粗野主义PSX复古风讽刺 × 第一人称沙盒混乱体验。",
+    "is_free": false,
+    "price": "¥ 30.60",
+    "original_price": "¥ 36.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4026250"
+  },
+  {
+    "appid": 4012810,
+    "name": "STEINS;GATE RE:BOOT",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012810/07418d40a3fdd2f403bfa506f50051f4254fa02a/header_schinese.jpg?t=1787191495",
+    "short_description": "《STEINS;GATE》以现代标准全面重启！角色、画面焕然一新，并追加全新剧情！ 角色设计、图像、UI全部更新，将以更加清晰、更加深刻的姿态呈现熟悉秋叶原。",
+    "is_free": false,
+    "price": "¥ 178.20",
+    "original_price": "¥ 198.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲"
+    ],
+    "release_date": "2026 年 8 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4012810"
+  },
+  {
+    "appid": 4961870,
+    "name": "Planet Coaster 2: Silver Screen Pack",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/e92a10604456565a19f1ef734b460be7625aaef3/header.jpg?t=1787146584",
+    "short_description": "聚光灯就位，银幕经典包闪亮登场！",
+    "is_free": false,
+    "price": "¥ 59.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4961870"
+  },
+  {
     "appid": 4964110,
     "name": "Darkest Dungeon®: The Fire's Edge",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964110/3f8e34ea4124cd88cae82b38e6291e2804fa0292/header.jpg?t=1787078198",
@@ -20,7 +110,7 @@
   {
     "appid": 1575990,
     "name": "Twisted Tower",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575990/0270dc9ee7ddd3b31d2c9f0d5f1fb76cb4879eb8/header.jpg?t=1787070748",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575990/0270dc9ee7ddd3b31d2c9f0d5f1fb76cb4879eb8/header.jpg?t=1787162035",
     "short_description": "在这个被遗弃的五十年代风游乐园中一路冲杀，直面童话吉祥物、扭曲谜题和致命陷阱带来的重重挑战。揭开你过去的黑暗真相，冲向塔顶，拯救你的挚爱。",
     "is_free": false,
     "price": "¥ 67.50",
@@ -34,23 +124,6 @@
     "release_date": "2026 年 8 月 18 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1575990"
-  },
-  {
-    "appid": 3435610,
-    "name": "Exark",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435610/818387538cec45abd16efd29948d03e0c4238e97/header.jpg?t=1787067012",
-    "short_description": "《Exark》是一款以单局构筑为核心的飞船建造游戏。游戏中，你将执掌一艘巨型方舟。你需要建造各类建筑，招募拥有独特技能的船员，触发强大的协同效果，在前往边境之地的漫长旅程中存活下去。",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3435610"
   },
   {
     "appid": 3729550,
@@ -105,78 +178,5 @@
     "release_date": "2026 年 8 月 18 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2825860"
-  },
-  {
-    "appid": 3849000,
-    "name": "The Lantern of the Laughless Saint",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3849000/b98fe0c76e1cf48d830922efe33852a83915b5cc/header.jpg?t=1786975870",
-    "short_description": "A solo or co-op RPG inspired by Morrowind. Drawn by a shared dream, you awaken on an isolated island crowned by a silent Tower. Unravel the mystery of the Laughless Saint, confront the weight of human desire, and decide what deserves to be saved when the light beneath the world finally stirs.",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3849000"
-  },
-  {
-    "appid": 3503710,
-    "name": "中世纪马贩子模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503710/d1a80cd8d2b718fdf338fa28605486fab2127c4d/header.jpg?t=1786971630",
-    "short_description": "交易马匹，配制饲料，培育一代又一代精英种马、赛马、役马、战马等。训练、拍卖、采矿、锻造、耕作、经营商队、组建佣兵势力，并与强大的领主周旋。称霸中世纪马匹贸易。",
-    "is_free": false,
-    "price": "¥ 62.10",
-    "original_price": "¥ 69.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3503710"
-  },
-  {
-    "appid": 3091140,
-    "name": "掠宝旅团",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091140/0f52f0d28b3e8ae6023d919423a9953cf4c39df6/header.jpg?t=1786953687",
-    "short_description": "Lootbound 是一款黑暗奇幻世界中的战术类 roguelite 游戏，包含回合制战斗、战利品管理和 D\u0026amp;D 元素。与危险的敌人战斗，收集史诗战利品，招募盟友并带领他们踏上冒险之路。",
-    "is_free": false,
-    "price": "¥ 51.35",
-    "original_price": "¥ 79.00",
-    "discount_percent": 35,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3091140"
-  },
-  {
-    "appid": 3940610,
-    "name": "EA SPORTS™《Madden NFL 27》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/7ed2213f0170c1b55410b82ed89a8bab3911c6ea/header.jpg?t=1786718387",
-    "short_description": "一步一策，掌控联赛。体验由全新 Persona 引擎驱动的 EA SPORTS™《Madden NFL 27》。",
-    "is_free": false,
-    "price": "¥ 348.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "体育",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3940610"
   }
 ]
