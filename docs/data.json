@@ -1,182 +1,184 @@
 [
   {
-    "appid": 4132330,
-    "name": "Pizza House Simulator🍕",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132330/643c41a16a8a0d895100e6deff51da2bdf1887be/header_schinese.jpg?t=1787166636",
-    "short_description": "Run your dream pizzeria solo or with up to 6 players in chaotic online co-op multiplayer. Cook authentic pizzas, automate your kitchen, customize your restaurant, survive disasters, invest in stocks, gamble and build the ultimate Italian restaurant empire.",
+    "appid": 3196440,
+    "name": "度假咖啡厅模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196440/1bd4637a9a0e8b41bbbbe5d1983191e097b018d5/header_schinese.jpg?t=1787251891",
+    "short_description": "惬意的意式度假咖啡厅 🏖️ 没有时限・零压力 😌 烹制传统料理 🍝 随心打造升级装潢🏠 畅饮普罗赛克 🥂 放松经营梦想咖啡厅 ✨",
     "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "¥ 52.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4132330"
-  },
-  {
-    "appid": 4315040,
-    "name": "放置领主：财富之城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/569674f749bfd131d9f4daa1dbb97e4a8573d54b/header_schinese.jpg?t=1787170538",
-    "short_description": "收集资源，轻松规划，自动运转，持续成长，建立属于你的财富之城。从一处篝火营地开始，分配工人，扩大领地，与其他城邦进行贸易，不断解锁新的建筑、技术、政策，甚至神秘魔法，逐渐发展为大陆上最强大的王国。",
-    "is_free": false,
-    "price": "¥ 29.70",
-    "original_price": "¥ 33.00",
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
     "discount_percent": 10,
     "genres": [
-      "休闲",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4315040"
-  },
-  {
-    "appid": 4026250,
-    "name": "Project P.I.T.T.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026250/066d9c477e4883dd31e5db4d3b0236a3c70cec3f/header.jpg?t=1787152354",
-    "short_description": "把橡皮鸭喂给企业虚空。建造物理机关。通过连锁组合获取利润，而巨口也会变得越来越饥饿……越来越庞大。 粗野主义PSX复古风讽刺 × 第一人称沙盒混乱体验。",
-    "is_free": false,
-    "price": "¥ 30.60",
-    "original_price": "¥ 36.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
       "休闲",
       "独立",
       "模拟"
     ],
-    "release_date": "2026 年 8 月 19 日",
+    "release_date": "2026 年 8 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4026250"
+    "store_url": "https://store.steampowered.com/app/3196440"
   },
   {
-    "appid": 4012810,
-    "name": "STEINS;GATE RE:BOOT",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012810/07418d40a3fdd2f403bfa506f50051f4254fa02a/header_schinese.jpg?t=1787191495",
-    "short_description": "《STEINS;GATE》以现代标准全面重启！角色、画面焕然一新，并追加全新剧情！ 角色设计、图像、UI全部更新，将以更加清晰、更加深刻的姿态呈现熟悉秋叶原。",
+    "appid": 903930,
+    "name": "Brigador Killers",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903930/1052feff3eb214f3436f555ed057c632924613a7/header.jpg?t=1787262286",
+    "short_description": "等轴视角叛乱模拟器。徒步或驾驶载具作战，凭制作与掠夺建立属于自己的军械库；为了蒙受苦难的大家，把那些赚得盆满钵满的混蛋一网打尽。",
     "is_free": false,
-    "price": "¥ 178.20",
-    "original_price": "¥ 198.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲"
-    ],
-    "release_date": "2026 年 8 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4012810"
-  },
-  {
-    "appid": 4961870,
-    "name": "Planet Coaster 2: Silver Screen Pack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/e92a10604456565a19f1ef734b460be7625aaef3/header.jpg?t=1787146584",
-    "short_description": "聚光灯就位，银幕经典包闪亮登场！",
-    "is_free": false,
-    "price": "¥ 59.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4961870"
-  },
-  {
-    "appid": 4964110,
-    "name": "Darkest Dungeon®: The Fire's Edge",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964110/3f8e34ea4124cd88cae82b38e6291e2804fa0292/header.jpg?t=1787078198",
-    "short_description": "“The Fire’s Edge”扩展包为《暗黑地牢》带来了两位全新的可招募英雄——逃离者和决斗家。更有全新战斗机制、强力饰品与新增的小镇建筑等待着你！",
-    "is_free": false,
-    "price": "¥ 28.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4964110"
-  },
-  {
-    "appid": 1575990,
-    "name": "Twisted Tower",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575990/0270dc9ee7ddd3b31d2c9f0d5f1fb76cb4879eb8/header.jpg?t=1787162035",
-    "short_description": "在这个被遗弃的五十年代风游乐园中一路冲杀，直面童话吉祥物、扭曲谜题和致命陷阱带来的重重挑战。揭开你过去的黑暗真相，冲向塔顶，拯救你的挚爱。",
-    "is_free": false,
-    "price": "¥ 67.50",
-    "original_price": "¥ 75.00",
+    "price": "¥ 76.50",
+    "original_price": "¥ 85.00",
     "discount_percent": 10,
     "genres": [
       "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1575990"
-  },
-  {
-    "appid": 3729550,
-    "name": "堆叠妖怪",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729550/ccda46043a0a51895a66ee93a958c6437767fe05/header_alt_assets_1_schinese.jpg?t=1787064711",
-    "short_description": "快来游玩这款独具卡牌堆叠特色的宠物收集游戏，堆叠、训练并收集超过 100 种强大的堆叠妖怪！建造你的营地，与对手侦察兵战斗，对抗在你的故乡各处蔓延的神秘腐化现象。",
-    "is_free": false,
-    "price": "¥ 38.25",
-    "original_price": "¥ 45.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
       "独立",
-      "策略"
+      "抢先体验"
     ],
-    "release_date": "2026 年 8 月 18 日",
+    "release_date": "2026 年 8 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3729550"
+    "store_url": "https://store.steampowered.com/app/903930"
   },
   {
-    "appid": 2966320,
-    "name": "星砂岛",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/607b2f7677edc0dca354820ce580d8ecd291eb41/header_schinese.jpg?t=1787059688",
-    "short_description": "厌倦了城市的繁冗生活？那就回到温馨家园星砂岛吧！在这座美丽的小岛上，您将体验一段轻松写意的田园生活。您可以在这里享受慢节奏的日常，与可爱的水豚、猫狗等小动物为邻，体验渔获丰收的喜悦，探索神秘的荧月之森或是单纯享受这座岛屿自然美景。让我们一起逃离无聊的都市，在这片海上桃源重拾生活的美好。",
+    "appid": 3966510,
+    "name": "喂龙高手",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966510/f86ede780e5cbfe5bee91da68b14da9fcd747234/header_schinese.jpg?t=1787244972",
+    "short_description": "《喂龙高手》是一款在二十年间喂养一头巨龙的骰子roguelike游戏。掷出骰子，获取食材，建设岛屿，搭配上荒诞不经的各种食谱，让分数不断飙升。但若有一餐不慎，你就会成为桌上美味，满“盘”皆输。",
     "is_free": false,
-    "price": "¥ 78.40",
-    "original_price": "¥ 98.00",
+    "price": "¥ 40.00",
+    "original_price": "¥ 50.00",
     "discount_percent": 20,
     "genres": [
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3966510"
+  },
+  {
+    "appid": 4294490,
+    "name": "KOTAMON：妹妹麦片盒开出超稀有卡牌，我干脆当垃圾清运工集齐整套藏品怒赚百万美元",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294490/79677c26fad1f331a8528dcd2047a4bbe07a86e9/header_schinese.jpg?t=1787241636",
+    "short_description": "清理垃圾的感觉更棒了，因为你不仅让世界更干净，还能找到价格突然飙升的超稀有卡牌！翻找破烂，完成垃圾场女老板的任务，寻找隐藏的宝藏……然后收集全部的 Kotámon！",
+    "is_free": false,
+    "price": "¥ 23.20",
+    "original_price": "¥ 29.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4294490"
+  },
+  {
+    "appid": 4001890,
+    "name": "渔力全开",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
+    "short_description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+    "is_free": false,
+    "price": "¥ 20.46",
+    "original_price": "¥ 33.00",
+    "discount_percent": 38,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4001890"
+  },
+  {
+    "appid": 3764970,
+    "name": "墨西哥忍者",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764970/93eec8808e9d00c218a41925ccca18c8100f87aa/header.jpg?t=1787268632",
+    "short_description": "这是一款疯狂的快节奏roguelike清版动作游戏，充满了粗犷、嚣张和超酷的元素！在这款复古2.5D街机风作品中，化身独一无二的墨西哥忍者，在新东京的街头杀出一条血路。还等什么呢？菜鸟忍者，让我瞧瞧你的本事吧！",
+    "is_free": false,
+    "price": "¥ 41.99",
+    "original_price": "¥ 59.99",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3764970"
+  },
+  {
+    "appid": 4403510,
+    "name": "Sensory Overload",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403510/cb3a0a9ebe8e98188a0145fc4d65fcc59c0c7dc7/header.jpg?t=1787263820",
+    "short_description": "这是一款下落游戏，目标就是压垮你的感官。扭曲的隧道、迷幻的图案、仿佛在呼吸的洞壁，不断冲击你的平衡感，混乱也会一关一关不断增加。",
+    "is_free": false,
+    "price": "¥ 31.99",
+    "original_price": "¥ 39.99",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4403510"
+  },
+  {
+    "appid": 4117730,
+    "name": "Slayblade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117730/83399fc3ea0964b24dc5dbf67a2b6b60b22825a2/header_schinese.jpg?t=1787260027",
+    "short_description": "打造属于你的爆斗陀螺，成为街头之王！60余种部件等你收集！融合它们的力量，在这款休闲肉鸽游戏中碾压你的对手吧！穿行于充满活力的千禧年风格城市，一路赢取现金，获取升级，登上巅峰。不过，要是你在游戏里挂了，那现实里的你……也会死。（开玩笑的，诶嘿。）",
+    "is_free": false,
+    "price": "¥ 18.70",
+    "original_price": "¥ 22.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
       "休闲",
       "独立",
       "角色扮演",
       "模拟"
     ],
-    "release_date": "2026 年 8 月 18 日",
+    "release_date": "2026 年 8 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2966320"
+    "store_url": "https://store.steampowered.com/app/4117730"
   },
   {
-    "appid": 2825860,
-    "name": "The Sinking City 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/05f1db0ecea4914621f13ebaa81710e505de2c6b/header.jpg?t=1787046902",
-    "short_description": "设定于“咆哮的二十年代”，《The Sinking City 2》是一款浸润洛夫克拉夫特式恐惧的生存恐怖游戏。直面远古邪神，探索被洪水淹没的阿卡姆街巷，在亡者的追猎中前行，在一条生命与整座城市之间做出抉择。",
+    "appid": 4005220,
+    "name": "Deep Blue Sushi",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005220/98d32d9ab357f11b3313cb090823309089e25997/header.jpg?t=1787230854",
+    "short_description": "《Deep Blue Sushi》是一款支持 1–5 人合作游玩的休闲冒险游戏。探索海洋、捕捉新鲜鱼类、制作寿司、服务顾客并经营壮大餐厅，同时揭开神秘 Deep Blue 的秘密。",
     "is_free": false,
-    "price": "¥ 265.00",
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4005220"
+  },
+  {
+    "appid": 2584270,
+    "name": "《致命躯壳 II》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787231571",
+    "short_description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
+    "is_free": false,
+    "price": "¥ 198.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
-      "冒险"
+      "角色扮演"
     ],
-    "release_date": "2026 年 8 月 18 日",
+    "release_date": "2026 年 8 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2825860"
+    "store_url": "https://store.steampowered.com/app/2584270"
   }
 ]
