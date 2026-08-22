@@ -1,8 +1,61 @@
 [
   {
+    "appid": 2072450,
+    "name": "人中之龙８",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2072450/header_schinese.jpg?t=1781262996",
+    "short_description": "从“人生低谷”东山再起的男人——春日一番，以及面临“人生最后”之战的男人——桐生一马。 由两位主角演绎的超大作RPG，系列至高的感人故事 。 战斗进化为更具策略性的“动态指令RPG战斗”。 故事的舞台发生在异国他乡的“夏威夷”，为系列首度。 玩转各色夏威夷独特的娱乐场所吧！",
+    "is_free": false,
+    "price": "¥ 74.50",
+    "original_price": "¥ 298.00",
+    "discount_percent": 75,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2024 年 1 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2598140"
+  },
+  {
+    "appid": 4131730,
+    "name": "VHOLUME",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787333844",
+    "short_description": "VHOLUME 是一款忧郁的第一人称跑酷冒险游戏，设定在一座反乌托邦的粗野主义城市中。在这里，官僚主义会把一件简单的小事变成一场奥德赛。",
+    "is_free": false,
+    "price": "¥ 34.20",
+    "original_price": "¥ 38.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4131730"
+  },
+  {
+    "appid": 4962010,
+    "name": "一起收拾大商场",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962010/c7e68fc57effac6ebdc80e10173b3ab906eddd61/header_schinese.jpg?t=1787330993",
+    "short_description": "接手杂乱不堪的大商场，与朋友一起让它重新变得井井有条！活用五花八门的整理技能，规划收纳路线，让货物重新归位，把杂乱无序重新变回整齐划一，收获满满成就感！[1-4人可玩]",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4962010"
+  },
+  {
     "appid": 3196440,
     "name": "度假咖啡厅模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196440/1bd4637a9a0e8b41bbbbe5d1983191e097b018d5/header_schinese.jpg?t=1787251891",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196440/1bd4637a9a0e8b41bbbbe5d1983191e097b018d5/header_schinese.jpg?t=1787306679",
     "short_description": "惬意的意式度假咖啡厅 🏖️ 没有时限・零压力 😌 烹制传统料理 🍝 随心打造升级装潢🏠 畅饮普罗赛克 🥂 放松经营梦想咖啡厅 ✨",
     "is_free": false,
     "price": "¥ 69.30",
@@ -18,44 +71,28 @@
     "store_url": "https://store.steampowered.com/app/3196440"
   },
   {
-    "appid": 903930,
-    "name": "Brigador Killers",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903930/1052feff3eb214f3436f555ed057c632924613a7/header.jpg?t=1787262286",
-    "short_description": "等轴视角叛乱模拟器。徒步或驾驶载具作战，凭制作与掠夺建立属于自己的军械库；为了蒙受苦难的大家，把那些赚得盆满钵满的混蛋一网打尽。",
+    "appid": 2836460,
+    "name": "弹珠时光",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836460/969613811b7e7ea2126914f56ce0f535a481a50e/header_alt_assets_20_schinese.jpg?t=1787245773",
+    "short_description": "打造梦想中的弹珠跑道。无需追求完美——只管释放弹珠，让快乐随之滚动。",
     "is_free": false,
-    "price": "¥ 76.50",
-    "original_price": "¥ 85.00",
+    "price": "¥ 32.40",
+    "original_price": "¥ 36.00",
     "discount_percent": 10,
     "genres": [
-      "动作",
+      "休闲",
       "独立",
-      "抢先体验"
+      "竞速",
+      "模拟"
     ],
     "release_date": "2026 年 8 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/903930"
-  },
-  {
-    "appid": 3966510,
-    "name": "喂龙高手",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966510/f86ede780e5cbfe5bee91da68b14da9fcd747234/header_schinese.jpg?t=1787244972",
-    "short_description": "《喂龙高手》是一款在二十年间喂养一头巨龙的骰子roguelike游戏。掷出骰子，获取食材，建设岛屿，搭配上荒诞不经的各种食谱，让分数不断飙升。但若有一餐不慎，你就会成为桌上美味，满“盘”皆输。",
-    "is_free": false,
-    "price": "¥ 40.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3966510"
+    "store_url": "https://store.steampowered.com/app/2836460"
   },
   {
     "appid": 4294490,
     "name": "KOTAMON：妹妹麦片盒开出超稀有卡牌，我干脆当垃圾清运工集齐整套藏品怒赚百万美元",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294490/79677c26fad1f331a8528dcd2047a4bbe07a86e9/header_schinese.jpg?t=1787241636",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294490/79677c26fad1f331a8528dcd2047a4bbe07a86e9/header_schinese.jpg?t=1787304812",
     "short_description": "清理垃圾的感觉更棒了，因为你不仅让世界更干净，还能找到价格突然飙升的超稀有卡牌！翻找破烂，完成垃圾场女老板的任务，寻找隐藏的宝藏……然后收集全部的 Kotámon！",
     "is_free": false,
     "price": "¥ 23.20",
@@ -89,26 +126,9 @@
     "store_url": "https://store.steampowered.com/app/4001890"
   },
   {
-    "appid": 3764970,
-    "name": "墨西哥忍者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764970/93eec8808e9d00c218a41925ccca18c8100f87aa/header.jpg?t=1787268632",
-    "short_description": "这是一款疯狂的快节奏roguelike清版动作游戏，充满了粗犷、嚣张和超酷的元素！在这款复古2.5D街机风作品中，化身独一无二的墨西哥忍者，在新东京的街头杀出一条血路。还等什么呢？菜鸟忍者，让我瞧瞧你的本事吧！",
-    "is_free": false,
-    "price": "¥ 41.99",
-    "original_price": "¥ 59.99",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3764970"
-  },
-  {
     "appid": 4403510,
     "name": "Sensory Overload",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403510/cb3a0a9ebe8e98188a0145fc4d65fcc59c0c7dc7/header.jpg?t=1787263820",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403510/6a34bd2cf0b98160abddfa16c225d75567448de1/header.jpg?t=1787324895",
     "short_description": "这是一款下落游戏，目标就是压垮你的感官。扭曲的隧道、迷幻的图案、仿佛在呼吸的洞壁，不断冲击你的平衡感，混乱也会一关一关不断增加。",
     "is_free": false,
     "price": "¥ 31.99",
@@ -144,30 +164,9 @@
     "store_url": "https://store.steampowered.com/app/4117730"
   },
   {
-    "appid": 4005220,
-    "name": "Deep Blue Sushi",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005220/98d32d9ab357f11b3313cb090823309089e25997/header.jpg?t=1787230854",
-    "short_description": "《Deep Blue Sushi》是一款支持 1–5 人合作游玩的休闲冒险游戏。探索海洋、捕捉新鲜鱼类、制作寿司、服务顾客并经营壮大餐厅，同时揭开神秘 Deep Blue 的秘密。",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4005220"
-  },
-  {
     "appid": 2584270,
     "name": "《致命躯壳 II》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787231571",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
     "short_description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
     "is_free": false,
     "price": "¥ 198.00",
