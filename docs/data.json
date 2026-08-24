@@ -21,7 +21,7 @@
   {
     "appid": 4120790,
     "name": "整理工坊 The Sorting Bureau",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4120790/bc20cc3a6f826d4411759d489217116b1a89bc3a/header_schinese.jpg?t=1787332434",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4120790/bc20cc3a6f826d4411759d489217116b1a89bc3a/header_schinese.jpg?t=1787508704",
     "short_description": "东京街角的小工坊里，一款治愈强迫症的整理游戏。客人送来堆满杂物的盒子：纽扣、硬币、齿轮、邮票。分拣、配对、拼凑，在治愈的ASMR音效中把一切归位。没有计时器，放错了也不要紧。纯粹的秩序之美。",
     "is_free": false,
     "price": "¥ 25.20",
@@ -39,7 +39,7 @@
   {
     "appid": 4131730,
     "name": "VHOLUME",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787333844",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
     "short_description": "VHOLUME 是一款忧郁的第一人称跑酷冒险游戏，设定在一座反乌托邦的粗野主义城市中。在这里，官僚主义会把一件简单的小事变成一场奥德赛。",
     "is_free": false,
     "price": "¥ 34.20",
@@ -72,43 +72,6 @@
     "store_url": "https://store.steampowered.com/app/4948000"
   },
   {
-    "appid": 3312250,
-    "name": "FEAR OF FAITH",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312250/409d279687c546b6ed2b062b18d8c380426a02f7/header.jpg?t=1787423696",
-    "short_description": "FEAR OF FAITH 是一款支持 1–4 人合作的生存恐怖游戏，克隆士兵将深入被诅咒的二战地堡。选择职业、组合法术并饮用啤酒来压制恐惧，否则你将面对比死亡更可怕的命运。",
-    "is_free": false,
-    "price": "¥ 28.00",
-    "original_price": "¥ 35.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3312250"
-  },
-  {
-    "appid": 4962010,
-    "name": "一起收拾大商场",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962010/c7e68fc57effac6ebdc80e10173b3ab906eddd61/header_schinese.jpg?t=1787330993",
-    "short_description": "接手杂乱不堪的大商场，与朋友一起让它重新变得井井有条！活用五花八门的整理技能，规划收纳路线，让货物重新归位，把杂乱无序重新变回整齐划一，收获满满成就感！[1-4人可玩]",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4962010"
-  },
-  {
     "appid": 3196440,
     "name": "度假咖啡厅模拟器",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196440/1bd4637a9a0e8b41bbbbe5d1983191e097b018d5/header_schinese.jpg?t=1787306679",
@@ -127,23 +90,21 @@
     "store_url": "https://store.steampowered.com/app/3196440"
   },
   {
-    "appid": 2836460,
-    "name": "弹珠时光",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836460/969613811b7e7ea2126914f56ce0f535a481a50e/header_alt_assets_20_schinese.jpg?t=1787245773",
-    "short_description": "打造梦想中的弹珠跑道。无需追求完美——只管释放弹珠，让快乐随之滚动。",
+    "appid": 3966510,
+    "name": "喂龙高手",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966510/f86ede780e5cbfe5bee91da68b14da9fcd747234/header_schinese.jpg?t=1787476731",
+    "short_description": "《喂龙高手》是一款在二十年间喂养一头巨龙的骰子roguelike游戏。掷出骰子，获取食材，建设岛屿，搭配上荒诞不经的各种食谱，让分数不断飙升。但若有一餐不慎，你就会成为桌上美味，满“盘”皆输。",
     "is_free": false,
-    "price": "¥ 32.40",
-    "original_price": "¥ 36.00",
-    "discount_percent": 10,
+    "price": "¥ 40.00",
+    "original_price": "¥ 50.00",
+    "discount_percent": 20,
     "genres": [
-      "休闲",
       "独立",
-      "竞速",
-      "模拟"
+      "策略"
     ],
     "release_date": "2026 年 8 月 20 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2836460"
+    "store_url": "https://store.steampowered.com/app/3966510"
   },
   {
     "appid": 4294490,
@@ -178,5 +139,44 @@
     "release_date": "2026 年 8 月 20 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2584270"
+  },
+  {
+    "appid": 3065940,
+    "name": "加里波利",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065940/a50a3d05184ba4fb9fefbf326d597342b76de99f/header_alt_assets_0.jpg?t=1787348331",
+    "short_description": "登陆加里波利海滩，50名玩家在奥斯曼前线争夺目标点，开启大规模鏖斗！扮演历史上的10个兵种之一，手持真实武器，亲历一战的堑壕作战与沙漠远征。Gallipoli将为你带来迄今为止最沉浸的一战第一人称射击体验。",
+    "is_free": false,
+    "price": "¥ 74.25",
+    "original_price": "¥ 99.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "独立",
+      "大型多人在线",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3065940"
+  },
+  {
+    "appid": 2163330,
+    "name": "Yet Another Zombie Survivors - 又一个僵尸幸存者",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787418152",
+    "short_description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
+    "is_free": false,
+    "price": "¥ 37.70",
+    "original_price": "¥ 58.00",
+    "discount_percent": 35,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 8 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2163330"
   }
 ]
