@@ -1,8 +1,147 @@
 [
   {
+    "appid": 4357580,
+    "name": "《NBA 2K27》辉煌生涯额外奖励：第 1 赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357580/5774919e6da703ec072e855e7f42c09aa1bdfff6/header.jpg?t=1787760041",
+    "short_description": "《NBA 2K27》第 1 赛季辉煌生涯额外奖励包括 75,000 虚拟货币、1 枚 120 分钟 2 倍经验值金币 (辉煌生涯)、“全神贯注”遮阳帽和一件为你的自创球员提供的英雄披风。",
+    "is_free": false,
+    "price": "¥ 138.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "体育"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4357580"
+  },
+  {
+    "appid": 4357570,
+    "name": "《NBA 2K27》名人堂通行证：第1季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357570/793455e71b9457c2a6b3027c1037a826ebb0e2dd/header.jpg?t=1787760031",
+    "short_description": "名人堂通行证：第1季包含职业通行证：第1季中的所有物品，以及一个15%经验值增强、10个等级跳过和15,000虚拟货币！",
+    "is_free": false,
+    "price": "¥ 138.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "体育"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4357570"
+  },
+  {
+    "appid": 4627110,
+    "name": "Fell \u0026 Sell",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/b47a56668edcbd1e66a212907aa627d10259de97/header.jpg?t=1787829508",
+    "short_description": "杀戮。掠夺。售卖。生存！沉浸在这款融合了第一人称砍杀肉鸽与店铺经营的游戏中。在致命的地下城中搜刮战利品，全身而退，打造物品并填满你的货架。然后为了丰厚的利润，再次赌上一切！",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4627110"
+  },
+  {
+    "appid": 965190,
+    "name": "Night Rolls Cozy Store",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965190/f41daed3dc0bdfc6cf862ea5c01db38796662cae/header_schinese.jpg?t=1787758601",
+    "short_description": "经营一家温馨的深夜小店。准备新鲜的寿司和卷物，补满货架，接待顾客直到天亮。一款轻松惬意的商店管理游戏，每个夜班都由你掌控",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/965190"
+  },
+  {
+    "appid": 3946950,
+    "name": "Click the Button",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/15ece08bab35f4935d997dc44870d73aed3974bf/header.jpg?t=1787768674",
+    "short_description": "Click the Button is an incremental game about clicking a button to receive chests that deliver incredible rewards. Improve your skills to become the strongest.",
+    "is_free": false,
+    "price": "¥ 12.75",
+    "original_price": "¥ 15.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3946950"
+  },
+  {
+    "appid": 4423580,
+    "name": "暗影地牢",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423580/c7169de56a893cba3b8dba5674f6c4fe34ca96ab/header.jpg?t=1787744876",
+    "short_description": "梦魇般的怪物自黑暗中爬行而出，魔王潜伏于深渊之下。踏入暗影地牢，杀出一条血路，书写属于你的传奇史诗。",
+    "is_free": false,
+    "price": "¥ 36.00",
+    "original_price": "¥ 40.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4423580"
+  },
+  {
+    "appid": 3126500,
+    "name": "States of Power",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3126500/72c4866ddafdb16353379d620c31347f4f49a5a5/header.jpg?t=1787766749",
+    "short_description": "Command your nation's armies, economy, and diplomacy in this WWII Grand Strategy Wargame. Easy to start, hard to master and a full match fits in one session. Play singleplayer and multiplayer, or create, play and share your own custom scenarios with the built-in Scenario Editor.",
+    "is_free": false,
+    "price": "¥ 42.50",
+    "original_price": "¥ 50.00",
+    "discount_percent": 15,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3126500"
+  },
+  {
+    "appid": 2827750,
+    "name": "致命利爪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/d7d0e546e2ed7a1cd07f3abfdc2b65f140201b24/header.jpg?t=1787727739",
+    "short_description": "《致命利爪》是一款高质量的2D类银河恶魔城游戏。与在先祖的帮助下死而复生的的猫咪\u0026quot;基沙\u0026quot;一起，以自己的方式探险被封印的神秘地下世界。吸收被感染强大敌人的能力，并与其他生存者们一起搜寻通往地面的钥匙吧。",
+    "is_free": false,
+    "price": "¥ 73.60",
+    "original_price": "¥ 92.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2827750"
+  },
+  {
     "appid": 4073860,
     "name": "吸吸吸有限公司",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/779590076a4aa3a32d23ec9fd193800a308301a4/header_schinese.jpg?t=1787703019",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/779590076a4aa3a32d23ec9fd193800a308301a4/header_schinese.jpg?t=1787778959",
     "short_description": "热爱清洁增量游戏的朋友们！欢迎加入「吸吸吸有限公司」！ 驾驶你的吸污车穿梭于乡间、山林与废弃场地，将遍地污泥、废料和污染物统统收入囊中。 把这些看似毫无价值的垃圾运回工厂，经过精炼、加工与升级，最终变成源源不断的财富与资源！",
     "is_free": false,
     "price": "¥ 19.19",
@@ -15,39 +154,6 @@
     "release_date": "2026 年 8 月 25 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4073860"
-  },
-  {
-    "appid": 3949550,
-    "name": "1666：阿姆斯特丹",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949550/d0b2ed364f16fef8bae95d49ffa599df37aacc01/header_schinese.jpg?t=1787686479",
-    "short_description": "每隔333年，某种存在便会苏醒。《1666：阿姆斯特丹》是一款以黑暗故事为核心的第三人称动作冒险游戏。你将扮演“取者”诺娅，施展巫术，揭开藏在人类面孔背后的恶魔。白昼调查，入夜直面恶魔。",
-    "is_free": false,
-    "price": "¥ 88.20",
-    "original_price": "¥ 98.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3949550"
-  },
-  {
-    "appid": 3371770,
-    "name": "疯菇突围 (Funguys Swarm)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371770/855bee5c726bfdfc69ca0f183834a0c755d770b8/header_alt_assets_5.jpg?t=1787675200",
-    "short_description": "《Funguys Swarm》是一款卡通风格的弹幕生存游戏。森林正陷入熊熊烈火之中——情况完全不妙！你将化身为一名菇军，装备森林中锻造的武器，向炎王的军队释放疯狂技能。如果你够强，或者够幸运，或许……还能拯救这个世界。",
-    "is_free": false,
-    "price": "¥ 39.20",
-    "original_price": "¥ 49.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 8 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3371770"
   },
   {
     "appid": 2431080,
@@ -65,108 +171,5 @@
     "release_date": "2026 年 8 月 25 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2431080"
-  },
-  {
-    "appid": 4941380,
-    "name": "Aliens: Fireteam Elite 2 - 40th Anniversary Premium Edition Upgrade",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941380/e8fb4340ae906919e167a2aba996745ba82b50b1/header.jpg?t=1787669869",
-    "short_description": "《异形：火力精英2》 – 40周年典藏版升级包是每一位《异形》粉丝不容错过的珍藏之选。内含源自经典角色雷普莉和赫克·蒙多的专属武器、服装等更多精彩内容，助你荡平异形虫海！",
-    "is_free": false,
-    "price": "¥ 105.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 8 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4941380"
-  },
-  {
-    "appid": 5060920,
-    "name": "Dead by Daylight: Chorus of Sin",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060920/f520fd2030d70c700c48a3887c3c395658ba8d4f/header.jpg?t=1787669838",
-    "short_description": "踏入神圣恐怖之境，走进《黎明杀机》首个社区共创章节：《Chorus of Sin》。扮演审判者，一位奉命以烈焰净化世界的杀手，还有欧若拉·星辰之女，一位带领子民走出灰烬的坚定逃生者。",
-    "is_free": false,
-    "price": "¥ 32.78",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 8 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5060920"
-  },
-  {
-    "appid": 3448650,
-    "name": "异形：火力精英2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/9b3d808b5a39c572dc13ced8024e8085bd306805/header.jpg?t=1787672724",
-    "short_description": "《Aliens: Fireteam Elite 2》将最多四名玩家投入殖民陆战队的角色之中，奉命奔赴《Aliens》宇宙中最险恶的角落。这不是救援任务，而是一场生死之战。异形蜂拥而至。每一个房间都可能是最后的葬身之地。",
-    "is_free": false,
-    "price": "¥ 316.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 8 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3448650"
-  },
-  {
-    "appid": 4560660,
-    "name": "Eslabong",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/2f57705341159c9893b7626b1b9c55fa0562d4ed/header.jpg?t=1787711770",
-    "short_description": "在实时竞技场战斗中作战，经营你的俱乐部，在动作战斗与策略经营相结合的玩法中不断成长。招募佣兵，打造队伍，在联赛与杯赛中竞争，登上巅峰。",
-    "is_free": false,
-    "price": "¥ 50.15",
-    "original_price": "¥ 59.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4560660"
-  },
-  {
-    "appid": 4001350,
-    "name": "Iron Blight",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001350/6709a3fd6c44690b284c898d2a6c7fd7604c7a8e/header_schinese.jpg?t=1787587259",
-    "short_description": "《Iron Blight》是一款设定于冰冷东欧小镇的生存恐怖游戏。门外怪物狂乱抓挠，你无处可逃。你必须在漫长炽热的噩梦之夜存活下来，揭开暗影中的恐怖，并找到你的妻子瓦莱丽雅（Valeria）。",
-    "is_free": false,
-    "price": "¥ 40.00",
-    "original_price": "¥ 50.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4001350"
-  },
-  {
-    "appid": 4486870,
-    "name": "FEED THE AI",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486870/a99760a2cd99cda5382ec1aae78a4c45421f9b0e/header.jpg?t=1787688721",
-    "short_description": "喂养AI。收集数据。解锁升级。看着算法逐渐成长，最终脱离你的控制。在这款主动式增量游戏中，你将用数据喂养不断进化的AI，并决定它最终会变成什么。它会拯救世界...还是统治世界？",
-    "is_free": false,
-    "price": "¥ 19.99",
-    "original_price": "¥ 24.99",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 8 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4486870"
   }
 ]
