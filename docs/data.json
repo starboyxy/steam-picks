@@ -1,5 +1,59 @@
 [
   {
+    "appid": 1148130,
+    "name": "Divinum",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148130/d83df4c3d12fb4874759e3bd5c6db1c5cdb7eaf8/header.jpg?t=1787943659",
+    "short_description": "Divinum 是一款具有复杂战斗系统和类银河战士恶魔城元素的动作横版卷轴游戏。获得先祖之灵的力量，保护你的家园岛屿免受侵略者，并揭开它的黑暗秘密",
+    "is_free": false,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 8 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1148130"
+  },
+  {
+    "appid": 1331550,
+    "name": "Big Ambitions",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
+    "short_description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
+    "is_free": false,
+    "price": "¥ 75.57",
+    "original_price": "¥ 94.47",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1331550"
+  },
+  {
+    "appid": 2586440,
+    "name": "House 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586440/ff701c2fda8cf6706f0ea9c15f1e0e4fb691619c/header.jpg?t=1787936392",
+    "short_description": "As a terrible storm rages on, a young girl tries to survive in a HOUSE hell-bent on killing her and her family...",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 8 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2586440"
+  },
+  {
     "appid": 2530470,
     "name": "魔女庭院",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/7f8cbb7b7c59ae83100354c61ac1cbf03416fc94/header_schinese.jpg?t=1787907620",
@@ -16,23 +70,6 @@
     "release_date": "2026 年 8 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2530470"
-  },
-  {
-    "appid": 3850800,
-    "name": "Wakuwaku公园",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850800/d0ac4512352d562dde647b57c3b1ded119c9277a/header_schinese.jpg?t=1787904537",
-    "short_description": "Miki 在公园中醒来后，身穿黑衣的男人们朝她步步逼近。 为了活下去，她必须不断奔跑、饮用饮料，持续从逼近的黑影中逃离。",
-    "is_free": false,
-    "price": "¥ 123.33",
-    "original_price": "¥ 137.04",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3850800"
   },
   {
     "appid": 3655690,
@@ -54,7 +91,7 @@
   {
     "appid": 2713000,
     "name": "共鸣：瘟疫传说传承",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/6dfa1d9ef7205356c608c8ec59122dc6d71716e4/header_schinese.jpg?t=1787921697",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/6dfa1d9ef7205356c608c8ec59122dc6d71716e4/header_schinese.jpg?t=1787925122",
     "short_description": "本作的原创剧情在时间线上早于获奖作品《瘟疫传说》的故事，你将化身索菲亚，前往米诺陶岛，智取强敌，揭晓古老的秘密，直面凶煞诅咒之源的神话生物。",
     "is_free": false,
     "price": "¥ 199.00",
@@ -89,23 +126,6 @@
     "store_url": "https://store.steampowered.com/app/2075800"
   },
   {
-    "appid": 2492670,
-    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1787835863",
-    "short_description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
-    "is_free": false,
-    "price": "¥ 170.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 8 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2492670"
-  },
-  {
     "appid": 2824880,
     "name": "SHRIMP GAME: OVERKRILL",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/ee96ac9868e34385ce1f5e84184c39cc0d8ab634/header.jpg?t=1787863671",
@@ -124,54 +144,39 @@
     "store_url": "https://store.steampowered.com/app/2824880"
   },
   {
-    "appid": 4974000,
-    "name": "全境封锁2 - 红色地平线空投补给",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974000/e09818a660455eb0d8654b6488c770f806e1947b/header.jpg?t=1787818832",
-    "short_description": "获得 5000 至尊点、至尊赛季通行证、机密任务、一件专属服装、15% 赛季通行证经验值加成及 20 阶级直升权限。限时优惠，仅限本赛季！",
+    "appid": 4627110,
+    "name": "Fell \u0026 Sell",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/b47a56668edcbd1e66a212907aa627d10259de97/header.jpg?t=1787909984",
+    "short_description": "杀戮。掠夺。售卖。生存！沉浸在这款融合了第一人称砍杀肉鸽与店铺经营的游戏中。在致命的地下城中搜刮战利品，全身而退，打造物品并填满你的货架。然后为了丰厚的利润，再次赌上一切！",
     "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 8 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4974000"
-  },
-  {
-    "appid": 2100020,
-    "name": "卢湖采风",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/a688f5ba8a68e4412875169cdd1fe41aee0ad670/header_schinese.jpg?t=1787839211",
-    "short_description": "驾驶你的水上飞机，在热带群岛开启一段探索与建造的冒险！一场毁灭性的风暴席卷了群岛，你需要使用你的“涡流 ”收集材料，重建被摧毁的社区，并揭开卢叔叔神秘失踪的真相。",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
     "discount_percent": 10,
     "genres": [
-      "冒险",
+      "动作",
+      "角色扮演",
       "模拟"
     ],
     "release_date": "2026 年 8 月 26 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2100020"
+    "store_url": "https://store.steampowered.com/app/4627110"
   },
   {
-    "appid": 4357580,
-    "name": "《NBA 2K27》辉煌生涯额外奖励：第 1 赛季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357580/5774919e6da703ec072e855e7f42c09aa1bdfff6/header.jpg?t=1787760041",
-    "short_description": "《NBA 2K27》第 1 赛季辉煌生涯额外奖励包括 75,000 虚拟货币、1 枚 120 分钟 2 倍经验值金币 (辉煌生涯)、“全神贯注”遮阳帽和一件为你的自创球员提供的英雄披风。",
+    "appid": 3946950,
+    "name": "Click the Button",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/15ece08bab35f4935d997dc44870d73aed3974bf/header.jpg?t=1787967826",
+    "short_description": "Click the Button is an incremental game about clicking a button to receive chests that deliver incredible rewards. Improve your skills to become the strongest.",
     "is_free": false,
-    "price": "¥ 138.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 12.75",
+    "original_price": "¥ 15.00",
+    "discount_percent": 15,
     "genres": [
-      "体育"
+      "休闲",
+      "独立",
+      "模拟"
     ],
     "release_date": "2026 年 8 月 26 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4357580"
+    "store_url": "https://store.steampowered.com/app/3946950"
   }
 ]
