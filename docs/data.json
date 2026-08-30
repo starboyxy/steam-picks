@@ -38,7 +38,7 @@
   {
     "appid": 2586440,
     "name": "House 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586440/ff701c2fda8cf6706f0ea9c15f1e0e4fb691619c/header.jpg?t=1787936392",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586440/ff701c2fda8cf6706f0ea9c15f1e0e4fb691619c/header.jpg?t=1788027335",
     "short_description": "As a terrible storm rages on, a young girl tries to survive in a HOUSE hell-bent on killing her and her family...",
     "is_free": false,
     "price": "¥ 68.40",
@@ -126,22 +126,21 @@
     "store_url": "https://store.steampowered.com/app/2075800"
   },
   {
-    "appid": 2824880,
-    "name": "SHRIMP GAME: OVERKRILL",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/ee96ac9868e34385ce1f5e84184c39cc0d8ab634/header.jpg?t=1787863671",
-    "short_description": "《SHRIMP GAME:OVERKRILL》是一款第三人称射击RPG，舞台设在深渊之界，可单人独闯，也可多人联机。驾驶你的虾兵机体，在6人合作战役中迎战巨型海怪，精通各系元素职业，挖出深藏的秘密；或者干脆在多人PvP里，把朋友一个个虾掉！",
+    "appid": 2492670,
+    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1787835863",
+    "short_description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
     "is_free": false,
-    "price": "¥ 35.99",
-    "original_price": "¥ 44.99",
-    "discount_percent": 20,
+    "price": "¥ 170.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作",
-      "独立",
-      "角色扮演"
+      "冒险"
     ],
     "release_date": "2026 年 8 月 27 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2824880"
+    "store_url": "https://store.steampowered.com/app/2492670"
   },
   {
     "appid": 4627110,
@@ -164,7 +163,7 @@
   {
     "appid": 3946950,
     "name": "Click the Button",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/15ece08bab35f4935d997dc44870d73aed3974bf/header.jpg?t=1787967826",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/15ece08bab35f4935d997dc44870d73aed3974bf/header.jpg?t=1788017433",
     "short_description": "Click the Button is an incremental game about clicking a button to receive chests that deliver incredible rewards. Improve your skills to become the strongest.",
     "is_free": false,
     "price": "¥ 12.75",
