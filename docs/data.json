@@ -126,23 +126,6 @@
     "store_url": "https://store.steampowered.com/app/2075800"
   },
   {
-    "appid": 2492670,
-    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1787835863",
-    "short_description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
-    "is_free": false,
-    "price": "¥ 170.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 8 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2492670"
-  },
-  {
     "appid": 4627110,
     "name": "Fell \u0026 Sell",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/b47a56668edcbd1e66a212907aa627d10259de97/header.jpg?t=1787909984",
@@ -177,5 +160,22 @@
     "release_date": "2026 年 8 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3946950"
+  },
+  {
+    "appid": 4073860,
+    "name": "吸吸吸有限公司",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/779590076a4aa3a32d23ec9fd193800a308301a4/header_schinese.jpg?t=1788128442",
+    "short_description": "热爱清洁增量游戏的朋友们！欢迎加入「吸吸吸有限公司」！ 驾驶你的吸污车穿梭于乡间、山林与废弃场地，将遍地污泥、废料和污染物统统收入囊中。 把这些看似毫无价值的垃圾运回工厂，经过精炼、加工与升级，最终变成源源不断的财富与资源！",
+    "is_free": false,
+    "price": "¥ 19.19",
+    "original_price": "¥ 23.99",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 8 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4073860"
   }
 ]
