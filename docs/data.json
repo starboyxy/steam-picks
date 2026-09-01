@@ -1,27 +1,64 @@
 [
   {
-    "appid": 1148130,
-    "name": "Divinum",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148130/d83df4c3d12fb4874759e3bd5c6db1c5cdb7eaf8/header.jpg?t=1787943659",
-    "short_description": "Divinum 是一款具有复杂战斗系统和类银河战士恶魔城元素的动作横版卷轴游戏。获得先祖之灵的力量，保护你的家园岛屿免受侵略者，并揭开它的黑暗秘密",
+    "appid": 2412960,
+    "name": "呼吸边缘2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/cd085c90ed33d237d1f624c923e91f8aa17ce6c8/header_alt_assets_1_schinese.jpg?t=1788197184",
+    "short_description": "在宇宙边缘活下去！制作并升级工具，从残骸中搜刮资源，拯救一个已经彻底乱套的银河系。一个普普通通的爷们儿、一只不死的鸡，再加上一点强力胶带，真能救下整个宇宙吗？",
     "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
+    "price": "¥ 61.60",
+    "original_price": "¥ 77.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 8 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2412960"
+  },
+  {
+    "appid": 3062500,
+    "name": "The Adventurers",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062500/e2cbb9cefca6a72a8eded824f172ac5050d6845a/header.jpg?t=1788186695",
+    "short_description": "《冒险者》是一款回合制战术角色扮演游戏，你的每个决定都会影响你的传奇。带领你的英雄小队，在充满随机事件的开放世界中前行，这些事件将影响你的故事。在奇幻的世界中生存，你的史诗传奇即将书写。",
+    "is_free": false,
+    "price": "¥ 52.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 8 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3062500"
+  },
+  {
+    "appid": 4538960,
+    "name": " 泽诺尼亚 1",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538960/f25c2ff778bf89922cba126556625d47a8a30ffa/header.jpg?t=1788159622",
+    "short_description": "各位，还记得吗？ 曾在2000年代风靡全球的浪漫RPG——《泽诺尼亚》重磅回归！ 从掌上开启的冒险，那些通宵成长的记忆，现在就在Steam平台再次重温。",
+    "is_free": false,
+    "price": "¥ 35.99",
+    "original_price": "¥ 39.99",
     "discount_percent": 10,
     "genres": [
       "动作",
       "冒险",
-      "独立",
-      "角色扮演"
+      "独立"
     ],
-    "release_date": "2026 年 8 月 28 日",
+    "release_date": "2026 年 8 月 31 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1148130"
+    "store_url": "https://store.steampowered.com/app/4538960"
   },
   {
     "appid": 1331550,
     "name": "Big Ambitions",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
     "short_description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
     "is_free": false,
     "price": "¥ 75.57",
@@ -36,22 +73,23 @@
     "store_url": "https://store.steampowered.com/app/1331550"
   },
   {
-    "appid": 2586440,
-    "name": "House 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586440/ff701c2fda8cf6706f0ea9c15f1e0e4fb691619c/header.jpg?t=1788027335",
-    "short_description": "As a terrible storm rages on, a young girl tries to survive in a HOUSE hell-bent on killing her and her family...",
+    "appid": 3908940,
+    "name": "Inferno Protocol",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908940/45fdacf873c8ca3ba7cca576fcf03ac24a413462/header.jpg?t=1787929615",
+    "short_description": "A survival horror set in a massive maze. Play solo or 6-player co-op. Scavenge resources to craft gear and survive against terrifying enemies. Unlock unique abilities and find the exit.",
     "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
+    "price": "¥ 45.60",
+    "original_price": "¥ 57.00",
+    "discount_percent": 20,
     "genres": [
       "动作",
       "冒险",
-      "独立"
+      "独立",
+      "抢先体验"
     ],
     "release_date": "2026 年 8 月 28 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2586440"
+    "store_url": "https://store.steampowered.com/app/3908940"
   },
   {
     "appid": 2530470,
@@ -74,7 +112,7 @@
   {
     "appid": 3655690,
     "name": "ELDEN RING Tarnished Pack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655690/8ecd71d85e597e7616e5b36e697c0c018fb65f5e/header.jpg?t=1787867987",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655690/8ecd71d85e597e7616e5b36e697c0c018fb65f5e/header.jpg?t=1788197710",
     "short_description": "本商品“褪色者组合包”为《艾尔登法环》的追加下载内容。包含全新的防具、功能等等追加要素。",
     "is_free": false,
     "price": "¥ 28.00",
@@ -128,7 +166,7 @@
   {
     "appid": 4627110,
     "name": "Fell \u0026 Sell",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/b47a56668edcbd1e66a212907aa627d10259de97/header.jpg?t=1787909984",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/b47a56668edcbd1e66a212907aa627d10259de97/header.jpg?t=1788184564",
     "short_description": "杀戮。掠夺。售卖。生存！沉浸在这款融合了第一人称砍杀肉鸽与店铺经营的游戏中。在致命的地下城中搜刮战利品，全身而退，打造物品并填满你的货架。然后为了丰厚的利润，再次赌上一切！",
     "is_free": false,
     "price": "¥ 29.70",
@@ -142,40 +180,5 @@
     "release_date": "2026 年 8 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4627110"
-  },
-  {
-    "appid": 3946950,
-    "name": "Click the Button",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/15ece08bab35f4935d997dc44870d73aed3974bf/header.jpg?t=1788017433",
-    "short_description": "Click the Button is an incremental game about clicking a button to receive chests that deliver incredible rewards. Improve your skills to become the strongest.",
-    "is_free": false,
-    "price": "¥ 12.75",
-    "original_price": "¥ 15.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3946950"
-  },
-  {
-    "appid": 4073860,
-    "name": "吸吸吸有限公司",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/779590076a4aa3a32d23ec9fd193800a308301a4/header_schinese.jpg?t=1788128442",
-    "short_description": "热爱清洁增量游戏的朋友们！欢迎加入「吸吸吸有限公司」！ 驾驶你的吸污车穿梭于乡间、山林与废弃场地，将遍地污泥、废料和污染物统统收入囊中。 把这些看似毫无价值的垃圾运回工厂，经过精炼、加工与升级，最终变成源源不断的财富与资源！",
-    "is_free": false,
-    "price": "¥ 19.19",
-    "original_price": "¥ 23.99",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4073860"
   }
 ]
