@@ -1,20 +1,109 @@
 [
   {
-    "appid": 4893430,
-    "name": "1,200点迎新补给包 -《彩虹六号：围攻》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4893430/cc8842d68c2d1fe500c5d66b17431ff8983c83b2/header_schinese.jpg?t=1788285539",
-    "short_description": "只需常规1,200点R6点数补给包的价格，即可获得1,200点R6点数，立即解锁四位特勤干员以及一个七天声望加成道具。优惠仅限本赛季！",
+    "appid": 3751260,
+    "name": "The Blood of Dawnwalker 黎明行者之血",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788387095",
+    "short_description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
     "is_free": false,
-    "price": "¥ 60.00",
+    "price": "¥ 298.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
-      "免费开玩"
+      "冒险",
+      "角色扮演"
     ],
-    "release_date": "2026 年 9 月 1 日",
+    "release_date": "2026 年 9 月 2 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4893430"
+    "store_url": "https://store.steampowered.com/app/3751260"
+  },
+  {
+    "appid": 5027520,
+    "name": "Megastore: Tidy Up Together",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5027520/b379f48c766d670878342739cafbdabc59118cad/header.jpg?t=1788371936",
+    "short_description": "Megastore: Tidy Up Together 是一款温馨舒适的整理游戏，支持单人和在线合作游玩。整理三家规模逐渐扩大的商店：玩具店、繁忙的超市，以及庞大的双层大型综合商店。拾取、分类并上架数千件商品，为开业做好准备！",
+    "is_free": false,
+    "price": "¥ 22.10",
+    "original_price": "¥ 26.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5027520"
+  },
+  {
+    "appid": 1070500,
+    "name": "He Who Watches",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070500/1969376cc464e5c53591b3934756811e9a871809/header.jpg?t=1788366389",
+    "short_description": "飞檐走壁、操控重力，探索隐藏的秘密。这款第一人称解谜游戏，将带你深入古老而又精巧的谜题迷宫，通过层层关卡，寻找囚禁其中的神。",
+    "is_free": false,
+    "price": "¥ 65.45",
+    "original_price": "¥ 77.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1070500"
+  },
+  {
+    "appid": 4339280,
+    "name": " 造船师：猎鹰战纪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339280/6adc47dffd02ed18e874304a1fd6ab75a4526af3/header_alt_assets_0_schinese.jpg?t=1788364557",
+    "short_description": "《造船师》是一款专注于船舶设计乐趣的自由创作游戏。自由塑造船体，搭配丰富组件，无需复杂的3D建模技巧，也没有固定蓝图与标准答案。从简单的渔船、帆船，到铁甲舰与无畏舰！把脑海中的船一点点做出来。没有多余的目标，只留下造船本身的乐趣。(中文本地化全力制作中！）",
+    "is_free": false,
+    "price": "¥ 32.40",
+    "original_price": "¥ 36.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4339280"
+  },
+  {
+    "appid": 2350790,
+    "name": "夜勤人2：无尽宝库",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/1c4bd440cfe43a8cc059ee6e6998ee1646451dcf/header_alt_assets_4.jpg?t=1788369976",
+    "short_description": "体验这款融合 Roguelike 元素的动作角色扮演游戏，同时扮演冒险家与商人，尽享双重人生。踏入异彩纷呈的多维世界，迎战敌人、搜刮战利品、打理行囊，重振你的店铺，把利润化为装备，奔赴下一场冒险！",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 99.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2350790"
+  },
+  {
+    "appid": 4656000,
+    "name": "BOMBANANA!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
+    "short_description": "大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？",
+    "is_free": false,
+    "price": "¥ 17.98",
+    "original_price": "¥ 29.00",
+    "discount_percent": 38,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4656000"
   },
   {
     "appid": 4317690,
@@ -72,8 +161,8 @@
   {
     "appid": 4412000,
     "name": "Zad Archery",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412000/a54516126bfd79b8cfee92bbaeeb91896ebe3ddf/header.jpg?t=1788269212",
-    "short_description": "击落一波波目标，收集它们的战利品，并通过升级与技能不断变强——在这款不断扩展的增量游戏中永无止境地成长。",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412000/a54516126bfd79b8cfee92bbaeeb91896ebe3ddf/header.jpg?t=1788353672",
+    "short_description": "射落一波波靶子，收集它们的战利品，并通过升级与技能不断变强，尽享这款持续扩展的增量游戏。",
     "is_free": false,
     "price": "¥ 26.10",
     "original_price": "¥ 29.00",
@@ -88,95 +177,5 @@
     "release_date": "2026 年 9 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4412000"
-  },
-  {
-    "appid": 2412960,
-    "name": "呼吸边缘2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/cd085c90ed33d237d1f624c923e91f8aa17ce6c8/header_alt_assets_1_schinese.jpg?t=1788324312",
-    "short_description": "在宇宙边缘活下去！制作并升级工具，从残骸中搜刮资源，拯救一个已经彻底乱套的银河系。一个普普通通的爷们儿、一只不死的鸡，再加上一点强力胶带，真能救下整个宇宙吗？",
-    "is_free": false,
-    "price": "¥ 61.60",
-    "original_price": "¥ 77.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2412960"
-  },
-  {
-    "appid": 4538960,
-    "name": " 泽诺尼亚 1",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538960/f25c2ff778bf89922cba126556625d47a8a30ffa/header.jpg?t=1788159622",
-    "short_description": "各位，还记得吗？ 曾在2000年代风靡全球的浪漫RPG——《泽诺尼亚》重磅回归！ 从掌上开启的冒险，那些通宵成长的记忆，现在就在Steam平台再次重温。",
-    "is_free": false,
-    "price": "¥ 35.99",
-    "original_price": "¥ 39.99",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 8 月 31 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4538960"
-  },
-  {
-    "appid": 1331550,
-    "name": "Big Ambitions",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
-    "short_description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
-    "is_free": false,
-    "price": "¥ 75.57",
-    "original_price": "¥ 94.47",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 8 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1331550"
-  },
-  {
-    "appid": 3908940,
-    "name": "Inferno Protocol",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908940/45fdacf873c8ca3ba7cca576fcf03ac24a413462/header.jpg?t=1787929615",
-    "short_description": "A survival horror set in a massive maze. Play solo or 6-player co-op. Scavenge resources to craft gear and survive against terrifying enemies. Unlock unique abilities and find the exit.",
-    "is_free": false,
-    "price": "¥ 45.60",
-    "original_price": "¥ 57.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 8 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3908940"
-  },
-  {
-    "appid": 2713000,
-    "name": "共鸣：瘟疫传说传承",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/6dfa1d9ef7205356c608c8ec59122dc6d71716e4/header_schinese.jpg?t=1787925122",
-    "short_description": "本作的原创剧情在时间线上早于获奖作品《瘟疫传说》的故事，你将化身索菲亚，前往米诺陶岛，智取强敌，揭晓古老的秘密，直面凶煞诅咒之源的神话生物。",
-    "is_free": false,
-    "price": "¥ 199.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 8 月 27 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2713000"
   }
 ]
