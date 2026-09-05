@@ -1,5 +1,91 @@
 [
   {
+    "appid": 4356430,
+    "name": "《NBA 2K27》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788543808",
+    "short_description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "体育"
+    ],
+    "release_date": "2026 年 9 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4356430"
+  },
+  {
+    "appid": 4197830,
+    "name": "2026 年 Steam 玩家对战环境生存制作游戏节",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197830/57deb39cc876ca662133afe78add2ac53b905ce5/header_schinese.jpg?t=1786387626",
+    "short_description": "",
+    "is_free": false,
+    "price": "",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": null,
+    "release_date": "",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4197830"
+  },
+  {
+    "appid": 3547270,
+    "name": "居家扮工虫",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3547270/b46a5ed5b6593b91b24b18c534363a57a6a39e24/header_schinese.jpg?t=1788534479",
+    "short_description": "远程办公模拟器，你是一只虫子 :)",
+    "is_free": false,
+    "price": "¥ 18.74",
+    "original_price": "¥ 24.99",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3547270"
+  },
+  {
+    "appid": 4010900,
+    "name": "Retro Arcade Shop Simulator (复古街机厅)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010900/705eea09a44aa3cf9e921824351cd4be82368a2c/header.jpg?t=1788519279",
+    "short_description": "建立并经营您的终极复古街机厅！购买经典的街机框体、银河弹珠台和抓娃娃机，或投资建设8D影院、卡丁车和赛车模拟器。管理经济系统、雇佣员工，并及时维修机器，让游戏币源源不断地滚入！",
+    "is_free": false,
+    "price": "¥ 37.79",
+    "original_price": "¥ 41.99",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4010900"
+  },
+  {
+    "appid": 2798330,
+    "name": "地城拓荒 Dungeon Settlers",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/b046fa25081d5e3f40fd90d002f605734431785b/header_schinese.jpg?t=1788527075",
+    "short_description": "这是一款基于殖民地模拟的地牢爬行游戏，您要管理自己的部族，在贫瘠的土地上建立定居点，为族人提供食物和住所，带领他们深入无情的地牢，通过自己的策略战胜各种挑战。",
+    "is_free": false,
+    "price": "¥ 57.80",
+    "original_price": "¥ 68.00",
+    "discount_percent": 15,
+    "genres": [
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2798330"
+  },
+  {
     "appid": 2638890,
     "name": "鬼武者 Way of the Sword",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549",
@@ -18,20 +104,20 @@
     "store_url": "https://store.steampowered.com/app/2638890"
   },
   {
-    "appid": 4356430,
-    "name": "《NBA 2K27》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788494981",
-    "short_description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
+    "appid": 3639590,
+    "name": "Phantom PHANTOM OF INFERNO NITRO ARCHIVE",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639590/051a9587d9ad7ff74d7e29ef000f2072cfe92b56/header.jpg?t=1788489992",
+    "short_description": "NITRO ORIGIN的起点之作《Phantom PHANTOM OF INFERNO》现已登陆Steam！ 暗流涌动的阴谋，子弹横飞的狂潮。 在这风暴中央，一段关于少年与少女的悲伤故事悄然展开。",
     "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 75.60",
+    "original_price": "¥ 108.00",
+    "discount_percent": 30,
     "genres": [
-      "体育"
+      "冒险"
     ],
     "release_date": "2026 年 9 月 3 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4356430"
+    "store_url": "https://store.steampowered.com/app/3639590"
   },
   {
     "appid": 2776270,
@@ -52,27 +138,6 @@
     "store_url": "https://store.steampowered.com/app/2776270"
   },
   {
-    "appid": 3183760,
-    "name": "SpeedRunners 2: King of Speed",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183760/90d806176deb5dabe1f2d08f15e3a98e8932d395/header_alt_assets_2_schinese.jpg?t=1788467143",
-    "short_description": "《极速跑者2》是一款快节奏的多人平台游戏。在这款游戏中，超级英雄宿敌们将利用跑酷、钩爪以及力挽狂澜的道具，展开一场又一场惊心动魄的急速狂飙。落后者会被不断溃缩的火圈淘汰——直到只剩下最后一名奔跑者。",
-    "is_free": false,
-    "price": "¥ 31.49",
-    "original_price": "¥ 34.99",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "竞速",
-      "体育",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 9 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3183760"
-  },
-  {
     "appid": 1890310,
     "name": "Rogue Blight",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1890310/6400a0a119c1a33013877d53ee340000f4e06994/header.jpg?t=1788451526",
@@ -91,27 +156,9 @@
     "store_url": "https://store.steampowered.com/app/1890310"
   },
   {
-    "appid": 2770330,
-    "name": "混沌兵团",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770330/1f7eff019c763e812feb612c1925d89db5776446/header_schinese.jpg?t=1788504036",
-    "short_description": "一款回合制宇宙机甲佣兵团游戏。你将率领佣兵团投入内海战争，招募各有不同故事背景和技能的驾驶员和舰长，购买和改装舰艇、机甲、巨炮和战机，接受多种多样的任务，逐渐扩大实力，参与银河列强之间的交战，改变整个战局，迎来不同的故事路线。",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2770330"
-  },
-  {
     "appid": 3751260,
     "name": "The Blood of Dawnwalker 黎明行者之血",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788552059",
     "short_description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -125,58 +172,5 @@
     "release_date": "2026 年 9 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3751260"
-  },
-  {
-    "appid": 5027520,
-    "name": "Megastore: Tidy Up Together",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5027520/b379f48c766d670878342739cafbdabc59118cad/header.jpg?t=1788371936",
-    "short_description": "Megastore: Tidy Up Together 是一款温馨舒适的整理游戏，支持单人和在线合作游玩。整理三家规模逐渐扩大的商店：玩具店、繁忙的超市，以及庞大的双层大型综合商店。拾取、分类并上架数千件商品，为开业做好准备！",
-    "is_free": false,
-    "price": "¥ 22.10",
-    "original_price": "¥ 26.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5027520"
-  },
-  {
-    "appid": 2350790,
-    "name": "夜勤人2：无尽宝库",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/1c4bd440cfe43a8cc059ee6e6998ee1646451dcf/header_alt_assets_4.jpg?t=1788369976",
-    "short_description": "体验这款融合 Roguelike 元素的动作角色扮演游戏，同时扮演冒险家与商人，尽享双重人生。踏入异彩纷呈的多维世界，迎战敌人、搜刮战利品、打理行囊，重振你的店铺，把利润化为装备，奔赴下一场冒险！",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 99.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2350790"
-  },
-  {
-    "appid": 4656000,
-    "name": "BOMBANANA!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
-    "short_description": "大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？",
-    "is_free": false,
-    "price": "¥ 17.98",
-    "original_price": "¥ 29.00",
-    "discount_percent": 38,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4656000"
   }
 ]
