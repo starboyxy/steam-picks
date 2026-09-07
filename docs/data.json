@@ -34,27 +34,9 @@
     "store_url": "https://store.steampowered.com/app/3547270"
   },
   {
-    "appid": 4010900,
-    "name": "Retro Arcade Shop Simulator (复古街机厅)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010900/705eea09a44aa3cf9e921824351cd4be82368a2c/header.jpg?t=1788519279",
-    "short_description": "建立并经营您的终极复古街机厅！购买经典的街机框体、银河弹珠台和抓娃娃机，或投资建设8D影院、卡丁车和赛车模拟器。管理经济系统、雇佣员工，并及时维修机器，让游戏币源源不断地滚入！",
-    "is_free": false,
-    "price": "¥ 37.79",
-    "original_price": "¥ 41.99",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 9 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4010900"
-  },
-  {
     "appid": 2798330,
     "name": "地城拓荒 Dungeon Settlers",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/b046fa25081d5e3f40fd90d002f605734431785b/header_schinese.jpg?t=1788527075",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/b046fa25081d5e3f40fd90d002f605734431785b/header_schinese.jpg?t=1788710401",
     "short_description": "这是一款基于殖民地模拟的地牢爬行游戏，您要管理自己的部族，在贫瘠的土地上建立定居点，为族人提供食物和住所，带领他们深入无情的地牢，通过自己的策略战胜各种挑战。",
     "is_free": false,
     "price": "¥ 57.80",
@@ -72,7 +54,7 @@
   {
     "appid": 2638890,
     "name": "鬼武者 Way of the Sword",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788758919",
     "short_description": "本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？",
     "is_free": false,
     "price": "¥ 298.00",
@@ -102,24 +84,6 @@
     "release_date": "2026 年 9 月 3 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4356430"
-  },
-  {
-    "appid": 2776270,
-    "name": "Beetleball",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776270/f9937d880e8d9b09e58fdfbedd74313ad8118af3/header.jpg?t=1788454817",
-    "short_description": "在《Beetleball》中用粪球进球得分，体验史上最伟大的在线多人职业制屎壳郎足球游戏",
-    "is_free": false,
-    "price": "¥ 24.54",
-    "original_price": "¥ 28.88",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "独立",
-      "体育"
-    ],
-    "release_date": "2026 年 9 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2776270"
   },
   {
     "appid": 3751260,
@@ -174,5 +138,40 @@
     "release_date": "2026 年 9 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2350790"
+  },
+  {
+    "appid": 4656000,
+    "name": "BOMBANANA!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
+    "short_description": "大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？",
+    "is_free": false,
+    "price": "¥ 17.98",
+    "original_price": "¥ 29.00",
+    "discount_percent": 38,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4656000"
+  },
+  {
+    "appid": 3905450,
+    "name": "WheelMates (双轮成行)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905450/77c8adc4c5c11a80f0ae22633789396a0f313433/header.jpg?t=1788429316",
+    "short_description": "叫上朋友，一起驾驶两辆迷你 RC 小车，开启一段合作竞速冒险。探索教授的家庭实验室，在放大版的场景中解开谜题，寻找隐藏路径，并揭开这里究竟发生了什么。",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "竞速"
+    ],
+    "release_date": "2026 年 9 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3905450"
   }
 ]
