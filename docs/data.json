@@ -1,17 +1,60 @@
 [
   {
-    "appid": 4197830,
-    "name": "2026 年 Steam 玩家对战环境生存制作游戏节",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197830/57deb39cc876ca662133afe78add2ac53b905ce5/header_schinese.jpg?t=1786387626",
-    "short_description": "",
+    "appid": 1864690,
+    "name": "Veterum",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1864690/90ba94c54ee10c9fce4fc71aafdb0b5ef094528e/header.jpg?t=1788796867",
+    "short_description": "回合制战术策略游戏，拥有详尽的战斗系统和可互动的环境。探索开放世界，完成任务，寻找稀有神器。率领守门人骑士团的最后一支军队，阻止即将到来的混沌！",
     "is_free": false,
-    "price": "",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": null,
-    "release_date": "",
+    "price": "¥ 64.60",
+    "original_price": "¥ 76.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 7 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4197830"
+    "store_url": "https://store.steampowered.com/app/1864690"
+  },
+  {
+    "appid": 3375110,
+    "name": "Tiny Eden",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/0b5b185315c8df684c2566c2e9c74fb85432b9aa/header.jpg?t=1788794089",
+    "short_description": "一款温馨惬意的第一人称园艺模拟游戏，舞台设在未来都市的中心。种植植物，用亲手收获的食材烹饪美食，发现新品种，将你的公寓一步步打造成生机勃勃的都市花园，从小小阳台一直扩展到屋顶乐园。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3375110"
+  },
+  {
+    "appid": 3084810,
+    "name": "Tower Lab",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084810/1cb7af04cc9a87294f1eac0cdd2911532fd3e7a3/header.jpg?t=1788848749",
+    "short_description": "敌人没有生命值，把它们推出场外就好！在这款 Roguelite 塔防游戏中，将物理法则化作武器。构筑卡组，串联防御塔组成会动的机关，随心放大或缩小每一枚投射物，把成群结队的机器人轰下边缘！",
+    "is_free": false,
+    "price": "¥ 35.10",
+    "original_price": "¥ 39.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 7 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3084810"
   },
   {
     "appid": 3547270,
@@ -36,7 +79,7 @@
   {
     "appid": 2798330,
     "name": "地城拓荒 Dungeon Settlers",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/b046fa25081d5e3f40fd90d002f605734431785b/header_schinese.jpg?t=1788710401",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/3ed540fb4b77fe9b981e438cad0e4dbbda99dea7/header_schinese.jpg?t=1788833906",
     "short_description": "这是一款基于殖民地模拟的地牢爬行游戏，您要管理自己的部族，在贫瘠的土地上建立定居点，为族人提供食物和住所，带领他们深入无情的地牢，通过自己的策略战胜各种挑战。",
     "is_free": false,
     "price": "¥ 57.80",
@@ -88,7 +131,7 @@
   {
     "appid": 3751260,
     "name": "The Blood of Dawnwalker 黎明行者之血",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788552059",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788784813",
     "short_description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -138,40 +181,5 @@
     "release_date": "2026 年 9 月 2 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2350790"
-  },
-  {
-    "appid": 4656000,
-    "name": "BOMBANANA!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
-    "short_description": "大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？",
-    "is_free": false,
-    "price": "¥ 17.98",
-    "original_price": "¥ 29.00",
-    "discount_percent": 38,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4656000"
-  },
-  {
-    "appid": 3905450,
-    "name": "WheelMates (双轮成行)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905450/77c8adc4c5c11a80f0ae22633789396a0f313433/header.jpg?t=1788429316",
-    "short_description": "叫上朋友，一起驾驶两辆迷你 RC 小车，开启一段合作竞速冒险。探索教授的家庭实验室，在放大版的场景中解开谜题，寻找隐藏路径，并揭开这里究竟发生了什么。",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "竞速"
-    ],
-    "release_date": "2026 年 9 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3905450"
   }
 ]
