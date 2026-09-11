@@ -1,181 +1,185 @@
 [
   {
-    "appid": 4391380,
-    "name": "Artillery Miner",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391380/715bcdbb8b875a7557a03a890fb415e67aad066d/header.jpg?t=1788991711",
-    "short_description": "一款增量式采矿游戏，你将使用枪械、火焰、激光和核导弹穿透巨型岩块。探索新矿藏，解锁新世界与武器，在升级树中不断进阶，最终成为终极炮兵矿工！",
+    "appid": 1867240,
+    "name": "WARDOGS",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
+    "short_description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
     "is_free": false,
-    "price": "¥ 28.05",
-    "original_price": "¥ 33.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4391380"
-  },
-  {
-    "appid": 3123060,
-    "name": "Warlord: Awaji",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123060/dedefa92d746f70050c21c0e0ca1d69a15902ae0/header.jpg?t=1789000866",
-    "short_description": "带领武士入侵神秘的淡路岛！探索古老的封建日本世界，招募，晋升并升级你的勇士。使用武士武器和策略来征服整座岛屿，成为军阀！",
-    "is_free": false,
-    "price": "¥ 83.70",
-    "original_price": "¥ 93.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3123060"
-  },
-  {
-    "appid": 3306920,
-    "name": "Cosmic Fear",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306920/header.jpg?t=1788973217",
-    "short_description": "你发现了自人类起源以来一直影响人类的宇宙存在的证据。如今，诞生于宇宙深处的某种力量再次呼唤你。调查、揭开禁忌知识，并在这场令人不安的第一人称洛夫克拉夫特式恐怖冒险中努力生存。",
-    "is_free": false,
-    "price": "¥ 65.45",
-    "original_price": "¥ 77.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3306920"
-  },
-  {
-    "appid": 4030150,
-    "name": "幻世录 重制版",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030150/96f3c10eeb4e5aa7671448cb437d3fd354fa8683/header_schinese.jpg?t=1788968730",
-    "short_description": "\u0026quot;《幻世录 重制版》是一款以剧情为核心的战略角色扮演游戏，让一款深受玩家珍爱的经典 SRPG 再次苏醒。 万载流转，法鲁西翁大陆于神魔大战的余烬中复苏。在暗潮涌动、和平盟约几近无效的年代，你，将升起动荡这片土地的狼烟。 本作将传统战棋策略的严谨与宏大的史诗叙事熔铸一炉。在这里，你手中的棋子不只是士兵，更是搅动世界命运的关键；每一次落子，都将在权力的漩涡与种族的宿怨中，掀起改变世界走向的狂澜。\u0026quot;",
-    "is_free": false,
-    "price": "¥ 81.00",
-    "original_price": "¥ 90.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4030150"
-  },
-  {
-    "appid": 4659620,
-    "name": "东方红魔乡：新典　～ the Embodiment of Scarlet Devil.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659620/a03579d4419322c103d139b1862ebd985659f7bc/header_schinese.jpg?t=1788964897",
-    "short_description": "躲避弹幕击败敌人，挑战红雾异变！历经成长的开发者（自称）重新制作的《东方红魔乡》。这是一款操控巫女灵梦和魔法使魔理沙，一边躲避满屏弹幕一边挑战异变的射击游戏。所有音乐均由 ZUN 全新编曲。",
-    "is_free": false,
-    "price": "",
+    "price": "¥ 149.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
-      "独立"
+      "独立",
+      "大型多人在线",
+      "模拟",
+      "抢先体验"
     ],
-    "release_date": "2026 年 9 月 9 日",
+    "release_date": "2026 年 9 月 10 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4659620"
+    "store_url": "https://store.steampowered.com/app/1867240"
   },
   {
-    "appid": 2780710,
-    "name": "阿斯加德的陨落",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780710/1c622a1a0b975d3202448e2a17e6778a6dc95469/header.jpg?t=1788960084",
-    "short_description": "在《Asgard's Fall》中踏上史诗传奇之旅，体验北欧神话版的幸存者类Roguelite游戏。击退一波波的怪物大军，让诸神感受你的无情怒火。你的传奇之旅如何展开？",
+    "appid": 1465470,
+    "name": "The Crust",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465470/7458a8b466e5b906e4ddf1a13a0d0c0c6fb65d37/header_alt_assets_18.jpg?t=1789065557",
+    "short_description": "欢迎来到《The Crust》，一款游戏将让您成为一家大型月球殖民公司的首席执行官。这是个大规模的经济模拟，也带来生存的要素，以及丰富的设置和戏剧脚本。",
     "is_free": false,
-    "price": "¥ 19.50",
-    "original_price": "¥ 39.00",
-    "discount_percent": 50,
+    "price": "¥ 64.35",
+    "original_price": "¥ 99.00",
+    "discount_percent": 35,
     "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
+      "模拟",
       "策略"
     ],
-    "release_date": "2026 年 9 月 9 日",
+    "release_date": "2026 年 9 月 10 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2780710"
+    "store_url": "https://store.steampowered.com/app/1465470"
   },
   {
-    "appid": 892970,
-    "name": "Valheim: 英灵神殿",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
-    "short_description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
+    "appid": 1498550,
+    "name": "英菲尼迪：六角穹顶竞技场",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498550/f0c6647917528ab12e4318230aa356740c4a6568/header.jpg?t=1789056142",
+    "short_description": "在单人模式中探索Aristeia世界的故事，或冲入PvP对战！回合制战斗、12位英雄、多样竞技场、数十张战术卡牌构筑卡组。组建完美阵容，释放数百种疯狂连招，成为HexaDome冠军。别忘了叫上朋友！",
     "is_free": false,
-    "price": "¥ 89.00",
+    "price": "¥ 62.99",
+    "original_price": "¥ 69.99",
+    "discount_percent": 10,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1498550"
+  },
+  {
+    "appid": 4627500,
+    "name": "《无主之地®4》- 黑客无爱",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627500/217b0122c6b63aa3f08566f25b82687b982d2864/header.jpg?t=1789055910",
+    "short_description": "扮演全新的秘藏猎人“黑客无爱”，在整个凯洛斯运用她独特的主动技能和技能树。这名共生刺客与一种能够化身为凶猛宠物蛇龙的病毒共享心智。",
+    "is_free": false,
+    "price": "¥ 48.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
       "冒险",
-      "独立",
       "角色扮演"
     ],
-    "release_date": "2026 年 9 月 9 日",
+    "release_date": "2026 年 9 月 10 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/892970"
+    "store_url": "https://store.steampowered.com/app/4627500"
   },
   {
-    "appid": 3711050,
-    "name": "BeaterCore",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711050/218327d5053e8920e01244b483c3fcf72cb59aa4/header.jpg?t=1788940842",
-    "short_description": "beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car",
+    "appid": 3271280,
+    "name": "菇域幽城",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271280/aa3e65ddabbb9b06499cc18b8bc9f77077d4d385/header_schinese.jpg?t=1789058729",
+    "short_description": "在《Shroom and Gloom — 菇域幽城》中收集并升级卡牌！这是一款风格独特的roguelike第一人称双牌库构筑游戏，有着成群结队的真菌敌人和数之不尽的奇妙combo！",
     "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "竞速"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3711050"
-  },
-  {
-    "appid": 3971950,
-    "name": "In Falsus",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971950/d60e71e91ee1e1b3edbdeed13e52e3423727be7a/header.jpg?t=1788940567",
-    "short_description": "在被真实裹挟的世界里，「连接」。《In Falsus》将细致的卡牌系统与层层递进的剧情紧密结合，是一款魅力独特的节奏游戏。通过五位主角的不同视角体验相互交织的故事，享受深刻反映剧情的各式乐曲，纵身沉浸于近未来的鲜艳世界之中。",
-    "is_free": false,
-    "price": "¥ 149.40",
-    "original_price": "¥ 166.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3971950"
-  },
-  {
-    "appid": 3219630,
-    "name": "Halloween: The Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1788897758",
-    "short_description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
-    "is_free": false,
-    "price": "¥ 137.00",
+    "price": "¥ 59.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "动作"
+      "冒险",
+      "独立",
+      "抢先体验"
     ],
-    "release_date": "2026 年 9 月 8 日",
+    "release_date": "2026 年 9 月 10 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3219630"
+    "store_url": "https://store.steampowered.com/app/3271280"
+  },
+  {
+    "appid": 3560360,
+    "name": "Forsworn",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/95afd9e30101e40d544899eb9968d9d02236ae59/header_alt_assets_0.jpg?t=1789055128",
+    "short_description": "叠加逆天连携，直到你的队伍足以弑神。在这款回合制战术 Roguelite 中，统领一支英雄队伍，构筑强力的连携组合，并在一次次冒险中不断成长。单人或合作挑战诸神，败北只是又一次新的开始。",
+    "is_free": false,
+    "price": "¥ 50.40",
+    "original_price": "¥ 63.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3560360"
+  },
+  {
+    "appid": 3195440,
+    "name": "欢迎来到古原镇",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195440/0fa5fadb0054ed2bb0d74c3196194fa6661908ae/header_schinese.jpg?t=1789053771",
+    "short_description": "精美手绘艺术风格，搭配暗黑风格Lofi音乐，温馨又恐怖的古原镇等你来探索！在这款角色扮演游戏中种田畜牧，与小镇居民成为朋友或伴侣，调查各类秘诡，装饰自己的小窝，与恐怖的生物激战，钓鱼烹饪，寻找古神，每晚睡下都有可能再也无法醒来……古原镇的生活精彩纷呈，你绝不会感到无聊！",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3195440"
+  },
+  {
+    "appid": 4412320,
+    "name": "Dumb Ways to Build",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412320/7182e312b98a494c3e498667b132693e9e4f6a0f/header.jpg?t=1789053992",
+    "short_description": "《Dumb Ways To Build》是一款充满混乱的多人合作物理建造游戏。拉上好友，组建你的施工队，挑战危险重重的建筑工作。带上满满的装备和空空的大脑，齐心协力铺就前行之路，要么成功要么蠢死！",
+    "is_free": false,
+    "price": "¥ 28.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4412320"
+  },
+  {
+    "appid": 4013510,
+    "name": "怪物炼金术 Monster Alchemy",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013510/5d480884fde7bf771036f9668b54009b4db88c5c/header_schinese.jpg?t=1789034429",
+    "short_description": "创造独一无二的生物，用它们采集稀有资源，再将它们融合成更强大的存在！ 在这款角色扮演游戏中，经典的探索玩法与深度的合成系统相结合——你的怪物，将是你在收集、战斗与冒险中最得力的助手。",
+    "is_free": false,
+    "price": "¥ 51.00",
+    "original_price": "¥ 60.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4013510"
+  },
+  {
+    "appid": 2821390,
+    "name": "HOT WHEELS™ Infinite Rush",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/fcc8da12187b981034dd54170d47b45db8e22b8e/header.jpg?t=1789052574",
+    "short_description": "跃入一个Hot Wheels™大小的世界，四座岛屿上活动、挑战与全速狂飙层出不穷。收集经典车辆，组建你的Rush Squad，打造史诗赛道，赢得Rush Master头衔。",
+    "is_free": false,
+    "price": "¥ 248.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "竞速"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2821390"
   }
 ]
