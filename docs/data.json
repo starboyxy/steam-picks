@@ -1,5 +1,81 @@
 [
   {
+    "appid": 275850,
+    "name": "No Man's Sky 无人深空",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789027039",
+    "short_description": "《无人深空》是一款打破边界的科幻游戏，通过创新的随机生成技术，打造了一个无尽宇宙供玩家自由探索，玩家可以穿越星际、挖掘未知星球、建立基地并与神秘外星生物共生，每个探险家都将书写属于自己的宇宙传奇。",
+    "is_free": false,
+    "price": "¥ 70.00",
+    "original_price": "¥ 175.00",
+    "discount_percent": 60,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2016 年 8 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/275850"
+  },
+  {
+    "appid": 3393280,
+    "name": "动漫商店模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393280/addf6327ac73b1cd42cfc66b9c79f329a742a395/header.jpg?t=1789166827",
+    "short_description": "经营属于你自己的动漫商店🎌。单人游玩，或是与好友组队🤝，支持最多4人联机合作，一同发展你的业务📈。在这款沉浸式第一人称游戏中，将漫画、手办与收藏卡牌摆满货架🕹️。",
+    "is_free": false,
+    "price": "¥ 34.00",
+    "original_price": "¥ 40.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "大型多人在线",
+      "角色扮演",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 9 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3393280"
+  },
+  {
+    "appid": 4150860,
+    "name": "The Loopler",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/09d7133669532b1fe8acc93b4808d122a77ade51/header.jpg?t=1789163834",
+    "short_description": "《环形车道》是一款模拟汽车在环形赛道上循环行驶的放置类roguelite游戏。选择升级部件，设置赛道闸门，然后坐下来放松身心——当迷人的环形赛道启动时，数字不断攀升带来的多巴胺冲击将充盈你的大脑。看看你能否实现永无止境的循环之旅。",
+    "is_free": false,
+    "price": "¥ 44.99",
+    "original_price": "¥ 49.99",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "竞速",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4150860"
+  },
+  {
+    "appid": 1465470,
+    "name": "The Crust",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465470/7458a8b466e5b906e4ddf1a13a0d0c0c6fb65d37/header_alt_assets_18.jpg?t=1789119232",
+    "short_description": "欢迎来到《The Crust》，一款游戏将让您成为一家大型月球殖民公司的首席执行官。这是个大规模的经济模拟，也带来生存的要素，以及丰富的设置和戏剧脚本。",
+    "is_free": false,
+    "price": "¥ 64.35",
+    "original_price": "¥ 99.00",
+    "discount_percent": 35,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 10 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1465470"
+  },
+  {
     "appid": 1867240,
     "name": "WARDOGS",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
@@ -18,57 +94,6 @@
     "release_date": "2026 年 9 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1867240"
-  },
-  {
-    "appid": 1465470,
-    "name": "The Crust",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465470/7458a8b466e5b906e4ddf1a13a0d0c0c6fb65d37/header_alt_assets_18.jpg?t=1789065557",
-    "short_description": "欢迎来到《The Crust》，一款游戏将让您成为一家大型月球殖民公司的首席执行官。这是个大规模的经济模拟，也带来生存的要素，以及丰富的设置和戏剧脚本。",
-    "is_free": false,
-    "price": "¥ 64.35",
-    "original_price": "¥ 99.00",
-    "discount_percent": 35,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1465470"
-  },
-  {
-    "appid": 1498550,
-    "name": "英菲尼迪：六角穹顶竞技场",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498550/f0c6647917528ab12e4318230aa356740c4a6568/header.jpg?t=1789056142",
-    "short_description": "在单人模式中探索Aristeia世界的故事，或冲入PvP对战！回合制战斗、12位英雄、多样竞技场、数十张战术卡牌构筑卡组。组建完美阵容，释放数百种疯狂连招，成为HexaDome冠军。别忘了叫上朋友！",
-    "is_free": false,
-    "price": "¥ 62.99",
-    "original_price": "¥ 69.99",
-    "discount_percent": 10,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1498550"
-  },
-  {
-    "appid": 4627500,
-    "name": "《无主之地®4》- 黑客无爱",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627500/217b0122c6b63aa3f08566f25b82687b982d2864/header.jpg?t=1789055910",
-    "short_description": "扮演全新的秘藏猎人“黑客无爱”，在整个凯洛斯运用她独特的主动技能和技能树。这名共生刺客与一种能够化身为凶猛宠物蛇龙的病毒共享心智。",
-    "is_free": false,
-    "price": "¥ 48.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4627500"
   },
   {
     "appid": 3271280,
@@ -165,21 +190,5 @@
     "release_date": "2026 年 9 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4013510"
-  },
-  {
-    "appid": 2821390,
-    "name": "HOT WHEELS™ Infinite Rush",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/fcc8da12187b981034dd54170d47b45db8e22b8e/header.jpg?t=1789052574",
-    "short_description": "跃入一个Hot Wheels™大小的世界，四座岛屿上活动、挑战与全速狂飙层出不穷。收集经典车辆，组建你的Rush Squad，打造史诗赛道，赢得Rush Master头衔。",
-    "is_free": false,
-    "price": "¥ 248.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2821390"
   }
 ]
