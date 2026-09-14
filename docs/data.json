@@ -1,22 +1,5 @@
 [
   {
-    "appid": 4071460,
-    "name": "Tentacle Locker 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071460/ee78bb59adc99344b517244e28b0884de28ee045/header.jpg?t=1789180136",
-    "short_description": "在这款轻松有趣的横版游戏中，你将扮演一只调皮捣蛋的触手怪。你可以藏在储物柜里伺机而动，找准时机跳出来抓住毫无防备的学生来赚取金币。用赚到的钱解锁各种搞怪的外观装饰，在地图里尽情制造欢乐又混乱的场面吧！",
-    "is_free": false,
-    "price": "¥ 23.20",
-    "original_price": "¥ 29.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4071460"
-  },
-  {
     "appid": 3393280,
     "name": "动漫商店模拟器",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393280/addf6327ac73b1cd42cfc66b9c79f329a742a395/header.jpg?t=1789242099",
@@ -171,24 +154,38 @@
     "store_url": "https://store.steampowered.com/app/4412320"
   },
   {
-    "appid": 4013510,
-    "name": "怪物炼金术 Monster Alchemy",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013510/5d480884fde7bf771036f9668b54009b4db88c5c/header_schinese.jpg?t=1789034429",
-    "short_description": "创造独一无二的生物，用它们采集稀有资源，再将它们融合成更强大的存在！ 在这款角色扮演游戏中，经典的探索玩法与深度的合成系统相结合——你的怪物，将是你在收集、战斗与冒险中最得力的助手。",
+    "appid": 3396010,
+    "name": "Black Friday Janitor: Clean the Whole Mall",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396010/41253ba91e9865e6644784f06985c58c1b465479/header.jpg?t=1789256293",
+    "short_description": "Black Friday Janitor 是一款整理收纳游戏，一年中规模最大的清扫任务正等着你！疯狂的购物热潮过后，商场里一片狼藉，超过30,000件物品需要整理。把放错位置的商品摆回原位、收集垃圾、刷洗污渍，还要扶正倒下的家具。各种商店各有各的商品，等你一一整理归位。解锁并提升清洁技能，更快地把商场整理干净。在熟悉的灯光与环境音中，感受2000年代商场温馨怀旧的氛围，让这里重现往日整洁光亮的模样。别指望一口气全做完！",
     "is_free": false,
-    "price": "¥ 51.00",
-    "original_price": "¥ 60.00",
+    "price": "¥ 22.10",
+    "original_price": "¥ 26.00",
     "discount_percent": 15,
     "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "策略",
-      "抢先体验"
+      "模拟"
     ],
-    "release_date": "2026 年 9 月 10 日",
+    "release_date": "2026 年 9 月 9 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4013510"
+    "store_url": "https://store.steampowered.com/app/3396010"
+  },
+  {
+    "appid": 3123060,
+    "name": "Warlord: Awaji",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123060/dedefa92d746f70050c21c0e0ca1d69a15902ae0/header.jpg?t=1789346406",
+    "short_description": "带领武士入侵神秘的淡路岛！探索古老的封建日本世界，招募，晋升并升级你的勇士。使用武士武器和策略来征服整座岛屿，成为军阀！",
+    "is_free": false,
+    "price": "¥ 83.70",
+    "original_price": "¥ 93.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3123060"
   }
 ]
