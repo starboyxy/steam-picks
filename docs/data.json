@@ -1,8 +1,131 @@
 [
   {
+    "appid": 3180340,
+    "name": "RIG Riot",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180340/header.jpg?t=1789405196",
+    "short_description": "RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3180340"
+  },
+  {
+    "appid": 3070070,
+    "name": "TCG卡牌店模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789408342",
+    "short_description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
+    "is_free": false,
+    "price": "¥ 65.45",
+    "original_price": "¥ 77.00",
+    "discount_percent": 15,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3070070"
+  },
+  {
+    "appid": 4221990,
+    "name": "Fish Lab",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/dcbb43f81e7d2bf1d7c89438c34195cbe45b38b1/header.jpg?t=1789401717",
+    "short_description": "一款简短的放置类游戏，为你的实验室收集鱼类。与音乐同步。",
+    "is_free": false,
+    "price": "¥ 24.65",
+    "original_price": "¥ 29.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4221990"
+  },
+  {
+    "appid": 2280060,
+    "name": "Tenebris: Terra Incognita",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280060/07cec93fd0db10f16734ca3be40458c22b3ba79d/header.jpg?t=1789398051",
+    "short_description": "这是一款回合制战术 RPG 游戏，您将探索一个充满可怕怪物的严酷星球。尝试为 23 名英雄打造天赋。将能力与装备和其他角色相结合。组建一支小队，了解 Tenebris 星球的秘密！",
+    "is_free": false,
+    "price": "¥ 51.75",
+    "original_price": "¥ 69.00",
+    "discount_percent": 25,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2280060"
+  },
+  {
+    "appid": 4573090,
+    "name": "米粒新世界",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573090/70a01e25507c30b244a60c939416391a326503a7/header_schinese.jpg?t=1789452015",
+    "short_description": "人类已经消失，只剩忙忙碌碌的米粒！在增量放置点击的过程中壮大族群，采集资源、培育树干、制造设施、扩散分工，并应对各类随机事件，让文明在郁郁葱葱的树冠之间繁衍生息，把桌面变成小家伙们的游乐场。",
+    "is_free": false,
+    "price": "¥ 16.50",
+    "original_price": "¥ 22.00",
+    "discount_percent": 25,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4573090"
+  },
+  {
+    "appid": 4300090,
+    "name": "焕然一新的收纳生活",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300090/5d95d01b5ea3f5a3e2e9020f027465d947055880/header_schinese.jpg?t=1789404909",
+    "short_description": "不知不觉，生活和房间都变得一团乱？别担心，马上就会焕然一新！在《焕然一新的收纳生活》中，成为一名收纳师。整理房间、收纳物品，让杂乱的空间重现秩序。在轻松沉浸的整理过程中，倾听隐藏在杂乱背后的温情故事；在和解与自我成长中，释放长久累积的压力。体验治愈解压的收纳之旅，让心情与生活一同焕然一新。",
+    "is_free": false,
+    "price": "¥ 29.40",
+    "original_price": "¥ 42.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4300090"
+  },
+  {
+    "appid": 3947460,
+    "name": "公会创世纪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947460/7ee9410122be638f4266c948418617cc2ea37d2e/header_alt_assets_0_schinese.jpg?t=1789379723",
+    "short_description": "冒险为何而启，公会为何而兴？在战火席卷的大陆上，你将执掌公会，召集冒险小队开荒副本、完成首杀，体验经典RPG冒险！从地下城探索到史诗Boss挑战，获取装备、强化阵容。与此同时经营公会领地、建设城镇、调配资源，持续壮大势力，在这片传奇大陆再次写属于你的公会荣光！",
+    "is_free": false,
+    "price": "¥ 33.60",
+    "original_price": "¥ 48.00",
+    "discount_percent": 30,
+    "genres": [
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 14 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3947460"
+  },
+  {
     "appid": 3393280,
     "name": "动漫商店模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393280/addf6327ac73b1cd42cfc66b9c79f329a742a395/header.jpg?t=1789242099",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393280/addf6327ac73b1cd42cfc66b9c79f329a742a395/header.jpg?t=1789417209",
     "short_description": "经营属于你自己的动漫商店🎌。单人游玩，或是与好友组队🤝，支持最多4人联机合作，一同发展你的业务📈。在这款沉浸式第一人称游戏中，将漫画、手办与收藏卡牌摆满货架🕹️。",
     "is_free": false,
     "price": "¥ 34.00",
@@ -27,8 +150,8 @@
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/09d7133669532b1fe8acc93b4808d122a77ade51/header.jpg?t=1789248956",
     "short_description": "The Loopler 是一款以在迷人的环形赛道上飞驰的槽车为主题的Roguelite卡牌构建游戏。挑选卡牌、布置闸门、收集护身符。随着分数不断攀升，多巴胺充盈大脑，沉浸于这无尽的循环之中。在追求无限的征途中，看看你能走多远。",
     "is_free": false,
-    "price": "¥ 44.99",
-    "original_price": "¥ 49.99",
+    "price": "¥ 31.49",
+    "original_price": "¥ 34.99",
     "discount_percent": 10,
     "genres": [
       "休闲",
@@ -57,135 +180,5 @@
     "release_date": "2026 年 9 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/1465470"
-  },
-  {
-    "appid": 1867240,
-    "name": "WARDOGS",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
-    "short_description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
-    "is_free": false,
-    "price": "¥ 149.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立",
-      "大型多人在线",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1867240"
-  },
-  {
-    "appid": 3271280,
-    "name": "菇域幽城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271280/aa3e65ddabbb9b06499cc18b8bc9f77077d4d385/header_schinese.jpg?t=1789058729",
-    "short_description": "在《Shroom and Gloom — 菇域幽城》中收集并升级卡牌！这是一款风格独特的roguelike第一人称双牌库构筑游戏，有着成群结队的真菌敌人和数之不尽的奇妙combo！",
-    "is_free": false,
-    "price": "¥ 59.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3271280"
-  },
-  {
-    "appid": 3560360,
-    "name": "Forsworn",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/95afd9e30101e40d544899eb9968d9d02236ae59/header_alt_assets_0.jpg?t=1789055128",
-    "short_description": "叠加逆天连携，直到你的队伍足以弑神。在这款回合制战术 Roguelite 中，统领一支英雄队伍，构筑强力的连携组合，并在一次次冒险中不断成长。单人或合作挑战诸神，败北只是又一次新的开始。",
-    "is_free": false,
-    "price": "¥ 50.40",
-    "original_price": "¥ 63.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3560360"
-  },
-  {
-    "appid": 3195440,
-    "name": "欢迎来到古原镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195440/0fa5fadb0054ed2bb0d74c3196194fa6661908ae/header_schinese.jpg?t=1789053771",
-    "short_description": "精美手绘艺术风格，搭配暗黑风格Lofi音乐，温馨又恐怖的古原镇等你来探索！在这款角色扮演游戏中种田畜牧，与小镇居民成为朋友或伴侣，调查各类秘诡，装饰自己的小窝，与恐怖的生物激战，钓鱼烹饪，寻找古神，每晚睡下都有可能再也无法醒来……古原镇的生活精彩纷呈，你绝不会感到无聊！",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3195440"
-  },
-  {
-    "appid": 4412320,
-    "name": "Dumb Ways to Build",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412320/7182e312b98a494c3e498667b132693e9e4f6a0f/header.jpg?t=1789053992",
-    "short_description": "《Dumb Ways To Build》是一款充满混乱的多人合作物理建造游戏。拉上好友，组建你的施工队，挑战危险重重的建筑工作。带上满满的装备和空空的大脑，齐心协力铺就前行之路，要么成功要么蠢死！",
-    "is_free": false,
-    "price": "¥ 28.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4412320"
-  },
-  {
-    "appid": 3396010,
-    "name": "Black Friday Janitor: Clean the Whole Mall",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396010/41253ba91e9865e6644784f06985c58c1b465479/header.jpg?t=1789256293",
-    "short_description": "Black Friday Janitor 是一款整理收纳游戏，一年中规模最大的清扫任务正等着你！疯狂的购物热潮过后，商场里一片狼藉，超过30,000件物品需要整理。把放错位置的商品摆回原位、收集垃圾、刷洗污渍，还要扶正倒下的家具。各种商店各有各的商品，等你一一整理归位。解锁并提升清洁技能，更快地把商场整理干净。在熟悉的灯光与环境音中，感受2000年代商场温馨怀旧的氛围，让这里重现往日整洁光亮的模样。别指望一口气全做完！",
-    "is_free": false,
-    "price": "¥ 22.10",
-    "original_price": "¥ 26.00",
-    "discount_percent": 15,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3396010"
-  },
-  {
-    "appid": 3123060,
-    "name": "Warlord: Awaji",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123060/dedefa92d746f70050c21c0e0ca1d69a15902ae0/header.jpg?t=1789346406",
-    "short_description": "带领武士入侵神秘的淡路岛！探索古老的封建日本世界，招募，晋升并升级你的勇士。使用武士武器和策略来征服整座岛屿，成为军阀！",
-    "is_free": false,
-    "price": "¥ 83.70",
-    "original_price": "¥ 93.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3123060"
   }
 ]
