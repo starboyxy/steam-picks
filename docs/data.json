@@ -1,8 +1,99 @@
 [
   {
+    "appid": 4870430,
+    "name": "Tidy Up History",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870430/5de501f9f6415de3a26ef5bd40f9cdc7a3744d20/header.jpg?t=1789587511",
+    "short_description": "Tidy Up History 是一款轻松治愈的清洁模拟游戏。你将继承一座杂乱无章的博物馆，整理凌乱的展厅、解锁新能力，并寻找隐藏的钥匙开启新的展区。学习历史知识，正确辨认并陈列文物，让博物馆重现昔日辉煌。",
+    "is_free": false,
+    "price": "¥ 21.16",
+    "original_price": "¥ 24.90",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4870430"
+  },
+  {
+    "appid": 3639070,
+    "name": "BLACKWOOD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639070/86eb06cf8dad642dacb7b5c4944515ff48c4cd3a/header.jpg?t=1789583129",
+    "short_description": "白天，你是2012年纽约一家DVD店的经营者；夜晚，你则化身为冷酷无情的刺客。《BLACKWOOD》是一款极具电影质感的第三人称射击游戏，融合了写实的近战格斗、残暴的终结技以及灵敏顺畅的射击体验，让你在双重身份间游走博弈。",
+    "is_free": false,
+    "price": "¥ 83.70",
+    "original_price": "¥ 93.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3639070"
+  },
+  {
+    "appid": 2572040,
+    "name": "木木屋 - Woodo",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2572040/855b9217d1120b78326801255bd87c22ca05ea16/header_alt_assets_0.jpg?t=1789581740",
+    "short_description": "《木木屋》就像一本可以触摸的3D填色书，通过精心打造的木制立体模型，讲述放松舒缓的故事。这里没有压力，只有一方惬意小天地，让人回忆起做回小孩的感觉。",
+    "is_free": false,
+    "price": "¥ 39.90",
+    "original_price": "¥ 57.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2572040"
+  },
+  {
+    "appid": 4241920,
+    "name": "BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241920/8a231e6f320ff2903d37a2e02e68fde16743781f/header.jpg?t=1789590193",
+    "short_description": "巴西复古射击游戏的独立续作，使用 ID TECH 2 引擎开发！射击、跳跃、二段跳、闪避冲刺！踏上横跨里约热内卢、圣保罗、萨尔瓦多、地狱甚至天堂的旅程！巴西等你来拯救！",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4241920"
+  },
+  {
+    "appid": 2689120,
+    "name": "蠢蠢角斗士",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/09955c276e7bc17979b692057f488c24a55eea43/header_schinese.jpg?t=1789576041",
+    "short_description": "《蠢蠢角斗士》是一款基于物理引擎的多人对战游戏，通过编辑器自定义战斗动作，选择不同的武器、盔甲，打造属于你自己的战斗风格。你还能与社区玩家共享互相使用对方的动作，来一场至死不休但又十分搞笑的对战吧！",
+    "is_free": false,
+    "price": "¥ 42.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟",
+      "策略",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2689120"
+  },
+  {
     "appid": 4126040,
     "name": "伊莫",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789523496",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789611914",
     "short_description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
     "is_free": true,
     "price": "免费",
@@ -22,9 +113,27 @@
     "store_url": "https://store.steampowered.com/app/4126040"
   },
   {
+    "appid": 3985950,
+    "name": "轮回保险公司 R.I.P.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/7144e734b4f65358a246c10552795d9bf83a3f73/header_alt_assets_5_schinese.jpg?t=1789518622",
+    "short_description": "重生之我在末世超度丧尸?在这款融合了射击割草与暗黑刷宝的Roguelike游戏中，与神秘的主神系统签署\u0026quot;轮回协议\u0026quot;，成为轮回保险公司的精英员工。你将凭借无限复活的能力深入感染区，搜集传奇装备、汲取神明之力，在无尽的轮回中不断成长——直至成为真正的救世传奇。",
+    "is_free": false,
+    "price": "¥ 39.20",
+    "original_price": "¥ 56.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲"
+    ],
+    "release_date": "2026 年 9 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3985950"
+  },
+  {
     "appid": 2402680,
     "name": "迪姆雷斯",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789492776",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789584092",
     "short_description": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
     "is_free": false,
     "price": "¥ 73.80",
@@ -43,7 +152,7 @@
   {
     "appid": 4132890,
     "name": "狗化危机：狂犬列车",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/62b9d4ed0a368abca5eef6d488edac0db1fb7749/header_schinese.jpg?t=1789496127",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/62b9d4ed0a368abca5eef6d488edac0db1fb7749/header_schinese.jpg?t=1789568688",
     "short_description": "想活命？从车尾一路杀到车头！暴风雪正撕裂幽闭的车厢，噤声步入逼仄的死角，直面成群狂暴化嗜血的——“玩具熊”？枪声只会引来更疯狂的扑咬，极寒正舔噬着体温，是哆嗦着将身上仅存的子弹压进弹匣，还是死抠最后的筹码修车防冻。收起多余的同情，在这场血肉狂欢里趟出一条活路！",
     "is_free": false,
     "price": "¥ 49.50",
@@ -57,23 +166,6 @@
     "release_date": "2026 年 9 月 15 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4132890"
-  },
-  {
-    "appid": 5032530,
-    "name": "《席德·梅尔的文明VII：历史殿堂合集》",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032530/68679c2ea0fe0644c1ac7b5a9666ce641ac83bc2/header.jpg?t=1789480991",
-    "short_description": "在《席德·梅尔的文明VII》中通过《历史殿堂合集》里的付费扩展内容探索自定义帝国的全新可能性！",
-    "is_free": false,
-    "price": "¥ 89.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5032530"
   },
   {
     "appid": 4557380,
@@ -92,93 +184,5 @@
     "release_date": "2026 年 9 月 15 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4557380"
-  },
-  {
-    "appid": 3891400,
-    "name": "调酒师模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891400/00dd157f02dc956c6eb3acd528321f23cefa4059/header_schinese.jpg?t=1789467841",
-    "short_description": "你好，深夜酒吧营业中。在这款调酒模拟器中，你将逃离白日的喧嚣，潜入迷离的微醺梦境。在这里，你调配的不是酒精，而是灵魂。自定义配方，发掘秘密酒谱，在摇晃的冰块声中升级酒吧、邂逅爱情。无计时催单，只有爵士乐、微醺与不期而遇的温暖。",
-    "is_free": false,
-    "price": "¥ 34.50",
-    "original_price": "¥ 46.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3891400"
-  },
-  {
-    "appid": 4908050,
-    "name": "《符文世界：龙之荒野》 - 豪华版升级",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908050/11a3adb4d0f9f810ef2ef9d618da81f6c45894a0/header_schinese.jpg?t=1789462932",
-    "short_description": "《符文世界：龙之荒野》的豪华版升级带来一系列专属外观和装饰物品，陪伴你在神奇的符文世界开拓新边疆并站稳脚跟。可放置的装饰、宠物床铺以及游戏内可制作装备的新外观等你来领！",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4908050"
-  },
-  {
-    "appid": 1374490,
-    "name": "RuneScape: Dragonwilds 符文世界：龙之荒野",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789474199",
-    "short_description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
-    "is_free": false,
-    "price": "¥ 118.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1374490"
-  },
-  {
-    "appid": 2887580,
-    "name": "活性物质",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1789479391",
-    "short_description": "加入危险的战利品搜刮行动或激烈的PvP战斗，畅享这款设定在破碎多元宇宙中的全新逼真风格军事射击游戏。在量子不稳定区中争夺活性物质控制权，收集这种能够扭曲时间和空间的物质。",
-    "is_free": false,
-    "price": "¥ 139.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "大型多人在线"
-    ],
-    "release_date": "2026 年 9 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2887580"
-  },
-  {
-    "appid": 3070070,
-    "name": "TCG卡牌店模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
-    "short_description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
-    "is_free": false,
-    "price": "¥ 65.45",
-    "original_price": "¥ 77.00",
-    "discount_percent": 15,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3070070"
   }
 ]
