@@ -1,20 +1,92 @@
 [
   {
-    "appid": 4314910,
-    "name": "《EA SPORTS FC™ 27》FC Points",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314910/3cd310a64661bac3d23b275820475ab5f3065e71/header.jpg?t=1789685982",
-    "short_description": "FC Points，可用于获取高级通行证、Football Ultimate Team™ 内容（如组合包、球场自定义物品、进化栏位和 Draft 入场券）及 The Grounds 内容（如装饰、原型卡片背景和消耗品）等游戏内内容。",
+    "appid": 4197850,
+    "name": "2026 年 Steam 团队制角色扮演游戏节",
+    "header_image": "",
+    "short_description": "",
     "is_free": false,
-    "price": "¥ 34.00",
+    "price": "",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": null,
+    "release_date": "",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4197850"
+  },
+  {
+    "appid": 5120650,
+    "name": "花砖公司",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120650/fbce83cab8d6d2aef43decaf1e440a274323ea92/header_schinese.jpg?t=1789743649",
+    "short_description": "一砖一瓦皆巧思，根据图纸，运用技能铺砖摆瓦，规划路线提升效率，将散落的4064块花砖整理归位，重现王宫庭院的昔日辉煌。收纳的艺术莫过于让花纹、样式、造型排列组合，实现独属于花砖匠人的几何美感。[支持1-4人游玩]",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5120650"
+  },
+  {
+    "appid": 3983860,
+    "name": "夜之海",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983860/a5f932ba968b6e7d9e427a152796dcdaffa04662/header_schinese.jpg?t=1789743607",
+    "short_description": "采集、制作并实现自动化，不断扩大工厂规模。解锁新科技，扩建岛屿，探索新生物群系。从使用棍棒和石头起步，历经青铜时代、工业时代，逐步迈向未来，揭开灯塔之谜，挣脱现世桎梏。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3983860"
+  },
+  {
+    "appid": 4310440,
+    "name": "收冠之战",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310440/35f72cd67385c4ee6ec6bbec2af382ca529f6342/header.jpg?t=1789745236",
+    "short_description": "这是一款短小精悍的增量塔防游戏。玩家需要不断强化自己的军队才能保卫自己的王国。在万军之中夺取敌人的王冠，方能求得一丝生存的可能！",
+    "is_free": false,
+    "price": "¥ 28.90",
+    "original_price": "¥ 34.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "休闲",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4310440"
+  },
+  {
+    "appid": 4883590,
+    "name": "iRacing® Studios NASCAR 26",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/36e029011e47a7fbf54d788eb18a0e0683e923ef/header.jpg?t=1789748684",
+    "short_description": "The official game of NASCAR is back and better than ever with NASCAR 26! Battle your way through all four NASCAR National Series in Career, Quick Race, Championship, Multiplayer, or our all new mode featuring The Chase!",
+    "is_free": false,
+    "price": "¥ 200.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
+      "竞速",
       "模拟",
       "体育"
     ],
     "release_date": "2026 年 9 月 17 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4314910"
+    "store_url": "https://store.steampowered.com/app/4883590"
   },
   {
     "appid": 3407390,
@@ -72,114 +144,37 @@
     "store_url": "https://store.steampowered.com/app/3640200"
   },
   {
-    "appid": 3201730,
-    "name": "Flamecraft (龍焰魔法鎮)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/9f09dd9f97effbffe08a3da7b51a1a314a421e85/header_schinese.jpg?t=1789656532",
-    "short_description": "《龍焰魔法鎮》是一款支持 1-5 名玩家的策略游戏，充满魔法，轻松惬意。作为守焰人（Flamekeeper），你将帮助可爱的工匠龙找到理想家园。为城镇商店附魔，把龙卡牌放入其中，见证奇幻商业街的活力绽放。",
+    "appid": 4200780,
+    "name": "《使命召唤®：黑色行动 7》黑色组织（第6赛季）",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200780/6348e8ad5b3629c878b58b24af4efb7882fce715/header_schinese.jpg?t=1789661341",
+    "short_description": "获得使命召唤®点数*和《使命召唤®：黑色行动 7》及《使命召唤®：战争地带™》中的游戏内容。",
     "is_free": false,
-    "price": "¥ 56.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 20,
+    "price": "¥ 195.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "休闲",
-      "独立",
-      "策略"
+      "动作"
     ],
     "release_date": "2026 年 9 月 17 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3201730"
+    "store_url": "https://store.steampowered.com/app/4200780"
   },
   {
-    "appid": 4300090,
-    "name": "焕然一新的收纳生活",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300090/5d95d01b5ea3f5a3e2e9020f027465d947055880/header_schinese.jpg?t=1789481635",
-    "short_description": "不知不觉，生活和房间都变得一团乱？别担心，马上就会焕然一新！在《焕然一新的收纳生活》中，成为一名收纳师。整理房间、收纳物品，让杂乱的空间重现秩序。在轻松沉浸的整理过程中，倾听隐藏在杂乱背后的温情故事；在和解与自我成长中，释放长久累积的压力。体验治愈解压的收纳之旅，让心情与生活一同焕然一新。",
-    "is_free": false,
-    "price": "¥ 29.40",
-    "original_price": "¥ 42.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 14 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4300090"
-  },
-  {
-    "appid": 4150860,
-    "name": "The Loopler",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/09d7133669532b1fe8acc93b4808d122a77ade51/header.jpg?t=1789248956",
-    "short_description": "The Loopler 是一款以在迷人的环形赛道上飞驰的槽车为主题的Roguelite卡牌构建游戏。挑选卡牌、布置闸门、收集护身符。随着分数不断攀升，多巴胺充盈大脑，沉浸于这无尽的循环之中。在追求无限的征途中，看看你能走多远。",
-    "is_free": false,
-    "price": "¥ 31.49",
-    "original_price": "¥ 34.99",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "竞速",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 11 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4150860"
-  },
-  {
-    "appid": 3271280,
-    "name": "菇域幽城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271280/aa3e65ddabbb9b06499cc18b8bc9f77077d4d385/header_schinese.jpg?t=1789418745",
-    "short_description": "在《Shroom and Gloom — 菇域幽城》中收集并升级卡牌！这是一款风格独特的roguelike第一人称双牌库构筑游戏，有着成群结队的真菌敌人和数之不尽的奇妙combo！",
-    "is_free": false,
-    "price": "¥ 59.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 9 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3271280"
-  },
-  {
-    "appid": 892970,
-    "name": "Valheim: 英灵神殿",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789470462",
-    "short_description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
-    "is_free": false,
-    "price": "¥ 89.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/892970"
-  },
-  {
-    "appid": 2798330,
-    "name": "地城拓荒 Dungeon Settlers",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/3ed540fb4b77fe9b981e438cad0e4dbbda99dea7/header_schinese.jpg?t=1789111099",
-    "short_description": "这是一款基于殖民地模拟的地牢爬行游戏，您要管理自己的部族，在贫瘠的土地上建立定居点，为族人提供食物和住所，带领他们深入无情的地牢，通过自己的策略战胜各种挑战。",
+    "appid": 2459550,
+    "name": "余烬守卫 Emberward",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/44e4e61c24c26440fa8deaab2299aab603e47958/header.jpg?t=1789657527",
+    "short_description": "《Emberward》是一款着重于迷宫建造与独特砲塔组合的 Roguelite 塔防游戏。利用各种形状的方块规划怪物路线，搭配不同砲塔与神器守护脆弱的火源！",
     "is_free": false,
     "price": "¥ 57.80",
     "original_price": "¥ 68.00",
     "discount_percent": 15,
     "genres": [
-      "模拟",
+      "独立",
       "策略",
-      "抢先体验"
+      "免费开玩"
     ],
-    "release_date": "2026 年 9 月 4 日",
+    "release_date": "2026 年 9 月 17 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2798330"
+    "store_url": "https://store.steampowered.com/app/2459550"
   }
 ]
