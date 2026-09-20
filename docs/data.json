@@ -32,26 +32,6 @@
     "store_url": "https://store.steampowered.com/app/5120650"
   },
   {
-    "appid": 3983860,
-    "name": "夜之海",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983860/a5f932ba968b6e7d9e427a152796dcdaffa04662/header_schinese.jpg?t=1789743607",
-    "short_description": "采集、制作并实现自动化，不断扩大工厂规模。解锁新科技，扩建岛屿，探索新生物群系。从使用棍棒和石头起步，历经青铜时代、工业时代，逐步迈向未来，揭开灯塔之谜，挣脱现世桎梏。",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3983860"
-  },
-  {
     "appid": 4310440,
     "name": "收冠之战",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310440/35f72cd67385c4ee6ec6bbec2af382ca529f6342/header.jpg?t=1789745236",
@@ -69,24 +49,6 @@
     "release_date": "2026 年 9 月 18 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4310440"
-  },
-  {
-    "appid": 4883590,
-    "name": "iRacing® Studios NASCAR 26",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/36e029011e47a7fbf54d788eb18a0e0683e923ef/header.jpg?t=1789748684",
-    "short_description": "The official game of NASCAR is back and better than ever with NASCAR 26! Battle your way through all four NASCAR National Series in Career, Quick Race, Championship, Multiplayer, or our all new mode featuring The Chase!",
-    "is_free": false,
-    "price": "¥ 200.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4883590"
   },
   {
     "appid": 3407390,
@@ -109,7 +71,7 @@
   {
     "appid": 2902170,
     "name": "内核之心",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2902170/bff6b70d09cc0ce5911de7a1ec63b87b6d49f523/header.jpg?t=1789680826",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2902170/09df5ddeda45059fede495764d25af1f82db5595/header.jpg?t=1789832327",
     "short_description": "集结同伴，消灭天使，变身魔法少女，诛杀天神。 《Kernel Hearts》是一款多人合作角色扮演类Rogue动作游戏，讲述了四名魔法少女如何试图拯救世界，令其免于被灰烬淹没的命运。",
     "is_free": false,
     "price": "¥ 69.30",
@@ -127,7 +89,7 @@
   {
     "appid": 3640200,
     "name": "Dawson Oaks Trailer Park",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640200/cfc3aa438d35284aea9e5081add3d968061e9653/header.jpg?t=1789664433",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640200/cfc3aa438d35284aea9e5081add3d968061e9653/header.jpg?t=1789830536",
     "short_description": "A proximity voice chat social deduction game where criminals must commit secret crimes while a Supervisor hunts them, and a hidden Snitch betrays them from within.",
     "is_free": false,
     "price": "¥ 37.80",
@@ -144,25 +106,9 @@
     "store_url": "https://store.steampowered.com/app/3640200"
   },
   {
-    "appid": 4200780,
-    "name": "《使命召唤®：黑色行动 7》黑色组织（第6赛季）",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200780/6348e8ad5b3629c878b58b24af4efb7882fce715/header_schinese.jpg?t=1789661341",
-    "short_description": "获得使命召唤®点数*和《使命召唤®：黑色行动 7》及《使命召唤®：战争地带™》中的游戏内容。",
-    "is_free": false,
-    "price": "¥ 195.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4200780"
-  },
-  {
     "appid": 2459550,
     "name": "余烬守卫 Emberward",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/44e4e61c24c26440fa8deaab2299aab603e47958/header.jpg?t=1789657527",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/44e4e61c24c26440fa8deaab2299aab603e47958/header.jpg?t=1789814007",
     "short_description": "《Emberward》是一款着重于迷宫建造与独特砲塔组合的 Roguelite 塔防游戏。利用各种形状的方块规划怪物路线，搭配不同砲塔与神器守护脆弱的火源！",
     "is_free": false,
     "price": "¥ 57.80",
@@ -176,5 +122,60 @@
     "release_date": "2026 年 9 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2459550"
+  },
+  {
+    "appid": 2841650,
+    "name": "狙击手·丹：一击解决的多面能手",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2841650/93db1fa201dc07c9078dcc35b4e81fba7eefc36a/header_schinese.jpg?t=1789676271",
+    "short_description": "《狙击手丹：一击解决的多面能手》是一款搞怪的合家欢 3D 隐藏物品游戏，但有一点非常不同：你要使用一把高威力狙击枪来解决那些无伤大雅的麻烦。瞄准场景，发现问题，然后一枪解决。这里没有暴力，只有一片好心和充满欢乐的混乱场面！",
+    "is_free": false,
+    "price": "¥ 41.60",
+    "original_price": "¥ 52.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2841650"
+  },
+  {
+    "appid": 2938460,
+    "name": "Police Chief Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938460/e3195db21bbe98739eb981fb617a53234ca1b6aa/header.jpg?t=1789657545",
+    "short_description": "Welcome to Winston Springs, Officer! The local police station is in urgent need of a Chief of Police, and you’ve been chosen for the job! Handle incoming reports, renovate and expand the station, solve cases, and fight crime!",
+    "is_free": false,
+    "price": "¥ 69.34",
+    "original_price": "¥ 77.05",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2938460"
+  },
+  {
+    "appid": 3201730,
+    "name": "Flamecraft (龍焰魔法鎮)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/9f09dd9f97effbffe08a3da7b51a1a314a421e85/header_schinese.jpg?t=1789716651",
+    "short_description": "《龍焰魔法鎮》是一款支持 1-5 名玩家的策略游戏，充满魔法，轻松惬意。作为守焰人（Flamekeeper），你将帮助可爱的工匠龙找到理想家园。为城镇商店附魔，把龙卡牌放入其中，见证奇幻商业街的活力绽放。",
+    "is_free": false,
+    "price": "¥ 56.00",
+    "original_price": "¥ 70.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3201730"
   }
 ]
