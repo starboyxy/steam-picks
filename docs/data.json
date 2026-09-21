@@ -1,35 +1,23 @@
 [
   {
-    "appid": 4197850,
-    "name": "2026 年 Steam 团队制角色扮演游戏节",
-    "header_image": "",
-    "short_description": "",
+    "appid": 3983860,
+    "name": "夜之海",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983860/a5f932ba968b6e7d9e427a152796dcdaffa04662/header_schinese.jpg?t=1789743607",
+    "short_description": "采集、制作并实现自动化，不断扩大工厂规模。解锁新科技，扩建岛屿，探索新生物群系。从使用棍棒和石头起步，历经青铜时代、工业时代，逐步迈向未来，揭开灯塔之谜，挣脱现世桎梏。",
     "is_free": false,
-    "price": "",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": null,
-    "release_date": "",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4197850"
-  },
-  {
-    "appid": 5120650,
-    "name": "花砖公司",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120650/fbce83cab8d6d2aef43decaf1e440a274323ea92/header_schinese.jpg?t=1789743649",
-    "short_description": "一砖一瓦皆巧思，根据图纸，运用技能铺砖摆瓦，规划路线提升效率，将散落的4064块花砖整理归位，重现王宫庭院的昔日辉煌。收纳的艺术莫过于让花纹、样式、造型排列组合，实现独属于花砖匠人的几何美感。[支持1-4人游玩]",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
     "discount_percent": 10,
     "genres": [
+      "冒险",
       "休闲",
       "独立",
-      "模拟"
+      "模拟",
+      "策略"
     ],
     "release_date": "2026 年 9 月 18 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5120650"
+    "store_url": "https://store.steampowered.com/app/3983860"
   },
   {
     "appid": 4310440,
@@ -85,25 +73,6 @@
     "release_date": "2026 年 9 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2902170"
-  },
-  {
-    "appid": 3640200,
-    "name": "Dawson Oaks Trailer Park",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640200/cfc3aa438d35284aea9e5081add3d968061e9653/header.jpg?t=1789830536",
-    "short_description": "A proximity voice chat social deduction game where criminals must commit secret crimes while a Supervisor hunts them, and a hidden Snitch betrays them from within.",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3640200"
   },
   {
     "appid": 2459550,
@@ -177,5 +146,42 @@
     "release_date": "2026 年 9 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3201730"
+  },
+  {
+    "appid": 2572040,
+    "name": "木木屋 - Woodo",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2572040/855b9217d1120b78326801255bd87c22ca05ea16/header_alt_assets_0.jpg?t=1789747374",
+    "short_description": "《木木屋》就像一本可以触摸的3D填色书，通过精心打造的木制立体模型，讲述放松舒缓的故事。这里没有压力，只有一方惬意小天地，让人回忆起做回小孩的感觉。",
+    "is_free": false,
+    "price": "¥ 39.90",
+    "original_price": "¥ 57.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2572040"
+  },
+  {
+    "appid": 2689120,
+    "name": "蠢蠢角斗士",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/09955c276e7bc17979b692057f488c24a55eea43/header_schinese.jpg?t=1789638232",
+    "short_description": "《蠢蠢角斗士》是一款基于物理引擎的多人对战游戏，通过编辑器自定义战斗动作，选择不同的武器、盔甲，打造属于你自己的战斗风格。你还能与社区玩家共享互相使用对方的动作，来一场至死不休但又十分搞笑的对战吧！",
+    "is_free": false,
+    "price": "¥ 42.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟",
+      "策略",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 9 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2689120"
   }
 ]
