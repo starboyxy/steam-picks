@@ -1,5 +1,114 @@
 [
   {
+    "appid": 3255500,
+    "name": "Ved: 疗愈所",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3255500/header_schinese.jpg?t=1790058578",
+    "short_description": "《Ved:疗愈所》是一款快节奏的动作roguelite游戏。你将扮演一名逐渐失去游戏热情的成年人，被困在自己购买的第1000款买了不玩的游戏里，和多位不同能力、不同性格的可操作角色，运用完全自定义搭配的Buff链，面对强力的敌人，格挡！闪避！用自己的操作和BD通关这第1000款游戏，回到现实世界。",
+    "is_free": false,
+    "price": "¥ 57.80",
+    "original_price": "¥ 68.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3255500"
+  },
+  {
+    "appid": 2710040,
+    "name": "Delverium",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710040/aeccfece5a14d9b7ebdef2d3b28c87ee000bfca6/header.jpg?t=1790022667",
+    "short_description": "在这款最多支持8人联机的沙盒生存冒险游戏中，你将与同伴共同探索未知世界。制作物品、搭建居所、深入险地，揭开侵袭而来的“故障”之谜，还这片土地一个安宁。",
+    "is_free": false,
+    "price": "¥ 39.20",
+    "original_price": "¥ 49.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2710040"
+  },
+  {
+    "appid": 4705510,
+    "name": "Happy Wheels",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771",
+    "short_description": "Choose your inadequately prepared racer, and disregard severe consequences in your desperate pursuit of short-lived victory.",
+    "is_free": false,
+    "price": "¥ 22.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "竞速"
+    ],
+    "release_date": "2026 年 9 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4705510"
+  },
+  {
+    "appid": 3510740,
+    "name": "Normal Golf Game",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510740/784171963ba639d5da6686da63460bb3ed32268c/header.jpg?t=1789999149",
+    "short_description": "A very normal golf simulator. Hit anything. Shoot from anywhere. But remember: you’re not leaving until Luke Muscat himself (Fruit Ninja, Jetpack Joyride) is satisfied.",
+    "is_free": false,
+    "price": "¥ 33.60",
+    "original_price": "¥ 42.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 9 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3510740"
+  },
+  {
+    "appid": 4019220,
+    "name": "针影裁梦",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790009899",
+    "short_description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4019220"
+  },
+  {
+    "appid": 4364730,
+    "name": "今天都是腿",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364730/b533ee41f7a95b07232a06e2d9ebc850e8fc98b2/header_schinese.jpg?t=1789991871",
+    "short_description": "《今天都是腿》是融合了增量与平台跳跃的游戏。跑酷，翻墙跳，二段跳，不断解锁新技能，完成挑战，生产克隆人军团提升收益，当能源不断溢出，解锁更强大的能力开启高收益路线！无限复制你的克隆人大军！",
+    "is_free": false,
+    "price": "¥ 28.79",
+    "original_price": "¥ 31.99",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4364730"
+  },
+  {
     "appid": 3983860,
     "name": "夜之海",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983860/a5f932ba968b6e7d9e427a152796dcdaffa04662/header_schinese.jpg?t=1789743607",
@@ -22,7 +131,7 @@
   {
     "appid": 4310440,
     "name": "收冠之战",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310440/35f72cd67385c4ee6ec6bbec2af382ca529f6342/header.jpg?t=1789745236",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310440/35f72cd67385c4ee6ec6bbec2af382ca529f6342/header.jpg?t=1790011496",
     "short_description": "这是一款短小精悍的增量塔防游戏。玩家需要不断强化自己的军队才能保卫自己的王国。在万军之中夺取敌人的王冠，方能求得一丝生存的可能！",
     "is_free": false,
     "price": "¥ 28.90",
@@ -73,115 +182,5 @@
     "release_date": "2026 年 9 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2902170"
-  },
-  {
-    "appid": 2459550,
-    "name": "余烬守卫 Emberward",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/44e4e61c24c26440fa8deaab2299aab603e47958/header.jpg?t=1789814007",
-    "short_description": "《Emberward》是一款着重于迷宫建造与独特砲塔组合的 Roguelite 塔防游戏。利用各种形状的方块规划怪物路线，搭配不同砲塔与神器守护脆弱的火源！",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "策略",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2459550"
-  },
-  {
-    "appid": 2841650,
-    "name": "狙击手·丹：一击解决的多面能手",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2841650/93db1fa201dc07c9078dcc35b4e81fba7eefc36a/header_schinese.jpg?t=1789676271",
-    "short_description": "《狙击手丹：一击解决的多面能手》是一款搞怪的合家欢 3D 隐藏物品游戏，但有一点非常不同：你要使用一把高威力狙击枪来解决那些无伤大雅的麻烦。瞄准场景，发现问题，然后一枪解决。这里没有暴力，只有一片好心和充满欢乐的混乱场面！",
-    "is_free": false,
-    "price": "¥ 41.60",
-    "original_price": "¥ 52.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2841650"
-  },
-  {
-    "appid": 2938460,
-    "name": "Police Chief Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938460/e3195db21bbe98739eb981fb617a53234ca1b6aa/header.jpg?t=1789657545",
-    "short_description": "Welcome to Winston Springs, Officer! The local police station is in urgent need of a Chief of Police, and you’ve been chosen for the job! Handle incoming reports, renovate and expand the station, solve cases, and fight crime!",
-    "is_free": false,
-    "price": "¥ 69.34",
-    "original_price": "¥ 77.05",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2938460"
-  },
-  {
-    "appid": 3201730,
-    "name": "Flamecraft (龍焰魔法鎮)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/9f09dd9f97effbffe08a3da7b51a1a314a421e85/header_schinese.jpg?t=1789716651",
-    "short_description": "《龍焰魔法鎮》是一款支持 1-5 名玩家的策略游戏，充满魔法，轻松惬意。作为守焰人（Flamekeeper），你将帮助可爱的工匠龙找到理想家园。为城镇商店附魔，把龙卡牌放入其中，见证奇幻商业街的活力绽放。",
-    "is_free": false,
-    "price": "¥ 56.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3201730"
-  },
-  {
-    "appid": 2572040,
-    "name": "木木屋 - Woodo",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2572040/855b9217d1120b78326801255bd87c22ca05ea16/header_alt_assets_0.jpg?t=1789747374",
-    "short_description": "《木木屋》就像一本可以触摸的3D填色书，通过精心打造的木制立体模型，讲述放松舒缓的故事。这里没有压力，只有一方惬意小天地，让人回忆起做回小孩的感觉。",
-    "is_free": false,
-    "price": "¥ 39.90",
-    "original_price": "¥ 57.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2572040"
-  },
-  {
-    "appid": 2689120,
-    "name": "蠢蠢角斗士",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/09955c276e7bc17979b692057f488c24a55eea43/header_schinese.jpg?t=1789638232",
-    "short_description": "《蠢蠢角斗士》是一款基于物理引擎的多人对战游戏，通过编辑器自定义战斗动作，选择不同的武器、盔甲，打造属于你自己的战斗风格。你还能与社区玩家共享互相使用对方的动作，来一场至死不休但又十分搞笑的对战吧！",
-    "is_free": false,
-    "price": "¥ 42.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟",
-      "策略",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 9 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2689120"
   }
 ]
