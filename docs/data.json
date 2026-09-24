@@ -1,166 +1,181 @@
 [
   {
-    "appid": 4376980,
-    "name": "Age of Empires II: DE - The Viking Sagas",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376980/3e1e84409d6f9d038076b23a772b9bc527623415/header.jpg?t=1790096378",
-    "short_description": "释放北方的狂怒，引领丹麦人、撒克逊人和瓦兰吉人进行史诗般的维京人战争。",
+    "appid": 1636440,
+    "name": "SILENT HILL: Townfall",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg?t=1790222467",
+    "short_description": "为了“让一切重回正轨”，西蒙·奥德尔重返坐落于岛屿的神秘小镇，一步步踏入充满着紧张周旋、激烈冲突与难解谜题的世界。而圣阿米莉亚的真相，也随之悄然浮现。",
     "is_free": false,
-    "price": "¥ 98.00",
+    "price": "¥ 310.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "策略"
+      "动作",
+      "冒险"
     ],
-    "release_date": "2026 年 9 月 22 日",
+    "release_date": "2026 年 9 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4376980"
+    "store_url": "https://store.steampowered.com/app/1636440"
   },
   {
-    "appid": 3699590,
-    "name": "黯井微光 (Well Dweller)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/0bfee39e2d0df55c079b7125f37467c45cc1053f/header_schinese.jpg?t=1790089193",
-    "short_description": "《黯井微光》是一款暗黑童话风格的类银河城游戏，讲述了栖身于破败王国中的一群迷人角色的故事。玩家将扮演一只手持火柴棒的小鸟——微光，踏上焚灭邪恶女王、拯救家族的旅程。",
+    "appid": 4981570,
+    "name": "Wand \u0026 Order: Tidy up the magic shop!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981570/220cdaf5171fb86917cd0f288c4fd551d89f24f9/header.jpg?t=1790198080",
+    "short_description": "温馨的第一人称合作整理清洁模拟游戏!整理魔杖、塔罗牌和药水,把店铺收拾得井井有条来赚取积分,解锁强大法术,赶在炼金术士回来之前恢复秩序!",
     "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
+    "price": "¥ 21.58",
+    "original_price": "¥ 26.00",
+    "discount_percent": 17,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4981570"
+  },
+  {
+    "appid": 3431300,
+    "name": "Slow Roads",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431300/3cb295b7e9e7d2eedf4b474d151e60edb7210338/header.jpg?t=1790182818",
+    "short_description": "在绵延不尽的风景中一路开下去，放空片刻。生成一个独特的世界，按心情设定场景，只管向前……",
+    "is_free": false,
+    "price": "¥ 29.70",
+    "original_price": "¥ 33.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3431300"
+  },
+  {
+    "appid": 2085540,
+    "name": "打工火柴人",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085540/74d3e4e6320e01165677ffdf14cc8fe5324c2b4c/header_schinese.jpg?t=1790179341",
+    "short_description": "Stick it to the Stickman是一款轻肉鸽物理格斗游戏。你需要在晋升之路上暴力清除障碍，构建极具杀伤力的招式组合，解锁新员工和游戏模式，提升股东价值。",
+    "is_free": false,
+    "price": "¥ 24.00",
+    "original_price": "¥ 48.00",
+    "discount_percent": 50,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2085540"
+  },
+  {
+    "appid": 5131900,
+    "name": "Warframe：Citrine Prime Access - 武器组合包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131900/b66a2de9049838bf642e2250f954d3c6f9b43956/header.jpg?t=1790175995",
+    "short_description": "这款专属武器组合包内含石晶之花 Prime、闪劫 Prime 等。仅可通过 Prime Access 限时购买获得。",
+    "is_free": false,
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5131900"
+  },
+  {
+    "appid": 5131910,
+    "name": "Warframe：Citrine Prime Access - 配件包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131910/e5881126066fdfcc5b0b9a05c4a0ca4586e32825/header.jpg?t=1790175969",
+    "short_description": "这款专属配件包内含颇黎 Prime 披饰、尖晶刺 Prime 指挥官/漂泊者配件等物品。仅可在限定时间内，通过 Prime Access 购买获得。",
+    "is_free": false,
+    "price": "¥ 268.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5131910"
+  },
+  {
+    "appid": 5212940,
+    "name": "Bunker Tidy Up",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5212940/e6310fac2a938ac4c3bf360060748b9d6034709d/header.jpg?t=1790175092",
+    "short_description": "Bunker Tidy Up 是一款轻松惬意的地堡整理游戏。将 17,437 件物资摆放到货架上，对资源进行分类，享受整理的乐趣！",
+    "is_free": false,
+    "price": "¥ 15.20",
+    "original_price": "¥ 19.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5212940"
+  },
+  {
+    "appid": 3936270,
+    "name": "不管了先把游戏做完上线 / It's Fine",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936270/587a9150966d863508903dca562dc86ccf9a3817/header_schinese.jpg?t=1790225431",
+    "short_description": "这是一个通过点击x放置x吐槽来“做游戏”的游戏。（不是打错了）。让水军刷愿望单、海怪做测试、松鼠玩核能，把开发效率一路堆上天。唯一的问题是：游戏明天就要上线，而你的项目经理是一只狗。",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3936270"
+  },
+  {
+    "appid": 1446900,
+    "name": "陨世之泪:涅槃",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446900/47104d5709d1dc7055716ed4d4054f51e4e049f6/header.jpg?t=1790168347",
+    "short_description": "《陨世之泪：涅槃》完美融合了类银河战士恶魔城的探索玩法与JRPG的叙事魅力，为你带来酣畅淋漓的战斗体验、精妙的平台跳跃挑战，以及一个随着你的抉择而不断变化的世界。",
+    "is_free": false,
+    "price": "¥ 79.20",
+    "original_price": "¥ 88.00",
+    "discount_percent": 10,
     "genres": [
       "动作",
       "冒险",
       "独立",
       "角色扮演"
     ],
-    "release_date": "2026 年 9 月 22 日",
+    "release_date": "2026 年 9 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3699590"
+    "store_url": "https://store.steampowered.com/app/1446900"
   },
   {
-    "appid": 2538870,
-    "name": "False Hero",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538870/5f4e17a96d9a401cd07e43da947142165c1e790a/header.jpg?t=1790085742",
-    "short_description": "《伪英雄》是一款快节奏的类魂冒险游戏，你可以盗取敌人的攻击并将其串联成致命连招。探索腐败蔓延的诸神之地，在充满挑战的头目战中真正考验你的战斗技能。你会选择为诸神而战，抑或成为死魔的使徒？",
+    "appid": 3020510,
+    "name": "英雄立志传：三国志",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020510/6080e48e30c65599cedb4f63ef970dc48ed6cb88/header_schinese.jpg?t=1790149894",
+    "short_description": "三国的故事由你书写！《英雄立志传：三国志》是一款单机RPG游戏，你扮演一位英雄在汉末三国世界里做任何你想做的事。或扮演良将辅佐明君统一天下，或扮演君主割据一方，或扮演在野武将建立私军影响天下大势。交友结义，恋爱娶妻生子、经营家族、管理地产、在名山大川之中隐世修炼，培养自身及家族成员的武学口才，操练强军，或以不同视角体验与改变历史大事，或以权谋联立四方，或以兵锋横扫天下，使天下归心。",
     "is_free": false,
     "price": "¥ 61.20",
     "original_price": "¥ 68.00",
     "discount_percent": 10,
     "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2538870"
-  },
-  {
-    "appid": 4857580,
-    "name": "Dune: Awakening - Filmic Archive DLC",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4857580/0b8e032a438a8ae2f75329b8c3510bf65ceb7f20/header.jpg?t=1790078413",
-    "short_description": "以受《沙丘：第一部》和《沙丘：第二部》启发的装备，将帝国带入《Dune: Awakening 沙丘：觉醒》。穿上标志性的盔甲和蒸馏服，用73个建材打造一座萨多卡基地，并以独家装饰物、武器和表情动作来完善它。",
-    "is_free": false,
-    "price": "¥ 42.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4857580"
-  },
-  {
-    "appid": 3255500,
-    "name": "Ved: 疗愈所",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3255500/header_schinese.jpg?t=1790095757",
-    "short_description": "《Ved:疗愈所》是一款快节奏的动作roguelite游戏。你将扮演一名逐渐失去游戏热情的成年人，被困在自己购买的第1000款买了不玩的游戏里，和多位不同能力、不同性格的可操作角色，运用完全自定义搭配的Buff链，面对强力的敌人，格挡！闪避！用自己的操作和BD通关这第1000款游戏，回到现实世界。",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3255500"
-  },
-  {
-    "appid": 2710040,
-    "name": "Delverium",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710040/aeccfece5a14d9b7ebdef2d3b28c87ee000bfca6/header.jpg?t=1790022667",
-    "short_description": "在这款最多支持8人联机的沙盒生存冒险游戏中，你将与同伴共同探索未知世界。制作物品、搭建居所、深入险地，揭开侵袭而来的“故障”之谜，还这片土地一个安宁。",
-    "is_free": false,
-    "price": "¥ 39.20",
-    "original_price": "¥ 49.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
       "独立",
       "角色扮演",
-      "抢先体验"
+      "模拟",
+      "策略"
     ],
-    "release_date": "2026 年 9 月 21 日",
+    "release_date": "2026 年 9 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2710040"
-  },
-  {
-    "appid": 3565480,
-    "name": "Roadhouse Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3565480/e1f26d62d6927c24468d2516478ccd554663f4bd/header_alt_assets_39.jpg?t=1790060462",
-    "short_description": "倒啤酒、劝架斗殴、私酿烈酒、举办小猪赛跑、周旋于帮派之间，并甩开警察的追查，把一间破败的 66 号公路酒吧打造成一间了不起的 Roadhouse",
-    "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3565480"
-  },
-  {
-    "appid": 4705510,
-    "name": "Happy Wheels",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771",
-    "short_description": "Choose your inadequately prepared racer, and disregard severe consequences in your desperate pursuit of short-lived victory.",
-    "is_free": false,
-    "price": "¥ 22.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "竞速"
-    ],
-    "release_date": "2026 年 9 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4705510"
-  },
-  {
-    "appid": 4019220,
-    "name": "针影裁梦",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790009899",
-    "short_description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
-    "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4019220"
+    "store_url": "https://store.steampowered.com/app/3020510"
   }
 ]
