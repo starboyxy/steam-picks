@@ -1,25 +1,47 @@
 [
   {
-    "appid": 3749870,
-    "name": "American Truck Simulator - South Dakota",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749870/89096787a1a31cf02cd9515f478a9b788f004f55/header.jpg?t=1790310537",
-    "short_description": "欢迎来到拉什莫尔山之州！南达科他州为卡车驾驶员们带来一段穿越美国中西部最具特色风景的旅程，从开阔的大平原和起伏的草原，到恶地引人注目的岩层，以及黑山蜿蜒、森林覆盖的道路。",
+    "appid": 4964580,
+    "name": "Museologist: Tidy Up the Museum!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964580/987d8641136eb6096f04a68c8bda9224a61db993/header.jpg?t=1790356304",
+    "short_description": "Museologist: Tidy Up the Museum! 一款单人模拟游戏。整个藏品已经支离破碎。找到每个碎片的归属，像拼图一样将它们拼凑起来，用3516块散落的碎片修复543件物品。",
     "is_free": false,
-    "price": "¥ 58.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
     "genres": [
-      "独立",
+      "休闲",
       "模拟"
     ],
-    "release_date": "2026 年 9 月 24 日",
+    "release_date": "2026 年 9 月 25 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3749870"
+    "store_url": "https://store.steampowered.com/app/4964580"
+  },
+  {
+    "appid": 4072240,
+    "name": "Woman Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072240/ce30d61b72088ab181c23b4ed5a6f8063492cc5d/header_schinese.jpg?t=1790341225",
+    "short_description": "这款游戏让你体验做女性的感觉：打扫、洗衣、做饭，没有片刻安宁。完全沉浸在女性烦恼的世界中.",
+    "is_free": false,
+    "price": "¥ 26.40",
+    "original_price": "¥ 33.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 9 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4072240"
   },
   {
     "appid": 3589670,
     "name": "全面战争：战锤3 - 终焉之主 – 鲍里斯·托德布林格",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/032c4616bd29068502a2a1ba88f8f85ebd54ac10/header.jpg?t=1790258443",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/032c4616bd29068502a2a1ba88f8f85ebd54ac10/header.jpg?t=1790329189",
     "short_description": "在《Total War: WARHAMMER III》中统帅米登领选帝侯鲍里斯·托德布林格。这位备受狼神尤里克眷顾的领主，立誓要从毁灭的边缘拯救帝国，并斩杀他的宿敌：兽王『独眼』卡扎克。",
     "is_free": false,
     "price": "¥ 45.00",
@@ -32,72 +54,5 @@
     "release_date": "2026 年 9 月 24 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3589670"
-  },
-  {
-    "appid": 3589660,
-    "name": "全面战争：战锤3 - 终焉之主 – 川奎罗",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/95dc87034de1f057e5a22b45a3dfa6f76fd23a2c/header.jpg?t=1790258411",
-    "short_description": "在《Total War: WARHAMMER III》中扮演灰先知川奎罗，策划邪恶无比的阴谋。这位狡猾的先知率领斯卡文鼠人的斯库鲁腾氏族，骑乘着他忠诚的鼠巨魔保镖碾骨者奔赴战场。",
-    "is_free": false,
-    "price": "¥ 45.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3589660"
-  },
-  {
-    "appid": 3589680,
-    "name": "全面战争：战锤3 - 终焉之主 – 格洛特三兄弟",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/81305c2e2cf9cd8d13ddfe60665a2b821ced516d/header.jpg?t=1790258376",
-    "short_description": "在《Total War: WARHAMMER III》中化身格洛特三兄弟，播撒毁灭与衰亡。作为强大的混沌神选冠军并被纳垢赐福，他们统率着勇士与恶魔，将瘟疫之神的恩赐散布至帝国及更遥远的疆域。",
-    "is_free": false,
-    "price": "¥ 45.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3589680"
-  },
-  {
-    "appid": 3589650,
-    "name": "全面战争：战锤3 - 终焉之主 – 纳迦什",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/d3d5be90e8864baeecec7a91b1bb65b795a42258/header.jpg?t=1790258328",
-    "short_description": "在《Total War: WARHAMMER III》中，化身为至高死灵法师纳迦什，崛起并夺取生者的土地，向世界释放他的亡灵大军，完成飞升成神的壮举。",
-    "is_free": false,
-    "price": "¥ 45.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3589650"
-  },
-  {
-    "appid": 3932790,
-    "name": "Garfield - Escape from Monday",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932790/4969712a29cab096dbde9f232ee78e4c7c1cffab/header.jpg?t=1790262085",
-    "short_description": "在这款充满蔬菜的3D平台游戏中唤醒加菲猫，摆脱这场噩梦！世界上最懒的猫即将在《Garfield - Escape from Monday》中努力工作！",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 88.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3932790"
   }
 ]
