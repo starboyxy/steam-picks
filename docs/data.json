@@ -1,9 +1,45 @@
 [
   {
+    "appid": 5148990,
+    "name": "Scratch Tickets With Your Friends 🎰",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5148990/22573bb64b820535f3546f486ea1cfbd6fe6bdc1/header.jpg?t=1790431659",
+    "short_description": "一款混乱的模拟游戏：房租不断上涨，钱却不断消失。刮彩票、分类垃圾、升级设备，并做出各种离谱决定，只为再撑过一天。🎰💸",
+    "is_free": false,
+    "price": "¥ 40.71",
+    "original_price": "¥ 59.00",
+    "discount_percent": 31,
+    "genres": [
+      "休闲",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5148990"
+  },
+  {
+    "appid": 4260270,
+    "name": "与你流落荒岛",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/1e1cec55c82d71ee65a181bdf616e81ddd1ea7ca/header_schinese.jpg?t=1790391557",
+    "short_description": "在这款生存游戏里，你和好友巳月流落到了一座荒岛。两人将结伴探索岛上的一切、狩猎并收集生存物资、搭建简易的住所、在一次次的相处中感情逐渐升温。巳月也会全程陪在你的身边，努力保护好彼此并活着回家吧！",
+    "is_free": false,
+    "price": "¥ 33.60",
+    "original_price": "¥ 42.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4260270"
+  },
+  {
     "appid": 4964580,
     "name": "Museologist: Tidy Up the Museum!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964580/987d8641136eb6096f04a68c8bda9224a61db993/header.jpg?t=1790356304",
-    "short_description": "Museologist: Tidy Up the Museum! 一款单人模拟游戏。整个藏品已经支离破碎。找到每个碎片的归属，像拼图一样将它们拼凑起来，用3516块散落的碎片修复543件物品。",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964580/987d8641136eb6096f04a68c8bda9224a61db993/header.jpg?t=1790447613",
+    "short_description": "Museologist: Tidy Up the Museum! 一款单人模拟游戏。整个藏品已经支离破碎。找到每个碎片的归属，像拼图一样将它们拼凑起来，用3513块散落的碎片修复543件物品。",
     "is_free": false,
     "price": "¥ 23.40",
     "original_price": "¥ 26.00",
@@ -17,32 +53,10 @@
     "store_url": "https://store.steampowered.com/app/4964580"
   },
   {
-    "appid": 4072240,
-    "name": "Woman Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072240/ce30d61b72088ab181c23b4ed5a6f8063492cc5d/header_schinese.jpg?t=1790341225",
-    "short_description": "这款游戏让你体验做女性的感觉：打扫、洗衣、做饭，没有片刻安宁。完全沉浸在女性烦恼的世界中.",
-    "is_free": false,
-    "price": "¥ 26.40",
-    "original_price": "¥ 33.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 9 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4072240"
-  },
-  {
-    "appid": 3589670,
-    "name": "全面战争：战锤3 - 终焉之主 – 鲍里斯·托德布林格",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/032c4616bd29068502a2a1ba88f8f85ebd54ac10/header.jpg?t=1790329189",
-    "short_description": "在《Total War: WARHAMMER III》中统帅米登领选帝侯鲍里斯·托德布林格。这位备受狼神尤里克眷顾的领主，立誓要从毁灭的边缘拯救帝国，并斩杀他的宿敌：兽王『独眼』卡扎克。",
+    "appid": 3589650,
+    "name": "全面战争：战锤3 - 终焉之主 – 纳迦什",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/d3d5be90e8864baeecec7a91b1bb65b795a42258/header.jpg?t=1790328830",
+    "short_description": "在《Total War: WARHAMMER III》中，化身为至高死灵法师纳迦什，崛起并夺取生者的土地，向世界释放他的亡灵大军，完成飞升成神的壮举。",
     "is_free": false,
     "price": "¥ 45.00",
     "original_price": "",
@@ -53,6 +67,6 @@
     ],
     "release_date": "2026 年 9 月 24 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3589670"
+    "store_url": "https://store.steampowered.com/app/3589650"
   }
 ]
