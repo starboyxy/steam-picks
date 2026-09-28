@@ -1,23 +1,5 @@
 [
   {
-    "appid": 5148990,
-    "name": "Scratch Tickets With Your Friends 🎰",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5148990/22573bb64b820535f3546f486ea1cfbd6fe6bdc1/header.jpg?t=1790431659",
-    "short_description": "一款混乱的模拟游戏：房租不断上涨，钱却不断消失。刮彩票、分类垃圾、升级设备，并做出各种离谱决定，只为再撑过一天。🎰💸",
-    "is_free": false,
-    "price": "¥ 40.71",
-    "original_price": "¥ 59.00",
-    "discount_percent": 31,
-    "genres": [
-      "休闲",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5148990"
-  },
-  {
     "appid": 4260270,
     "name": "与你流落荒岛",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/1e1cec55c82d71ee65a181bdf616e81ddd1ea7ca/header_schinese.jpg?t=1790391557",
@@ -53,20 +35,146 @@
     "store_url": "https://store.steampowered.com/app/4964580"
   },
   {
-    "appid": 3589650,
-    "name": "全面战争：战锤3 - 终焉之主 – 纳迦什",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/d3d5be90e8864baeecec7a91b1bb65b795a42258/header.jpg?t=1790328830",
-    "short_description": "在《Total War: WARHAMMER III》中，化身为至高死灵法师纳迦什，崛起并夺取生者的土地，向世界释放他的亡灵大军，完成飞升成神的壮举。",
+    "appid": 5064340,
+    "name": "DinoBones: Tidy Up the Museum",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064340/0dd27279063d7b37f3e143571c3848bea4502e9b/header.jpg?t=1790516983",
+    "short_description": "《DinoBones: Tidy Up the Museum!》是一款温馨的骨架修复模拟游戏。鉴别、收集并拼合约 2,000 块散落各处的恐龙骨骼。感受混乱化为秩序，而每复原一具骨架，博物馆便揭开一个新的秘密。",
     "is_free": false,
-    "price": "¥ 45.00",
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5064340"
+  },
+  {
+    "appid": 3222640,
+    "name": "西部拓荒纪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3222640/e2d0ec030fef4f18e734ef91ad68f1b147bffb65/header.jpg?t=1790343414",
+    "short_description": "《西部拓荒纪》是一款城市建造冒险游戏，你将带领一群拓荒者深入尚未开垦的西部边疆。建设并管理不断发展的聚落，建立完整的生产链，探索广袤世界，并亲历一段关于淘金梦想、危险遭遇与寻找家人的西部故事。",
+    "is_free": false,
+    "price": "¥ 74.25",
+    "original_price": "¥ 99.00",
+    "discount_percent": 25,
+    "genres": [
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 9 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3222640"
+  },
+  {
+    "appid": 4080220,
+    "name": "EA SPORTS FC™ 27",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790357926",
+    "short_description": "欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。",
+    "is_free": false,
+    "price": "¥ 248.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 9 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4080220"
+  },
+  {
+    "appid": 3669870,
+    "name": "控制: 共振",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1790259464",
+    "short_description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
+    "is_free": false,
+    "price": "¥ 268.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
-      "策略"
+      "冒险",
+      "角色扮演"
     ],
     "release_date": "2026 年 9 月 24 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3589650"
+    "store_url": "https://store.steampowered.com/app/3669870"
+  },
+  {
+    "appid": 4981570,
+    "name": "Wand \u0026 Order: Tidy up the magic shop!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981570/220cdaf5171fb86917cd0f288c4fd551d89f24f9/header.jpg?t=1790501148",
+    "short_description": "温馨的第一人称合作整理清洁模拟游戏!整理魔杖、塔罗牌和药水,把店铺收拾得井井有条来赚取积分,解锁强大法术,赶在炼金术士回来之前恢复秩序!",
+    "is_free": false,
+    "price": "¥ 21.58",
+    "original_price": "¥ 26.00",
+    "discount_percent": 17,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4981570"
+  },
+  {
+    "appid": 2085540,
+    "name": "打工火柴人",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085540/74d3e4e6320e01165677ffdf14cc8fe5324c2b4c/header_schinese.jpg?t=1790179341",
+    "short_description": "Stick it to the Stickman是一款轻肉鸽物理格斗游戏。你需要在晋升之路上暴力清除障碍，构建极具杀伤力的招式组合，解锁新员工和游戏模式，提升股东价值。",
+    "is_free": false,
+    "price": "¥ 24.00",
+    "original_price": "¥ 48.00",
+    "discount_percent": 50,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2085540"
+  },
+  {
+    "appid": 3936270,
+    "name": "不管了先把游戏做完上线 / It's Fine",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936270/587a9150966d863508903dca562dc86ccf9a3817/header_schinese.jpg?t=1790225431",
+    "short_description": "这是一个通过点击x放置x吐槽来“做游戏”的游戏。（不是打错了）。让水军刷愿望单、海怪做测试、松鼠玩核能，把开发效率一路堆上天。唯一的问题是：游戏明天就要上线，而你的项目经理是一只狗。",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3936270"
+  },
+  {
+    "appid": 4358690,
+    "name": "守墓人2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+    "short_description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+    "is_free": false,
+    "price": "¥ 85.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4358690"
   }
 ]
