@@ -1,5 +1,60 @@
 [
   {
+    "appid": 3935530,
+    "name": "Frutiger Home",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935530/361e40f3ffb8bae7f06b95af6fe172243acdf0bb/header.jpg?t=1790643173",
+    "short_description": "装饰你梦想中的 Frutiger 家，在这款温馨的合作式 Frutiger 房屋装饰游戏中尽情发挥。选择一个房屋布局，从丰富多样的 Frutiger 主题装饰中添加元素，并与朋友们一起欢乐相聚！",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3935530"
+  },
+  {
+    "appid": 3832490,
+    "name": "Antivirus Survivors 2003 Professional",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/19ec8cf9c754e295d6bc29870e1ed65f04b69988/header.jpg?t=1790609561",
+    "short_description": "The family computer is infected again and it’s your job to fend off waves of viruses and adware foes with an arsenal of nostalgic Y2K-inspired weapons. Antivirus Survivors 2003 Professional is a survivor-like auto-shooter filled with nods to the days when computers were actually fun.",
+    "is_free": false,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3832490"
+  },
+  {
+    "appid": 4623570,
+    "name": "桌面破坏神：挂机ARPG",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790596988",
+    "short_description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
+    "is_free": false,
+    "price": "¥ 19.60",
+    "original_price": "¥ 28.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 28 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4623570"
+  },
+  {
     "appid": 4260270,
     "name": "与你流落荒岛",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/1e1cec55c82d71ee65a181bdf616e81ddd1ea7ca/header_schinese.jpg?t=1790391557",
@@ -18,21 +73,22 @@
     "store_url": "https://store.steampowered.com/app/4260270"
   },
   {
-    "appid": 4964580,
-    "name": "Museologist: Tidy Up the Museum!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964580/987d8641136eb6096f04a68c8bda9224a61db993/header.jpg?t=1790447613",
-    "short_description": "Museologist: Tidy Up the Museum! 一款单人模拟游戏。整个藏品已经支离破碎。找到每个碎片的归属，像拼图一样将它们拼凑起来，用3513块散落的碎片修复543件物品。",
+    "appid": 4671380,
+    "name": "Scapewatch: Idle MMO",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671380/c3195a5ab8b2d8d36b9bf166f6db8c5bd26d0439/header.jpg?t=1790357247",
+    "short_description": "30项技能。三种战斗风格。公会、团队副本、排行榜、宠物、披风。排好队列，关掉标签页，回来时更富有。Scapewatch是为真正热爱刷刷刷的玩家打造的放置MMO。",
     "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
+    "price": "¥ 38.35",
+    "original_price": "¥ 59.00",
+    "discount_percent": 35,
     "genres": [
-      "休闲",
-      "模拟"
+      "独立",
+      "大型多人在线",
+      "角色扮演"
     ],
     "release_date": "2026 年 9 月 25 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4964580"
+    "store_url": "https://store.steampowered.com/app/4671380"
   },
   {
     "appid": 5064340,
@@ -122,59 +178,5 @@
     "release_date": "2026 年 9 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4981570"
-  },
-  {
-    "appid": 2085540,
-    "name": "打工火柴人",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085540/74d3e4e6320e01165677ffdf14cc8fe5324c2b4c/header_schinese.jpg?t=1790179341",
-    "short_description": "Stick it to the Stickman是一款轻肉鸽物理格斗游戏。你需要在晋升之路上暴力清除障碍，构建极具杀伤力的招式组合，解锁新员工和游戏模式，提升股东价值。",
-    "is_free": false,
-    "price": "¥ 24.00",
-    "original_price": "¥ 48.00",
-    "discount_percent": 50,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2085540"
-  },
-  {
-    "appid": 3936270,
-    "name": "不管了先把游戏做完上线 / It's Fine",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936270/587a9150966d863508903dca562dc86ccf9a3817/header_schinese.jpg?t=1790225431",
-    "short_description": "这是一个通过点击x放置x吐槽来“做游戏”的游戏。（不是打错了）。让水军刷愿望单、海怪做测试、松鼠玩核能，把开发效率一路堆上天。唯一的问题是：游戏明天就要上线，而你的项目经理是一只狗。",
-    "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3936270"
-  },
-  {
-    "appid": 4358690,
-    "name": "守墓人2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
-    "short_description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
-    "is_free": false,
-    "price": "¥ 85.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4358690"
   }
 ]
