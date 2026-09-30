@@ -1,8 +1,167 @@
 [
   {
+    "appid": 1912410,
+    "name": "Minecraft Dungeons II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790668865",
+    "short_description": "新的威胁降临主世界...",
+    "is_free": false,
+    "price": "¥ 148.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1912410"
+  },
+  {
+    "appid": 3493540,
+    "name": "Transport Fever 3",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790697610",
+    "short_description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+    "is_free": false,
+    "price": "¥ 198.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "休闲",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3493540"
+  },
+  {
+    "appid": 3793200,
+    "name": "American Truck Simulator - Road Trip: Ford",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3793200/34910ebced5a5287ea399dc193f49e5f5994352e/header.jpg?t=1790697689",
+    "short_description": "发动机已就绪！使用福特车辆包（公路之旅新游戏模块的 DLC 内容），以前所未有的方式驶上美洲卡车模拟的道路吧！",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3793200"
+  },
+  {
+    "appid": 1486920,
+    "name": "风暴崛起 Tempest Rising",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2399a803dd72d61e0712faf7fecae94c7d7ad646/header_alt_assets_5.jpg?t=1790705131",
+    "short_description": "《风暴崛起（Tempest Rising）》是一款融合经典RTS精髓与现代战争美学的即时战略游戏。 指挥风格迥异的阵营，在核战争后的地球上为资源与霸权展开殊死较量，决战风暴之巅。",
+    "is_free": false,
+    "price": "¥ 84.50",
+    "original_price": "¥ 169.00",
+    "discount_percent": 50,
+    "genres": [
+      "动作",
+      "策略"
+    ],
+    "release_date": "2025 年 4 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1486920"
+  },
+  {
+    "appid": 3917700,
+    "name": "骰之侵略者",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1790706148",
+    "short_description": "在《骰之侵略者》这款与《星之侵略者》同宇宙设定的骰子肉鸽游戏中，组建一支外星侵略者大军去征服地球吧！",
+    "is_free": false,
+    "price": "¥ 48.60",
+    "original_price": "¥ 54.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3917700"
+  },
+  {
+    "appid": 1488490,
+    "name": "《尼瓦利斯之夜》  Nivalis Nights",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488490/28e511ff46672f9649744961fd6edbf19df75265/header.jpg?t=1790694813",
+    "short_description": "扩张产业、经营餐厅与夜店，结交挚友、树立对手；购置公寓随心装潢，出海垂钓，甚至邂逅一段浪漫恋情。这座自海岸线绵延至云端的赛博朋克都市，藏着无数可能。",
+    "is_free": false,
+    "price": "¥ 88.20",
+    "original_price": "¥ 98.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1488490"
+  },
+  {
+    "appid": 4601120,
+    "name": "无尽列车",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601120/a4bd1136ed7c71f9e89f7548e58608b1b0ea0e71/header_schinese.jpg?t=1790689860",
+    "short_description": "《无尽列车》是一款俯视角的\u0026quot;弹幕生存肉鸽\u0026quot;。你将操控无人机，粉碎成群的怪物，守护那列穿行荒野的列车。",
+    "is_free": false,
+    "price": "¥ 20.30",
+    "original_price": "¥ 29.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4601120"
+  },
+  {
+    "appid": 2900640,
+    "name": "TOEM 2 摄影冒险2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790697404",
+    "short_description": "在广受好评的《TOEM》续作《TOEM 2 摄影冒险2》中，再次成为一名好奇的摄影师，踏上全新的冒险之旅——发掘藏于各处的精巧细节，帮助沿途遇到的可爱伙伴，记录世界之中的小小奇观。",
+    "is_free": false,
+    "price": "¥ 66.30",
+    "original_price": "¥ 78.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2900640"
+  },
+  {
+    "appid": 2543830,
+    "name": "Way of the Hunter 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/89b81de5ed439dcdcfca24611a416c5ddb033c63/header.jpg?t=1790692945",
+    "short_description": "体验最先进、最逼真、视觉效果超群的狩猎冒险，让你的足迹遍布北美洲与非洲的荒野之地。体验无比真实的动物行为、高度动态的生态系统，以及危险的野生动物，为你的狩猎屋积累战利品收藏",
+    "is_free": false,
+    "price": "¥ 218.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2543830"
+  },
+  {
     "appid": 3935530,
     "name": "Frutiger Home",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935530/361e40f3ffb8bae7f06b95af6fe172243acdf0bb/header.jpg?t=1790643173",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935530/361e40f3ffb8bae7f06b95af6fe172243acdf0bb/header.jpg?t=1790725359",
     "short_description": "装饰你梦想中的 Frutiger 家，在这款温馨的合作式 Frutiger 房屋装饰游戏中尽情发挥。选择一个房屋布局，从丰富多样的 Frutiger 主题装饰中添加元素，并与朋友们一起欢乐相聚！",
     "is_free": false,
     "price": "¥ 19.80",
@@ -14,169 +173,5 @@
     "release_date": "2026 年 9 月 28 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3935530"
-  },
-  {
-    "appid": 3832490,
-    "name": "Antivirus Survivors 2003 Professional",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/19ec8cf9c754e295d6bc29870e1ed65f04b69988/header.jpg?t=1790609561",
-    "short_description": "The family computer is infected again and it’s your job to fend off waves of viruses and adware foes with an arsenal of nostalgic Y2K-inspired weapons. Antivirus Survivors 2003 Professional is a survivor-like auto-shooter filled with nods to the days when computers were actually fun.",
-    "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3832490"
-  },
-  {
-    "appid": 4623570,
-    "name": "桌面破坏神：挂机ARPG",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790596988",
-    "short_description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
-    "is_free": false,
-    "price": "¥ 19.60",
-    "original_price": "¥ 28.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4623570"
-  },
-  {
-    "appid": 4260270,
-    "name": "与你流落荒岛",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/1e1cec55c82d71ee65a181bdf616e81ddd1ea7ca/header_schinese.jpg?t=1790391557",
-    "short_description": "在这款生存游戏里，你和好友巳月流落到了一座荒岛。两人将结伴探索岛上的一切、狩猎并收集生存物资、搭建简易的住所、在一次次的相处中感情逐渐升温。巳月也会全程陪在你的身边，努力保护好彼此并活着回家吧！",
-    "is_free": false,
-    "price": "¥ 33.60",
-    "original_price": "¥ 42.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4260270"
-  },
-  {
-    "appid": 4671380,
-    "name": "Scapewatch: Idle MMO",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671380/c3195a5ab8b2d8d36b9bf166f6db8c5bd26d0439/header.jpg?t=1790357247",
-    "short_description": "30项技能。三种战斗风格。公会、团队副本、排行榜、宠物、披风。排好队列，关掉标签页，回来时更富有。Scapewatch是为真正热爱刷刷刷的玩家打造的放置MMO。",
-    "is_free": false,
-    "price": "¥ 38.35",
-    "original_price": "¥ 59.00",
-    "discount_percent": 35,
-    "genres": [
-      "独立",
-      "大型多人在线",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4671380"
-  },
-  {
-    "appid": 5064340,
-    "name": "DinoBones: Tidy Up the Museum",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064340/0dd27279063d7b37f3e143571c3848bea4502e9b/header.jpg?t=1790516983",
-    "short_description": "《DinoBones: Tidy Up the Museum!》是一款温馨的骨架修复模拟游戏。鉴别、收集并拼合约 2,000 块散落各处的恐龙骨骼。感受混乱化为秩序，而每复原一具骨架，博物馆便揭开一个新的秘密。",
-    "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5064340"
-  },
-  {
-    "appid": 3222640,
-    "name": "西部拓荒纪",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3222640/e2d0ec030fef4f18e734ef91ad68f1b147bffb65/header.jpg?t=1790343414",
-    "short_description": "《西部拓荒纪》是一款城市建造冒险游戏，你将带领一群拓荒者深入尚未开垦的西部边疆。建设并管理不断发展的聚落，建立完整的生产链，探索广袤世界，并亲历一段关于淘金梦想、危险遭遇与寻找家人的西部故事。",
-    "is_free": false,
-    "price": "¥ 74.25",
-    "original_price": "¥ 99.00",
-    "discount_percent": 25,
-    "genres": [
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 9 月 25 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3222640"
-  },
-  {
-    "appid": 4080220,
-    "name": "EA SPORTS FC™ 27",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790357926",
-    "short_description": "欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。",
-    "is_free": false,
-    "price": "¥ 248.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4080220"
-  },
-  {
-    "appid": 3669870,
-    "name": "控制: 共振",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1790259464",
-    "short_description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3669870"
-  },
-  {
-    "appid": 4981570,
-    "name": "Wand \u0026 Order: Tidy up the magic shop!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981570/220cdaf5171fb86917cd0f288c4fd551d89f24f9/header.jpg?t=1790501148",
-    "short_description": "温馨的第一人称合作整理清洁模拟游戏!整理魔杖、塔罗牌和药水,把店铺收拾得井井有条来赚取积分,解锁强大法术,赶在炼金术士回来之前恢复秩序!",
-    "is_free": false,
-    "price": "¥ 21.58",
-    "original_price": "¥ 26.00",
-    "discount_percent": 17,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4981570"
   }
 ]
