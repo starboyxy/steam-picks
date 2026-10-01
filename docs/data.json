@@ -1,26 +1,24 @@
 [
   {
-    "appid": 1912410,
-    "name": "Minecraft Dungeons II",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790668865",
-    "short_description": "新的威胁降临主世界...",
+    "appid": 2288340,
+    "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790763244",
+    "short_description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
     "is_free": false,
-    "price": "¥ 148.00",
+    "price": "¥ 298.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
+      "动作"
     ],
-    "release_date": "2026 年 9 月 29 日",
+    "release_date": "2026 年 10 月 1 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1912410"
+    "store_url": "https://store.steampowered.com/app/2288340"
   },
   {
     "appid": 3493540,
     "name": "Transport Fever 3",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790697610",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
     "short_description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
     "is_free": false,
     "price": "¥ 198.00",
@@ -36,43 +34,95 @@
     "store_url": "https://store.steampowered.com/app/3493540"
   },
   {
-    "appid": 3793200,
-    "name": "American Truck Simulator - Road Trip: Ford",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3793200/34910ebced5a5287ea399dc193f49e5f5994352e/header.jpg?t=1790697689",
-    "short_description": "发动机已就绪！使用福特车辆包（公路之旅新游戏模块的 DLC 内容），以前所未有的方式驶上美洲卡车模拟的道路吧！",
+    "appid": 3841510,
+    "name": "真・三国无双２ with 猛将传 Remastered",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841510/78b59986938202a50113def292c1bff6052c6862/header_schinese.jpg?t=1790817204",
+    "short_description": "震撼重现，一骑当千的极致体验。《真・三国无双２》与《真・三国无双２ 猛将传》经典重现，重磅回归！更爽快的动作体验，挑战一骑当千的极致境界！",
     "is_free": false,
-    "price": "¥ 39.00",
+    "price": "¥ 198.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
+      "动作",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3841510"
+  },
+  {
+    "appid": 2934330,
+    "name": "RADIOSOL",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934330/header.jpg?t=1790790286",
+    "short_description": "RADIOSOL is a journey through a desolate world burned by a planetary cataclysm. In search of answers, you will have to navigate through the ruins of megastructures and abandoned cities, avoiding the scorching rays of the Sun.",
+    "is_free": false,
+    "price": "¥ 36.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
       "独立",
       "模拟"
     ],
-    "release_date": "2026 年 9 月 29 日",
+    "release_date": "2026 年 9 月 30 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3793200"
+    "store_url": "https://store.steampowered.com/app/2934330"
   },
   {
-    "appid": 1486920,
-    "name": "风暴崛起 Tempest Rising",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2399a803dd72d61e0712faf7fecae94c7d7ad646/header_alt_assets_5.jpg?t=1790705131",
-    "short_description": "《风暴崛起（Tempest Rising）》是一款融合经典RTS精髓与现代战争美学的即时战略游戏。 指挥风格迥异的阵营，在核战争后的地球上为资源与霸权展开殊死较量，决战风暴之巅。",
+    "appid": 4415120,
+    "name": "万物皆可嗦",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415120/c85ba7b08ab1becf12b8312d20128bbf45e1a805/header.jpg?t=1790781292",
+    "short_description": "在这款贪婪的放置游戏中，从井盖成长为黑洞，吞噬整个宇宙。",
     "is_free": false,
-    "price": "¥ 84.50",
-    "original_price": "¥ 169.00",
-    "discount_percent": 50,
+    "price": "¥ 16.00",
+    "original_price": "¥ 20.00",
+    "discount_percent": 20,
     "genres": [
-      "动作",
-      "策略"
+      "休闲",
+      "独立"
     ],
-    "release_date": "2025 年 4 月 24 日",
+    "release_date": "2026 年 9 月 30 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1486920"
+    "store_url": "https://store.steampowered.com/app/4415120"
+  },
+  {
+    "appid": 1706510,
+    "name": "Songs of Glimmerwick",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/2e6d0bc2ac7bac10bf9f90ca91d69a48ad76c255/header.jpg?t=1790786083",
+    "short_description": "沉浸在一个音乐与林地奇幻交织的世界中，施展法术就像演奏歌曲般轻松自如。在这款剧情导向的女巫学院RPG游戏中，你将上课学习、打理学校花园、与同学与镇民建立友谊，并探索岛上诸多奇闻异事与谜团。",
+    "is_free": false,
+    "price": "¥ 83.70",
+    "original_price": "¥ 93.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1706510"
+  },
+  {
+    "appid": 3438810,
+    "name": "美少女梦工厂: 预言之子",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438810/340649b8db063d05d5fa70dc4432fc5f1c394511/header_schinese.jpg?t=1790761177",
+    "short_description": "《美少女梦工厂：预言之子》是时隔约18年再度回归的《美少女梦工厂》系列新作，是一款将年幼的少女养育成人的养成模拟游戏。 在保留原作魅力十足的画风与养成系统的同时，以现代化的面貌重新诞生。 在游戏中成为父母，帮助小女孩实现她的梦想吧！",
+    "is_free": false,
+    "price": "¥ 78.40",
+    "original_price": "¥ 98.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3438810"
   },
   {
     "appid": 3917700,
     "name": "骰之侵略者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1790706148",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1790781287",
     "short_description": "在《骰之侵略者》这款与《星之侵略者》同宇宙设定的骰子肉鸽游戏中，组建一支外星侵略者大军去征服地球吧！",
     "is_free": false,
     "price": "¥ 48.60",
@@ -106,24 +156,6 @@
     "store_url": "https://store.steampowered.com/app/1488490"
   },
   {
-    "appid": 4601120,
-    "name": "无尽列车",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601120/a4bd1136ed7c71f9e89f7548e58608b1b0ea0e71/header_schinese.jpg?t=1790689860",
-    "short_description": "《无尽列车》是一款俯视角的\u0026quot;弹幕生存肉鸽\u0026quot;。你将操控无人机，粉碎成群的怪物，守护那列穿行荒野的列车。",
-    "is_free": false,
-    "price": "¥ 20.30",
-    "original_price": "¥ 29.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4601120"
-  },
-  {
     "appid": 2900640,
     "name": "TOEM 2 摄影冒险2",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790697404",
@@ -140,38 +172,5 @@
     "release_date": "2026 年 9 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2900640"
-  },
-  {
-    "appid": 2543830,
-    "name": "Way of the Hunter 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/89b81de5ed439dcdcfca24611a416c5ddb033c63/header.jpg?t=1790692945",
-    "short_description": "体验最先进、最逼真、视觉效果超群的狩猎冒险，让你的足迹遍布北美洲与非洲的荒野之地。体验无比真实的动物行为、高度动态的生态系统，以及危险的野生动物，为你的狩猎屋积累战利品收藏",
-    "is_free": false,
-    "price": "¥ 218.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2543830"
-  },
-  {
-    "appid": 3935530,
-    "name": "Frutiger Home",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935530/361e40f3ffb8bae7f06b95af6fe172243acdf0bb/header.jpg?t=1790725359",
-    "short_description": "装饰你梦想中的 Frutiger 家，在这款温馨的合作式 Frutiger 房屋装饰游戏中尽情发挥。选择一个房屋布局，从丰富多样的 Frutiger 主题装饰中添加元素，并与朋友们一起欢乐相聚！",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 28 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3935530"
   }
 ]
