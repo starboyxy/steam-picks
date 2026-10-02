@@ -1,8 +1,24 @@
 [
   {
+    "appid": 3867170,
+    "name": "兰斯7 战国兰斯",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867170/22093cf0e139851369a442016604ed15d6bf187e/header_schinese.jpg?t=1790913603",
+    "short_description": "刚结束了广袤大陆上的精彩冒险，无畏的剑士兰斯如今又来到了东方岛国日本。",
+    "is_free": false,
+    "price": "¥ 55.20",
+    "original_price": "¥ 69.00",
+    "discount_percent": 20,
+    "genres": [
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3867170"
+  },
+  {
     "appid": 2288340,
     "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790763244",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088",
     "short_description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -16,22 +32,42 @@
     "store_url": "https://store.steampowered.com/app/2288340"
   },
   {
-    "appid": 3493540,
-    "name": "Transport Fever 3",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
-    "short_description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+    "appid": 2067820,
+    "name": "复古时空",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067820/cf99a71a5306253e58770565682a5e6def4f0968/header_schinese.jpg?t=1790866452",
+    "short_description": "在这款迪斯科朋克风格的空间站恐怖游戏中，扮演潜行高手，或化身变异动作英雄，在一个遭黑洞吞噬的空间站努力生存下来。这是一段颠覆认知的冒险旅程，直面怪异生物，体验沉浸式玩法和时间跳跃，还有七十年代风格的胡子！",
     "is_free": false,
-    "price": "¥ 198.00",
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 1 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2067820"
+  },
+  {
+    "appid": 4997770,
+    "name": "Warhammer 40,000: Space Marine 2 - Season Pass 3",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997770/36ac7428843ed9a470d334f2d554002596f43260/header.jpg?t=1790873265",
+    "short_description": "通过赛季通行证3，获得来自你最喜欢的星际战士战团的新装甲、武器和冠军装扮，并享受《Warhammer 40,000: Space Marine 2》附加内容优惠价格。此捆绑包总计由10个装扮DLC组成。",
+    "is_free": false,
+    "price": "¥ 169.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "休闲",
-      "模拟",
-      "策略"
+      "动作",
+      "冒险",
+      "角色扮演"
     ],
-    "release_date": "2026 年 9 月 29 日",
+    "release_date": "2026 年 10 月 1 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3493540"
+    "store_url": "https://store.steampowered.com/app/4997770"
   },
   {
     "appid": 3841510,
@@ -52,41 +88,6 @@
     "store_url": "https://store.steampowered.com/app/3841510"
   },
   {
-    "appid": 2934330,
-    "name": "RADIOSOL",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934330/header.jpg?t=1790790286",
-    "short_description": "RADIOSOL is a journey through a desolate world burned by a planetary cataclysm. In search of answers, you will have to navigate through the ruins of megastructures and abandoned cities, avoiding the scorching rays of the Sun.",
-    "is_free": false,
-    "price": "¥ 36.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2934330"
-  },
-  {
-    "appid": 4415120,
-    "name": "万物皆可嗦",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415120/c85ba7b08ab1becf12b8312d20128bbf45e1a805/header.jpg?t=1790781292",
-    "short_description": "在这款贪婪的放置游戏中，从井盖成长为黑洞，吞噬整个宇宙。",
-    "is_free": false,
-    "price": "¥ 16.00",
-    "original_price": "¥ 20.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 9 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4415120"
-  },
-  {
     "appid": 1706510,
     "name": "Songs of Glimmerwick",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/2e6d0bc2ac7bac10bf9f90ca91d69a48ad76c255/header.jpg?t=1790786083",
@@ -104,25 +105,9 @@
     "store_url": "https://store.steampowered.com/app/1706510"
   },
   {
-    "appid": 3438810,
-    "name": "美少女梦工厂: 预言之子",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438810/340649b8db063d05d5fa70dc4432fc5f1c394511/header_schinese.jpg?t=1790761177",
-    "short_description": "《美少女梦工厂：预言之子》是时隔约18年再度回归的《美少女梦工厂》系列新作，是一款将年幼的少女养育成人的养成模拟游戏。 在保留原作魅力十足的画风与养成系统的同时，以现代化的面貌重新诞生。 在游戏中成为父母，帮助小女孩实现她的梦想吧！",
-    "is_free": false,
-    "price": "¥ 78.40",
-    "original_price": "¥ 98.00",
-    "discount_percent": 20,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3438810"
-  },
-  {
     "appid": 3917700,
     "name": "骰之侵略者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1790781287",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1790876195",
     "short_description": "在《骰之侵略者》这款与《星之侵略者》同宇宙设定的骰子肉鸽游戏中，组建一支外星侵略者大军去征服地球吧！",
     "is_free": false,
     "price": "¥ 48.60",
@@ -140,7 +125,7 @@
   {
     "appid": 1488490,
     "name": "《尼瓦利斯之夜》  Nivalis Nights",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488490/28e511ff46672f9649744961fd6edbf19df75265/header.jpg?t=1790694813",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488490/28e511ff46672f9649744961fd6edbf19df75265/header.jpg?t=1790855080",
     "short_description": "扩张产业、经营餐厅与夜店，结交挚友、树立对手；购置公寓随心装潢，出海垂钓，甚至邂逅一段浪漫恋情。这座自海岸线绵延至云端的赛博朋克都市，藏着无数可能。",
     "is_free": false,
     "price": "¥ 88.20",
@@ -156,21 +141,38 @@
     "store_url": "https://store.steampowered.com/app/1488490"
   },
   {
-    "appid": 2900640,
-    "name": "TOEM 2 摄影冒险2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790697404",
-    "short_description": "在广受好评的《TOEM》续作《TOEM 2 摄影冒险2》中，再次成为一名好奇的摄影师，踏上全新的冒险之旅——发掘藏于各处的精巧细节，帮助沿途遇到的可爱伙伴，记录世界之中的小小奇观。",
+    "appid": 2543830,
+    "name": "Way of the Hunter 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/89b81de5ed439dcdcfca24611a416c5ddb033c63/header.jpg?t=1790692945",
+    "short_description": "体验最先进、最逼真、视觉效果超群的狩猎冒险，让你的足迹遍布北美洲与非洲的荒野之地。体验无比真实的动物行为、高度动态的生态系统，以及危险的野生动物，为你的狩猎屋积累战利品收藏",
     "is_free": false,
-    "price": "¥ 66.30",
-    "original_price": "¥ 78.00",
-    "discount_percent": 15,
+    "price": "¥ 218.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "冒险",
-      "休闲",
-      "独立"
+      "模拟"
     ],
     "release_date": "2026 年 9 月 29 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2900640"
+    "store_url": "https://store.steampowered.com/app/2543830"
+  },
+  {
+    "appid": 1912410,
+    "name": "Minecraft Dungeons II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790774234",
+    "short_description": "新的威胁降临主世界...",
+    "is_free": false,
+    "price": "¥ 148.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 29 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1912410"
   }
 ]
