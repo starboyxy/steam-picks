@@ -1,5 +1,23 @@
 [
   {
+    "appid": 4285110,
+    "name": "Tunnel Escape Fates Entwined",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285110/141ce1d92ad831d9446487bd67e9d96a953c9bbf/header.jpg?t=1790995616",
+    "short_description": "你将扮演女警奥莉维亚，在一座被丧尸摧毁的城市中执行一项危险的护送任务。这是一款结合了肉鸽元素的RPG加冒险游戏，你需要在残酷的枪战中活下来，灵活使用各种武器，并不断升级装备来应对越来越致命的敌人。一旦失败，后果将不堪设想……",
+    "is_free": false,
+    "price": "¥ 61.60",
+    "original_price": "¥ 77.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 2 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4285110"
+  },
+  {
     "appid": 3867170,
     "name": "兰斯7 战国兰斯",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867170/22093cf0e139851369a442016604ed15d6bf187e/header_schinese.jpg?t=1790913603",
@@ -50,24 +68,6 @@
     "release_date": "2026 年 10 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2067820"
-  },
-  {
-    "appid": 4997770,
-    "name": "Warhammer 40,000: Space Marine 2 - Season Pass 3",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997770/36ac7428843ed9a470d334f2d554002596f43260/header.jpg?t=1790873265",
-    "short_description": "通过赛季通行证3，获得来自你最喜欢的星际战士战团的新装甲、武器和冠军装扮，并享受《Warhammer 40,000: Space Marine 2》附加内容优惠价格。此捆绑包总计由10个装扮DLC组成。",
-    "is_free": false,
-    "price": "¥ 169.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4997770"
   },
   {
     "appid": 3841510,
