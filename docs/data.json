@@ -1,39 +1,5 @@
 [
   {
-    "appid": 4285110,
-    "name": "Tunnel Escape Fates Entwined",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285110/141ce1d92ad831d9446487bd67e9d96a953c9bbf/header.jpg?t=1790995616",
-    "short_description": "你将扮演女警奥莉维亚，在一座被丧尸摧毁的城市中执行一项危险的护送任务。这是一款结合了肉鸽元素的RPG加冒险游戏，你需要在残酷的枪战中活下来，灵活使用各种武器，并不断升级装备来应对越来越致命的敌人。一旦失败，后果将不堪设想……",
-    "is_free": false,
-    "price": "¥ 61.60",
-    "original_price": "¥ 77.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4285110"
-  },
-  {
-    "appid": 3867170,
-    "name": "兰斯7 战国兰斯",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867170/22093cf0e139851369a442016604ed15d6bf187e/header_schinese.jpg?t=1790913603",
-    "short_description": "刚结束了广袤大陆上的精彩冒险，无畏的剑士兰斯如今又来到了东方岛国日本。",
-    "is_free": false,
-    "price": "¥ 55.20",
-    "original_price": "¥ 69.00",
-    "discount_percent": 20,
-    "genres": [
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3867170"
-  },
-  {
     "appid": 2288340,
     "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088",
@@ -86,23 +52,6 @@
     "release_date": "2026 年 9 月 30 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3841510"
-  },
-  {
-    "appid": 1706510,
-    "name": "Songs of Glimmerwick",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/2e6d0bc2ac7bac10bf9f90ca91d69a48ad76c255/header.jpg?t=1790786083",
-    "short_description": "沉浸在一个音乐与林地奇幻交织的世界中，施展法术就像演奏歌曲般轻松自如。在这款剧情导向的女巫学院RPG游戏中，你将上课学习、打理学校花园、与同学与镇民建立友谊，并探索岛上诸多奇闻异事与谜团。",
-    "is_free": false,
-    "price": "¥ 83.70",
-    "original_price": "¥ 93.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1706510"
   },
   {
     "appid": 3917700,
@@ -158,12 +107,12 @@
     "store_url": "https://store.steampowered.com/app/2543830"
   },
   {
-    "appid": 1912410,
-    "name": "Minecraft Dungeons II",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790998164",
-    "short_description": "新的威胁降临主世界...",
+    "appid": 3669870,
+    "name": "控制: 共振",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1791013569",
+    "short_description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
     "is_free": false,
-    "price": "¥ 148.00",
+    "price": "¥ 268.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
@@ -171,8 +120,62 @@
       "冒险",
       "角色扮演"
     ],
-    "release_date": "2026 年 9 月 29 日",
+    "release_date": "2026 年 9 月 24 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1912410"
+    "store_url": "https://store.steampowered.com/app/3669870"
+  },
+  {
+    "appid": 4358690,
+    "name": "守墓人2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+    "short_description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+    "is_free": false,
+    "price": "¥ 85.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4358690"
+  },
+  {
+    "appid": 3699590,
+    "name": "黯井微光 (Well Dweller)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/0bfee39e2d0df55c079b7125f37467c45cc1053f/header_schinese.jpg?t=1790314621",
+    "short_description": "《黯井微光》是一款暗黑童话风格的类银河城游戏，讲述了栖身于破败王国中的一群迷人角色的故事。玩家将扮演一只手持火柴棒的小鸟——微光，踏上焚灭邪恶女王、拯救家族的旅程。",
+    "is_free": false,
+    "price": "¥ 57.80",
+    "original_price": "¥ 68.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 9 月 22 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3699590"
+  },
+  {
+    "appid": 4019220,
+    "name": "针影裁梦",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+    "short_description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+    "is_free": false,
+    "price": "¥ 59.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 9 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4019220"
   }
 ]
