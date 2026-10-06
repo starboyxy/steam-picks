@@ -2,7 +2,7 @@
   {
     "appid": 2288340,
     "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791249082",
     "short_description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -14,26 +14,6 @@
     "release_date": "2026 年 10 月 1 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2288340"
-  },
-  {
-    "appid": 2067820,
-    "name": "复古时空",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067820/cf99a71a5306253e58770565682a5e6def4f0968/header_schinese.jpg?t=1790866452",
-    "short_description": "在这款迪斯科朋克风格的空间站恐怖游戏中，扮演潜行高手，或化身变异动作英雄，在一个遭黑洞吞噬的空间站努力生存下来。这是一段颠覆认知的冒险旅程，直面怪异生物，体验沉浸式玩法和时间跳跃，还有七十年代风格的胡子！",
-    "is_free": false,
-    "price": "¥ 69.30",
-    "original_price": "¥ 77.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2067820"
   },
   {
     "appid": 3841510,
@@ -56,7 +36,7 @@
   {
     "appid": 3917700,
     "name": "骰之侵略者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1790876195",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1791215806",
     "short_description": "在《骰之侵略者》这款与《星之侵略者》同宇宙设定的骰子肉鸽游戏中，组建一支外星侵略者大军去征服地球吧！",
     "is_free": false,
     "price": "¥ 48.60",
@@ -177,5 +157,23 @@
     "release_date": "2026 年 9 月 21 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4019220"
+  },
+  {
+    "appid": 3407390,
+    "name": "无尽帝国 2 ENDLESS Legend™ 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/329717fb7bff4bd0cb8f48b13bb3a521ae00ec86/header_schinese.jpg?t=1790846870",
+    "short_description": "在这款由英雄带领不同派系的策略游戏中，率领你的百姓在动荡不安的世界取得胜利。建立属于你的帝国，发挥政治影响力，培养强大的军队，发动战争，揭开这星球背后的黯黑秘密。",
+    "is_free": false,
+    "price": "¥ 99.50",
+    "original_price": "¥ 199.00",
+    "discount_percent": 50,
+    "genres": [
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 9 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3407390"
   }
 ]
