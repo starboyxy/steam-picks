@@ -1,8 +1,95 @@
 [
   {
+    "appid": 5026420,
+    "name": "《守望先锋®》——终极战令礼包2026：第5赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026420/37e2e790307828874166b9f2e19a6d7864712fab/header.jpg?t=1791309619",
+    "short_description": "获取《守望先锋》：第5赛季高级战令+20级战令等级直升，选择更多，还可以切换奖励，还有2款传奇皮肤、2000守望金币以及更多好礼！",
+    "is_free": false,
+    "price": "¥ 240.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 10 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5026420"
+  },
+  {
+    "appid": 5026430,
+    "name": "《守望先锋®》开战礼包2026：第5赛季",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026430/78559d614f947730be52ef684b6a407f35a54065/header.jpg?t=1791309616",
+    "short_description": "获取1000守望金币和鬼影缠身埃姆雷，在这个赛季强势开局！",
+    "is_free": false,
+    "price": "¥ 60.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 10 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5026430"
+  },
+  {
+    "appid": 4849350,
+    "name": "MechWarrior 5: Mercenaries - Ashes and Ascension",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849350/bdbbbd26ccf1cae1ab67e5f3b20dc8377b58d523/header.jpg?t=1791309554",
+    "short_description": "率领你的雇佣兵部队展开全新战役，共18个任务，并迎来13台全新'Mechs、全新Inner Sphere OmniMechs、变体、武器、地面单位等更多内容。Inner Sphere转守为攻，将战火烧向Clans。",
+    "is_free": false,
+    "price": "¥ 77.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 10 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4849350"
+  },
+  {
+    "appid": 3010850,
+    "name": "Gears of War: E-Day",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791309192",
+    "short_description": "沉浸式重温事变日——游戏史上最受赞誉的第三人称射击系列之一，其残酷的起源故事就此展开。",
+    "is_free": false,
+    "price": "¥ 298.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 10 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3010850"
+  },
+  {
+    "appid": 4078430,
+    "name": "星球大战：银河赛车手™",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg?t=1791300714",
+    "short_description": "《星球大战：银河赛车手™》是一款以竞速为核心的惊险赛车游戏，重新定义了赛车游戏的概念，以法外之地外环星域为游戏背景。帝国覆灭之后，银河系得到了重建，银河联赛也应运而生：这是一个未经官方认可的地下赛车联盟，在各大财团的资金支持下，飞行员会在混乱中一决高下，争夺冠军。",
+    "is_free": false,
+    "price": "¥ 228.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "竞速",
+      "模拟",
+      "体育"
+    ],
+    "release_date": "2026 年 10 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4078430"
+  },
+  {
     "appid": 2288340,
     "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791249082",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652",
     "short_description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -85,95 +172,5 @@
     "release_date": "2026 年 9 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2543830"
-  },
-  {
-    "appid": 3669870,
-    "name": "控制: 共振",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1791013569",
-    "short_description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3669870"
-  },
-  {
-    "appid": 4358690,
-    "name": "守墓人2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
-    "short_description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
-    "is_free": false,
-    "price": "¥ 85.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4358690"
-  },
-  {
-    "appid": 3699590,
-    "name": "黯井微光 (Well Dweller)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/0bfee39e2d0df55c079b7125f37467c45cc1053f/header_schinese.jpg?t=1790314621",
-    "short_description": "《黯井微光》是一款暗黑童话风格的类银河城游戏，讲述了栖身于破败王国中的一群迷人角色的故事。玩家将扮演一只手持火柴棒的小鸟——微光，踏上焚灭邪恶女王、拯救家族的旅程。",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3699590"
-  },
-  {
-    "appid": 4019220,
-    "name": "针影裁梦",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
-    "short_description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
-    "is_free": false,
-    "price": "¥ 59.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4019220"
-  },
-  {
-    "appid": 3407390,
-    "name": "无尽帝国 2 ENDLESS Legend™ 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/329717fb7bff4bd0cb8f48b13bb3a521ae00ec86/header_schinese.jpg?t=1790846870",
-    "short_description": "在这款由英雄带领不同派系的策略游戏中，率领你的百姓在动荡不安的世界取得胜利。建立属于你的帝国，发挥政治影响力，培养强大的军队，发动战争，揭开这星球背后的黯黑秘密。",
-    "is_free": false,
-    "price": "¥ 99.50",
-    "original_price": "¥ 199.00",
-    "discount_percent": 50,
-    "genres": [
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3407390"
   }
 ]
