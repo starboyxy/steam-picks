@@ -2,7 +2,7 @@
   {
     "appid": 3010850,
     "name": "Gears of War: E-Day",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791405196",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791488050",
     "short_description": "沉浸式重温事变日——游戏史上最受赞誉的第三人称射击系列之一，其残酷的起源故事就此展开。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -17,164 +17,164 @@
     "store_url": "https://store.steampowered.com/app/3010850"
   },
   {
-    "appid": 4078430,
-    "name": "星球大战：银河赛车手™",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg?t=1791388584",
-    "short_description": "《星球大战：银河赛车手™》是一款以竞速为核心的惊险赛车游戏，重新定义了赛车游戏的概念，以法外之地外环星域为游戏背景。帝国覆灭之后，银河系得到了重建，银河联赛也应运而生：这是一个未经官方认可的地下赛车联盟，在各大财团的资金支持下，飞行员会在混乱中一决高下，争夺冠军。",
+    "appid": 2593290,
+    "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/f0224a5ef749d5211a09e6daede81d5b428faf2a/header.jpg?t=1791505231",
+    "short_description": "《Dragon's Dogma 2: Dark Arisen Expansion》是《Dragon's Dogma 2》的扩充内容，增加了全新剧情与体验。玩家可在正统的奇幻世界中享受自由冒险的乐趣。",
     "is_free": false,
-    "price": "¥ 228.00",
+    "price": "¥ 148.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作",
-      "冒险",
-      "竞速",
-      "模拟",
-      "体育"
+      "角色扮演"
     ],
-    "release_date": "2026 年 10 月 6 日",
+    "release_date": "2026 年 10 月 8 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4078430"
+    "store_url": "https://store.steampowered.com/app/2593290"
   },
   {
-    "appid": 2288340,
-    "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652",
-    "short_description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
+    "appid": 2333000,
+    "name": "银松镇",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/4a1a2b88d7536022bba475e7d13879c03853f8b5/header_schinese.jpg?t=1791483390",
+    "short_description": "《银松镇》是一款生存、恐怖、类银河战士恶魔城游戏，背景设定在美国小镇。在噩梦般的恐怖中奋战，破解重重谜题，同时管理稀缺资源，逐步揭开那些可能掌握救赎之钥的谜团。",
     "is_free": false,
-    "price": "¥ 298.00",
+    "price": "¥ 81.00",
+    "original_price": "¥ 90.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2333000"
+  },
+  {
+    "appid": 499170,
+    "name": "沉星之序",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/8e4b79f6886648fe2b9b4fd36824146559b047ec/header_schinese.jpg?t=1791483535",
+    "short_description": "由《时空幻境》《见证者》的作者 “吹哥” Jonathan Blow（乔纳森·布洛）打造的全新叙事冒险游戏，《沉星之序》将带你踏入一个魔法与谜团交织的世界。破解超过 1000 个精心设计、相互关联的谜题，邂逅独特的可操控英雄，掌握不断演变的玩法机制，最终揭开一场宏大的谜局。",
+    "is_free": false,
+    "price": "¥ 98.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/499170"
+  },
+  {
+    "appid": 3055670,
+    "name": "雨中冒险2：万象归衡",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055670/33b7237c8bb6faceabab61b755e21d4056e349eb/header_schinese.jpg?t=1791531426",
+    "short_description": "死亡终将降临到我们每一个人头上。操控两位全新幸存者，战胜强大的诅咒、陌生的新敌人，以及致命的试炼。但无论何时都不要忘记……她正注视着你。",
+    "is_free": false,
+    "price": "¥ 50.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3055670"
+  },
+  {
+    "appid": 2184080,
+    "name": "Echo Weaver",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184080/398c0bbc005fe63ffc0025c1fb4e88e3c0f6af97/header_alt_assets_0.jpg?t=1791515078",
+    "short_description": "时间是你最宝贵的资源，唯有秘密能让你成长升级。畅玩这款知识型类银河战士恶魔城游戏，掌握正在崩解的时间循环。扮演最后一名织者，利用扭曲时间的异常，以所知所学打破循环。探索残存的一切，揭开谜团，完美驾驭循环。",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2184080"
+  },
+  {
+    "appid": 1215940,
+    "name": "Forever Ago",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/463f75c014bc0ee1c6daf2ccda036edb28a0bb36/header.jpg?t=1791465185",
+    "short_description": "在这款单人公路旅行冒险游戏中，遭逢悲惨变故的阿尔弗雷德踏上了北上之路。",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1215940"
+  },
+  {
+    "appid": 1551980,
+    "name": "Clive Barker's Hellraiser: Revival",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/d1e7111b93b6a8b3eb029908887648348c2c55e6/header.jpg?t=1791462446",
+    "short_description": "置身传奇惊悚系列，体验前所未有的全新篇章。《克里夫·巴克猛鬼追魂：复苏》将第一人称动作恐怖生存游戏提升到了全新高度。",
+    "is_free": false,
+    "price": "¥ 189.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
       "动作"
     ],
-    "release_date": "2026 年 10 月 1 日",
+    "release_date": "2026 年 10 月 8 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2288340"
+    "store_url": "https://store.steampowered.com/app/1551980"
   },
   {
-    "appid": 3841510,
-    "name": "真・三国无双２ with 猛将传 Remastered",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841510/78b59986938202a50113def292c1bff6052c6862/header_schinese.jpg?t=1790817204",
-    "short_description": "震撼重现，一骑当千的极致体验。《真・三国无双２》与《真・三国无双２ 猛将传》经典重现，重磅回归！更爽快的动作体验，挑战一骑当千的极致境界！",
+    "appid": 4112840,
+    "name": "戰鬼克莉絲汀",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112840/c5d79988514d71d3c5d54c5406d1436af22b95bf/header_schinese.jpg?t=1791446439",
+    "short_description": "主角「克莉丝汀」是一位烦恼着自己的生活方式的女军人。 和冒险路上相遇的各种人们之间的温暖交流，究竟会为她的内心带来什么样的变化呢……",
     "is_free": false,
-    "price": "¥ 198.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 9 月 30 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3841510"
-  },
-  {
-    "appid": 3917700,
-    "name": "骰之侵略者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/4b601858e3bfccd6a7094d560e0884473edf8a1b/header_alt_assets_2_schinese.jpg?t=1791384832",
-    "short_description": "在《骰之侵略者》这款与《星之侵略者》同宇宙设定的骰子肉鸽游戏中，组建一支外星侵略者大军去征服地球吧！",
-    "is_free": false,
-    "price": "¥ 48.60",
-    "original_price": "¥ 54.00",
+    "price": "¥ 47.51",
+    "original_price": "¥ 52.79",
     "discount_percent": 10,
     "genres": [
       "休闲",
       "独立",
-      "策略"
+      "角色扮演"
     ],
-    "release_date": "2026 年 9 月 29 日",
+    "release_date": "2026 年 10 月 8 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3917700"
+    "store_url": "https://store.steampowered.com/app/4112840"
   },
   {
-    "appid": 1488490,
-    "name": "《尼瓦利斯之夜》  Nivalis Nights",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488490/28e511ff46672f9649744961fd6edbf19df75265/header.jpg?t=1790855080",
-    "short_description": "扩张产业、经营餐厅与夜店，结交挚友、树立对手；购置公寓随心装潢，出海垂钓，甚至邂逅一段浪漫恋情。这座自海岸线绵延至云端的赛博朋克都市，藏着无数可能。",
+    "appid": 3883570,
+    "name": "勇敢者之试炼 : Invokyr",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/c86d8cb1aac903b8c45497c7255fea0ee64f30b2/header_schinese.jpg?t=1791485649",
+    "short_description": "一款以诅咒桌游为主题的多人合作生存恐怖游戏。一盒尘封的棋盘，一栋闹鬼的老宅。支持最多6人联机。掷出骰子，在接踵而至的恐怖中拼死求生，击败游戏主宰，赢回你的自由。",
     "is_free": false,
-    "price": "¥ 88.20",
-    "original_price": "¥ 98.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1488490"
-  },
-  {
-    "appid": 3669870,
-    "name": "控制: 共振",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1791013569",
-    "short_description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 31.50",
+    "original_price": "¥ 42.00",
+    "discount_percent": 25,
     "genres": [
       "动作",
       "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 9 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3669870"
-  },
-  {
-    "appid": 4358690,
-    "name": "守墓人2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
-    "short_description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
-    "is_free": false,
-    "price": "¥ 85.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4358690"
-  },
-  {
-    "appid": 4019220,
-    "name": "针影裁梦",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
-    "short_description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
-    "is_free": false,
-    "price": "¥ 59.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 9 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4019220"
-  },
-  {
-    "appid": 3407390,
-    "name": "无尽帝国 2 ENDLESS Legend™ 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/329717fb7bff4bd0cb8f48b13bb3a521ae00ec86/header_schinese.jpg?t=1791279113",
-    "short_description": "在这款由英雄带领不同派系的策略游戏中，率领你的百姓在动荡不安的世界取得胜利。建立属于你的帝国，发挥政治影响力，培养强大的军队，发动战争，揭开这星球背后的黯黑秘密。",
-    "is_free": false,
-    "price": "¥ 99.50",
-    "original_price": "¥ 199.00",
-    "discount_percent": 50,
-    "genres": [
-      "角色扮演",
+      "独立",
       "模拟",
-      "策略"
+      "免费开玩",
+      "抢先体验"
     ],
-    "release_date": "2026 年 9 月 17 日",
+    "release_date": "2026 年 10 月 8 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3407390"
+    "store_url": "https://store.steampowered.com/app/3883570"
   }
 ]
