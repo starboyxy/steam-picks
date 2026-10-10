@@ -17,6 +17,153 @@
     "store_url": "https://store.steampowered.com/app/3010850"
   },
   {
+    "appid": 2680280,
+    "name": "PAPERHEAD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791581527",
+    "short_description": "纸板世界可爱迷人，可怕危机悄然降临……使用魔法铅笔、经典的霰弹枪等各种武器和强力靴子，揭开黑暗的真相，探明纸板人为什么会……流血。",
+    "is_free": false,
+    "price": "¥ 60.80",
+    "original_price": "¥ 76.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2680280"
+  },
+  {
+    "appid": 2010030,
+    "name": "Denizen",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2010030/8476751f42bd175389ff4371d8fca37624d8abb7/header.jpg?t=1791566506",
+    "short_description": "在这个开放世界的生活模拟器中，你可以在一个充满机会的城市中为自己谋生，同时认识各种当地人，探索独特的地点，并通过自己的努力达到顶峰。",
+    "is_free": false,
+    "price": "¥ 64.60",
+    "original_price": "¥ 76.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2010030"
+  },
+  {
+    "appid": 3090810,
+    "name": "Truckful / 乡野奇运",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090810/9f84a060b65f14c0e358b1bf6b2cca724ddf810c/header_schinese.jpg?t=1791562218",
+    "short_description": "驾驶你的小货车穿越看上去宁静祥和的乡间山谷，为运送乡镇居民运送必需品并揭开小镇的秘密。请小心，古老的森林在凝视着你。",
+    "is_free": false,
+    "price": "¥ 64.80",
+    "original_price": "¥ 72.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3090810"
+  },
+  {
+    "appid": 2254990,
+    "name": "永冻纪元 - Permafrost",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791608052",
+    "short_description": "《永冻纪元》是一款以剧情驱动的生存沙盒游戏，背景设定在一个被冰封的末日世界。你可以独自一人，或与最多3名玩家一同合作，探索一个充满故事与背景的开放世界。探索、搜集、制作，并建立属于你的避难所，在严寒中生存下去。",
+    "is_free": false,
+    "price": "¥ 95.20",
+    "original_price": "¥ 119.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2254990"
+  },
+  {
+    "appid": 2637940,
+    "name": "Used Cars Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637940/657fa22f73d14b4b5b58bcf265960fd97c5e7139/header_alt_assets_7.jpg?t=1791543776",
+    "short_description": "二手车模拟器》--交易二手车或赃车，修理和定制它们，驾车兜风，探索开放世界！发展你的业务，完成任务，在基于物理的沙盒游戏中享受乐趣！",
+    "is_free": false,
+    "price": "¥ 38.40",
+    "original_price": "¥ 64.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "竞速",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2637940"
+  },
+  {
+    "appid": 3031880,
+    "name": "Car Park Capital",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791611273",
+    "short_description": "汽车行业需要你设计并建造平静小镇生活从未见过的顶级停车场。激发人们对汽车通勤的需求，把街区变成停车场！用宣传攻势说服人们为此掏钱，并与那些看穿你这门油水生意的人斗到底。",
+    "is_free": false,
+    "price": "¥ 54.90",
+    "original_price": "¥ 61.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3031880"
+  },
+  {
+    "appid": 4968640,
+    "name": "Japanese Ramen Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791536897",
+    "short_description": "《Japanese Ramen Simulator》是一款最多支持六人游玩的拉面店经营模拟游戏。准备食材、煮面、摆放配菜，制作讲究的一碗。开发原创菜品，自由设计厨房与用餐区。无论与朋友合作还是独自经营，都向理想中的人气拉面店迈进！",
+    "is_free": false,
+    "price": "¥ 50.15",
+    "original_price": "¥ 59.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 9 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4968640"
+  },
+  {
+    "appid": 4233960,
+    "name": "风纪委员会梦见魅魔吗？",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233960/86671ea5c1447ce171bafb6e75387894a01f58bf/header_schinese.jpg?t=1791518404",
+    "short_description": "化身半魔，投身于恶魔的代理战！击败竞争对手，助你所属的种族登顶霸权！",
+    "is_free": false,
+    "price": "¥ 39.20",
+    "original_price": "¥ 49.00",
+    "discount_percent": 20,
+    "genres": [
+      "冒险"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4233960"
+  },
+  {
     "appid": 2593290,
     "name": "Dragon's Dogma 2: Dark Arisen Expansion",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/f0224a5ef749d5211a09e6daede81d5b428faf2a/header.jpg?t=1791505231",
@@ -32,149 +179,5 @@
     "release_date": "2026 年 10 月 8 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2593290"
-  },
-  {
-    "appid": 2333000,
-    "name": "银松镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/4a1a2b88d7536022bba475e7d13879c03853f8b5/header_schinese.jpg?t=1791483390",
-    "short_description": "《银松镇》是一款生存、恐怖、类银河战士恶魔城游戏，背景设定在美国小镇。在噩梦般的恐怖中奋战，破解重重谜题，同时管理稀缺资源，逐步揭开那些可能掌握救赎之钥的谜团。",
-    "is_free": false,
-    "price": "¥ 81.00",
-    "original_price": "¥ 90.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2333000"
-  },
-  {
-    "appid": 499170,
-    "name": "沉星之序",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/8e4b79f6886648fe2b9b4fd36824146559b047ec/header_schinese.jpg?t=1791483535",
-    "short_description": "由《时空幻境》《见证者》的作者 “吹哥” Jonathan Blow（乔纳森·布洛）打造的全新叙事冒险游戏，《沉星之序》将带你踏入一个魔法与谜团交织的世界。破解超过 1000 个精心设计、相互关联的谜题，邂逅独特的可操控英雄，掌握不断演变的玩法机制，最终揭开一场宏大的谜局。",
-    "is_free": false,
-    "price": "¥ 98.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/499170"
-  },
-  {
-    "appid": 3055670,
-    "name": "雨中冒险2：万象归衡",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055670/33b7237c8bb6faceabab61b755e21d4056e349eb/header_schinese.jpg?t=1791531426",
-    "short_description": "死亡终将降临到我们每一个人头上。操控两位全新幸存者，战胜强大的诅咒、陌生的新敌人，以及致命的试炼。但无论何时都不要忘记……她正注视着你。",
-    "is_free": false,
-    "price": "¥ 50.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3055670"
-  },
-  {
-    "appid": 2184080,
-    "name": "Echo Weaver",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184080/398c0bbc005fe63ffc0025c1fb4e88e3c0f6af97/header_alt_assets_0.jpg?t=1791515078",
-    "short_description": "时间是你最宝贵的资源，唯有秘密能让你成长升级。畅玩这款知识型类银河战士恶魔城游戏，掌握正在崩解的时间循环。扮演最后一名织者，利用扭曲时间的异常，以所知所学打破循环。探索残存的一切，揭开谜团，完美驾驭循环。",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2184080"
-  },
-  {
-    "appid": 1215940,
-    "name": "Forever Ago",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/463f75c014bc0ee1c6daf2ccda036edb28a0bb36/header.jpg?t=1791465185",
-    "short_description": "在这款单人公路旅行冒险游戏中，遭逢悲惨变故的阿尔弗雷德踏上了北上之路。",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1215940"
-  },
-  {
-    "appid": 1551980,
-    "name": "Clive Barker's Hellraiser: Revival",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/d1e7111b93b6a8b3eb029908887648348c2c55e6/header.jpg?t=1791462446",
-    "short_description": "置身传奇惊悚系列，体验前所未有的全新篇章。《克里夫·巴克猛鬼追魂：复苏》将第一人称动作恐怖生存游戏提升到了全新高度。",
-    "is_free": false,
-    "price": "¥ 189.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1551980"
-  },
-  {
-    "appid": 4112840,
-    "name": "戰鬼克莉絲汀",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112840/c5d79988514d71d3c5d54c5406d1436af22b95bf/header_schinese.jpg?t=1791446439",
-    "short_description": "主角「克莉丝汀」是一位烦恼着自己的生活方式的女军人。 和冒险路上相遇的各种人们之间的温暖交流，究竟会为她的内心带来什么样的变化呢……",
-    "is_free": false,
-    "price": "¥ 47.51",
-    "original_price": "¥ 52.79",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4112840"
-  },
-  {
-    "appid": 3883570,
-    "name": "勇敢者之试炼 : Invokyr",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/c86d8cb1aac903b8c45497c7255fea0ee64f30b2/header_schinese.jpg?t=1791485649",
-    "short_description": "一款以诅咒桌游为主题的多人合作生存恐怖游戏。一盒尘封的棋盘，一栋闹鬼的老宅。支持最多6人联机。掷出骰子，在接踵而至的恐怖中拼死求生，击败游戏主宰，赢回你的自由。",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 42.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "模拟",
-      "免费开玩",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3883570"
   }
 ]
