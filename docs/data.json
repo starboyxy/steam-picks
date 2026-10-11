@@ -34,25 +34,6 @@
     "store_url": "https://store.steampowered.com/app/2680280"
   },
   {
-    "appid": 2010030,
-    "name": "Denizen",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2010030/8476751f42bd175389ff4371d8fca37624d8abb7/header.jpg?t=1791566506",
-    "short_description": "在这个开放世界的生活模拟器中，你可以在一个充满机会的城市中为自己谋生，同时认识各种当地人，探索独特的地点，并通过自己的努力达到顶峰。",
-    "is_free": false,
-    "price": "¥ 64.60",
-    "original_price": "¥ 76.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2010030"
-  },
-  {
     "appid": 3090810,
     "name": "Truckful / 乡野奇运",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090810/9f84a060b65f14c0e358b1bf6b2cca724ddf810c/header_schinese.jpg?t=1791562218",
@@ -112,7 +93,7 @@
   {
     "appid": 3031880,
     "name": "Car Park Capital",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791611273",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791662175",
     "short_description": "汽车行业需要你设计并建造平静小镇生活从未见过的顶级停车场。激发人们对汽车通勤的需求，把街区变成停车场！用宣传攻势说服人们为此掏钱，并与那些看穿你这门油水生意的人斗到底。",
     "is_free": false,
     "price": "¥ 54.90",
@@ -131,7 +112,7 @@
   {
     "appid": 4968640,
     "name": "Japanese Ramen Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791536897",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791626249",
     "short_description": "《Japanese Ramen Simulator》是一款最多支持六人游玩的拉面店经营模拟游戏。准备食材、煮面、摆放配菜，制作讲究的一碗。开发原创菜品，自由设计厨房与用餐区。无论与朋友合作还是独自经营，都向理想中的人气拉面店迈进！",
     "is_free": false,
     "price": "¥ 50.15",
@@ -146,22 +127,6 @@
     "release_date": "2026 年 10 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4968640"
-  },
-  {
-    "appid": 4233960,
-    "name": "风纪委员会梦见魅魔吗？",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233960/86671ea5c1447ce171bafb6e75387894a01f58bf/header_schinese.jpg?t=1791518404",
-    "short_description": "化身半魔，投身于恶魔的代理战！击败竞争对手，助你所属的种族登顶霸权！",
-    "is_free": false,
-    "price": "¥ 39.20",
-    "original_price": "¥ 49.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4233960"
   },
   {
     "appid": 2593290,
@@ -179,5 +144,40 @@
     "release_date": "2026 年 10 月 8 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2593290"
+  },
+  {
+    "appid": 5155360,
+    "name": "Hood Warfare 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg?t=1791686243",
+    "short_description": "Rival gangs fight for control of Chicago. Pick a side, customize your weapons, and fight other players across a variety of action-packed game modes. Spin the block and take over the streets in this chaotic multiplayer FPS.",
+    "is_free": false,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5155360"
+  },
+  {
+    "appid": 2333000,
+    "name": "银松镇",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/4a1a2b88d7536022bba475e7d13879c03853f8b5/header_schinese.jpg?t=1791483390",
+    "short_description": "《银松镇》是一款生存、恐怖、类银河战士恶魔城游戏，背景设定在美国小镇。在噩梦般的恐怖中奋战，破解重重谜题，同时管理稀缺资源，逐步揭开那些可能掌握救赎之钥的谜团。",
+    "is_free": false,
+    "price": "¥ 81.00",
+    "original_price": "¥ 90.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 8 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2333000"
   }
 ]
