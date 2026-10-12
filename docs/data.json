@@ -1,25 +1,28 @@
 [
   {
-    "appid": 3010850,
-    "name": "Gears of War: E-Day",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791488050",
-    "short_description": "沉浸式重温事变日——游戏史上最受赞誉的第三人称射击系列之一，其残酷的起源故事就此展开。",
+    "appid": 4267800,
+    "name": "塔防山贼模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267800/515df6e3b9daf7d1d0da272bdde24680f98c7140/header_schinese.jpg?t=1791770582",
+    "short_description": "这是一款\u0026quot;塔防战斗+山门经营+放置挂机\u0026quot;的游戏。从无到有，建立一座土匪山寨。以塔防(TowerDefense)为核心模式。拦路抢劫、狩猎妖兽、探索地图，招募华夏名将！职业、装备、修炼境界，培养强力角色！研究、建造、锻造、炼丹、种田、采集等技艺，不断发展山寨，最终攻伐城池，占领天下！让\u0026quot;上头爽快\u0026quot;与\u0026quot;简单轻松\u0026quot;并存！",
     "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 43.20",
+    "original_price": "¥ 48.00",
+    "discount_percent": 10,
     "genres": [
-      "动作",
-      "冒险"
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
     ],
-    "release_date": "2026 年 10 月 6 日",
+    "release_date": "2026 年 10 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3010850"
+    "store_url": "https://store.steampowered.com/app/4267800"
   },
   {
     "appid": 2680280,
     "name": "PAPERHEAD",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791581527",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791732488",
     "short_description": "纸板世界可爱迷人，可怕危机悄然降临……使用魔法铅笔、经典的霰弹枪等各种武器和强力靴子，揭开黑暗的真相，探明纸板人为什么会……流血。",
     "is_free": false,
     "price": "¥ 60.80",
