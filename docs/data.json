@@ -1,28 +1,78 @@
 [
   {
-    "appid": 4267800,
-    "name": "塔防山贼模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267800/515df6e3b9daf7d1d0da272bdde24680f98c7140/header_schinese.jpg?t=1791770582",
-    "short_description": "这是一款\u0026quot;塔防战斗+山门经营+放置挂机\u0026quot;的游戏。从无到有，建立一座土匪山寨。以塔防(TowerDefense)为核心模式。拦路抢劫、狩猎妖兽、探索地图，招募华夏名将！职业、装备、修炼境界，培养强力角色！研究、建造、锻造、炼丹、种田、采集等技艺，不断发展山寨，最终攻伐城池，占领天下！让\u0026quot;上头爽快\u0026quot;与\u0026quot;简单轻松\u0026quot;并存！",
+    "appid": 4991240,
+    "name": "Witch Cabin Cleanup",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/9a2e44b7e898b056ecf29d08c9079750cc4558e3/header.jpg?t=1791876877",
+    "short_description": "Witch's Cabin Cleanup 是一款温馨的整理模拟游戏，让你在杂乱的女巫小屋里分类整理 5,313 件奇珍异物。在宁静而富有氛围感的环境中打扫、习得咒语、恢复秩序。",
     "is_free": false,
-    "price": "¥ 43.20",
-    "original_price": "¥ 48.00",
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
     "discount_percent": 10,
     "genres": [
       "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4991240"
+  },
+  {
+    "appid": 4024440,
+    "name": "闹鬼大劫掠",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024440/cdfe42d20f9b8a62e249e406a5f56ec76c20b638/header_schinese.jpg?t=1791865800",
+    "short_description": "《闹鬼大劫掠》是一款支持 3-8 人对局的恐怖派对游戏。盗宝者需要在随机生成的宅邸中搜集宝石；捣蛋鬼则要用各式各样的技能来吓唬、干扰、消灭盗宝者，保护自己的家园。",
+    "is_free": false,
+    "price": "¥ 33.60",
+    "original_price": "¥ 42.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4024440"
+  },
+  {
+    "appid": 4159680,
+    "name": "Barfender: CO-OP Bar Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159680/280a499be305b957c74d9d95ad72eece968296b1/header_alt_assets_6.jpg?t=1791811201",
+    "short_description": "《Barfender》是一款支持 1-4 人的混乱合作酒吧模拟游戏。调制饮品、收拾烂摊子、平息斗殴，在一切分崩离析之际努力让酒吧继续运转。打造你的酒吧，招待满屋客人，撑过这一夜。",
+    "is_free": false,
+    "price": "¥ 39.00",
+    "original_price": "¥ 52.00",
+    "discount_percent": 25,
+    "genres": [
       "独立",
-      "角色扮演",
       "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 12 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4159680"
+  },
+  {
+    "appid": 2954010,
+    "name": "同情共焚",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954010/a151a625ddbdb94ed44bf96e01ab24dbda3339f7/header_schinese.jpg?t=1791878369",
+    "short_description": "《同情共焚》是一款叙事驱动的牌组构筑游戏，讲述一个个充满神秘色彩的故事，闲适氛围背后暗藏恐惧。你那满怀危险激情的老师将引导你完成禁忌的古老仪式。有时，召唤心魔才是自我治愈的唯一良方。",
+    "is_free": false,
+    "price": "¥ 38.94",
+    "original_price": "¥ 59.00",
+    "discount_percent": 34,
+    "genres": [
+      "休闲",
+      "独立",
       "策略"
     ],
-    "release_date": "2026 年 10 月 11 日",
+    "release_date": "2026 年 10 月 12 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4267800"
+    "store_url": "https://store.steampowered.com/app/2954010"
   },
   {
     "appid": 2680280,
     "name": "PAPERHEAD",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791732488",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791815882",
     "short_description": "纸板世界可爱迷人，可怕危机悄然降临……使用魔法铅笔、经典的霰弹枪等各种武器和强力靴子，揭开黑暗的真相，探明纸板人为什么会……流血。",
     "is_free": false,
     "price": "¥ 60.80",
@@ -35,23 +85,6 @@
     "release_date": "2026 年 10 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2680280"
-  },
-  {
-    "appid": 3090810,
-    "name": "Truckful / 乡野奇运",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090810/9f84a060b65f14c0e358b1bf6b2cca724ddf810c/header_schinese.jpg?t=1791562218",
-    "short_description": "驾驶你的小货车穿越看上去宁静祥和的乡间山谷，为运送乡镇居民运送必需品并揭开小镇的秘密。请小心，古老的森林在凝视着你。",
-    "is_free": false,
-    "price": "¥ 64.80",
-    "original_price": "¥ 72.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 10 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3090810"
   },
   {
     "appid": 2254990,
@@ -72,26 +105,6 @@
     "release_date": "2026 年 10 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2254990"
-  },
-  {
-    "appid": 2637940,
-    "name": "Used Cars Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637940/657fa22f73d14b4b5b58bcf265960fd97c5e7139/header_alt_assets_7.jpg?t=1791543776",
-    "short_description": "二手车模拟器》--交易二手车或赃车，修理和定制它们，驾车兜风，探索开放世界！发展你的业务，完成任务，在基于物理的沙盒游戏中享受乐趣！",
-    "is_free": false,
-    "price": "¥ 38.40",
-    "original_price": "¥ 64.00",
-    "discount_percent": 40,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "竞速",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2637940"
   },
   {
     "appid": 3031880,
@@ -130,23 +143,6 @@
     "release_date": "2026 年 10 月 9 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4968640"
-  },
-  {
-    "appid": 2593290,
-    "name": "Dragon's Dogma 2: Dark Arisen Expansion",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/f0224a5ef749d5211a09e6daede81d5b428faf2a/header.jpg?t=1791505231",
-    "short_description": "《Dragon's Dogma 2: Dark Arisen Expansion》是《Dragon's Dogma 2》的扩充内容，增加了全新剧情与体验。玩家可在正统的奇幻世界中享受自由冒险的乐趣。",
-    "is_free": false,
-    "price": "¥ 148.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 8 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2593290"
   },
   {
     "appid": 5155360,
