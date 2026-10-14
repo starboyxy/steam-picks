@@ -1,182 +1,179 @@
 [
   {
-    "appid": 4991240,
-    "name": "Witch Cabin Cleanup",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/9a2e44b7e898b056ecf29d08c9079750cc4558e3/header.jpg?t=1791876877",
-    "short_description": "Witch's Cabin Cleanup 是一款温馨的整理模拟游戏，让你在杂乱的女巫小屋里分类整理 5,313 件奇珍异物。在宁静而富有氛围感的环境中打扫、习得咒语、恢复秩序。",
+    "appid": 3299050,
+    "name": "查无此地",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299050/4730d15a222eff2fd08ef80a4828b440dc57e747/header_schinese.jpg?t=1791955003",
+    "short_description": "《查无此地》是一款俯视角射击撤离游戏。作为超自然异常调查组织U.R.C.的成员，你被派往破碎的维度碎片执行勘察任务。在充满未知威胁的环境中生存，搜集物资与线索，并在限定时间内找到撤离点返回安全屋。透过搜集到的各类物资信息，将被全人类遗忘的真相重新带回这个世界...",
     "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4991240"
-  },
-  {
-    "appid": 4024440,
-    "name": "闹鬼大劫掠",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024440/cdfe42d20f9b8a62e249e406a5f56ec76c20b638/header_schinese.jpg?t=1791865800",
-    "short_description": "《闹鬼大劫掠》是一款支持 3-8 人对局的恐怖派对游戏。盗宝者需要在随机生成的宅邸中搜集宝石；捣蛋鬼则要用各式各样的技能来吓唬、干扰、消灭盗宝者，保护自己的家园。",
-    "is_free": false,
-    "price": "¥ 33.60",
-    "original_price": "¥ 42.00",
-    "discount_percent": 20,
+    "price": "¥ 49.88",
+    "original_price": "¥ 58.00",
+    "discount_percent": 14,
     "genres": [
       "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4024440"
-  },
-  {
-    "appid": 4159680,
-    "name": "Barfender: CO-OP Bar Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159680/280a499be305b957c74d9d95ad72eece968296b1/header_alt_assets_6.jpg?t=1791811201",
-    "short_description": "《Barfender》是一款支持 1-4 人的混乱合作酒吧模拟游戏。调制饮品、收拾烂摊子、平息斗殴，在一切分崩离析之际努力让酒吧继续运转。打造你的酒吧，招待满屋客人，撑过这一夜。",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "¥ 52.00",
-    "discount_percent": 25,
-    "genres": [
+      "冒险",
       "独立",
-      "模拟",
       "抢先体验"
     ],
-    "release_date": "2026 年 10 月 12 日",
+    "release_date": "2026 年 10 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4159680"
+    "store_url": "https://store.steampowered.com/app/3299050"
   },
   {
-    "appid": 2954010,
-    "name": "同情共焚",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954010/a151a625ddbdb94ed44bf96e01ab24dbda3339f7/header_schinese.jpg?t=1791878369",
-    "short_description": "《同情共焚》是一款叙事驱动的牌组构筑游戏，讲述一个个充满神秘色彩的故事，闲适氛围背后暗藏恐惧。你那满怀危险激情的老师将引导你完成禁忌的古老仪式。有时，召唤心魔才是自我治愈的唯一良方。",
+    "appid": 3314580,
+    "name": "Trash Day",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314580/6d7cb32debcbdba122624fae234c659cdff2b4bf/header.jpg?t=1791911043",
+    "short_description": "在这款基于物理的合作冒险游戏中，与你的浣熊小队通力合作，最多支持6名玩家。搜刮垃圾，装满偷来的手推车，再把它拖到浣熊天堂。体验最棒的浣熊生活。",
     "is_free": false,
-    "price": "¥ 38.94",
-    "original_price": "¥ 59.00",
-    "discount_percent": 34,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2954010"
-  },
-  {
-    "appid": 2680280,
-    "name": "PAPERHEAD",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791815882",
-    "short_description": "纸板世界可爱迷人，可怕危机悄然降临……使用魔法铅笔、经典的霰弹枪等各种武器和强力靴子，揭开黑暗的真相，探明纸板人为什么会……流血。",
-    "is_free": false,
-    "price": "¥ 60.80",
-    "original_price": "¥ 76.00",
-    "discount_percent": 20,
+    "price": "¥ 25.20",
+    "original_price": "¥ 28.00",
+    "discount_percent": 10,
     "genres": [
       "动作",
-      "独立"
+      "冒险"
     ],
-    "release_date": "2026 年 10 月 9 日",
+    "release_date": "2026 年 10 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2680280"
+    "store_url": "https://store.steampowered.com/app/3314580"
   },
   {
-    "appid": 2254990,
-    "name": "永冻纪元 - Permafrost",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791608052",
-    "short_description": "《永冻纪元》是一款以剧情驱动的生存沙盒游戏，背景设定在一个被冰封的末日世界。你可以独自一人，或与最多3名玩家一同合作，探索一个充满故事与背景的开放世界。探索、搜集、制作，并建立属于你的避难所，在严寒中生存下去。",
+    "appid": 3492120,
+    "name": "千面人在此 Legion Was Here",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492120/2d1de35b4953a8fe26bbbe6d6f22b83f2e271549/header.jpg?t=1791910836",
+    "short_description": "你是\u0026quot;千面人\u0026quot;，一名可以随心所欲改变外表的秘密特工。运用你的调查技能和变色龙般的本领，潜入敌人内部！",
     "is_free": false,
-    "price": "¥ 95.20",
-    "original_price": "¥ 119.00",
+    "price": "¥ 32.40",
+    "original_price": "¥ 36.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3492120"
+  },
+  {
+    "appid": 3071240,
+    "name": "巫毒垂钓",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071240/4ff5d359276d0709d77e642a40c4cd673e7d5264/header_schinese.jpg?t=1791917639",
+    "short_description": "一款适合 1–4 名玩家的 creepy-cozy 合作钓鱼游戏，支持近距离语音聊天。探索一片闹鬼的沼泽，寻找稀有鱼类，按重量出售你的渔获，并努力在黑暗中躲过猎杀你的东西。",
+    "is_free": false,
+    "price": "¥ 23.99",
+    "original_price": "¥ 29.99",
     "discount_percent": 20,
     "genres": [
       "动作",
       "冒险",
-      "角色扮演",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 10 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2254990"
-  },
-  {
-    "appid": 3031880,
-    "name": "Car Park Capital",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791662175",
-    "short_description": "汽车行业需要你设计并建造平静小镇生活从未见过的顶级停车场。激发人们对汽车通勤的需求，把街区变成停车场！用宣传攻势说服人们为此掏钱，并与那些看穿你这门油水生意的人斗到底。",
-    "is_free": false,
-    "price": "¥ 54.90",
-    "original_price": "¥ 61.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 10 月 9 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3031880"
-  },
-  {
-    "appid": 4968640,
-    "name": "Japanese Ramen Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791626249",
-    "short_description": "《Japanese Ramen Simulator》是一款最多支持六人游玩的拉面店经营模拟游戏。准备食材、煮面、摆放配菜，制作讲究的一碗。开发原创菜品，自由设计厨房与用餐区。无论与朋友合作还是独自经营，都向理想中的人气拉面店迈进！",
-    "is_free": false,
-    "price": "¥ 50.15",
-    "original_price": "¥ 59.00",
-    "discount_percent": 15,
-    "genres": [
       "休闲",
       "独立",
-      "模拟",
-      "抢先体验"
+      "模拟"
     ],
-    "release_date": "2026 年 10 月 9 日",
+    "release_date": "2026 年 10 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4968640"
+    "store_url": "https://store.steampowered.com/app/3071240"
   },
   {
-    "appid": 5155360,
-    "name": "Hood Warfare 2",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg?t=1791686243",
-    "short_description": "Rival gangs fight for control of Chicago. Pick a side, customize your weapons, and fight other players across a variety of action-packed game modes. Spin the block and take over the streets in this chaotic multiplayer FPS.",
+    "appid": 2828710,
+    "name": "不朽遗志 Valor Mortis",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/db9b0a13bdadac60a7b744514d60f41674d95787/header_schinese.jpg?t=1791924072",
+    "short_description": "《不朽遗志》是一款第一人称类魂动作游戏，出自《幽灵行者》创作者之手。起死回生，化身成为一名拿破仑军队的前士兵。掌握超自然力量，对战恐怖怪物，并揭露一场威胁全人类安危的惊天阴谋。",
     "is_free": false,
-    "price": "¥ 23.40",
-    "original_price": "¥ 26.00",
-    "discount_percent": 10,
+    "price": "¥ 168.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2828710"
+  },
+  {
+    "appid": 3846830,
+    "name": "《全面战争：幕府将军2》完全版",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/d0ee9f67d5afcf19e5e8d7955fc831d5d197bdb0/header.jpg?t=1791903651",
+    "short_description": "在《全面战争：幕府将军2》强化更新完全版中统一日本，成为将军。回合制征服与大型实时策略战斗无缝结合，玩家可建立同盟，破袭敌军，并以智慧击败敌方氏族。",
+    "is_free": false,
+    "price": "¥ 198.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3846830"
+  },
+  {
+    "appid": 4888700,
+    "name": "《战地风云™ 6》——年度最佳游戏升级",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888700/2260e7626393194720f605b51042005b857f5da4/header.jpg?t=1791903614",
+    "short_description": "解锁终极《战地风云》体验。获取武器和皮肤，以及终极捷径包和《战地风云》Pro 代币，大幅加快你的进度，并获得带领小队走向胜利所需的一切。",
+    "is_free": false,
+    "price": "¥ 200.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "动作"
     ],
-    "release_date": "2026 年 10 月 8 日",
+    "release_date": "2026 年 10 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5155360"
+    "store_url": "https://store.steampowered.com/app/4888700"
   },
   {
-    "appid": 2333000,
-    "name": "银松镇",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/4a1a2b88d7536022bba475e7d13879c03853f8b5/header_schinese.jpg?t=1791483390",
-    "short_description": "《银松镇》是一款生存、恐怖、类银河战士恶魔城游戏，背景设定在美国小镇。在噩梦般的恐怖中奋战，破解重重谜题，同时管理稀缺资源，逐步揭开那些可能掌握救赎之钥的谜团。",
+    "appid": 2871520,
+    "name": "深馅地牢",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg?t=1791960486",
+    "short_description": "这款生存探索游戏中，银河恶魔城风味与制作要素巧妙融合。你将在精心设计的地牢中冒险解谜。既可单枪匹马，也能与好友联机组队，深入地牢深处，破解重重谜团。",
     "is_free": false,
-    "price": "¥ 81.00",
-    "original_price": "¥ 90.00",
+    "price": "¥ 49.30",
+    "original_price": "¥ 58.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2871520"
+  },
+  {
+    "appid": 3219030,
+    "name": "《动物园之星 2》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791912652",
+    "short_description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
+    "is_free": false,
+    "price": "¥ 200.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3219030"
+  },
+  {
+    "appid": 3977340,
+    "name": "百变格斗家",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3977340/2643c4409f0545a2416300c05c5e4d31ddb979b5/header_schinese.jpg?t=1791926797",
+    "short_description": "百变格斗家 是一款单人肉鸽格斗游戏。击败对手，习得他们的招式，打造属于你的独特战斗风格。在紧张刺激的复古街机对决中，凭借简单易上手的操作逐步精通招式，最终夺得冠军头衔！",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
     "discount_percent": 10,
     "genres": [
       "动作",
-      "冒险",
       "独立",
-      "角色扮演"
+      "抢先体验"
     ],
-    "release_date": "2026 年 10 月 8 日",
+    "release_date": "2026 年 10 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2333000"
+    "store_url": "https://store.steampowered.com/app/3977340"
   }
 ]
