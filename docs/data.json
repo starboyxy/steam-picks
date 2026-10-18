@@ -17,27 +17,9 @@
     "store_url": "https://store.steampowered.com/app/2295060"
   },
   {
-    "appid": 5321400,
-    "name": "A Game About Needle In A Haystack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321400/0f6530249d980714b1479b2689c4a25b6ef9964d/header.jpg?t=1792188397",
-    "short_description": "A first-person game about finding a needle in a giant haystack. Dig through the hay by hand, sell it at the cow, buy tools and upgrades in the workshop, and search the pile until you find the needle.",
-    "is_free": false,
-    "price": "¥ 18.56",
-    "original_price": "¥ 29.00",
-    "discount_percent": 36,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5321400"
-  },
-  {
     "appid": 3826670,
     "name": "基机受难记 (Flipping is Hard)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826670/bb58a55e6b89f3bd9e7de378f4950c9c76bc56b7/header_schinese.jpg?t=1792169994",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826670/bb58a55e6b89f3bd9e7de378f4950c9c76bc56b7/header_schinese.jpg?t=1792219841",
     "short_description": "没有腿，只能滚。一款硬核又残忍的游戏，你将化身翻翻仔，一台按键直板机，凭借翻滚去攀登险阻、越过挑战。你，有能力回到自己的主人身边吗？",
     "is_free": false,
     "price": "¥ 24.70",
@@ -55,7 +37,7 @@
   {
     "appid": 2121510,
     "name": "Tenebris Somnia",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792268798",
     "short_description": "通过解谜和对抗可怕的生物，揭开这个令人不安的故事背后的真相。……如果它们不仅仅是噩梦呢？",
     "is_free": false,
     "price": "¥ 72.00",
@@ -87,22 +69,6 @@
     "release_date": "2026 年 10 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3695930"
-  },
-  {
-    "appid": 4357610,
-    "name": "《NBA 2K27》名人堂通行证：第 2 季",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357610/7486a69f614ce15c5b94e671ba235f2668153317/header.jpg?t=1792163082",
-    "short_description": "名人堂通行证：第 2 季包含职业通行证：第 2 季的所有内容、15% 经验值提升加成、10 级等级跳过和 15,000 个虚拟货币！",
-    "is_free": false,
-    "price": "¥ 138.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "体育"
-    ],
-    "release_date": "2026 年 10 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4357610"
   },
   {
     "appid": 3470960,
@@ -173,5 +139,41 @@
     "release_date": "2026 年 10 月 15 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3845070"
+  },
+  {
+    "appid": 5228920,
+    "name": "Brick by Brick: Tidy Up the Small Town!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1792140551",
+    "short_description": "Brick By Brick是一款轻松的整理游戏，可单人游玩，也可最多5人合作。收集、分类并摆放18,490块砖，重建一座迷人的小镇。解锁实用技能，看着散落的砖堆变成完整的建筑。一砖一瓦，慢慢搭建！",
+    "is_free": false,
+    "price": "¥ 20.46",
+    "original_price": "¥ 33.00",
+    "discount_percent": 38,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5228920"
+  },
+  {
+    "appid": 4049170,
+    "name": "Disney/Pixar Toy Story: Retro Roundup!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049170/678f17396b23817c2b9a61deff6aa067b6b28a8a/header.jpg?t=1792084028",
+    "short_description": "与胡迪、巴斯光年等经典角色一起重返安迪的房间——《Toy Story: Retro Roundup!》来了！本合集收录了五款游戏，包括四款《Toy Story》作品和《A Bug’s Life》。所有游戏均经过体验优化与升级，并加入了幕后花絮内容。",
+    "is_free": false,
+    "price": "¥ 61.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "竞速"
+    ],
+    "release_date": "2026 年 10 月 15 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4049170"
   }
 ]
