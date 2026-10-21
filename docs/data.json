@@ -1,8 +1,79 @@
 [
   {
+    "appid": 3469910,
+    "name": "星际迷航：未知前哨站",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/0338dea0eadf63bc36b87f618b77b5214bd6d3b9/header_schinese.jpg?t=1792516034",
+    "short_description": "在这款剧情向的前哨基地建造游戏中，带领你的船员踏上众多陌生的新世界！ 研究、探索，并建设基地，同时对抗威胁新盟友的神秘宇宙势力。 你的冒险在等待着你，船长！",
+    "is_free": false,
+    "price": "¥ 109.79",
+    "original_price": "¥ 121.99",
+    "discount_percent": 10,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3469910"
+  },
+  {
+    "appid": 3247750,
+    "name": "Mycopunk — 真菌朋克",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg?t=1792530683",
+    "short_description": "在这款拥有超高自定义自由度的、任务制的刷宝射击游戏中，杀穿真菌异形吧！数以百计精心设计的升级项，支持四人合作游玩，甚至还有一个小蟑螂人呢。如何能不爱呢？",
+    "is_free": false,
+    "price": "¥ 29.00",
+    "original_price": "¥ 58.00",
+    "discount_percent": 50,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3247750"
+  },
+  {
+    "appid": 2315050,
+    "name": "我们曾到此：明日遗踪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/4979b61908144004cdb37d66c83bf616a108c8b3/header_alt_assets_3_schinese.jpg?t=1792531815",
+    "short_description": "你与搭档在神秘的诺切克设施中醒来，对如何来到此地毫无头绪。在这场非对称合作冒险中，你们需要通过沟通与协作揭开深藏的秘密。唯有携手合作，方能决定“明日”的命运……",
+    "is_free": false,
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2315050"
+  },
+  {
+    "appid": 3645890,
+    "name": "GONE Fishing",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg?t=1792492815",
+    "short_description": "GONE Fishing 是一款 1-8 人生存恐怖游戏，你和好友必须齐心协力……靠钓鱼活下去。唯一的生存之道，就是在湖泊吞噬你们之前，不断满足它永不餍足的饥饿。 你能填饱它的胃口……还是成为下一份祭品？",
+    "is_free": false,
+    "price": "¥ 22.10",
+    "original_price": "¥ 32.99",
+    "discount_percent": 33,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3645890"
+  },
+  {
     "appid": 4304900,
     "name": " 考古致富:挖出个博物馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f7b69b7f4996dd9c05d5fb584a592483c574bb58/header_schinese.jpg?t=1792418287",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f7b69b7f4996dd9c05d5fb584a592483c574bb58/header_schinese.jpg?t=1792504964",
     "short_description": "《考古致富:挖出个博物馆》是一款挖宝增量游戏。为了帮助市长完成横跨共和国的修路大业，你必须去挖走那些藏在路下的文物，同时将这些挖出来的宝贝们统统搬进博物馆吸引游客，利用挖掘文物和经营博物馆赚来的资金解锁更好的开采设备、扩充团队，进而向着下一片区域疯狂开挖！来为市长的修路工程扫清一切障碍吧！",
     "is_free": false,
     "price": "¥ 22.49",
@@ -16,23 +87,6 @@
     "release_date": "2026 年 10 月 19 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4304900"
-  },
-  {
-    "appid": 2295060,
-    "name": "繁星之海 Beyond These Stars",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/59838b46d0c6acef9988c33f21fa73581bea7faa/header_schinese.jpg?t=1792210100",
-    "short_description": "在一只太空鲸鱼的背上建造一座城市，并在星际之旅中学会共存。管理复杂的供应链和人民的需求，建立前哨站，遇见外星生物，揭示宇宙的奥秘。",
-    "is_free": false,
-    "price": "¥ 79.20",
-    "original_price": "¥ 99.00",
-    "discount_percent": 20,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2295060"
   },
   {
     "appid": 3826670,
@@ -72,23 +126,6 @@
     "store_url": "https://store.steampowered.com/app/3695930"
   },
   {
-    "appid": 3470960,
-    "name": "Tales of Eternia Remastered",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470960/d66b38dc92c325a41f5dec3ecc8dfa1404563b47/header.jpg?t=1792404827",
-    "short_description": "永远和羁绊的RPG，《Tales of Eternia》以Remastered 复出！世界毁灭的危机逼近，伊菲利亚与塞雷斯迪亚，赌上两世界命运的壮阔旅行，现在启程。",
-    "is_free": false,
-    "price": "¥ 138.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3470960"
-  },
-  {
     "appid": 3569420,
     "name": " 链兽角斗",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/f362c5e59f95bb9874ad9914d1a3720e20a4a2cb/header_schinese.jpg?t=1792472187",
@@ -126,7 +163,7 @@
   {
     "appid": 3845070,
     "name": "侦探杀：罪恶之城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/da4426ecf69ce13a927e74500eb5ef3692d324bf/header_alt_assets_1_schinese.jpg?t=1792477508",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/da4426ecf69ce13a927e74500eb5ef3692d324bf/header_alt_assets_1_schinese.jpg?t=1792551833",
     "short_description": "《侦探杀：罪恶之城》是一款主打单机体验的社会派推理Roguelite游戏，你需要在每起案件中识别证人们的真话与谎言，推敲他们的身份与动机，并巧用不同证人的独特身份技能，协助你排除干扰，梳理思路，直捣邪恶辛迪加的老巢。",
     "is_free": false,
     "price": "¥ 46.40",
@@ -140,41 +177,5 @@
     "release_date": "2026 年 10 月 15 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3845070"
-  },
-  {
-    "appid": 5228920,
-    "name": "Brick by Brick: Tidy Up the Small Town!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1792140551",
-    "short_description": "Brick By Brick是一款轻松的整理游戏，可单人游玩，也可最多5人合作。收集、分类并摆放18,490块砖，重建一座迷人的小镇。解锁实用技能，看着散落的砖堆变成完整的建筑。一砖一瓦，慢慢搭建！",
-    "is_free": false,
-    "price": "¥ 20.46",
-    "original_price": "¥ 33.00",
-    "discount_percent": 38,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5228920"
-  },
-  {
-    "appid": 4049170,
-    "name": "Disney/Pixar Toy Story: Retro Roundup!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049170/678f17396b23817c2b9a61deff6aa067b6b28a8a/header.jpg?t=1792084028",
-    "short_description": "与胡迪、巴斯光年等经典角色一起重返安迪的房间——《Toy Story: Retro Roundup!》来了！本合集收录了五款游戏，包括四款《Toy Story》作品和《A Bug’s Life》。所有游戏均经过体验优化与升级，并加入了幕后花絮内容。",
-    "is_free": false,
-    "price": "¥ 61.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "竞速"
-    ],
-    "release_date": "2026 年 10 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4049170"
   }
 ]
