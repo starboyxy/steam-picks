@@ -1,25 +1,65 @@
 [
   {
-    "appid": 3469910,
-    "name": "星际迷航：未知前哨站",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/0338dea0eadf63bc36b87f618b77b5214bd6d3b9/header_schinese.jpg?t=1792516034",
-    "short_description": "在这款剧情向的前哨基地建造游戏中，带领你的船员踏上众多陌生的新世界！ 研究、探索，并建设基地，同时对抗威胁新盟友的神秘宇宙势力。 你的冒险在等待着你，船长！",
+    "appid": 3486530,
+    "name": "愚者不灭（Stupid Never Dies）",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486530/06dd6216ce7739d9d5be7479c748b93c027cfb7c/header.jpg?t=1792627941",
+    "short_description": "疾速成长动作RPG！让最弱僵尸戴维变得强大无比！吞噬敌人、夺取能力并不断变身，勇闯危险的异世界地下城，只为复活冰封的朱莉娅！",
     "is_free": false,
-    "price": "¥ 109.79",
-    "original_price": "¥ 121.99",
-    "discount_percent": 10,
+    "price": "¥ 198.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
-      "模拟",
-      "策略"
+      "动作",
+      "冒险",
+      "角色扮演"
     ],
     "release_date": "2026 年 10 月 21 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3469910"
+    "store_url": "https://store.steampowered.com/app/3486530"
+  },
+  {
+    "appid": 3740090,
+    "name": "Bruisers 2D Boxing",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740090/96db6e5b79037fd26fd62f0d9bb56419c4caef13/header.jpg?t=1792610782",
+    "short_description": "Bruisers is unlike any boxing game before it. Climb from amateur bouts to the top of the pros. Train, eat, fight, dope, and deal with anyone who wants a piece of you on the way up — but tread lightly. Some consequences here are fatal.",
+    "is_free": false,
+    "price": "¥ 70.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立",
+      "角色扮演",
+      "体育",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3740090"
+  },
+  {
+    "appid": 2087540,
+    "name": "Escape from Playtime",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087540/ae8bd1812254242c63c873d45f134d4056535439/header.jpg?t=1792641702",
+    "short_description": "这是一款支持1至4人在线合作的生存恐怖游戏，你和好友被困在一座废弃玩具工厂，一道神秘声音不断发号施令，却没人知晓它究竟有何目的。探索不断变化的走廊，搜寻求生工具，对抗潜伏在暗处的怪物，想办法活着逃出去。",
+    "is_free": false,
+    "price": "¥ 49.50",
+    "original_price": "¥ 55.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2087540"
   },
   {
     "appid": 3247750,
     "name": "Mycopunk — 真菌朋克",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg?t=1792530683",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg?t=1792618981",
     "short_description": "在这款拥有超高自定义自由度的、任务制的刷宝射击游戏中，杀穿真菌异形吧！数以百计精心设计的升级项，支持四人合作游玩，甚至还有一个小蟑螂人呢。如何能不爱呢？",
     "is_free": false,
     "price": "¥ 29.00",
@@ -36,7 +76,7 @@
   {
     "appid": 2315050,
     "name": "我们曾到此：明日遗踪",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/4979b61908144004cdb37d66c83bf616a108c8b3/header_alt_assets_3_schinese.jpg?t=1792531815",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/4979b61908144004cdb37d66c83bf616a108c8b3/header_alt_assets_3_schinese.jpg?t=1792588782",
     "short_description": "你与搭档在神秘的诺切克设施中醒来，对如何来到此地毫无头绪。在这场非对称合作冒险中，你们需要通过沟通与协作揭开深藏的秘密。唯有携手合作，方能决定“明日”的命运……",
     "is_free": false,
     "price": "¥ 69.30",
@@ -73,7 +113,7 @@
   {
     "appid": 4304900,
     "name": " 考古致富:挖出个博物馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f7b69b7f4996dd9c05d5fb584a592483c574bb58/header_schinese.jpg?t=1792504964",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f7b69b7f4996dd9c05d5fb584a592483c574bb58/header_schinese.jpg?t=1792598351",
     "short_description": "《考古致富:挖出个博物馆》是一款挖宝增量游戏。为了帮助市长完成横跨共和国的修路大业，你必须去挖走那些藏在路下的文物，同时将这些挖出来的宝贝们统统搬进博物馆吸引游客，利用挖掘文物和经营博物馆赚来的资金解锁更好的开采设备、扩充团队，进而向着下一片区域疯狂开挖！来为市长的修路工程扫清一切障碍吧！",
     "is_free": false,
     "price": "¥ 22.49",
@@ -87,43 +127,6 @@
     "release_date": "2026 年 10 月 19 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4304900"
-  },
-  {
-    "appid": 3826670,
-    "name": "基机受难记 (Flipping is Hard)",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826670/bb58a55e6b89f3bd9e7de378f4950c9c76bc56b7/header_schinese.jpg?t=1792317446",
-    "short_description": "没有腿，只能滚。一款硬核又残忍的游戏，你将化身翻翻仔，一台按键直板机，凭借翻滚去攀登险阻、越过挑战。你，有能力回到自己的主人身边吗？",
-    "is_free": false,
-    "price": "¥ 24.70",
-    "original_price": "¥ 38.00",
-    "discount_percent": 35,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3826670"
-  },
-  {
-    "appid": 3695930,
-    "name": "企鹅异闻录",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3695930/e59deb98960d4d574f7a239aa858a438ca3f184a/header_schinese.jpg?t=1792182533",
-    "short_description": "透过企鹅视角体验宇宙恐怖，两支互为死敌的人类队伍闯入南极家园，妄图寻觅某种古老且无法名状的存在，本作忠实重构了H.P.洛夫克拉夫特的《疯狂山脉》及其他经典怪谭，准备好见证人类如何一步步陷入疯狂吧。",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3695930"
   },
   {
     "appid": 3569420,
@@ -163,7 +166,7 @@
   {
     "appid": 3845070,
     "name": "侦探杀：罪恶之城",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/da4426ecf69ce13a927e74500eb5ef3692d324bf/header_alt_assets_1_schinese.jpg?t=1792551833",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/da4426ecf69ce13a927e74500eb5ef3692d324bf/header_alt_assets_1_schinese.jpg?t=1792574742",
     "short_description": "《侦探杀：罪恶之城》是一款主打单机体验的社会派推理Roguelite游戏，你需要在每起案件中识别证人们的真话与谎言，推敲他们的身份与动机，并巧用不同证人的独特身份技能，协助你排除干扰，梳理思路，直捣邪恶辛迪加的老巢。",
     "is_free": false,
     "price": "¥ 46.40",
