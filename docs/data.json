@@ -1,8 +1,112 @@
 [
   {
+    "appid": 3168520,
+    "name": "BloomTale",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168520/header.jpg?t=1792782024",
+    "short_description": "《BloomTale》是一款温馨治愈的花店模拟经营游戏，让创意与经营相遇。亲手搭配美丽花艺、打理店铺、满足顾客心愿，在这个充满魔法、鲜花处处绽放的世界里，开启属于你的花店故事。",
+    "is_free": false,
+    "price": "¥ 34.20",
+    "original_price": "¥ 38.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲"
+    ],
+    "release_date": "2026 年 10 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3168520"
+  },
+  {
+    "appid": 5316540,
+    "name": "Tidy Up the Halloween Shop",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316540/5ecca50255fca04a0d8c6862bf7a3ea7ea841e10/header.jpg?t=1792775008",
+    "short_description": "不知是什么东西把这家温馨的万圣节小店弄得一团糟。把南瓜、魔法药水和糖果放回原位，找出奇特的线索，结识一位神秘的新朋友。这是一款轻松的第一人称整理游戏，带着一点淘气的趣味。",
+    "is_free": false,
+    "price": "¥ 23.40",
+    "original_price": "¥ 26.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5316540"
+  },
+  {
+    "appid": 5008900,
+    "name": "使命召唤基金（C.O.D.E）勇气包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008900/353292e17b2daa18e85ad092e79a6c46f0320be5/header.jpg?t=1792774872",
+    "short_description": "《使命召唤®：现代战争® 4》和《使命召唤®：战争地带™》的使命召唤基金（C.O.D.E）勇气包，灵感源自美国海军陆战队老兵凯尔·卡彭特，并由他亲自参与设计。",
+    "is_free": false,
+    "price": "¥ 130.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 10 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5008900"
+  },
+  {
+    "appid": 1566200,
+    "name": "Tape to Tape",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566200/8a10ac73d753b68c2ed09298ce98ee12a225fd3b/header_alt_assets_2.jpg?t=1792785759",
+    "short_description": "Tape to Tape is a roguelite hockey game where every choice matters on your journey to build the best hockey team. Choose your path, hire unique players, discover synergies between them, pick unique abilities, bribe the referees or visit the Blademaster on your way to restore hockey's former glory.",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "体育"
+    ],
+    "release_date": "2026 年 10 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1566200"
+  },
+  {
+    "appid": 3960600,
+    "name": "Warrior Cats: Clans of the Forest",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960600/9f44f5e72861ea37f25bb51d4c69fa03b880961b/header.jpg?t=1792782787",
+    "short_description": "创建属于你自己的猫武士，在这款受《猫武士》系列小说启发的沉浸式动作冒险中穿行于湖区领地。狩猎、探索、与敌对族群交战、解读预言，用每一次选择塑造你的传奇。",
+    "is_free": false,
+    "price": "¥ 109.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3960600"
+  },
+  {
+    "appid": 5335510,
+    "name": "Moon Sweepers",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+    "short_description": "整个月球等你打扫，开局只有一把牙刷。与好友组成最多16人的清洁小队，收集并出售月尘，升级工具，解锁清洁载具。把这份离谱的工作做成蒸蒸日上的生意，前提是你的朋友真的肯帮忙。",
+    "is_free": false,
+    "price": "¥ 30.60",
+    "original_price": "¥ 36.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5335510"
+  },
+  {
     "appid": 4435490,
     "name": "Call of Duty®: Modern Warfare® 4",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg?t=1792728107",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg?t=1792806931",
     "short_description": "在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。",
     "is_free": false,
     "price": "¥ 298.00",
@@ -16,49 +120,9 @@
     "store_url": "https://store.steampowered.com/app/4435490"
   },
   {
-    "appid": 4773930,
-    "name": "君临传奇之风起云涌",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773930/cfae1d952ac8f78f43245e6e3e8a8a4ff9e64c10/header.jpg?t=1792734260",
-    "short_description": "江湖将乱，风云已动！经典复古高爆国战版传奇，专为兄弟情义与热血厮杀而生！不氪金照样封神，不将就才能称王。极品装备、绝世武学全凭实力爆出，BOSS越狠，爆得越疯，捡到你手软！ 战鼓擂响，屠龙在手，兄弟们整装待发——攻沙、夺城、君临天下！",
-    "is_free": true,
-    "price": "免费",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "大型多人在线",
-      "角色扮演",
-      "免费开玩"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4773930"
-  },
-  {
-    "appid": 2552310,
-    "name": "莎拉的黑店",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552310/59c2c778db32ca88a7d4504f3d4f2ab36909e42b/header_alt_assets_0_schinese.jpg?t=1792723472",
-    "short_description": "《莎拉的黑店》是一款轻松休闲的回合制策略管理游戏。你将扮演主角“莎拉”，经营一家名为“地下城旅馆”的旅馆。这家旅馆位于地下城入口，专门服务两个敌对的冤家公会。拜托！没有人会拒绝赚钱的机会吧？只要不被他们发现就行！你的目标是在一年内成功经营旅馆，实现财富自由！",
-    "is_free": false,
-    "price": "¥ 39.20",
-    "original_price": "¥ 49.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2552310"
-  },
-  {
     "appid": 3905010,
     "name": "ONE PIECE 海洋盛宴",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/c6cdeafa74819f66234052fc33065feb0407caff/header_schinese.jpg?t=1792706417",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/c6cdeafa74819f66234052fc33065feb0407caff/header_schinese.jpg?t=1792768513",
     "short_description": "跟草帽一伙一起经营芭拉蒂2号店！ 从小船上揭幕的是专属于您的海上餐厅。 收集食材开发新菜单、用室内装饰随心所欲装潢店内…… 随着提升餐厅的水平，这间店会成长得越来越充满朝气与活力，就连“那个角色”也有机会变成这里的常客。 每当伙伴或常客增加，您的餐厅便会离大海上人人赞不绝口的店更迈进一步！ “ONE PIECE”角色们大排长龙的海上餐厅，今日开业！",
     "is_free": false,
     "price": "¥ 88.00",
@@ -73,27 +137,9 @@
     "store_url": "https://store.steampowered.com/app/3905010"
   },
   {
-    "appid": 1546080,
-    "name": "永不落败 Every Day We Fight",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546080/995d13f1584e56364bfe047da195c2c431220dcb/header_alt_assets_1_schinese.jpg?t=1792688028",
-    "short_description": "你所在的这支抵抗战士小队身陷时间循环，却是人类最后的希望。在这款游戏中，实时探索与回合制战术及 Roguelite 策略相结合，你将学习新技能，寻找新武器，发展新战术，努力应对神秘的外星威胁。",
-    "is_free": false,
-    "price": "¥ 39.60",
-    "original_price": "¥ 99.00",
-    "discount_percent": 60,
-    "genres": [
-      "动作",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1546080"
-  },
-  {
     "appid": 3259780,
     "name": "FINAL FANTASY RESONANCE",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1792685446",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1792758611",
     "short_description": "如果“FINAL FANTASY”一直以像素风格持续进化…… 本作是以此为概念，并以崭新像素风格描绘的“FINAL FANTASY”系列最新作品。 除了围绕“水晶”展开的故事，以及回合制指令战斗与能力更换等系列经典要素外，亦收录了丰富多样的反复游玩内容。",
     "is_free": false,
     "price": "¥ 268.00",
@@ -107,74 +153,19 @@
     "store_url": "https://store.steampowered.com/app/3259780"
   },
   {
-    "appid": 5306540,
-    "name": "Groundwork Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306540/64674a7e52a9ea471b11731fb65425370550c032/header.jpg?t=1792663184",
-    "short_description": "Dig, haul and wash for gold in an open-world heavy machinery simulator. Operate excavators, wheel loaders and bulldozers, reshape the terrain and build your washing setup. Work solo or team up in online co-op to turn untouched ground into a working site.",
+    "appid": 3569420,
+    "name": " 链兽角斗",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/f362c5e59f95bb9874ad9914d1a3720e20a4a2cb/header_schinese.jpg?t=1792711697",
+    "short_description": "《链兽角斗》是一款支持1–4人合作的硬核角斗士肉鸽游戏。与好友锁在一起，在混乱的角斗场中并肩作战。伤病与精神创伤会让你们吃尽苦头，也让这趟冒险笑泪交织。用锁链反击敌人，击败强大的首领，看看你们能否活着走出大角斗场！",
     "is_free": false,
-    "price": "¥ 74.40",
-    "original_price": "¥ 93.00",
-    "discount_percent": 20,
+    "price": "¥ 51.35",
+    "original_price": "¥ 79.00",
+    "discount_percent": 35,
     "genres": [
-      "模拟",
-      "抢先体验"
+      "动作"
     ],
-    "release_date": "2026 年 10 月 22 日",
+    "release_date": "2026 年 10 月 15 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5306540"
-  },
-  {
-    "appid": 1713730,
-    "name": "魔卓拉",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713730/1cef7bac0a7ccc38387fee0de3570195f728a699/header.jpg?t=1792652437",
-    "short_description": "忍耐……进化……或者灭亡。拥抱未知并穿越一个广袤的外星世界，其中充斥着怪异的生物、致命的危害以及冷酷的谜团。找寻救赎，并直面埋藏于被遗忘的普罗蒂亚六号行星深处的恐怖罪孽。",
-    "is_free": false,
-    "price": "¥ 83.70",
-    "original_price": "¥ 93.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1713730"
-  },
-  {
-    "appid": 3486530,
-    "name": "愚者不灭（Stupid Never Dies）",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486530/06dd6216ce7739d9d5be7479c748b93c027cfb7c/header.jpg?t=1792722824",
-    "short_description": "疾速成长动作RPG！让最弱僵尸戴维变得强大无比！吞噬敌人、夺取能力并不断变身，勇闯危险的异世界地下城，只为复活冰封的朱莉娅！",
-    "is_free": false,
-    "price": "¥ 198.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 21 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3486530"
-  },
-  {
-    "appid": 4304900,
-    "name": " 考古致富:挖出个博物馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f7b69b7f4996dd9c05d5fb584a592483c574bb58/header_schinese.jpg?t=1792598351",
-    "short_description": "《考古致富:挖出个博物馆》是一款挖宝增量游戏。为了帮助市长完成横跨共和国的修路大业，你必须去挖走那些藏在路下的文物，同时将这些挖出来的宝贝们统统搬进博物馆吸引游客，利用挖掘文物和经营博物馆赚来的资金解锁更好的开采设备、扩充团队，进而向着下一片区域疯狂开挖！来为市长的修路工程扫清一切障碍吧！",
-    "is_free": false,
-    "price": "¥ 22.49",
-    "original_price": "¥ 29.99",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4304900"
+    "store_url": "https://store.steampowered.com/app/3569420"
   }
 ]
