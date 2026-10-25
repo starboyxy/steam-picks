@@ -1,21 +1,5 @@
 [
   {
-    "appid": 3168520,
-    "name": "BloomTale",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168520/header.jpg?t=1792782024",
-    "short_description": "《BloomTale》是一款温馨治愈的花店模拟经营游戏，让创意与经营相遇。亲手搭配美丽花艺、打理店铺、满足顾客心愿，在这个充满魔法、鲜花处处绽放的世界里，开启属于你的花店故事。",
-    "is_free": false,
-    "price": "¥ 34.20",
-    "original_price": "¥ 38.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲"
-    ],
-    "release_date": "2026 年 10 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3168520"
-  },
-  {
     "appid": 5316540,
     "name": "Tidy Up the Halloween Shop",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316540/5ecca50255fca04a0d8c6862bf7a3ea7ea841e10/header.jpg?t=1792775008",
@@ -151,6 +135,24 @@
     "release_date": "2026 年 10 月 22 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3259780"
+  },
+  {
+    "appid": 3486530,
+    "name": "愚者不灭（Stupid Never Dies）",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486530/06dd6216ce7739d9d5be7479c748b93c027cfb7c/header.jpg?t=1792722824",
+    "short_description": "疾速成长动作RPG！让最弱僵尸戴维变得强大无比！吞噬敌人、夺取能力并不断变身，勇闯危险的异世界地下城，只为复活冰封的朱莉娅！",
+    "is_free": false,
+    "price": "¥ 198.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 21 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3486530"
   },
   {
     "appid": 3569420,
