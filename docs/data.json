@@ -1,20 +1,150 @@
 [
   {
-    "appid": 5316540,
-    "name": "Tidy Up the Halloween Shop",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316540/5ecca50255fca04a0d8c6862bf7a3ea7ea841e10/header.jpg?t=1792775008",
-    "short_description": "不知是什么东西把这家温馨的万圣节小店弄得一团糟。把南瓜、魔法药水和糖果放回原位，找出奇特的线索，结识一位神秘的新朋友。这是一款轻松的第一人称整理游戏，带着一点淘气的趣味。",
+    "appid": 2548880,
+    "name": "Divine Frequency",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2548880/7af521bd86bf645d46b49691c5afe67fa4ea37d0/header.jpg?t=1793059447",
+    "short_description": "一个关于垃圾桶流浪汉如何崛起为宇宙最强安全软件的离奇故事",
     "is_free": false,
-    "price": "¥ 23.40",
+    "price": "¥ 69.30",
+    "original_price": "¥ 77.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2548880"
+  },
+  {
+    "appid": 3370490,
+    "name": "Giggleland",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370490/f4b2e1a2a10e5ed882829f32adcdd065b3b24180/header.jpg?t=1793052132",
+    "short_description": "Tolie isn’t allowed to leave the house. One night she wakes up alone in Giggleland, to a voice over the park speakers: her father is waiting for her at the information booth. A first-person psychological horror game in eight chapters. This game is not suitable for children.",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3370490"
+  },
+  {
+    "appid": 4704520,
+    "name": "ShredDead",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/481c251d90942aa2a768de63a65dee1a508a91a7/header.jpg?t=1793034266",
+    "short_description": "ShredDead 是一款轻松搞怪的渐进式僵尸绞杀放置游戏，核心在于不断成长，而且没有失败条件。击败无尽尸潮、收集战利品、壮大技能树，并让僵尸不断进化。",
+    "is_free": false,
+    "price": "¥ 20.80",
     "original_price": "¥ 26.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4704520"
+  },
+  {
+    "appid": 3010170,
+    "name": "《尖牙乐园》",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010170/8340bd30107ee606df94e05ca84c0e762f8b5b11/header_schinese.jpg?t=1793036686",
+    "short_description": "在《尖牙乐园》中尽情张牙舞爪，在这款休闲放松的拼图解谜游戏中，你将需要拼凑各式各样的地形并为友好的妖魔鬼怪们打造一片属于怪物们的乐园。在温馨惬意的氛围中尽情设计一个无忧无虑的可爱世界。",
+    "is_free": false,
+    "price": "¥ 46.80",
+    "original_price": "¥ 52.00",
     "discount_percent": 10,
     "genres": [
       "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3010170"
+  },
+  {
+    "appid": 4312190,
+    "name": "破壳行动 (CRACK)",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/1d9e3abcbfa4bff6cc19fd0c47c58debfe0806b1/header_schinese.jpg?t=1793035699",
+    "short_description": "为什么实验室里会有一颗巨蛋？ 你的任务很简单：把它敲开。别问那么多。 《破壳行动 (CRACK)》是一款支持 1–4 人合作的渐进式冒险游戏。与好友一起敲开这颗神秘巨蛋，逐步揭开藏在蛋壳之下的秘密",
+    "is_free": false,
+    "price": "¥ 25.41",
+    "original_price": "¥ 29.90",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
       "模拟"
     ],
-    "release_date": "2026 年 10 月 23 日",
+    "release_date": "2026 年 10 月 26 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5316540"
+    "store_url": "https://store.steampowered.com/app/4312190"
+  },
+  {
+    "appid": 3965430,
+    "name": "The Mailroom",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3965430/cab56878be77a8c0554d423d43c5b98b7fd01c8b/header.jpg?t=1793066295",
+    "short_description": "这是一款微恐治愈工作模拟游戏。你在位于加利福尼亚州莫德斯托的地狱小型地区办事处的邮件收发室工作，",
+    "is_free": false,
+    "price": "¥ 28.05",
+    "original_price": "¥ 33.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3965430"
+  },
+  {
+    "appid": 1737870,
+    "name": "蕾卡的移动工坊",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/5a6849e2cf94d1ffcc489a2ae17a4d7b841ca3d8/header_alt_assets_5_schinese.jpg?t=1793081203",
+    "short_description": "走进一个以斯拉夫民间传说为灵感、温馨而充满女巫气息的世界。漫步于雾气缭绕的秋日林地，建造、装饰并自定义你那座会行走的鸡脚小屋。帮助当地村民，驯服森林里的动物，在伟大的女巫芭芭雅嘎的指导下，学习温和的巫术。",
+    "is_free": false,
+    "price": "¥ 49.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 35,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1737870"
+  },
+  {
+    "appid": 3024130,
+    "name": "泡泡镇餐厅物语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/18dfe8260f924d0cbba9f37fe0100578ff653cba/header_schinese.jpg?t=1793067220",
+    "short_description": "欢迎来到这座可爱的海滨小镇！从零开始经营你梦想中的餐厅，烹饪一道道美味佳肴；单人掌勺或最多 4 人协作，让后厨高效运转。工作之余，田间耕种、出海垂钓、探索森林，或在小镇悠闲漫步——每一天都有新鲜事，让这里成为你的温馨小家！",
+    "is_free": false,
+    "price": "¥ 28.80",
+    "original_price": "¥ 48.00",
+    "discount_percent": 40,
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 10 月 26 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3024130"
   },
   {
     "appid": 1566200,
@@ -53,125 +183,5 @@
     "release_date": "2026 年 10 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/5335510"
-  },
-  {
-    "appid": 4435490,
-    "name": "Call of Duty®: Modern Warfare® 4",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg?t=1792806931",
-    "short_description": "在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。",
-    "is_free": false,
-    "price": "¥ 298.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 10 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4435490"
-  },
-  {
-    "appid": 3905010,
-    "name": "ONE PIECE 海洋盛宴",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/c6cdeafa74819f66234052fc33065feb0407caff/header_schinese.jpg?t=1792768513",
-    "short_description": "跟草帽一伙一起经营芭拉蒂2号店！ 从小船上揭幕的是专属于您的海上餐厅。 收集食材开发新菜单、用室内装饰随心所欲装潢店内…… 随着提升餐厅的水平，这间店会成长得越来越充满朝气与活力，就连“那个角色”也有机会变成这里的常客。 每当伙伴或常客增加，您的餐厅便会离大海上人人赞不绝口的店更迈进一步！ “ONE PIECE”角色们大排长龙的海上餐厅，今日开业！",
-    "is_free": false,
-    "price": "¥ 88.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3905010"
-  },
-  {
-    "appid": 3259780,
-    "name": "FINAL FANTASY RESONANCE",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1792758611",
-    "short_description": "如果“FINAL FANTASY”一直以像素风格持续进化…… 本作是以此为概念，并以崭新像素风格描绘的“FINAL FANTASY”系列最新作品。 除了围绕“水晶”展开的故事，以及回合制指令战斗与能力更换等系列经典要素外，亦收录了丰富多样的反复游玩内容。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3259780"
-  },
-  {
-    "appid": 3486530,
-    "name": "愚者不灭（Stupid Never Dies）",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486530/06dd6216ce7739d9d5be7479c748b93c027cfb7c/header.jpg?t=1792722824",
-    "short_description": "疾速成长动作RPG！让最弱僵尸戴维变得强大无比！吞噬敌人、夺取能力并不断变身，勇闯危险的异世界地下城，只为复活冰封的朱莉娅！",
-    "is_free": false,
-    "price": "¥ 198.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 10 月 22 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3486530"
-  },
-  {
-    "appid": 3247750,
-    "name": "Mycopunk — 真菌朋克",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg?t=1792787251",
-    "short_description": "在这款拥有超高自定义自由度的、任务制的刷宝射击游戏中，杀穿真菌异形吧！数以百计精心设计的升级项，支持四人合作游玩，甚至还有一个小蟑螂人呢。如何能不爱呢？",
-    "is_free": false,
-    "price": "¥ 29.00",
-    "original_price": "¥ 58.00",
-    "discount_percent": 50,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3247750"
-  },
-  {
-    "appid": 3645890,
-    "name": "GONE Fishing",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg?t=1792492815",
-    "short_description": "GONE Fishing 是一款 1-8 人生存恐怖游戏，你和好友必须齐心协力……靠钓鱼活下去。唯一的生存之道，就是在湖泊吞噬你们之前，不断满足它永不餍足的饥饿。 你能填饱它的胃口……还是成为下一份祭品？",
-    "is_free": false,
-    "price": "¥ 22.10",
-    "original_price": "¥ 32.99",
-    "discount_percent": 33,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3645890"
-  },
-  {
-    "appid": 4304900,
-    "name": " 考古致富:挖出个博物馆",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f7b69b7f4996dd9c05d5fb584a592483c574bb58/header_schinese.jpg?t=1792598351",
-    "short_description": "《考古致富:挖出个博物馆》是一款挖宝增量游戏。为了帮助市长完成横跨共和国的修路大业，你必须去挖走那些藏在路下的文物，同时将这些挖出来的宝贝们统统搬进博物馆吸引游客，利用挖掘文物和经营博物馆赚来的资金解锁更好的开采设备、扩充团队，进而向着下一片区域疯狂开挖！来为市长的修路工程扫清一切障碍吧！",
-    "is_free": false,
-    "price": "¥ 22.49",
-    "original_price": "¥ 29.99",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 10 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4304900"
   }
 ]
