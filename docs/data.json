@@ -1,19 +1,40 @@
 [
   {
-    "appid": 5056390,
-    "name": "Dead of the Brain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056390/c74caeb3abcccb3e8eea2cbc5cae8f2f60f9e1c0/header_schinese.jpg?t=1793380593",
-    "short_description": "本作致敬80年代美式血浆电影与丧尸B级片，主打血肉横飞的血腥场面与粗粝质感的像素画风。这部重现1992年经典恐怖冒险的重制之作，将带你置身于生者与行尸走肉的生死夹缝之中。你能否在这场噩梦中幸存下来？",
+    "appid": 3459340,
+    "name": "Lacey's Flash Games",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
+    "short_description": "These are the REAL girls’ games. Charlie (Charchar887) discovers Lacey's mid-2000s Flash games and their disturbing secrets. Enter the virtual world to uncover the whereabouts of the website's missing creator, Rocio Yani, and explore all the games and activities with Lacey and her friends!",
     "is_free": false,
-    "price": "¥ 50.82",
-    "original_price": "¥ 77.00",
-    "discount_percent": 34,
+    "price": "¥ 79.05",
+    "original_price": "¥ 93.00",
+    "discount_percent": 15,
     "genres": [
-      "冒险"
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 10 月 31 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3459340"
+  },
+  {
+    "appid": 5133900,
+    "name": "Can 'Em All",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133900/19aa14ebe3720e02f7f8c720abbf9749cf36967f/header.jpg?t=1793384095",
+    "short_description": "A juicy first-person incremental game about turning cute creatures into cans. Kill them, collect their bodies, can them, and sell them. Make money, upgrade your weapons and machines, and produce more and more.",
+    "is_free": false,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟",
+      "策略"
     ],
     "release_date": "2026 年 10 月 30 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5056390"
+    "store_url": "https://store.steampowered.com/app/5133900"
   },
   {
     "appid": 1799840,
@@ -49,6 +70,24 @@
     "release_date": "2026 年 10 月 30 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4339680"
+  },
+  {
+    "appid": 5088440,
+    "name": "再拆亿包！",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088440/0e662aa5e420c9c0396979ab14975fecedb68b7e/header_alt_assets_1_schinese.jpg?t=1793381531",
+    "short_description": "一款单人放置游戏，让你撕开补充包，收集卡牌，完成究极收藏。卖掉重复卡牌，升级装备，然后实现自动化快速大量抽卡！享受撕开包装，填满卡册，逐渐集齐一切所带来的巨大满足感。准备好集卡了吗？",
+    "is_free": false,
+    "price": "¥ 22.50",
+    "original_price": "¥ 25.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 10 月 30 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5088440"
   },
   {
     "appid": 3347910,
@@ -128,7 +167,7 @@
   {
     "appid": 4096830,
     "name": "S.O.N.A.R. - 潜艇菜鸟团",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096830/3577b1af8f5e0b9d3a3a51a90784443f6bbdd784/header_schinese.jpg?t=1793347410",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096830/3577b1af8f5e0b9d3a3a51a90784443f6bbdd784/header_schinese.jpg?t=1793468792",
     "short_description": "S.O.N.A.R.（Submarine Operators Not Actually Ready）是一款支持 1–6 人在线合作的潜艇模拟游戏。团队配合至关重要，慌乱不可避免，而沉没往往只差一次按错按钮。使用 sonar，驾驶、战斗、维修，然后祈祷你的朋友知道自己在干什么。",
     "is_free": false,
     "price": "¥ 29.75",
@@ -143,40 +182,5 @@
     "release_date": "2026 年 10 月 29 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4096830"
-  },
-  {
-    "appid": 3026450,
-    "name": "死亡日：狂杀末路 Deadly Days: Roadtrip",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026450/8f3524d0534e941e0d4e2b2d7b294f66c0fb8efe/header_alt_assets_6_schinese.jpg?t=1793282351",
-    "short_description": "在逆弹幕射击的荒诞梦境里尽情搜刮、射击、碾碎尸潮！踏上公路之旅，自己决定何时撤离，把背包塞成能把游戏玩坏的超强Build，再享受新战利品严丝合缝塞进背包的背包管理快感！",
-    "is_free": false,
-    "price": "¥ 37.70",
-    "original_price": "¥ 58.00",
-    "discount_percent": 35,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 10 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3026450"
-  },
-  {
-    "appid": 3884860,
-    "name": "The Wolf Among Us Remastered",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg?t=1793292108",
-    "short_description": "A dark detective thriller where folklore is real, violence is chilling, and every choice has consequences.",
-    "is_free": false,
-    "price": "¥ 74.40",
-    "original_price": "¥ 93.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "冒险",
-      "休闲"
-    ],
-    "release_date": "2026 年 10 月 29 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3884860"
   }
 ]
