@@ -1,178 +1,181 @@
 [
   {
-    "appid": 4430260,
-    "name": "音飙",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430260/e8d9fede2eaface81cda92b0ec7e4998fdfef658/header_schinese.jpg?t=1793680846",
-    "short_description": "将任何歌曲变成可玩的节奏骑行之旅！导入你喜欢的音乐，或通过实时音频模式跟随电脑播放的音乐游玩。我们基于数千个手工制作关卡的创作经验打造了专属节奏系统，将你最爱的音乐变成动态赛道。探索来自独立音乐人的官方曲目，挑战排行榜，上手游戏内置的关卡编辑器和Steam创意工坊。你可以创作自己独一无二的关卡，也可以探索创意工坊中源源不断的来自全球玩家的丰富作品。",
+    "appid": 3218230,
+    "name": "上古世纪编年史",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
+    "short_description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
     "is_free": false,
-    "price": "¥ 46.40",
-    "original_price": "¥ 58.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4430260"
-  },
-  {
-    "appid": 3684530,
-    "name": "日进斗金",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3684530/6dbf4a386315c51f007a5772fba74b422112b965/header_schinese.jpg?t=1793693137",
-    "short_description": "开局一颗小球，点燃无限混乱与惊喜！看它们在钉板间弹跳、分裂，看金币从涓涓细流变成财富瀑布。升级钉子和奖池，解锁主题关卡与独特音效，掉落效率与奖励倍率节节攀升！华丽光效清脆音效带来视听盛宴，每一次下落都让人欲罢不能！",
-    "is_free": false,
-    "price": "¥ 18.70",
-    "original_price": "¥ 22.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3684530"
-  },
-  {
-    "appid": 1686230,
-    "name": "Mayday: The Survival Island",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1686230/0af62145e9929482bc43fe15f79791b8320ae542/header.jpg?t=1793639498",
-    "short_description": "坠机后，你独自醒来。通过狩猎、耕种与制作生存，并探索充满秘密的群岛。建造基地、揭开真相、逃离此地——如果你能做到。",
-    "is_free": false,
-    "price": "¥ 39.20",
-    "original_price": "¥ 49.00",
-    "discount_percent": 20,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1686230"
-  },
-  {
-    "appid": 3686580,
-    "name": "裂隙防线 Repel The Rifts",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/a4ef8124046aac363d3eeae67fa3e6161a1a5818/header_alt_assets_1.jpg?t=1793680176",
-    "short_description": "《裂隙防线》是一款策略Rogue塔防游戏。你将带领各式各样的指挥官穿梭于异星世界，随着每一波攻势探索全新地形，选取强力升级，筑起防御工事击退混沌狂潮。",
-    "is_free": false,
-    "price": "¥ 39.00",
-    "original_price": "¥ 52.00",
-    "discount_percent": 25,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3686580"
-  },
-  {
-    "appid": 4362170,
-    "name": "Feed The Forest",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362170/234471cc1e6f30b71045fa55004acdf8dc4a3806/header.jpg?t=1793623245",
-    "short_description": "运用蜗牛之力，将沙漠变成郁郁葱葱的森林，然后在这款主动增量游戏中疯狂追求利润最大化。优化植物布局，自动化生产各类资源。雇佣爪牙，解锁非道德植物，变得富可敌神吧。记住：鲜血也是一种汁液。",
-    "is_free": false,
-    "price": "¥ 18.74",
-    "original_price": "¥ 24.99",
-    "discount_percent": 25,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4362170"
-  },
-  {
-    "appid": 3683940,
-    "name": "二手游戏店模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683940/a719ce721cf1fbb10cfacd29e70929ed6c8cfc61/header_schinese.jpg?t=1793633880",
-    "short_description": "从零称霸二手游戏圈！不管是AAA大作还是小众独立，这里应有尽有！凭毒辣眼光淘稀有狠货，靠灵活手腕划定市场格局。收售倒卖、轻松议价。从地摊小贩蜕变为搅动二手游戏江湖的幕后大佬，你的传奇，从此刻开场！",
-    "is_free": false,
-    "price": "¥ 33.75",
-    "original_price": "¥ 45.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3683940"
-  },
-  {
-    "appid": 4740930,
-    "name": "守城英雄传",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/4ff5a13034433f70861033ab2a5c2ace6a3b7b0e/header_alt_assets_1_schinese.jpg?t=1793690576",
-    "short_description": "超爽塔防，轻松挂机，战力无限飙升，享受零内购的纯粹单机体验！排兵布阵，防线自动阻击汹涌怪潮，后台挂机也能积累资源。利用摸鱼间隙或碎片时间招募角色、升级塔防，提升你的防线战力，让你的城堡从临时搭建的防线逐步成长为固若金汤的要塞！ P.S. 游戏支持老板键一键隐藏，随时随地安心守城！",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 54.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 2 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4740930"
-  },
-  {
-    "appid": 1858720,
-    "name": "外星来信",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1858720/bd726485ace9f349ccaccacb01788053d65b50ad/header.jpg?t=1793675801",
-    "short_description": "探索有着超过一千个字的外星象形字系统。从他们的数字系统开始，直到他们的文化和思想。",
-    "is_free": false,
-    "price": "¥ 32.00",
+    "price": "¥ 128.00",
     "original_price": "",
     "discount_percent": 0,
     "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 1 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1858720"
-  },
-  {
-    "appid": 1799840,
-    "name": "Queen's Domain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793628353",
-    "short_description": "一款主打硬核战斗与穿行探索的复古奇幻动作RPG。踏上冒险旅程，前往神秘的尼亚希德岛，寻找你失踪的父王。此乃邪恶势力盘踞之地，处处藏有奥秘玄机，而沉睡的女王也已渐渐苏醒……",
-    "is_free": false,
-    "price": "¥ 59.50",
-    "original_price": "¥ 70.00",
-    "discount_percent": 15,
-    "genres": [
       "动作",
       "冒险",
-      "独立",
-      "角色扮演"
+      "大型多人在线",
+      "角色扮演",
+      "抢先体验"
     ],
-    "release_date": "2026 年 10 月 30 日",
+    "release_date": "2026 年 11 月 3 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1799840"
+    "store_url": "https://store.steampowered.com/app/3218230"
   },
   {
-    "appid": 5088440,
-    "name": "再拆亿包！",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088440/0e662aa5e420c9c0396979ab14975fecedb68b7e/header_alt_assets_1_schinese.jpg?t=1793381531",
-    "short_description": "一款单人放置游戏，让你撕开补充包，收集卡牌，完成究极收藏。卖掉重复卡牌，升级装备，然后实现自动化快速大量抽卡！享受撕开包装，填满卡册，逐渐集齐一切所带来的巨大满足感。准备好集卡了吗？",
+    "appid": 5026450,
+    "name": "《守望先锋®》：“路霸”完整神话英雄皮肤礼包",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026450/bc966ebbcb660d1ac1bf0742ae5e9f81a4ce9082/header.jpg?t=1793732406",
+    "short_description": "获取“路霸”完整神话英雄皮肤和20级战令等级直升！",
     "is_free": false,
-    "price": "¥ 22.50",
-    "original_price": "¥ 25.00",
+    "price": "¥ 258.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5026450"
+  },
+  {
+    "appid": 2794590,
+    "name": "Scam Line",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794590/86d84c71aadc3000e8719d3df387a0f11007ebcc/header_alt_assets_0.jpg?t=1793728821",
+    "short_description": "Scam Line 是一款支持 4–8 人游玩的社交欺骗游戏，你和你的伙伴将面对各种不同的挑战。成为说谎者、操纵者、作弊者，或者找到属于你自己的胜利之路",
+    "is_free": false,
+    "price": "¥ 24.00",
+    "original_price": "¥ 30.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2794590"
+  },
+  {
+    "appid": 5101960,
+    "name": "地下城公会经理 Dungeons \u0026 Dynasties",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101960/b410c700f03fb3f65478e393cf864f90e7a1a57c/header.jpg?t=1793728816",
+    "short_description": "足球经理玩法遇上龙与地下城：英雄会死去，公会王朝永存！每轮赛程，都是一次地下城远征。英雄会成长、受伤、结下友谊与宿怨，也可能永远死在冒险途中。一个赛季接着一个赛季，他们的故事将成为这个世界真正的历史。而你负责创造这部历史！",
+    "is_free": false,
+    "price": "¥ 28.80",
+    "original_price": "¥ 32.00",
+    "discount_percent": 10,
+    "genres": [
+      "角色扮演",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5101960"
+  },
+  {
+    "appid": 2320980,
+    "name": "乐浮岛",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/8ab1a8e39d4b52574e150e62a58823832d217ef0/header_schinese.jpg?t=1793732506",
+    "short_description": "欢迎来到《乐浮岛》！在这款温馨的多人游戏中，你可以建设一个更美好、更加可持续的未来。带上新老朋友，一起来种植、做手工、四处探索、装饰房屋、为世界创造更多意义吧！",
+    "is_free": false,
+    "price": "¥ 89.64",
+    "original_price": "¥ 108.00",
+    "discount_percent": 17,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2320980"
+  },
+  {
+    "appid": 3393720,
+    "name": "Ramen Shop Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393720/14983f72d0bb93d18990ebcc4cbd7cc38f6042ea/header.jpg?t=1793723176",
+    "short_description": "Take control of your very own Ramen Shop! Transform a cozy, worn-out Japanese alley back into a vibrant hotspot. From scrubbing floors to cooking the perfect bowl of ramen. Decorate every corner, upgrade everything, and create your unique shop.",
+    "is_free": false,
+    "price": "¥ 53.10",
+    "original_price": "¥ 59.00",
+    "discount_percent": 10,
+    "genres": [
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3393720"
+  },
+  {
+    "appid": 5181520,
+    "name": "Mycelarium",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5181520/5b6220116b49c7e7a968cc608d32e47bc8fe722f/header.jpg?t=1793730446",
+    "short_description": "在这款放松的增量探索游戏中，培育一个不断扩张的真菌网络。发现隐藏资源，种植能自动化生产的蘑菇，并将你的菌丝体进化为一个自给自足的地下帝国。",
+    "is_free": false,
+    "price": "¥ 15.20",
+    "original_price": "¥ 19.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5181520"
+  },
+  {
+    "appid": 5266240,
+    "name": "Potato Please",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793717995",
+    "short_description": "一款第一人称削土豆游戏。你有一把刀。你有一个桶。你有一座土豆山。用真实物理削皮。削薄一点，不要浪费。购买更好的工具。一直削到土豆山消失。没人削得像你一样好。",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 35.00",
     "discount_percent": 10,
     "genres": [
       "休闲",
       "独立",
       "模拟"
     ],
-    "release_date": "2026 年 10 月 30 日",
+    "release_date": "2026 年 11 月 3 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5088440"
+    "store_url": "https://store.steampowered.com/app/5266240"
+  },
+  {
+    "appid": 4621810,
+    "name": "Livin' the Cream: Ice Cream Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621810/cc56e0c7e13ca2addef063e8a5176edcf8f14b06/header_alt_assets_0_schinese.jpg?t=1793708193",
+    "short_description": "在充满活力的加勒比风情中经营你自己的冰淇淋店。制作冰淇淋、混合口味、添加配料、为顾客服务、保持店铺整洁、补充食材、雇佣员工，并将小摊发展成一家繁忙的企业。",
+    "is_free": false,
+    "price": "¥ 28.00",
+    "original_price": "¥ 35.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4621810"
+  },
+  {
+    "appid": 3758950,
+    "name": "弗莱明庄园命案",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/982d3a6a510a0dad7c8f6b6192222b6434b7e334/header_schinese.jpg?t=1793692815",
+    "short_description": "“你的工作是填写死亡证明。” 调查1959年英国庄园中发生的神秘死亡事件。探索阴森的现场，分析证据，并填写死亡证明和急救报告。这是一款法医推理游戏，画面风格灵感来自20世纪60年代的欧洲侦探漫画。",
+    "is_free": false,
+    "price": "¥ 55.80",
+    "original_price": "¥ 62.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 3 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3758950"
   }
 ]
