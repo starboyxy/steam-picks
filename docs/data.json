@@ -1,8 +1,172 @@
 [
   {
+    "appid": 5008910,
+    "name": "《使命召唤®：现代战争® 4》黑色组织（第1赛季）",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008910/41b276803b04fad12399cf0bf9e9bcda84736883/header.jpg?t=1793941653",
+    "short_description": "获得使命召唤®点数*和《使命召唤®：现代战争® 4》及《使命召唤®：战争地带™》中的游戏内容。",
+    "is_free": false,
+    "price": "¥ 195.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5008910"
+  },
+  {
+    "appid": 3296060,
+    "name": "逃脱学院 2：再返校园",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296060/0190db08c6cc46d331e9869aa22a928509a7981b/header_schinese.jpg?t=1793927584",
+    "short_description": "《逃脱学院 2：再返校园》开讲啦！探索翻修一新的校园，解开谜题，逃离危机四伏的密室，揭露那和学校本身历史同样悠久的古老阴谋——可别等到铃声响起。单人成趣亦可，多人同乐也行，无论线上游玩还是本地合作，赶紧开始解谜吧！",
+    "is_free": false,
+    "price": "¥ 59.50",
+    "original_price": "¥ 70.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3296060"
+  },
+  {
+    "appid": 5017810,
+    "name": "Gildoria - Organize a Dragon's Hoard",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017810/2b8f9d1bc108b6514619839f6dda30b15a741206/header.jpg?t=1793894730",
+    "short_description": "巨龙的宝山已经彻底失控。安坐下来，一枚一枚扫起金山，装满一只只宝箱，再把埋在金子下的宝物一一放回架上原位。看着混乱一点点变回井井有条。一款温馨的整理游戏。还有猫。",
+    "is_free": false,
+    "price": "¥ 17.10",
+    "original_price": "¥ 19.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5017810"
+  },
+  {
+    "appid": 3577020,
+    "name": "莉娜清洁物语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3577020/c34a6a0cd657c7fee8d5c960c2ca2d74bb2ff0d1/header_alt_assets_0_schinese.jpg?t=1793897986",
+    "short_description": "把垃圾清掉、擦净灰尘，再把乱七八糟的房间一点点整理干净，《莉娜清洁物语》是一款轻松休闲的清洁游戏！在整理房间的过程中，你还会发现各种各样的生活物件，从照片、书信到被遗忘的小东西，慢慢拼出藏在每个房间里的故事。自由收拾、随心摆放，享受整理带来的满足感吧！",
+    "is_free": false,
+    "price": "¥ 33.60",
+    "original_price": "¥ 42.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3577020"
+  },
+  {
+    "appid": 3204330,
+    "name": "财富郡：贸易与生产",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204330/38daeca70ef83089ea26f9370cf9f5585be35ba1/header_alt_assets_3_schinese.jpg?t=1793894371",
+    "short_description": "在中世纪的世界中，从零开始建设一片远超单座城市的广阔郡域。在广阔多变的地形中确定合适的定居点选址，沿着河流与道路编织贸易网络，并在您的区域逐渐成形时，管理市长、贵族和不同的文化分布。这是一款规模大得多的城市建造游戏，而你治下的每一个定居点的发展和表现，都由你完全定义。",
+    "is_free": false,
+    "price": "¥ 78.30",
+    "original_price": "¥ 87.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3204330"
+  },
+  {
+    "appid": 3546610,
+    "name": "Wielders of the Essence",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546610/9ebeebf61b50fa9d9be5b87d032dc256a7b8b336/header_schinese.jpg?t=1793900780",
+    "short_description": "单人敌潮生存，融入轻度增量式基地建造。每局仅需八分钟，约八小时即可通关。",
+    "is_free": false,
+    "price": "¥ 17.10",
+    "original_price": "¥ 19.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3546610"
+  },
+  {
+    "appid": 5119400,
+    "name": "WORKS: Motorsport Factory",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119400/fbeae6072b2700f617fb48ca1b2d5e519af17433/header.jpg?t=1793871849",
+    "short_description": "从自家车库起步，打造赛车工厂的模拟经营游戏。淘旧件、买新件，或自主设计零件，维修赛车，一步步攀登各级赛事。资金紧张，零件不断磨损，艰难的抉择接踵而至：维修、升级，还是偿还债务，让车队继续生存？",
+    "is_free": false,
+    "price": "¥ 56.00",
+    "original_price": "¥ 70.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "竞速",
+      "体育",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5119400"
+  },
+  {
+    "appid": 3573120,
+    "name": "SpellChain",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573120/17cda876f224924c39f0f4076ad4a638e6239584/header.jpg?t=1793873463",
+    "short_description": "掌控创造你自己法术的力量，通过将魔法力量连接起来。创造召唤风暴的火球、带毒的闪电或召唤陨石的暴风雪。摧毁、获取战利品、制作法术并到达国王面前与他严肃对话。",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 35.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3573120"
+  },
+  {
+    "appid": 3432860,
+    "name": "异病侦探",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/b627a0cebcf59f2021489eb7e3fad7a3854fc360/header_schinese.jpg?t=1793883448",
+    "short_description": "《异病侦探》是一款融合“认知障碍”与“本格推理”的杀人解谜游戏。玩家将参与一场“杀人不可被发现”的死亡游戏。13名参赛者皆罹患不同的特殊认知疾病，且这些疾病还能传染给他人。当凶手以“无法说谎”、“无法感知左侧”、“辨识不了人脸”等异常规则犯案时，你能否在时限内找出真正的凶手？",
+    "is_free": false,
+    "price": "¥ 58.50",
+    "original_price": "¥ 65.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3432860"
+  },
+  {
     "appid": 3581230,
     "name": "Cozy Game Restoration",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3581230/72723670e61f2e3c107ec8f34a4acb06a7e8db20/header.jpg?t=1793844350",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3581230/72723670e61f2e3c107ec8f34a4acb06a7e8db20/header.jpg?t=1793880910",
     "short_description": "在《温馨游戏修复坊 / Cozy Game Restoration》中，您可以感受在修复珍贵物品过程中的安静和满足感。 当你轻轻拆开包裹时，你会发现一些破损和旧的游戏卡带。它们被厚厚的灰尘包裹着，上面有贴纸和马克笔的涂鸦。每个卡带都有独特的伤痕，等待着你为它们注入新的生命。",
     "is_free": false,
     "price": "¥ 59.00",
@@ -15,164 +179,5 @@
     "release_date": "2026 年 11 月 4 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3581230"
-  },
-  {
-    "appid": 3275210,
-    "name": "Pionero Capital",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275210/c4a0b91c0398e98e31bb3563d17165d079954a8d/header.jpg?t=1793820643",
-    "short_description": "从单枪匹马的小网店到电商巨头——在 Pionero Island 的开放世界里亲手打包订单、开车送货。招募员工，购置车辆与房产，开拓新业务，直到公司没有你也能自行运转。支持单人或多人合作。",
-    "is_free": false,
-    "price": "¥ 53.68",
-    "original_price": "¥ 61.00",
-    "discount_percent": 12,
-    "genres": [
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3275210"
-  },
-  {
-    "appid": 2615540,
-    "name": "虚空破坏者",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/4f3789458cfd9c3375c2926620b19640135f7c4a/header_alt_assets_8.jpg?t=1793821113",
-    "short_description": "让人肾上腺素狂飙的 Roguelite 第一人称射击游戏 🔴 对抗由某个敌对 AI 驱动的众多无情机器。 逃出无尽的循环。 通过深度枪械改装打造无限的武器变体。 制造致命的协同效应。 通过破坏环境杀出一条生路 /破坏系统 /打破循环 /挣脱束缚",
-    "is_free": false,
-    "price": "¥ 69.00",
-    "original_price": "¥ 115.00",
-    "discount_percent": 40,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2615540"
-  },
-  {
-    "appid": 1677110,
-    "name": "Lightyear Frontier",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793811955",
-    "short_description": "体验轻松惬意的开放世界农场生活，让机甲替你包揽重活。打造理想中的农场，让日常农务自动运转。调校机甲，清理大片林地、翻耕广袤田野；或与最多三位好友放慢脚步，共赏落日余晖。",
-    "is_free": false,
-    "price": "¥ 71.20",
-    "original_price": "¥ 89.00",
-    "discount_percent": 20,
-    "genres": null,
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1677110"
-  },
-  {
-    "appid": 1548180,
-    "name": "以邪神之名",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548180/3152d78d6b630caa4cba95509dd406f815b2a068/header.jpg?t=1793811965",
-    "short_description": "在这款受《皮克敏》启发的Roguelite游戏中，将信徒转化为你终结世界的异教。以鲜血绘制图案，施展神秘学仪式；指挥日益壮大的信徒大军，踏上征途，腐化整个世界。古神已然苏醒，静候一位容器来筹备降临。",
-    "is_free": false,
-    "price": "¥ 43.50",
-    "original_price": "¥ 58.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/1548180"
-  },
-  {
-    "appid": 2991310,
-    "name": "无尽幻樱阁",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/header_schinese.jpg?t=1793805269",
-    "short_description": "磨利刀锋，踏入樱花飞舞的永恒迷宫——“无尽幻樱阁”吧！这里是无法安息的怪物四处徘徊的梦幻迷宫。在不断变化的领域中杀出重围，用奖励道具强化自己！以华丽的战斗与机智策略挑战“高难度内容”的 Roguelite 3D 动作游戏！",
-    "is_free": false,
-    "price": "¥ 33.60",
-    "original_price": "¥ 42.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2991310"
-  },
-  {
-    "appid": 3727090,
-    "name": "Horses of Hoofprint Bay",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727090/fa67851e621d7212222a852149699738397a39b7/header_schinese.jpg?t=1793830906",
-    "short_description": "\u0026quot;《蹄印湾马场》是一款温馨治愈的手绘 2D 马场经营模拟游戏。 悉心照料你的马匹，通过训练提升它们的力量与胆量，参加各类赛事赢取奖金。繁育可爱的幼驹，探索风景优美的骑行路线，雇佣并管理员工，不断扩建马场，打造属于你的梦想天地！\u0026quot;",
-    "is_free": false,
-    "price": "¥ 57.80",
-    "original_price": "¥ 68.00",
-    "discount_percent": 15,
-    "genres": [
-      "休闲",
-      "模拟",
-      "体育"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3727090"
-  },
-  {
-    "appid": 4358660,
-    "name": "命悬一舰",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358660/87933d174e4e70288a644fb36d0e8819f5d4c422/header_alt_assets_4_schinese.jpg?t=1793808075",
-    "short_description": "这艘飞船停下之日，便是人类灭亡之时。 在这款基地管理塔防类轻度Rogue游戏中，管理太空飞船，将弱小人类用作资源，击退一波又一波的外星人袭击。每个选择在当下似乎都是合理的……",
-    "is_free": false,
-    "price": "¥ 44.10",
-    "original_price": "¥ 49.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4358660"
-  },
-  {
-    "appid": 3218230,
-    "name": "上古世纪编年史",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
-    "short_description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
-    "is_free": false,
-    "price": "¥ 128.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "冒险",
-      "大型多人在线",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3218230"
-  },
-  {
-    "appid": 5101960,
-    "name": "地下城公会经理 Dungeons \u0026 Dynasties",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101960/b410c700f03fb3f65478e393cf864f90e7a1a57c/header.jpg?t=1793728816",
-    "short_description": "足球经理玩法遇上龙与地下城：英雄会死去，公会王朝永存！每轮赛程，都是一次地下城远征。英雄会成长、受伤、结下友谊与宿怨，也可能永远死在冒险途中。一个赛季接着一个赛季，他们的故事将成为这个世界真正的历史。而你负责创造这部历史！",
-    "is_free": false,
-    "price": "¥ 28.80",
-    "original_price": "¥ 32.00",
-    "discount_percent": 10,
-    "genres": [
-      "角色扮演",
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 3 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5101960"
   }
 ]
