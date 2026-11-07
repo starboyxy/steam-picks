@@ -1,5 +1,80 @@
 [
   {
+    "appid": 1876930,
+    "name": "烈酒荒野",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876930/336a5c6ba1d464e6a18c49ec7eea0b5bc4afe4bc/header.jpg?t=1793987815",
+    "short_description": "从经营酒馆开始，在狂野西部开创属于你的天地。打造吧台，雇佣帮手，融入聚集在你周围的人们的生活与烦恼。在这里，诚实的生意往往不足以生存，看看在边疆如何生存。",
+    "is_free": false,
+    "price": "¥ 43.20",
+    "original_price": "¥ 72.00",
+    "discount_percent": 40,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1876930"
+  },
+  {
+    "appid": 5160800,
+    "name": "Find The Needle",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg?t=1793980111",
+    "short_description": "你有一把铲子，还有一堆由大约六百万根干草组成的草堆。里面某个地方藏着一根针。亲手把它挖出来，卖掉干草，再用赚来的钱购买传送带和机器，直到再也不用自己动手挖。",
+    "is_free": false,
+    "price": "¥ 45.90",
+    "original_price": "¥ 54.00",
+    "discount_percent": 15,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5160800"
+  },
+  {
+    "appid": 3499520,
+    "name": "Piano Glow",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/header.jpg?t=1793987244",
+    "short_description": "在多人在线大厅弹奏钢琴，挑战排行榜，体验游戏化训练模式：练耳、识谱、节奏、4K/7K 和下落音符。使用电脑或笔记本的 QWERTY 键盘或钢琴，演奏任意歌曲。可将任意钢琴视频或乐谱转换为下落音符教程或 MIDI 文件。",
+    "is_free": false,
+    "price": "¥ 64.40",
+    "original_price": "¥ 92.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "动画制作和建模",
+      "音频制作",
+      "视频制作"
+    ],
+    "release_date": "2026 年 11 月 6 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3499520"
+  },
+  {
+    "appid": 1211600,
+    "name": "隔离区-丧尸末日生存",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794035207",
+    "short_description": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
+    "is_free": false,
+    "price": "¥ 28.80",
+    "original_price": "¥ 48.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/1211600"
+  },
+  {
     "appid": 5008910,
     "name": "《使命召唤®：现代战争® 4》黑色组织（第1赛季）",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008910/41b276803b04fad12399cf0bf9e9bcda84736883/header.jpg?t=1793941653",
@@ -34,23 +109,43 @@
     "store_url": "https://store.steampowered.com/app/3296060"
   },
   {
-    "appid": 5017810,
-    "name": "Gildoria - Organize a Dragon's Hoard",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017810/2b8f9d1bc108b6514619839f6dda30b15a741206/header.jpg?t=1793894730",
-    "short_description": "巨龙的宝山已经彻底失控。安坐下来，一枚一枚扫起金山，装满一只只宝箱，再把埋在金子下的宝物一一放回架上原位。看着混乱一点点变回井井有条。一款温馨的整理游戏。还有猫。",
+    "appid": 2433560,
+    "name": "维京酒馆",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433560/8cfc2a7e0644c192260a97cb28c5593ca47c1667/header.jpg?t=1793898130",
+    "short_description": "这个冒险游戏支持1到4名玩家合作，在手忙脚乱中打造属于你的传奇维京酒馆。白天猎捕神奇的野兽，晚上做菜服务闹哄哄的客人，尽你们所能保证出餐顺利，平息北欧诸神的怒火，平安活到第二天。",
     "is_free": false,
-    "price": "¥ 17.10",
-    "original_price": "¥ 19.00",
+    "price": "¥ 48.60",
+    "original_price": "¥ 54.00",
     "discount_percent": 10,
     "genres": [
+      "动作",
       "冒险",
       "休闲",
       "独立",
-      "模拟"
+      "模拟",
+      "抢先体验"
     ],
     "release_date": "2026 年 11 月 5 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5017810"
+    "store_url": "https://store.steampowered.com/app/2433560"
+  },
+  {
+    "appid": 2411200,
+    "name": "Underkeep",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411200/be22c58d9f42d3d349198e87b3c192998047b053/header.jpg?t=1794008212",
+    "short_description": "Explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. Assemble a party of adventurers, upgrade your gear, and explore a fully handcrafted world.",
+    "is_free": false,
+    "price": "¥ 76.45",
+    "original_price": "¥ 89.95",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 11 月 5 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2411200"
   },
   {
     "appid": 3577020,
@@ -89,95 +184,5 @@
     "release_date": "2026 年 11 月 5 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3204330"
-  },
-  {
-    "appid": 3546610,
-    "name": "Wielders of the Essence",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546610/9ebeebf61b50fa9d9be5b87d032dc256a7b8b336/header_schinese.jpg?t=1793900780",
-    "short_description": "单人敌潮生存，融入轻度增量式基地建造。每局仅需八分钟，约八小时即可通关。",
-    "is_free": false,
-    "price": "¥ 17.10",
-    "original_price": "¥ 19.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3546610"
-  },
-  {
-    "appid": 5119400,
-    "name": "WORKS: Motorsport Factory",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119400/fbeae6072b2700f617fb48ca1b2d5e519af17433/header.jpg?t=1793871849",
-    "short_description": "从自家车库起步，打造赛车工厂的模拟经营游戏。淘旧件、买新件，或自主设计零件，维修赛车，一步步攀登各级赛事。资金紧张，零件不断磨损，艰难的抉择接踵而至：维修、升级，还是偿还债务，让车队继续生存？",
-    "is_free": false,
-    "price": "¥ 56.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "竞速",
-      "体育",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5119400"
-  },
-  {
-    "appid": 3573120,
-    "name": "SpellChain",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573120/17cda876f224924c39f0f4076ad4a638e6239584/header.jpg?t=1793873463",
-    "short_description": "掌控创造你自己法术的力量，通过将魔法力量连接起来。创造召唤风暴的火球、带毒的闪电或召唤陨石的暴风雪。摧毁、获取战利品、制作法术并到达国王面前与他严肃对话。",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 35.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 11 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3573120"
-  },
-  {
-    "appid": 3432860,
-    "name": "异病侦探",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/b627a0cebcf59f2021489eb7e3fad7a3854fc360/header_schinese.jpg?t=1793883448",
-    "short_description": "《异病侦探》是一款融合“认知障碍”与“本格推理”的杀人解谜游戏。玩家将参与一场“杀人不可被发现”的死亡游戏。13名参赛者皆罹患不同的特殊认知疾病，且这些疾病还能传染给他人。当凶手以“无法说谎”、“无法感知左侧”、“辨识不了人脸”等异常规则犯案时，你能否在时限内找出真正的凶手？",
-    "is_free": false,
-    "price": "¥ 58.50",
-    "original_price": "¥ 65.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3432860"
-  },
-  {
-    "appid": 3581230,
-    "name": "Cozy Game Restoration",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3581230/72723670e61f2e3c107ec8f34a4acb06a7e8db20/header.jpg?t=1793880910",
-    "short_description": "在《温馨游戏修复坊 / Cozy Game Restoration》中，您可以感受在修复珍贵物品过程中的安静和满足感。 当你轻轻拆开包裹时，你会发现一些破损和旧的游戏卡带。它们被厚厚的灰尘包裹着，上面有贴纸和马克笔的涂鸦。每个卡带都有独特的伤痕，等待着你为它们注入新的生命。",
-    "is_free": false,
-    "price": "¥ 59.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 4 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3581230"
   }
 ]
