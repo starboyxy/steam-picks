@@ -21,7 +21,7 @@
   {
     "appid": 3499520,
     "name": "Piano Glow",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/header.jpg?t=1793987244",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/header.jpg?t=1794204025",
     "short_description": "在多人在线大厅弹奏钢琴，挑战排行榜，体验游戏化训练模式：练耳、识谱、节奏、4K/7K 和下落音符。使用电脑或笔记本的 QWERTY 键盘或钢琴，演奏任意歌曲。可将任意钢琴视频或乐谱转换为下落音符教程或 MIDI 文件。",
     "is_free": false,
     "price": "¥ 64.40",
@@ -42,7 +42,7 @@
   {
     "appid": 1211600,
     "name": "隔离区-丧尸末日生存",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794035207",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794210733",
     "short_description": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
     "is_free": false,
     "price": "¥ 28.80",
@@ -132,26 +132,6 @@
     "store_url": "https://store.steampowered.com/app/3546610"
   },
   {
-    "appid": 5119400,
-    "name": "WORKS: Motorsport Factory",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119400/fbeae6072b2700f617fb48ca1b2d5e519af17433/header.jpg?t=1793871849",
-    "short_description": "从自家车库起步，打造赛车工厂的模拟经营游戏。淘旧件、买新件，或自主设计零件，维修赛车，一步步攀登各级赛事。资金紧张，零件不断磨损，艰难的抉择接踵而至：维修、升级，还是偿还债务，让车队继续生存？",
-    "is_free": false,
-    "price": "¥ 56.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "竞速",
-      "体育",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 5 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5119400"
-  },
-  {
     "appid": 3573120,
     "name": "SpellChain",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573120/17cda876f224924c39f0f4076ad4a638e6239584/header.jpg?t=1793873463",
@@ -186,5 +166,22 @@
     "release_date": "2026 年 11 月 4 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/3432860"
+  },
+  {
+    "appid": 3581230,
+    "name": "Cozy Game Restoration",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3581230/72723670e61f2e3c107ec8f34a4acb06a7e8db20/header.jpg?t=1794200472",
+    "short_description": "在《温馨游戏修复坊 / Cozy Game Restoration》中，您可以感受在修复珍贵物品过程中的安静和满足感。 当你轻轻拆开包裹时，你会发现一些破损和旧的游戏卡带。它们被厚厚的灰尘包裹着，上面有贴纸和马克笔的涂鸦。每个卡带都有独特的伤痕，等待着你为它们注入新的生命。",
+    "is_free": false,
+    "price": "¥ 59.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 4 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3581230"
   }
 ]
