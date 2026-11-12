@@ -1,20 +1,152 @@
 [
   {
-    "appid": 2991650,
-    "name": "DAWN AEROWAR",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991650/69bf1c7377f04b17657107e4db18d386d4deda98/header.jpg?t=1794385948",
-    "short_description": "一部两小时的动画电影。王牌飞行员黄道一号誓要向帝国复仇：全片共12集，3D空战与手绘2D交织，全程配音，原创管弦乐配乐。由寥寥数位独立艺术家历时近五年打造。",
+    "appid": 4665590,
+    "name": "Apotheosis Engine",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665590/fe5dfe46adee4299ded00b92004f9365cd0d3def/header_schinese.jpg?t=1794420328",
+    "short_description": "迷失于虚空之中，一艘太空探测器觉醒了它从未被设计拥有的心智。《Apotheosis Engine》是一款背景故事丰富的增量游戏：探索外星操作系统，从一台简单的探测器成长为数字神明。",
     "is_free": false,
-    "price": "¥ 53.10",
-    "original_price": "¥ 59.00",
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4665590"
+  },
+  {
+    "appid": 4739500,
+    "name": "星海赌王 JOHN GLEEP",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739500/277e381de9e54a69696e3aa6c2d80035302777fc/header.jpg?t=1794419817",
+    "short_description": "小小的外星人JOHN GLEEP有个大大的麻烦——他的赌场经营惨淡、同时他还欠了黑帮一整个星系的钱。解决方法是什么？当然是沿着一个个行星飞过去、强行绑架星球上的赌客们来光顾，以此在这款荒诞不经的宇宙背景动作Roguelike混搭游戏中偿还你的债务、挽回你破碎的婚姻了。",
+    "is_free": false,
+    "price": "¥ 36.00",
+    "original_price": "¥ 45.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4739500"
+  },
+  {
+    "appid": 3285880,
+    "name": "MONOMOON: 幻月迷踪",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285880/d47979f80e7e19ff0ffca75f42ba98a6238a3ce4/header.jpg?t=1794431538",
+    "short_description": "在《MONOMOON: 幻月迷踪》中，前路只为知者与勇者而开。循着月光的指引，你将漫游一个小巧而神秘的开放世界，揭开深藏其中的真相。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
     "discount_percent": 10,
     "genres": [
       "冒险",
       "独立"
     ],
-    "release_date": "2026 年 11 月 10 日",
+    "release_date": "2026 年 11 月 11 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2991650"
+    "store_url": "https://store.steampowered.com/app/3285880"
+  },
+  {
+    "appid": 4574820,
+    "name": "Rejected Draft",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574820/cc995e3d9f7822223dec45a53bd5f4f6342caabb/header.jpg?t=1794405560",
+    "short_description": "你本是被弃置的残缺涂鸦。迎战各式草图强敌，吞噬对方力量，踏上复仇之路。这款双屏放置对战游戏中数值将飞速暴涨，庞大技能树搭配随机转生机制，每一轮冒险都独一无二。",
+    "is_free": false,
+    "price": "¥ 44.08",
+    "original_price": "¥ 58.00",
+    "discount_percent": 24,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4574820"
+  },
+  {
+    "appid": 4521650,
+    "name": "农场与盛宴 / Farm \u0026 Feast",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521650/ca40f116118b256ebe9d22101cf9460bce951dce/header_alt_assets_0_schinese.jpg?t=1794404628",
+    "short_description": "经营一片农场和一家属于自己的餐厅！种植作物、钓鱼采集，为餐厅准备新鲜食材；雇佣员工和厨师、布置店铺和后厨，忙碌充实的度过每一天，打造属于你的田园生活。",
+    "is_free": false,
+    "price": "¥ 46.40",
+    "original_price": "¥ 58.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4521650"
+  },
+  {
+    "appid": 4780870,
+    "name": "Aleef: Desktop Pet Collector",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780870/ac77e7a29944635d8e2dcb089f2fe4b9e54ecfef/header.jpg?t=1794401956",
+    "short_description": "工作、浏览网页或游玩其他游戏时，也能在后台孵蛋！收集 300+ 种宠物，解锁强力升级，并组建你的战斗队伍。",
+    "is_free": false,
+    "price": "¥ 22.50",
+    "original_price": "¥ 25.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "策略",
+      "免费开玩"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4780870"
+  },
+  {
+    "appid": 4218360,
+    "name": "Wall World Strategy",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218360/affb6b94d152a5a52e6c5a75bb246be70e07ae3a/header.jpg?t=1794427468",
+    "short_description": "在无尽之墙的表面建立并领导你的殖民地。管理资源与居民，研发全新科技，抵御无休止的泽雷克进攻，并派遣机械蜘蛛执行高风险探索任务。维持殖民地的运转——在墙世界中，一切都很容易分崩离析。",
+    "is_free": false,
+    "price": "¥ 59.50",
+    "original_price": "¥ 70.00",
+    "discount_percent": 15,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4218360"
+  },
+  {
+    "appid": 4908110,
+    "name": "加油添乱",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908110/12e1528696b990d9f241f1678b20e698044098c0/header.jpg?t=1794394860",
+    "short_description": "经营一家混乱的加油站沙盒游戏：给汽车加油，清洗和维修车辆、购买各种奇特工具、抓捕通缉司机、赚取评价、解锁升级内容、登上排行榜，或让每一次停靠都变成一场彻底的混乱。",
+    "is_free": false,
+    "price": "¥ 28.00",
+    "original_price": "¥ 35.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 11 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4908110"
   },
   {
     "appid": 2826790,
@@ -38,22 +170,6 @@
     "store_url": "https://store.steampowered.com/app/2826790"
   },
   {
-    "appid": 4739980,
-    "name": "Monster Train 2: The Punished",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739980/be8a82d818d36cfdb559bd8c8acd9dcbc5b83673/header.jpg?t=1794332677",
-    "short_description": "率领受罚者参战，化痛苦为力量！",
-    "is_free": false,
-    "price": "¥ 33.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4739980"
-  },
-  {
     "appid": 2523740,
     "name": "DreamWorks Shrek 2 Remastered",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523740/abfa94e9a286146554386662e218aae82716711f/header.jpg?t=1794330089",
@@ -68,109 +184,5 @@
     "release_date": "2026 年 11 月 10 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2523740"
-  },
-  {
-    "appid": 4876650,
-    "name": "永不按颜色分拣",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/dd7e6492259433b58339fbc6f57a98ed4a5ffc8d/header_schinese.jpg?t=1794327933",
-    "short_description": "在那座积木山的下面某处，埋着你的地板。用磁力手套、筛盘和追踪零件的视觉，分拣这座不可能的「大堆」。装满贴好标签的抽屉，取出零件，看着 MOC 一砖一瓦地咬合成型。惬意、满足，只受一条规则支配：永远不要按颜色分拣。",
-    "is_free": false,
-    "price": "¥ 28.00",
-    "original_price": "¥ 35.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4876650"
-  },
-  {
-    "appid": 4530370,
-    "name": "足球经理27",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794333658",
-    "short_description": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。",
-    "is_free": false,
-    "price": "¥ 268.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "体育",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4530370"
-  },
-  {
-    "appid": 3504050,
-    "name": "Hillthorn",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504050/37b8bbce9ef271eea859a82f2cea27adb2afc049/header.jpg?t=1794324594",
-    "short_description": "一桩发生在僻静社区的失踪案。一座埋藏着重重秘密的山。一位和时间赛跑的侦探。这就是《Hillthorn》，一款暗黑风格的调查推理游戏。全程无对白，你只能依靠手中的卡牌、脑中的逻辑与直觉探寻真相。",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3504050"
-  },
-  {
-    "appid": 5051080,
-    "name": "We Steal From Old People: The Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051080/bada1115e0e3b6f50258b033ac2f6588899a3ded/header.jpg?t=1794318125",
-    "short_description": "Beat swarms of old people and take their bricks in this action roguelike. Rip them from their disgusting old hands. You need bricks. You need all the bricks for yourself because you’re a slimy little brick weasel. You are like a brick vampire and bricks are the blood you need! ",
-    "is_free": false,
-    "price": "¥ 34.86",
-    "original_price": "¥ 42.00",
-    "discount_percent": 17,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5051080"
-  },
-  {
-    "appid": 3499790,
-    "name": "Ashes of the Singularity II",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499790/0c833c880e8edbf2f798c92f065ec991cd962a65/header.jpg?t=1794334597",
-    "short_description": "在这款超大规模即时战略游戏中，指挥庞大军队争夺整个星球的控制权。操控地球势力、机械化的AI Substrate或神秘的后人类联盟，在单人模式、多人合作或多人对战中征战整个太阳系。",
-    "is_free": false,
-    "price": "¥ 110.40",
-    "original_price": "¥ 138.00",
-    "discount_percent": 20,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3499790"
-  },
-  {
-    "appid": 4618570,
-    "name": "卡包英雄",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/934fd87b234e0860e47a6edac16fa9bc8596033c/header_schinese.jpg?t=1794316433",
-    "short_description": "游玩增量游戏《卡包英雄》，撕开卡包，抽取新的闪卡英雄，每个卡包都有可能开出新的强力角色。抵御无尽的怪物攻势，保卫高塔，在各个国度中奋力前行。",
-    "is_free": false,
-    "price": "¥ 20.30",
-    "original_price": "¥ 29.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 10 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4618570"
   }
 ]
