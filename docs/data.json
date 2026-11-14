@@ -1,25 +1,127 @@
 [
   {
-    "appid": 4435810,
-    "name": "焚天烈火之元素领主",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435810/b9bca8a47bbdc31787138c7d22ca51547c033112/header.jpg?t=1794544387",
-    "short_description": "经典1:1原味复刻，战法道三职业重聚！⚔️ 踏入充满争夺与挑战的传奇世界，挑战强大 BOSS，收集装备，培养并肩作战的英雄，施展强大的英雄合击。集结行会伙伴征战沙城，争夺战场上的荣誉与资源。老情怀与新体验碰撞，焕新出发！",
-    "is_free": true,
-    "price": "免费",
-    "original_price": "",
-    "discount_percent": 0,
+    "appid": 3687090,
+    "name": "Dice Hoarder",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg?t=1794596935",
+    "short_description": "《Dice Hoarder》是一款温馨的整理游戏，你将为一家神秘的骰子商店补货。分类整理店内的每一颗骰子，将它们配对组成完整的七件套跑团骰，并揭开这份新工作背后隐藏的秘密。",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3687090"
+  },
+  {
+    "appid": 5295330,
+    "name": "Water TD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295330/892421d4a87a720a313e036c1db4a67347c9597f/header.jpg?t=1794592839",
+    "short_description": "Water TD 是一款塔防游戏，敌人是一场洪水。几十万滴水涌向你的基地，在你的炮塔前越堆越高，再从每一道缝隙漫过去。射它、烧它、电它，或者把它推回去；关卡之间，再到一棵庞大的技能树上升级你的防御。",
+    "is_free": false,
+    "price": "¥ 29.75",
+    "original_price": "¥ 35.00",
+    "discount_percent": 15,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5295330"
+  },
+  {
+    "appid": 5458210,
+    "name": "How They Built the Pyramids",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/e8525d1cf30149534fbc6b2ee780a2dddc2f328b/header.jpg?t=1794589252",
+    "short_description": "一款支持 1–8 人联机合作的欢乐建造游戏。制作砖块，建造一座巨型金字塔，将小小的工地发展成庞大的自动化生产线。和朋友一起分工合作，招募帮手，用各种越来越离谱的方式把砖块运到金字塔顶端！",
+    "is_free": false,
+    "price": "¥ 15.40",
+    "original_price": "¥ 22.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5458210"
+  },
+  {
+    "appid": 3810510,
+    "name": "DERELIKT",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1794587386",
+    "short_description": "《DERELIKT》是一款叙事驱动的复古第一人称射击游戏，专为PS1时代的科幻恐怖游戏爱好者量身打造。",
+    "is_free": false,
+    "price": "¥ 58.50",
+    "original_price": "¥ 65.00",
+    "discount_percent": 10,
     "genres": [
       "动作",
       "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3810510"
+  },
+  {
+    "appid": 5185890,
+    "name": "Zombies Aren't Real",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg?t=1794584628",
+    "short_description": "Zombies Aren't Real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 35.00",
+    "discount_percent": 10,
+    "genres": [
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5185890"
+  },
+  {
+    "appid": 4045480,
+    "name": "Drawquarium 画个水族馆：鱼你箱绘",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045480/8a3c43d6b9e22312651171161b95500862341998/header_schinese.jpg?t=1794578546",
+    "short_description": "亲手画出鱼儿，打造温馨的小水族箱，还能把它设为动态桌面壁纸！看着自己的画作活过来，喂养和照顾小鱼，收集金色鱼鳞来解锁新装饰。游戏还准备了实用工具，帮你专注学习工作，也能轻松放空。",
+    "is_free": false,
+    "price": "¥ 30.40",
+    "original_price": "¥ 38.00",
+    "discount_percent": 20,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4045480"
+  },
+  {
+    "appid": 4661070,
+    "name": "HANDS OVER",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/972d3e6aa238297a34cc5ea2e7e6a5b923fb057a/header.jpg?t=1794576522",
+    "short_description": "HANDS OVER 是一款 5 人合作恐怖游戏，无害的挑战会变成残酷的运气与胆量考验。虚张声势、坑害朋友、玩点脏招，让自己比所有人都更久留在桌边。",
+    "is_free": false,
+    "price": "¥ 16.15",
+    "original_price": "¥ 19.00",
+    "discount_percent": 15,
+    "genres": [
+      "动作",
+      "休闲",
       "独立",
       "大型多人在线",
-      "角色扮演",
-      "模拟",
-      "免费开玩"
+      "抢先体验"
     ],
-    "release_date": "2026 年 11 月 12 日",
+    "release_date": "2026 年 11 月 13 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4435810"
+    "store_url": "https://store.steampowered.com/app/4661070"
   },
   {
     "appid": 4459590,
@@ -60,7 +162,7 @@
   {
     "appid": 2784470,
     "name": "九王 9 Kings",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/b6b82b1b9c888a6b78c95ec3e8c3f84648f3b677/header_schinese.jpg?t=1794518469",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/b6b82b1b9c888a6b78c95ec3e8c3f84648f3b677/header_schinese.jpg?t=1794598226",
     "short_description": "一款快节奏的王国建造类Roguelike游戏，数百张独特卡牌，数千种疯狂构筑，突破游戏规则……与九王史诗对决、赢得战斗、扩展帝国，成就众王之王！",
     "is_free": false,
     "price": "¥ 29.50",
@@ -73,113 +175,5 @@
     "release_date": "2026 年 11 月 12 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2784470"
-  },
-  {
-    "appid": 5343400,
-    "name": "Car Flipper",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5343400/0b449eee06b3033ae8fa5f749261a3353759982f/header.jpg?t=1794514085",
-    "short_description": "A first person car flipping game. Find cheap used cars on your phone, on the side of the road or at storage auctions, and inspect them yourself. Fix what a buyer will notice, then sell them on, rent them out or race them for pink slips. Play solo or with up to three friends online.",
-    "is_free": false,
-    "price": "¥ 52.50",
-    "original_price": "¥ 70.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5343400"
-  },
-  {
-    "appid": 4992660,
-    "name": "Scawy Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992660/11972c8aecdceb24c58fbd1cf478b84c3c470724/header_alt_assets_1.jpg?t=1794535671",
-    "short_description": "肯古因·斯汀是一名失败的恐怖小说作家，他买下了一栋便宜的素材商店房子，准备写出自己的杰作。他唯一的工作：喂猫。还有让奶奶按时吃药。还有活过 4 天和 4 个夜晚。一款荒诞的恐怖恶搞游戏。",
-    "is_free": false,
-    "price": "¥ 26.35",
-    "original_price": "¥ 31.00",
-    "discount_percent": 15,
-    "genres": [
-      "冒险",
-      "休闲",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4992660"
-  },
-  {
-    "appid": 4493130,
-    "name": "Ski-E-O!雪场大亨",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/0188d1a232e5ab2c906e136031e52da8486cbe77/header.jpg?t=1794506830",
-    "short_description": "你是Ski-E-O——在这款模拟经营游戏中，打造你梦寐以求的温馨滑雪胜地。灵活应对瞬息万变的天气，绘制雪道，架设缆车，并放置木屋民宿与雪后微醺酒吧，让成千上万的滑雪爱好者不仅能玩个痛快，还能吃饱穿暖、收获满满的幸福感。",
-    "is_free": false,
-    "price": "¥ 63.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 10,
-    "genres": [
-      "模拟",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4493130"
-  },
-  {
-    "appid": 4390080,
-    "name": "Bottled by Bears",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390080/2d72fb041335f66b827b1ec3db8191c70aab4642/header.jpg?t=1794559756",
-    "short_description": "加入熊熊一家，一起经营嗡嗡热闹的小小蜂蜜农场！收集并发现稀有蜜蜂，把蜂蜜装进罐中，扩建农场，看花田在这款温馨的放置经营游戏中灿烂盛开。",
-    "is_free": false,
-    "price": "¥ 24.00",
-    "original_price": "¥ 32.00",
-    "discount_percent": 25,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4390080"
-  },
-  {
-    "appid": 2423290,
-    "name": "Handmancers",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423290/329fc86edb582f1b5a9c79a051d0d8014b09faa8/header.jpg?t=1794504986",
-    "short_description": "Handmancers是 - 款以石头剪刀布为灵感的第 - 人称视角Roguelite卡组构建游戏。组建你的卡组，强化卡牌，装备强力神器，在策略战斗中挑战强敌",
-    "is_free": false,
-    "price": "¥ 55.25",
-    "original_price": "¥ 65.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2423290"
-  },
-  {
-    "appid": 3809270,
-    "name": "Euro Truck Simulator 2 - Coaches",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809270/76265f5ca82a7e38ef486f169108f08379785a51/header.jpg?t=1794502649",
-    "short_description": "在全新的 ETS2 之旅中，将货物换为乘客！坐在方向盘后方 - 这次不是卡车，而是客车。客车 DLC 为 ETS2 带来新维度的游戏体验，在欧洲各地完成定期的客运工作。",
-    "is_free": false,
-    "price": "¥ 75.39",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3809270"
   }
 ]
