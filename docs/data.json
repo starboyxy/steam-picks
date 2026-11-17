@@ -1,5 +1,172 @@
 [
   {
+    "appid": 3188660,
+    "name": "Motocross The Game",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188660/header.jpg?t=1794891418",
+    "short_description": "A hyper-realistic motocross simulator built by riders, for riders. Control bike and rider as two separate physics bodies, race online through matchmaking or private lobbies, and chase the clock on live global time-attack leaderboards. Assists let newcomers learn at their own pace.",
+    "is_free": false,
+    "price": "¥ 229.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "竞速",
+      "模拟",
+      "体育",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3188660"
+  },
+  {
+    "appid": 2483700,
+    "name": "哈玛雷特",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1794882613",
+    "short_description": "《哈玛雷特》是一款剧情向肉鸽卡牌构筑游戏。玩家将在游戏中揭开堕落骑士团的秘密，见证烈火焚城的真相，探寻至亲失踪的谜底。驾驭古老遗物的力量，在湮灭边缘与恶魔对抗，改写末世命运。",
+    "is_free": false,
+    "price": "¥ 39.60",
+    "original_price": "¥ 44.00",
+    "discount_percent": 10,
+    "genres": [
+      "独立",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2483700"
+  },
+  {
+    "appid": 5070970,
+    "name": "Space Engineers - Warfare 3 Pack",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070970/ad3e804242719b8e02f461609c1198646b6dd4d5/header.jpg?t=1794852651",
+    "short_description": "Warfare 3 Pack 新增了超过 30 个全新方块！这些都是不会影响游戏平衡的外观和装饰方块。",
+    "is_free": false,
+    "price": "¥ 33.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5070970"
+  },
+  {
+    "appid": 5066010,
+    "name": "群尸来压境",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1794853555",
+    "short_description": "《群尸来压境》是一款放置类自走棋游戏，你将调动大批军队来保卫城堡，抵御不死尸群的来袭。挺过一波波攻击，解锁新战斗单位，获得强大技能，让千军万马占领你的屏幕吧。",
+    "is_free": false,
+    "price": "¥ 17.50",
+    "original_price": "¥ 25.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5066010"
+  },
+  {
+    "appid": 4178790,
+    "name": "Clicky Islands / 点点岛",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178790/51c8578c121f35cea10bfdbe55ce274b44a4b391/header_schinese.jpg?t=1794902102",
+    "short_description": "《Clicky Islands / 点点岛》是一款融合了放置点击、城市建造与资源管理的独特游戏。你将扮演国王任命的总督，负责探索并开发岛屿，拓展未来的王国。",
+    "is_free": false,
+    "price": "¥ 31.20",
+    "original_price": "¥ 39.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4178790"
+  },
+  {
+    "appid": 5037200,
+    "name": "just volleyball",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+    "short_description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s \u0026amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+    "is_free": false,
+    "price": "¥ 17.36",
+    "original_price": "¥ 28.00",
+    "discount_percent": 38,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "体育"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5037200"
+  },
+  {
+    "appid": 2321960,
+    "name": "灵渡之境",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
+    "short_description": "来自《Cozy Grove》的制作团队：在柔和的云彩中滑翔，帮助迷失的灵魂，并设计高山之巅上你自己的家。在温暖的篝火旁结交陌生朋友，或与朋友一起在天空中悠闲地钓鱼，分享回忆。欢迎来到你这个奇异的新家。🏠🏔️",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2321960"
+  },
+  {
+    "appid": 4171850,
+    "name": "Trees Hate You",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg?t=1794837394",
+    "short_description": "穿过要命的树林，走过一棵又一棵恶意满满的树。这些树一棵都不能相信，它们会耍你、欺负你、伤害你。你要是能有把斧头就好了……",
+    "is_free": false,
+    "price": "¥ 24.36",
+    "original_price": "¥ 28.00",
+    "discount_percent": 13,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4171850"
+  },
+  {
+    "appid": 5200620,
+    "name": "Dungeonbound",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794892806",
+    "short_description": "Dungeonbound 是一款复古风第一人称自动战斗地下城探索游戏。派出你的战士、法师或盗贼，深入怪物成群的地底，看战斗一回合一回合展开，每次冒险都变得更强。死亡只是带着战利品回家。合成装备，购买升级，再次下潜。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5200620"
+  },
+  {
     "appid": 4444800,
     "name": "服从我吧！最终抉择：路西法",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444800/6a70abcc26b6d0e81f6ad9abb2c4f731b5b5bec0/header_schinese.jpg?t=1794815710",
@@ -14,163 +181,5 @@
     "release_date": "2026 年 11 月 15 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4444800"
-  },
-  {
-    "appid": 3687090,
-    "name": "Dice Hoarder",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg?t=1794596935",
-    "short_description": "《Dice Hoarder》是一款温馨的整理游戏，你将为一家神秘的骰子商店补货。分类整理店内的每一颗骰子，将它们配对组成完整的七件套跑团骰，并揭开这份新工作背后隐藏的秘密。",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3687090"
-  },
-  {
-    "appid": 5295330,
-    "name": "Water TD",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295330/892421d4a87a720a313e036c1db4a67347c9597f/header.jpg?t=1794592839",
-    "short_description": "Water TD 是一款塔防游戏，敌人是一场洪水。几十万滴水涌向你的基地，在你的炮塔前越堆越高，再从每一道缝隙漫过去。射它、烧它、电它，或者把它推回去；关卡之间，再到一棵庞大的技能树上升级你的防御。",
-    "is_free": false,
-    "price": "¥ 29.75",
-    "original_price": "¥ 35.00",
-    "discount_percent": 15,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5295330"
-  },
-  {
-    "appid": 5458210,
-    "name": "How They Built the Pyramids",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/e8525d1cf30149534fbc6b2ee780a2dddc2f328b/header.jpg?t=1794589252",
-    "short_description": "一款支持 1–8 人联机合作的欢乐建造游戏。制作砖块，建造一座巨型金字塔，将小小的工地发展成庞大的自动化生产线。和朋友一起分工合作，招募帮手，用各种越来越离谱的方式把砖块运到金字塔顶端！",
-    "is_free": false,
-    "price": "¥ 15.40",
-    "original_price": "¥ 22.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5458210"
-  },
-  {
-    "appid": 3810510,
-    "name": "DERELIKT",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1794733120",
-    "short_description": "《DERELIKT》是一款叙事驱动的复古第一人称射击游戏，专为PS1时代的科幻恐怖游戏爱好者量身打造。",
-    "is_free": false,
-    "price": "¥ 58.50",
-    "original_price": "¥ 65.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3810510"
-  },
-  {
-    "appid": 5185890,
-    "name": "Zombies Aren't Real",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg?t=1794756301",
-    "short_description": "Zombies Aren't Real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
-    "is_free": false,
-    "price": "¥ 31.50",
-    "original_price": "¥ 35.00",
-    "discount_percent": 10,
-    "genres": [
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5185890"
-  },
-  {
-    "appid": 4045480,
-    "name": "Drawquarium 画个水族馆：鱼你箱绘",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045480/8a3c43d6b9e22312651171161b95500862341998/header_schinese.jpg?t=1794730252",
-    "short_description": "亲手画出鱼儿，打造温馨的小水族箱，还能把它设为动态桌面壁纸！看着自己的画作活过来，喂养和照顾小鱼，收集金色鱼鳞来解锁新装饰。游戏还准备了实用工具，帮你专注学习工作，也能轻松放空。",
-    "is_free": false,
-    "price": "¥ 30.40",
-    "original_price": "¥ 38.00",
-    "discount_percent": 20,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4045480"
-  },
-  {
-    "appid": 4661070,
-    "name": "HANDS OVER",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/972d3e6aa238297a34cc5ea2e7e6a5b923fb057a/header.jpg?t=1794679632",
-    "short_description": "HANDS OVER 是一款 5 人合作恐怖游戏，无害的挑战会变成残酷的运气与胆量考验。虚张声势、坑害朋友、玩点脏招，让自己比所有人都更久留在桌边。",
-    "is_free": false,
-    "price": "¥ 16.15",
-    "original_price": "¥ 19.00",
-    "discount_percent": 15,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "大型多人在线",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 13 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4661070"
-  },
-  {
-    "appid": 4459590,
-    "name": "转运军团 - Slotbound",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794746612",
-    "short_description": "这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4459590"
-  },
-  {
-    "appid": 2784470,
-    "name": "九王 9 Kings",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/b6b82b1b9c888a6b78c95ec3e8c3f84648f3b677/header_schinese.jpg?t=1794803229",
-    "short_description": "一款快节奏的王国建造类Roguelike游戏，数百张独特卡牌，数千种疯狂构筑，突破游戏规则……与九王史诗对决、赢得战斗、扩展帝国，成就众王之王！",
-    "is_free": false,
-    "price": "¥ 29.50",
-    "original_price": "¥ 59.00",
-    "discount_percent": 50,
-    "genres": [
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 12 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2784470"
   }
 ]
