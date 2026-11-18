@@ -1,5 +1,93 @@
 [
   {
+    "appid": 5035380,
+    "name": "BALL PICKER - Clean Up the Golf Yard",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035380/6233578b4e904268403243210908227a46def7c0/header.jpg?t=1794940193",
+    "short_description": "收集数十万颗高尔夫球，赚钱买下新工具，把整座球场收拾得干干净净。《BALL PICKER》是一款主打整理与解压的动手型增量游戏。",
+    "is_free": false,
+    "price": "¥ 20.80",
+    "original_price": "¥ 26.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5035380"
+  },
+  {
+    "appid": 4232910,
+    "name": "Crusader Kings III: Silk \u0026 Silver",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232910/cc86db7eb82ed26c62277261fc21f2892d5a5659/header.jpg?t=1794935063",
+    "short_description": "在《Crusader Kings III》的大型扩展包《Silk \u0026amp; Silver》中缔造你的财富，它带来了全新的商业玩法。以一个无地商人家族建立贸易帝国，或争夺共和国的控制权——在那里，贵人家族施展阴谋、行贿收买、赢得民心，只为执掌权柄。",
+    "is_free": false,
+    "price": "¥ 128.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4232910"
+  },
+  {
+    "appid": 2502780,
+    "name": "护林员之路：国家公园模拟器",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2502780/d12c19a4a747604ac679cc83b5066de50f879b83/header.jpg?t=1794935809",
+    "short_description": "在《Ranger’s Path: National Park Simulator》展开您的护林员旅程。维护步道、协助游客、追踪野生动物、救助受伤或受困的动物，并探索栖息着丰富物种的多样生物群系。",
+    "is_free": false,
+    "price": "¥ 70.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "冒险",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2502780"
+  },
+  {
+    "appid": 2781660,
+    "name": "军团塔防",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781660/855810409ca2e4fb3cb4199a8c8854108f747e15/header_schinese.jpg?t=1794991929",
+    "short_description": "战争的号角回荡在风中，氏族的战火再度灼烧世界！在《军团塔防》点燃RTS与塔防的双线烽火，集结钢铁军团于险峻高地，带领部落杀入血色裂谷迎击敌潮。以古老魔法构筑坚不可摧的战争工事，锻造属于你的战争法则。踏入这场荣耀与破晓的血色试炼！",
+    "is_free": false,
+    "price": "¥ 68.40",
+    "original_price": "¥ 76.00",
+    "discount_percent": 10,
+    "genres": [
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2781660"
+  },
+  {
+    "appid": 3218350,
+    "name": "Melvor Idle 2: A RuneScape Adventure",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
+    "short_description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
+    "is_free": false,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3218350"
+  },
+  {
     "appid": 3188660,
     "name": "Motocross The Game",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188660/header.jpg?t=1794891418",
@@ -37,25 +125,6 @@
     "store_url": "https://store.steampowered.com/app/2483700"
   },
   {
-    "appid": 5070970,
-    "name": "Space Engineers - Warfare 3 Pack",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070970/ad3e804242719b8e02f461609c1198646b6dd4d5/header.jpg?t=1794852651",
-    "short_description": "Warfare 3 Pack 新增了超过 30 个全新方块！这些都是不会影响游戏平衡的外观和装饰方块。",
-    "is_free": false,
-    "price": "¥ 33.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5070970"
-  },
-  {
     "appid": 5066010,
     "name": "群尸来压境",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1794853555",
@@ -91,25 +160,6 @@
     "store_url": "https://store.steampowered.com/app/4178790"
   },
   {
-    "appid": 5037200,
-    "name": "just volleyball",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-    "short_description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s \u0026amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
-    "is_free": false,
-    "price": "¥ 17.36",
-    "original_price": "¥ 28.00",
-    "discount_percent": 38,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "体育"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5037200"
-  },
-  {
     "appid": 2321960,
     "name": "灵渡之境",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
@@ -129,57 +179,5 @@
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2321960"
-  },
-  {
-    "appid": 4171850,
-    "name": "Trees Hate You",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg?t=1794837394",
-    "short_description": "穿过要命的树林，走过一棵又一棵恶意满满的树。这些树一棵都不能相信，它们会耍你、欺负你、伤害你。你要是能有把斧头就好了……",
-    "is_free": false,
-    "price": "¥ 24.36",
-    "original_price": "¥ 28.00",
-    "discount_percent": 13,
-    "genres": [
-      "冒险",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4171850"
-  },
-  {
-    "appid": 5200620,
-    "name": "Dungeonbound",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794892806",
-    "short_description": "Dungeonbound 是一款复古风第一人称自动战斗地下城探索游戏。派出你的战士、法师或盗贼，深入怪物成群的地底，看战斗一回合一回合展开，每次冒险都变得更强。死亡只是带着战利品回家。合成装备，购买升级，再次下潜。",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5200620"
-  },
-  {
-    "appid": 4444800,
-    "name": "服从我吧！最终抉择：路西法",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444800/6a70abcc26b6d0e81f6ad9abb2c4f731b5b5bec0/header_schinese.jpg?t=1794815710",
-    "short_description": "你的身份是审判官，而路西法则是被告人。 在这部暗黑浪漫视觉小说中，你将审问堕落天使，并决定他的命运。 等待你的会是救赎，还是毁灭——亦或是，更加危险的结局？",
-    "is_free": false,
-    "price": "¥ 88.20",
-    "original_price": "¥ 98.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险"
-    ],
-    "release_date": "2026 年 11 月 15 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4444800"
   }
 ]
