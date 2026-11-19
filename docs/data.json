@@ -1,5 +1,99 @@
 [
   {
+    "appid": 4516500,
+    "name": "Marque \u0026 Reprisal",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516500/840fec13304ac1bb4a14582cf1c35afa087fd9a1/header_schinese.jpg?t=1795027735",
+    "short_description": "探索、贸易、捕鱼、捕鲸、殖民、战斗、劫掠、生存。你是一名生活在1522年的船长，在这款带有Roguelike元素的历史航海沙盒模拟游戏中，整个世界都等待你去发现。",
+    "is_free": false,
+    "price": "¥ 50.15",
+    "original_price": "¥ 59.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4516500"
+  },
+  {
+    "appid": 4018330,
+    "name": "Lord of Undead",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/913c420da8c469c8200bd1f4b02a9a6412ccba61/header_alt_assets_0.jpg?t=1795024906",
+    "short_description": "在这款阴暗的RPG中扮演黑暗领主，摧毁山上的城堡。收集灵魂，召唤亡灵军队，亵渎这片广阔开放世界的土地并建立你的基地。",
+    "is_free": false,
+    "price": "¥ 49.00",
+    "original_price": "¥ 70.00",
+    "discount_percent": 30,
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4018330"
+  },
+  {
+    "appid": 4654120,
+    "name": "Graveyard Orbit",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654120/6f353827b265b5caf0720408bcd4fb10d737cfc9/header_schinese.jpg?t=1795024852",
+    "short_description": "一款轻松休闲的太空采矿增量游戏。打造属于你自己的飞船，一块一块地拆解太空残骸，用收获换取零件和升级。",
+    "is_free": false,
+    "price": "¥ 11.40",
+    "original_price": "¥ 19.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4654120"
+  },
+  {
+    "appid": 3739580,
+    "name": "KORRIDOR",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795080957",
+    "short_description": "在这款毫不留情的闸门射击中，挡下潮水般的恶魔大军！砍怪、捡强化、堆出强得离谱的构筑，在重金属的轰鸣中把首领碾成碎片。地下墓穴里，还有无数敌人与秘密等着你……",
+    "is_free": false,
+    "price": "¥ 16.80",
+    "original_price": "¥ 28.00",
+    "discount_percent": 40,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3739580"
+  },
+  {
+    "appid": 4066520,
+    "name": "相信直觉",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795037144",
+    "short_description": "一款多球轮盘轻度 Rogue 游戏。多球齐转，用 100+ 种纪念品与 50 种花式球改写轮盘：添加颜色、改动数字、调整赔率、叠加倍率。你正被困在一档扭曲的电视直播节目里，木偶主持人咧嘴狞笑。达不到他定下的目标，节目就让你提前杀青。",
+    "is_free": false,
+    "price": "¥ 27.20",
+    "original_price": "¥ 34.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 18 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4066520"
+  },
+  {
     "appid": 5035380,
     "name": "BALL PICKER - Clean Up the Golf Yard",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035380/6233578b4e904268403243210908227a46def7c0/header.jpg?t=1794940193",
@@ -16,41 +110,6 @@
     "release_date": "2026 年 11 月 17 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/5035380"
-  },
-  {
-    "appid": 4232910,
-    "name": "Crusader Kings III: Silk \u0026 Silver",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232910/cc86db7eb82ed26c62277261fc21f2892d5a5659/header.jpg?t=1794935063",
-    "short_description": "在《Crusader Kings III》的大型扩展包《Silk \u0026amp; Silver》中缔造你的财富，它带来了全新的商业玩法。以一个无地商人家族建立贸易帝国，或争夺共和国的控制权——在那里，贵人家族施展阴谋、行贿收买、赢得民心，只为执掌权柄。",
-    "is_free": false,
-    "price": "¥ 128.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "角色扮演",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4232910"
-  },
-  {
-    "appid": 2502780,
-    "name": "护林员之路：国家公园模拟器",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2502780/d12c19a4a747604ac679cc83b5066de50f879b83/header.jpg?t=1794935809",
-    "short_description": "在《Ranger’s Path: National Park Simulator》展开您的护林员旅程。维护步道、协助游客、追踪野生动物、救助受伤或受困的动物，并探索栖息着丰富物种的多样生物群系。",
-    "is_free": false,
-    "price": "¥ 70.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "冒险",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2502780"
   },
   {
     "appid": 2781660,
@@ -88,25 +147,6 @@
     "store_url": "https://store.steampowered.com/app/3218350"
   },
   {
-    "appid": 3188660,
-    "name": "Motocross The Game",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188660/header.jpg?t=1794891418",
-    "short_description": "A hyper-realistic motocross simulator built by riders, for riders. Control bike and rider as two separate physics bodies, race online through matchmaking or private lobbies, and chase the clock on live global time-attack leaderboards. Assists let newcomers learn at their own pace.",
-    "is_free": false,
-    "price": "¥ 229.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "竞速",
-      "模拟",
-      "体育",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3188660"
-  },
-  {
     "appid": 2483700,
     "name": "哈玛雷特",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1794882613",
@@ -127,7 +167,7 @@
   {
     "appid": 5066010,
     "name": "群尸来压境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1794853555",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795022963",
     "short_description": "《群尸来压境》是一款放置类自走棋游戏，你将调动大批军队来保卫城堡，抵御不死尸群的来袭。挺过一波波攻击，解锁新战斗单位，获得强大技能，让千军万马占领你的屏幕吧。",
     "is_free": false,
     "price": "¥ 17.50",
@@ -141,43 +181,5 @@
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/5066010"
-  },
-  {
-    "appid": 4178790,
-    "name": "Clicky Islands / 点点岛",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178790/51c8578c121f35cea10bfdbe55ce274b44a4b391/header_schinese.jpg?t=1794902102",
-    "short_description": "《Clicky Islands / 点点岛》是一款融合了放置点击、城市建造与资源管理的独特游戏。你将扮演国王任命的总督，负责探索并开发岛屿，拓展未来的王国。",
-    "is_free": false,
-    "price": "¥ 31.20",
-    "original_price": "¥ 39.00",
-    "discount_percent": 20,
-    "genres": [
-      "休闲",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4178790"
-  },
-  {
-    "appid": 2321960,
-    "name": "灵渡之境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
-    "short_description": "来自《Cozy Grove》的制作团队：在柔和的云彩中滑翔，帮助迷失的灵魂，并设计高山之巅上你自己的家。在温暖的篝火旁结交陌生朋友，或与朋友一起在天空中悠闲地钓鱼，分享回忆。欢迎来到你这个奇异的新家。🏠🏔️",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "大型多人在线",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2321960"
   }
 ]
