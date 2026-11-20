@@ -1,28 +1,61 @@
 [
   {
-    "appid": 4516500,
-    "name": "Marque \u0026 Reprisal",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516500/840fec13304ac1bb4a14582cf1c35afa087fd9a1/header_schinese.jpg?t=1795027735",
-    "short_description": "探索、贸易、捕鱼、捕鲸、殖民、战斗、劫掠、生存。你是一名生活在1522年的船长，在这款带有Roguelike元素的历史航海沙盒模拟游戏中，整个世界都等待你去发现。",
+    "appid": 2292800,
+    "name": "铁匠大师 Blacksmith Master",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/34a6d4070216b4d50e5490533eeec02d06895727/header_schinese.jpg?t=1795111301",
+    "short_description": "在《铁匠大师》中，你可以经营专属于你的中世纪铁匠铺，从开采矿石和宝石，到设计和贩卖成品，所有环节都由你一手包办。锻造武器、盔甲、工具和厨具等各种物品，赚取资金，精进手艺，成为真正的铁匠大师！",
     "is_free": false,
-    "price": "¥ 50.15",
+    "price": "¥ 29.50",
     "original_price": "¥ 59.00",
-    "discount_percent": 15,
+    "discount_percent": 50,
     "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
       "模拟",
       "策略"
     ],
+    "release_date": "2026 年 11 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2292800"
+  },
+  {
+    "appid": 4523120,
+    "name": "Volvy’s Adventure: Reslimed",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4523120/bd01ad0f41f47272b6f1459de015d2494b24a422/header.jpg?t=1795112316",
+    "short_description": "《Volvy’s Adventure: Reslimed》脱胎于某款从未发行的平台游戏重制版，进行了一番超绝震撼的精彩再制。由有史以来最负盛名的游戏吉祥物担纲主角。",
+    "is_free": false,
+    "price": "¥ 16.50",
+    "original_price": "¥ 22.00",
+    "discount_percent": 25,
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "release_date": "2026 年 11 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4523120"
+  },
+  {
+    "appid": 4672030,
+    "name": "Malignus",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672030/2a48de38188ea6095251866d65344f6429399f44/header.jpg?t=1795053829",
+    "short_description": "一款以地下城为舞台的殖民模拟游戏。你就是地下城本身：魔王、爪牙，还有洞穴里的野兽，全都是你。挖掘通道，布置致命陷阱并接好机关，再到地面上劫掠财宝。然后守住你的财宝，抵挡前来夺回的冒险者。支持单人游玩，也支持2～4人联机合作。",
+    "is_free": false,
+    "price": "¥ 70.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略",
+      "抢先体验"
+    ],
     "release_date": "2026 年 11 月 18 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4516500"
+    "store_url": "https://store.steampowered.com/app/4672030"
   },
   {
     "appid": 4018330,
     "name": "Lord of Undead",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/913c420da8c469c8200bd1f4b02a9a6412ccba61/header_alt_assets_0.jpg?t=1795024906",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/913c420da8c469c8200bd1f4b02a9a6412ccba61/header_alt_assets_0.jpg?t=1795106627",
     "short_description": "在这款阴暗的RPG中扮演黑暗领主，摧毁山上的城堡。收集灵魂，召唤亡灵军队，亵渎这片广阔开放世界的土地并建立你的基地。",
     "is_free": false,
     "price": "¥ 49.00",
@@ -40,27 +73,9 @@
     "store_url": "https://store.steampowered.com/app/4018330"
   },
   {
-    "appid": 4654120,
-    "name": "Graveyard Orbit",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654120/6f353827b265b5caf0720408bcd4fb10d737cfc9/header_schinese.jpg?t=1795024852",
-    "short_description": "一款轻松休闲的太空采矿增量游戏。打造属于你自己的飞船，一块一块地拆解太空残骸，用收获换取零件和升级。",
-    "is_free": false,
-    "price": "¥ 11.40",
-    "original_price": "¥ 19.00",
-    "discount_percent": 40,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4654120"
-  },
-  {
     "appid": 3739580,
     "name": "KORRIDOR",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795080957",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795097898",
     "short_description": "在这款毫不留情的闸门射击中，挡下潮水般的恶魔大军！砍怪、捡强化、堆出强得离谱的构筑，在重金属的轰鸣中把首领碾成碎片。地下墓穴里，还有无数敌人与秘密等着你……",
     "is_free": false,
     "price": "¥ 16.80",
@@ -78,7 +93,7 @@
   {
     "appid": 4066520,
     "name": "相信直觉",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795037144",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795120742",
     "short_description": "一款多球轮盘轻度 Rogue 游戏。多球齐转，用 100+ 种纪念品与 50 种花式球改写轮盘：添加颜色、改动数字、调整赔率、叠加倍率。你正被困在一档扭曲的电视直播节目里，木偶主持人咧嘴狞笑。达不到他定下的目标，节目就让你提前杀青。",
     "is_free": false,
     "price": "¥ 27.20",
@@ -96,7 +111,7 @@
   {
     "appid": 5035380,
     "name": "BALL PICKER - Clean Up the Golf Yard",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035380/6233578b4e904268403243210908227a46def7c0/header.jpg?t=1794940193",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035380/6233578b4e904268403243210908227a46def7c0/header.jpg?t=1795088005",
     "short_description": "收集数十万颗高尔夫球，赚钱买下新工具，把整座球场收拾得干干净净。《BALL PICKER》是一款主打整理与解压的动手型增量游戏。",
     "is_free": false,
     "price": "¥ 20.80",
@@ -128,43 +143,6 @@
     "store_url": "https://store.steampowered.com/app/2781660"
   },
   {
-    "appid": 3218350,
-    "name": "Melvor Idle 2: A RuneScape Adventure",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
-    "short_description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3218350"
-  },
-  {
-    "appid": 2483700,
-    "name": "哈玛雷特",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1794882613",
-    "short_description": "《哈玛雷特》是一款剧情向肉鸽卡牌构筑游戏。玩家将在游戏中揭开堕落骑士团的秘密，见证烈火焚城的真相，探寻至亲失踪的谜底。驾驭古老遗物的力量，在湮灭边缘与恶魔对抗，改写末世命运。",
-    "is_free": false,
-    "price": "¥ 39.60",
-    "original_price": "¥ 44.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2483700"
-  },
-  {
     "appid": 5066010,
     "name": "群尸来压境",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795022963",
@@ -181,5 +159,26 @@
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/5066010"
+  },
+  {
+    "appid": 2321960,
+    "name": "灵渡之境",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
+    "short_description": "来自《Cozy Grove》的制作团队：在柔和的云彩中滑翔，帮助迷失的灵魂，并设计高山之巅上你自己的家。在温暖的篝火旁结交陌生朋友，或与朋友一起在天空中悠闲地钓鱼，分享回忆。欢迎来到你这个奇异的新家。🏠🏔️",
+    "is_free": false,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "角色扮演",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2321960"
   }
 ]
