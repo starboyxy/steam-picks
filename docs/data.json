@@ -1,5 +1,76 @@
 [
   {
+    "appid": 4183130,
+    "name": "WE'RE ALL IN!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183130/0917f5c4a4c932dda6acc54eee0060b23cf3488b/header.jpg?t=1795210096",
+    "short_description": "在《WE’RE ALL IN!》中体验小游戏混战！这是一款 1-8 人在线派对游戏，在一系列快节奏游戏和挑战中押注好友，赢得胜利。",
+    "is_free": false,
+    "price": "¥ 17.36",
+    "original_price": "¥ 28.00",
+    "discount_percent": 38,
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4183130"
+  },
+  {
+    "appid": 4535880,
+    "name": "Dice Have No Eyes",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535880/1494094c7c0925ec102011179aab34b3f7283e51/header.jpg?t=1795187456",
+    "short_description": "★ 一款关于运气与贪欲的超现实掷骰子肉鸽 ★ 给骰子喂饺子，收集能颠覆规则的玩意儿，贪心多扔几次，然后输个精光。 或者走个大运，解锁胎儿王，见到神，说不定你就能醒过来。",
+    "is_free": false,
+    "price": "¥ 15.00",
+    "original_price": "¥ 25.00",
+    "discount_percent": 40,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4535880"
+  },
+  {
+    "appid": 4697880,
+    "name": "Rock Band Simulator",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697880/f877bbbcf9f2a65170626d39dce5740814cc3053/header.jpg?t=1795246654",
+    "short_description": "一款第一人称摇滚乐队生活模拟游戏。跟着节奏登台演出，接点见不得光的活儿，赌博、打架，升级装备和车库。把乐队凑齐，再尽量保住自己这副身子。不管出了什么事，晚上九点，你们还有场演出。",
+    "is_free": false,
+    "price": "¥ 44.00",
+    "original_price": "¥ 55.00",
+    "discount_percent": 20,
+    "genres": [
+      "动作",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 20 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4697880"
+  },
+  {
+    "appid": 5196330,
+    "name": "IT THINKS! - Build Your Own GPU",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/792d0e1bcce8bc8a03f6419bfaf00f388ff83b08/header.jpg?t=1795166083",
+    "short_description": "设计驱动 AI 的芯片。从一个逻辑门开始，亲手搭出一台计算机：连接电路，把设计封装成可复用芯片，编写小型 kernel，并将架构扩展为真正可以运行的 GPU。",
+    "is_free": false,
+    "price": "¥ 43.20",
+    "original_price": "¥ 54.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 19 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5196330"
+  },
+  {
     "appid": 2292800,
     "name": "铁匠大师 Blacksmith Master",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/34a6d4070216b4d50e5490533eeec02d06895727/header_schinese.jpg?t=1795111301",
@@ -15,23 +86,6 @@
     "release_date": "2026 年 11 月 19 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2292800"
-  },
-  {
-    "appid": 4523120,
-    "name": "Volvy’s Adventure: Reslimed",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4523120/bd01ad0f41f47272b6f1459de015d2494b24a422/header.jpg?t=1795112316",
-    "short_description": "《Volvy’s Adventure: Reslimed》脱胎于某款从未发行的平台游戏重制版，进行了一番超绝震撼的精彩再制。由有史以来最负盛名的游戏吉祥物担纲主角。",
-    "is_free": false,
-    "price": "¥ 16.50",
-    "original_price": "¥ 22.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "冒险"
-    ],
-    "release_date": "2026 年 11 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4523120"
   },
   {
     "appid": 4672030,
@@ -73,24 +127,6 @@
     "store_url": "https://store.steampowered.com/app/4018330"
   },
   {
-    "appid": 3739580,
-    "name": "KORRIDOR",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795097898",
-    "short_description": "在这款毫不留情的闸门射击中，挡下潮水般的恶魔大军！砍怪、捡强化、堆出强得离谱的构筑，在重金属的轰鸣中把首领碾成碎片。地下墓穴里，还有无数敌人与秘密等着你……",
-    "is_free": false,
-    "price": "¥ 16.80",
-    "original_price": "¥ 28.00",
-    "discount_percent": 40,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3739580"
-  },
-  {
     "appid": 4066520,
     "name": "相信直觉",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795120742",
@@ -127,58 +163,21 @@
     "store_url": "https://store.steampowered.com/app/5035380"
   },
   {
-    "appid": 2781660,
-    "name": "军团塔防",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781660/855810409ca2e4fb3cb4199a8c8854108f747e15/header_schinese.jpg?t=1794991929",
-    "short_description": "战争的号角回荡在风中，氏族的战火再度灼烧世界！在《军团塔防》点燃RTS与塔防的双线烽火，集结钢铁军团于险峻高地，带领部落杀入血色裂谷迎击敌潮。以古老魔法构筑坚不可摧的战争工事，锻造属于你的战争法则。踏入这场荣耀与破晓的血色试炼！",
+    "appid": 2483700,
+    "name": "哈玛雷特",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1794882613",
+    "short_description": "《哈玛雷特》是一款剧情向肉鸽卡牌构筑游戏。玩家将在游戏中揭开堕落骑士团的秘密，见证烈火焚城的真相，探寻至亲失踪的谜底。驾驭古老遗物的力量，在湮灭边缘与恶魔对抗，改写末世命运。",
     "is_free": false,
-    "price": "¥ 68.40",
-    "original_price": "¥ 76.00",
+    "price": "¥ 39.60",
+    "original_price": "¥ 44.00",
     "discount_percent": 10,
     "genres": [
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2781660"
-  },
-  {
-    "appid": 5066010,
-    "name": "群尸来压境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795022963",
-    "short_description": "《群尸来压境》是一款放置类自走棋游戏，你将调动大批军队来保卫城堡，抵御不死尸群的来袭。挺过一波波攻击，解锁新战斗单位，获得强大技能，让千军万马占领你的屏幕吧。",
-    "is_free": false,
-    "price": "¥ 17.50",
-    "original_price": "¥ 25.00",
-    "discount_percent": 30,
-    "genres": [
-      "休闲",
       "独立",
-      "角色扮演"
+      "策略",
+      "抢先体验"
     ],
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5066010"
-  },
-  {
-    "appid": 2321960,
-    "name": "灵渡之境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
-    "short_description": "来自《Cozy Grove》的制作团队：在柔和的云彩中滑翔，帮助迷失的灵魂，并设计高山之巅上你自己的家。在温暖的篝火旁结交陌生朋友，或与朋友一起在天空中悠闲地钓鱼，分享回忆。欢迎来到你这个奇异的新家。🏠🏔️",
-    "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立",
-      "大型多人在线",
-      "角色扮演",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2321960"
+    "store_url": "https://store.steampowered.com/app/2483700"
   }
 ]
