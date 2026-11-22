@@ -17,27 +17,9 @@
     "store_url": "https://store.steampowered.com/app/4183130"
   },
   {
-    "appid": 4535880,
-    "name": "Dice Have No Eyes",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535880/1494094c7c0925ec102011179aab34b3f7283e51/header.jpg?t=1795187456",
-    "short_description": "★ 一款关于运气与贪欲的超现实掷骰子肉鸽 ★ 给骰子喂饺子，收集能颠覆规则的玩意儿，贪心多扔几次，然后输个精光。 或者走个大运，解锁胎儿王，见到神，说不定你就能醒过来。",
-    "is_free": false,
-    "price": "¥ 15.00",
-    "original_price": "¥ 25.00",
-    "discount_percent": 40,
-    "genres": [
-      "休闲",
-      "独立",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4535880"
-  },
-  {
     "appid": 4697880,
     "name": "Rock Band Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697880/f877bbbcf9f2a65170626d39dce5740814cc3053/header.jpg?t=1795246654",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697880/f877bbbcf9f2a65170626d39dce5740814cc3053/header.jpg?t=1795338167",
     "short_description": "一款第一人称摇滚乐队生活模拟游戏。跟着节奏登台演出，接点见不得光的活儿，赌博、打架，升级装备和车库。把乐队凑齐，再尽量保住自己这副身子。不管出了什么事，晚上九点，你们还有场演出。",
     "is_free": false,
     "price": "¥ 44.00",
@@ -51,41 +33,6 @@
     "release_date": "2026 年 11 月 20 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4697880"
-  },
-  {
-    "appid": 5196330,
-    "name": "IT THINKS! - Build Your Own GPU",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/792d0e1bcce8bc8a03f6419bfaf00f388ff83b08/header.jpg?t=1795166083",
-    "short_description": "设计驱动 AI 的芯片。从一个逻辑门开始，亲手搭出一台计算机：连接电路，把设计封装成可复用芯片，编写小型 kernel，并将架构扩展为真正可以运行的 GPU。",
-    "is_free": false,
-    "price": "¥ 43.20",
-    "original_price": "¥ 54.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5196330"
-  },
-  {
-    "appid": 2292800,
-    "name": "铁匠大师 Blacksmith Master",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/34a6d4070216b4d50e5490533eeec02d06895727/header_schinese.jpg?t=1795111301",
-    "short_description": "在《铁匠大师》中，你可以经营专属于你的中世纪铁匠铺，从开采矿石和宝石，到设计和贩卖成品，所有环节都由你一手包办。锻造武器、盔甲、工具和厨具等各种物品，赚取资金，精进手艺，成为真正的铁匠大师！",
-    "is_free": false,
-    "price": "¥ 29.50",
-    "original_price": "¥ 59.00",
-    "discount_percent": 50,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 19 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2292800"
   },
   {
     "appid": 4672030,
@@ -163,6 +110,25 @@
     "store_url": "https://store.steampowered.com/app/5035380"
   },
   {
+    "appid": 3218350,
+    "name": "Melvor Idle 2: A RuneScape Adventure",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
+    "short_description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
+    "is_free": false,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 17 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3218350"
+  },
+  {
     "appid": 2483700,
     "name": "哈玛雷特",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1794882613",
@@ -179,5 +145,42 @@
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/2483700"
+  },
+  {
+    "appid": 5066010,
+    "name": "群尸来压境",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795022963",
+    "short_description": "《群尸来压境》是一款放置类自走棋游戏，你将调动大批军队来保卫城堡，抵御不死尸群的来袭。挺过一波波攻击，解锁新战斗单位，获得强大技能，让千军万马占领你的屏幕吧。",
+    "is_free": false,
+    "price": "¥ 17.50",
+    "original_price": "¥ 25.00",
+    "discount_percent": 30,
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5066010"
+  },
+  {
+    "appid": 5037200,
+    "name": "just volleyball",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+    "short_description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s \u0026amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+    "is_free": false,
+    "price": "¥ 17.36",
+    "original_price": "¥ 28.00",
+    "discount_percent": 38,
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "体育"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5037200"
   }
 ]
