@@ -54,26 +54,6 @@
     "store_url": "https://store.steampowered.com/app/4672030"
   },
   {
-    "appid": 4018330,
-    "name": "Lord of Undead",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/913c420da8c469c8200bd1f4b02a9a6412ccba61/header_alt_assets_0.jpg?t=1795106627",
-    "short_description": "在这款阴暗的RPG中扮演黑暗领主，摧毁山上的城堡。收集灵魂，召唤亡灵军队，亵渎这片广阔开放世界的土地并建立你的基地。",
-    "is_free": false,
-    "price": "¥ 49.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4018330"
-  },
-  {
     "appid": 4066520,
     "name": "相信直觉",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795120742",
@@ -110,28 +90,9 @@
     "store_url": "https://store.steampowered.com/app/5035380"
   },
   {
-    "appid": 3218350,
-    "name": "Melvor Idle 2: A RuneScape Adventure",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
-    "short_description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3218350"
-  },
-  {
     "appid": 2483700,
     "name": "哈玛雷特",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1794882613",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1795407598",
     "short_description": "《哈玛雷特》是一款剧情向肉鸽卡牌构筑游戏。玩家将在游戏中揭开堕落骑士团的秘密，见证烈火焚城的真相，探寻至亲失踪的谜底。驾驭古老遗物的力量，在湮灭边缘与恶魔对抗，改写末世命运。",
     "is_free": false,
     "price": "¥ 39.60",
@@ -149,7 +110,7 @@
   {
     "appid": 5066010,
     "name": "群尸来压境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795022963",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795351117",
     "short_description": "《群尸来压境》是一款放置类自走棋游戏，你将调动大批军队来保卫城堡，抵御不死尸群的来袭。挺过一波波攻击，解锁新战斗单位，获得强大技能，让千军万马占领你的屏幕吧。",
     "is_free": false,
     "price": "¥ 17.50",
@@ -165,22 +126,60 @@
     "store_url": "https://store.steampowered.com/app/5066010"
   },
   {
-    "appid": 5037200,
-    "name": "just volleyball",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-    "short_description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s \u0026amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+    "appid": 2321960,
+    "name": "灵渡之境",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
+    "short_description": "来自《Cozy Grove》的制作团队：在柔和的云彩中滑翔，帮助迷失的灵魂，并设计高山之巅上你自己的家。在温暖的篝火旁结交陌生朋友，或与朋友一起在天空中悠闲地钓鱼，分享回忆。欢迎来到你这个奇异的新家。🏠🏔️",
     "is_free": false,
-    "price": "¥ 17.36",
-    "original_price": "¥ 28.00",
-    "discount_percent": 38,
+    "price": "¥ 61.20",
+    "original_price": "¥ 68.00",
+    "discount_percent": 10,
     "genres": [
-      "动作",
+      "冒险",
       "休闲",
       "独立",
-      "体育"
+      "大型多人在线",
+      "角色扮演",
+      "模拟"
     ],
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5037200"
+    "store_url": "https://store.steampowered.com/app/2321960"
+  },
+  {
+    "appid": 4171850,
+    "name": "Trees Hate You",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg?t=1794837394",
+    "short_description": "穿过要命的树林，走过一棵又一棵恶意满满的树。这些树一棵都不能相信，它们会耍你、欺负你、伤害你。你要是能有把斧头就好了……",
+    "is_free": false,
+    "price": "¥ 24.36",
+    "original_price": "¥ 28.00",
+    "discount_percent": 13,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4171850"
+  },
+  {
+    "appid": 5200620,
+    "name": "Dungeonbound",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794984507",
+    "short_description": "Dungeonbound 是一款复古风第一人称自动战斗地下城探索游戏。派出你的战士、法师或盗贼，深入怪物成群的地底，看战斗一回合一回合展开，每次冒险都变得更强。死亡只是带着战利品回家。合成装备，购买升级，再次下潜。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5200620"
   }
 ]
