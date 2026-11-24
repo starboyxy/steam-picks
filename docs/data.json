@@ -1,20 +1,36 @@
 [
   {
-    "appid": 4183130,
-    "name": "WE'RE ALL IN!",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183130/0917f5c4a4c932dda6acc54eee0060b23cf3488b/header.jpg?t=1795210096",
-    "short_description": "在《WE’RE ALL IN!》中体验小游戏混战！这是一款 1-8 人在线派对游戏，在一系列快节奏游戏和挑战中押注好友，赢得胜利。",
+    "appid": 4224490,
+    "name": "Internet Cafe 98",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/eddf44416d47a639d8915d921d7f02433917acd5/header.jpg?t=1795448968",
+    "short_description": "从一台垃圾 PC 起步，在 1998 年打造一家座无虚席的网吧。在这款复古增量经营游戏中接待顾客、升级硬件和网络，并研发新技术。",
     "is_free": false,
-    "price": "¥ 17.36",
-    "original_price": "¥ 28.00",
-    "discount_percent": 38,
+    "price": "¥ 26.10",
+    "original_price": "¥ 29.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲"
+    ],
+    "release_date": "2026 年 11 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4224490"
+  },
+  {
+    "appid": 4241440,
+    "name": "Stellaris: Willpower",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241440/fb25001895de76e36e82311eda81104b10e2c507/header.jpg?t=1795442236",
+    "short_description": "给星系以信仰 在广阔无垠的宇宙中，理念比超光速引擎能飞得更远。在Stellaris: Willpower中，以演化的意识形态团结星系文明，或是面对他们叛乱的怒火。 星系打开了信仰的心门。你要教导些什么？",
+    "is_free": false,
+    "price": "¥ 108.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "模拟",
       "策略"
     ],
-    "release_date": "2026 年 11 月 20 日",
+    "release_date": "2026 年 11 月 23 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4183130"
+    "store_url": "https://store.steampowered.com/app/4241440"
   },
   {
     "appid": 4697880,
@@ -35,28 +51,29 @@
     "store_url": "https://store.steampowered.com/app/4697880"
   },
   {
-    "appid": 4672030,
-    "name": "Malignus",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672030/2a48de38188ea6095251866d65344f6429399f44/header.jpg?t=1795053829",
-    "short_description": "一款以地下城为舞台的殖民模拟游戏。你就是地下城本身：魔王、爪牙，还有洞穴里的野兽，全都是你。挖掘通道，布置致命陷阱并接好机关，再到地面上劫掠财宝。然后守住你的财宝，抵挡前来夺回的冒险者。支持单人游玩，也支持2～4人联机合作。",
+    "appid": 4018330,
+    "name": "Lord of Undead",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/913c420da8c469c8200bd1f4b02a9a6412ccba61/header_alt_assets_0.jpg?t=1795106627",
+    "short_description": "在这款阴暗的RPG中扮演黑暗领主，摧毁山上的城堡。收集灵魂，召唤亡灵军队，亵渎这片广阔开放世界的土地并建立你的基地。",
     "is_free": false,
-    "price": "¥ 70.00",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 49.00",
+    "original_price": "¥ 70.00",
+    "discount_percent": 30,
     "genres": [
+      "动作",
+      "冒险",
       "独立",
-      "模拟",
-      "策略",
+      "角色扮演",
       "抢先体验"
     ],
     "release_date": "2026 年 11 月 18 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4672030"
+    "store_url": "https://store.steampowered.com/app/4018330"
   },
   {
     "appid": 4066520,
     "name": "相信直觉",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795120742",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795466733",
     "short_description": "一款多球轮盘轻度 Rogue 游戏。多球齐转，用 100+ 种纪念品与 50 种花式球改写轮盘：添加颜色、改动数字、调整赔率、叠加倍率。你正被困在一档扭曲的电视直播节目里，木偶主持人咧嘴狞笑。达不到他定下的目标，节目就让你提前杀青。",
     "is_free": false,
     "price": "¥ 27.20",
@@ -72,40 +89,23 @@
     "store_url": "https://store.steampowered.com/app/4066520"
   },
   {
-    "appid": 5035380,
-    "name": "BALL PICKER - Clean Up the Golf Yard",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035380/6233578b4e904268403243210908227a46def7c0/header.jpg?t=1795088005",
-    "short_description": "收集数十万颗高尔夫球，赚钱买下新工具，把整座球场收拾得干干净净。《BALL PICKER》是一款主打整理与解压的动手型增量游戏。",
+    "appid": 3218350,
+    "name": "Melvor Idle 2: A RuneScape Adventure",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
+    "short_description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
     "is_free": false,
-    "price": "¥ 20.80",
-    "original_price": "¥ 26.00",
-    "discount_percent": 20,
+    "price": "¥ 52.20",
+    "original_price": "¥ 58.00",
+    "discount_percent": 10,
     "genres": [
       "休闲",
       "独立",
-      "模拟"
+      "角色扮演",
+      "抢先体验"
     ],
     "release_date": "2026 年 11 月 17 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5035380"
-  },
-  {
-    "appid": 2483700,
-    "name": "哈玛雷特",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/de93db5fcf389b411a51371f227f6b229777bf58/header_schinese.jpg?t=1795407598",
-    "short_description": "《哈玛雷特》是一款剧情向肉鸽卡牌构筑游戏。玩家将在游戏中揭开堕落骑士团的秘密，见证烈火焚城的真相，探寻至亲失踪的谜底。驾驭古老遗物的力量，在湮灭边缘与恶魔对抗，改写末世命运。",
-    "is_free": false,
-    "price": "¥ 39.60",
-    "original_price": "¥ 44.00",
-    "discount_percent": 10,
-    "genres": [
-      "独立",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2483700"
+    "store_url": "https://store.steampowered.com/app/3218350"
   },
   {
     "appid": 5066010,
@@ -126,25 +126,23 @@
     "store_url": "https://store.steampowered.com/app/5066010"
   },
   {
-    "appid": 2321960,
-    "name": "灵渡之境",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/fe36f174244d23cd7c13642354c1ed47a135b1b3/header_schinese.jpg?t=1794892094",
-    "short_description": "来自《Cozy Grove》的制作团队：在柔和的云彩中滑翔，帮助迷失的灵魂，并设计高山之巅上你自己的家。在温暖的篝火旁结交陌生朋友，或与朋友一起在天空中悠闲地钓鱼，分享回忆。欢迎来到你这个奇异的新家。🏠🏔️",
+    "appid": 5037200,
+    "name": "just volleyball",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+    "short_description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s \u0026amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
     "is_free": false,
-    "price": "¥ 61.20",
-    "original_price": "¥ 68.00",
-    "discount_percent": 10,
+    "price": "¥ 17.36",
+    "original_price": "¥ 28.00",
+    "discount_percent": 38,
     "genres": [
-      "冒险",
+      "动作",
       "休闲",
       "独立",
-      "大型多人在线",
-      "角色扮演",
-      "模拟"
+      "体育"
     ],
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2321960"
+    "store_url": "https://store.steampowered.com/app/5037200"
   },
   {
     "appid": 4171850,
@@ -152,9 +150,9 @@
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg?t=1794837394",
     "short_description": "穿过要命的树林，走过一棵又一棵恶意满满的树。这些树一棵都不能相信，它们会耍你、欺负你、伤害你。你要是能有把斧头就好了……",
     "is_free": false,
-    "price": "¥ 24.36",
-    "original_price": "¥ 28.00",
-    "discount_percent": 13,
+    "price": "¥ 28.00",
+    "original_price": "",
+    "discount_percent": 0,
     "genres": [
       "冒险",
       "独立"
@@ -166,7 +164,7 @@
   {
     "appid": 5200620,
     "name": "Dungeonbound",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794984507",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1795501914",
     "short_description": "Dungeonbound 是一款复古风第一人称自动战斗地下城探索游戏。派出你的战士、法师或盗贼，深入怪物成群的地底，看战斗一回合一回合展开，每次冒险都变得更强。死亡只是带着战利品回家。合成装备，购买升级，再次下潜。",
     "is_free": false,
     "price": "¥ 37.80",
