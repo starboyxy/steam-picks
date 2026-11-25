@@ -1,5 +1,109 @@
 [
   {
+    "appid": 5391260,
+    "name": "Fish It!: Sort the Aquarium Shop",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391260/88ac954ab61923bdfd26abe56a7f4425ff88b330/header.jpg?t=1795545602",
+    "short_description": "Fish It! 是一款舒适的收纳游戏，将 4,100 多条鱼放回水族箱，填满水缸，解锁技能，将混乱店铺打造成整洁的天堂。",
+    "is_free": false,
+    "price": "¥ 22.10",
+    "original_price": "¥ 26.00",
+    "discount_percent": 15,
+    "genres": [
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5391260"
+  },
+  {
+    "appid": 5472080,
+    "name": "SHRED A BILLION",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/4584864fda356b4d391b69cc2c0ea73bc286db3d/header.jpg?t=1795542942",
+    "short_description": "SHRED A BILLION是一款关于钱山的第一人称增量游戏！徒手抓钞票，用水桶舀钱，不断升级，把十亿美元统统喂进碎钞机。只剩9亿9999万9999张钞票了！",
+    "is_free": false,
+    "price": "¥ 20.00",
+    "original_price": "¥ 25.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5472080"
+  },
+  {
+    "appid": 5527800,
+    "name": "No Asteroids",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg?t=1795542925",
+    "short_description": "90 天后，一颗小行星将撞上地球。政府招标，来投标的只有一个矿工，自带矿镐。他分文不取，说小行星会自己买单。以第一人称挖掉 500 万立方米，卖掉矿石，给飞船买舰炮，让它们在你挖矿时一起开火。可单人游玩，也支持最多 8 人在线合作。",
+    "is_free": false,
+    "price": "¥ 22.40",
+    "original_price": "¥ 28.00",
+    "discount_percent": 20,
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5527800"
+  },
+  {
+    "appid": 5510420,
+    "name": "Dead by Daylight: Terrifier",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510420/05a33b4c294b9f183c6962898950b97fb460beb7/header.jpg?t=1795548655",
+    "short_description": "一场恐怖喜剧在迷雾中开启。《黎明杀机：断魂小丑》将经典恐怖角色断魂小丑、西耶娜·肖和原创地图哈茨霍恩购物中心带入迷雾。购买此DLC可解锁亚特脆脆麦片护符和小丑咖啡馆横幅。",
+    "is_free": false,
+    "price": "¥ 32.78",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作"
+    ],
+    "release_date": "2026 年 11 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5510420"
+  },
+  {
+    "appid": 2861730,
+    "name": "Food Devils",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861730/047b5361528274bedb4b427ae70d26cfff624671/header.jpg?t=1795534478",
+    "short_description": "你是某个后启示录世界中的最后一位厨师。以猎奇食物吸引冒险者，引导他们与食之恶魔签订契约，为采集危险食材组织探险！自定义你的角色，建造完美的餐馆，并在轻肉鸽战术RPG的战斗中仔细构思你的每一步行动。",
+    "is_free": false,
+    "price": "¥ 63.00",
+    "original_price": "¥ 70.00",
+    "discount_percent": 10,
+    "genres": [
+      "角色扮演",
+      "策略",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 24 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/2861730"
+  },
+  {
+    "appid": 4609470,
+    "name": "Your party died again",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609470/daf74ba0b99d7cbc0a6698d5a53ca65ba2a8b11d/header.jpg?t=1795501805",
+    "short_description": "在这款递增式RPG中与邪恶的怪物和恶魔战斗。收集战利品，解锁升级，招募队员，消灭魔王。战略性地使用技能，或开启自动施放，尽情享受冒险之旅。",
+    "is_free": false,
+    "price": "¥ 19.80",
+    "original_price": "¥ 22.00",
+    "discount_percent": 10,
+    "genres": [
+      "动作",
+      "休闲",
+      "角色扮演"
+    ],
+    "release_date": "2026 年 11 月 23 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4609470"
+  },
+  {
     "appid": 4224490,
     "name": "Internet Cafe 98",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/eddf44416d47a639d8915d921d7f02433917acd5/header.jpg?t=1795448968",
@@ -14,23 +118,6 @@
     "release_date": "2026 年 11 月 23 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4224490"
-  },
-  {
-    "appid": 4241440,
-    "name": "Stellaris: Willpower",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241440/fb25001895de76e36e82311eda81104b10e2c507/header.jpg?t=1795442236",
-    "short_description": "给星系以信仰 在广阔无垠的宇宙中，理念比超光速引擎能飞得更远。在Stellaris: Willpower中，以演化的意识形态团结星系文明，或是面对他们叛乱的怒火。 星系打开了信仰的心门。你要教导些什么？",
-    "is_free": false,
-    "price": "¥ 108.00",
-    "original_price": "",
-    "discount_percent": 0,
-    "genres": [
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4241440"
   },
   {
     "appid": 4697880,
@@ -51,63 +138,6 @@
     "store_url": "https://store.steampowered.com/app/4697880"
   },
   {
-    "appid": 4018330,
-    "name": "Lord of Undead",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/913c420da8c469c8200bd1f4b02a9a6412ccba61/header_alt_assets_0.jpg?t=1795106627",
-    "short_description": "在这款阴暗的RPG中扮演黑暗领主，摧毁山上的城堡。收集灵魂，召唤亡灵军队，亵渎这片广阔开放世界的土地并建立你的基地。",
-    "is_free": false,
-    "price": "¥ 49.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 30,
-    "genres": [
-      "动作",
-      "冒险",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4018330"
-  },
-  {
-    "appid": 4066520,
-    "name": "相信直觉",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/2e8634d66b9935091f0ef3e44b5d1921e79532bb/header.jpg?t=1795466733",
-    "short_description": "一款多球轮盘轻度 Rogue 游戏。多球齐转，用 100+ 种纪念品与 50 种花式球改写轮盘：添加颜色、改动数字、调整赔率、叠加倍率。你正被困在一档扭曲的电视直播节目里，木偶主持人咧嘴狞笑。达不到他定下的目标，节目就让你提前杀青。",
-    "is_free": false,
-    "price": "¥ 27.20",
-    "original_price": "¥ 34.00",
-    "discount_percent": 20,
-    "genres": [
-      "独立",
-      "模拟",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 18 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4066520"
-  },
-  {
-    "appid": 3218350,
-    "name": "Melvor Idle 2: A RuneScape Adventure",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
-    "short_description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
-    "is_free": false,
-    "price": "¥ 52.20",
-    "original_price": "¥ 58.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲",
-      "独立",
-      "角色扮演",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 17 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3218350"
-  },
-  {
     "appid": 5066010,
     "name": "群尸来压境",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795351117",
@@ -126,25 +156,6 @@
     "store_url": "https://store.steampowered.com/app/5066010"
   },
   {
-    "appid": 5037200,
-    "name": "just volleyball",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-    "short_description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s \u0026amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
-    "is_free": false,
-    "price": "¥ 17.36",
-    "original_price": "¥ 28.00",
-    "discount_percent": 38,
-    "genres": [
-      "动作",
-      "休闲",
-      "独立",
-      "体育"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5037200"
-  },
-  {
     "appid": 4171850,
     "name": "Trees Hate You",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg?t=1794837394",
@@ -160,24 +171,5 @@
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4171850"
-  },
-  {
-    "appid": 5200620,
-    "name": "Dungeonbound",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1795501914",
-    "short_description": "Dungeonbound 是一款复古风第一人称自动战斗地下城探索游戏。派出你的战士、法师或盗贼，深入怪物成群的地底，看战斗一回合一回合展开，每次冒险都变得更强。死亡只是带着战利品回家。合成装备，购买升级，再次下潜。",
-    "is_free": false,
-    "price": "¥ 37.80",
-    "original_price": "¥ 42.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "独立",
-      "角色扮演",
-      "策略"
-    ],
-    "release_date": "2026 年 11 月 16 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5200620"
   }
 ]
