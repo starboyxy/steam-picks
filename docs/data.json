@@ -1,5 +1,41 @@
 [
   {
+    "appid": 4933500,
+    "name": "Me and You",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1795615744",
+    "short_description": "《Me and You》是一款合作解谜游戏，灵感来自广受好评的《Baba Is You》。 创造、改变并打破每个关卡的规则，一起解开它。",
+    "is_free": false,
+    "price": "¥ 29.75",
+    "original_price": "¥ 35.00",
+    "discount_percent": 15,
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/4933500"
+  },
+  {
+    "appid": 5057800,
+    "name": "When Chests Rain Tons of Loot",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057800/b5d39447154225bb636567d630130f43ab161c7c/header.jpg?t=1795645131",
+    "short_description": "一款增量刷宝游戏：把英雄空投进铺天盖地的史莱姆群，英雄负责打怪，你负责捡宝，把宝箱塞得满满当当。时间一到，宝箱轰然爆开，所有宝物哗啦啦撒回场上！用庞大的技能树强化军队，再来一局，捞得更多！",
+    "is_free": false,
+    "price": "¥ 22.50",
+    "original_price": "¥ 25.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 25 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5057800"
+  },
+  {
     "appid": 5391260,
     "name": "Fish It!: Sort the Aquarium Shop",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391260/88ac954ab61923bdfd26abe56a7f4425ff88b330/header.jpg?t=1795545602",
@@ -52,90 +88,20 @@
     "store_url": "https://store.steampowered.com/app/5527800"
   },
   {
-    "appid": 5510420,
-    "name": "Dead by Daylight: Terrifier",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510420/05a33b4c294b9f183c6962898950b97fb460beb7/header.jpg?t=1795548655",
-    "short_description": "一场恐怖喜剧在迷雾中开启。《黎明杀机：断魂小丑》将经典恐怖角色断魂小丑、西耶娜·肖和原创地图哈茨霍恩购物中心带入迷雾。购买此DLC可解锁亚特脆脆麦片护符和小丑咖啡馆横幅。",
+    "appid": 4990940,
+    "name": "PC Store Together",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990940/ed4ad9ac6b819d4ea1a94ea3cbfdc919713ab0da/header.jpg?t=1795654457",
+    "short_description": "和朋友一起经营电脑商店！组装和维修电脑，诊断故障，补充货架库存，制定价格，销售硬件和定制电脑，服务顾客，管理订单，升级店铺，解锁新配件，一起发展你们的生意。",
     "is_free": false,
-    "price": "¥ 32.78",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 38.25",
+    "original_price": "¥ 45.00",
+    "discount_percent": 15,
     "genres": [
-      "动作"
+      "独立"
     ],
     "release_date": "2026 年 11 月 24 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5510420"
-  },
-  {
-    "appid": 2861730,
-    "name": "Food Devils",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861730/047b5361528274bedb4b427ae70d26cfff624671/header.jpg?t=1795534478",
-    "short_description": "你是某个后启示录世界中的最后一位厨师。以猎奇食物吸引冒险者，引导他们与食之恶魔签订契约，为采集危险食材组织探险！自定义你的角色，建造完美的餐馆，并在轻肉鸽战术RPG的战斗中仔细构思你的每一步行动。",
-    "is_free": false,
-    "price": "¥ 63.00",
-    "original_price": "¥ 70.00",
-    "discount_percent": 10,
-    "genres": [
-      "角色扮演",
-      "策略",
-      "抢先体验"
-    ],
-    "release_date": "2026 年 11 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/2861730"
-  },
-  {
-    "appid": 4609470,
-    "name": "Your party died again",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609470/daf74ba0b99d7cbc0a6698d5a53ca65ba2a8b11d/header.jpg?t=1795501805",
-    "short_description": "在这款递增式RPG中与邪恶的怪物和恶魔战斗。收集战利品，解锁升级，招募队员，消灭魔王。战略性地使用技能，或开启自动施放，尽情享受冒险之旅。",
-    "is_free": false,
-    "price": "¥ 19.80",
-    "original_price": "¥ 22.00",
-    "discount_percent": 10,
-    "genres": [
-      "动作",
-      "休闲",
-      "角色扮演"
-    ],
-    "release_date": "2026 年 11 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4609470"
-  },
-  {
-    "appid": 4224490,
-    "name": "Internet Cafe 98",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/eddf44416d47a639d8915d921d7f02433917acd5/header.jpg?t=1795448968",
-    "short_description": "从一台垃圾 PC 起步，在 1998 年打造一家座无虚席的网吧。在这款复古增量经营游戏中接待顾客、升级硬件和网络，并研发新技术。",
-    "is_free": false,
-    "price": "¥ 26.10",
-    "original_price": "¥ 29.00",
-    "discount_percent": 10,
-    "genres": [
-      "休闲"
-    ],
-    "release_date": "2026 年 11 月 23 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4224490"
-  },
-  {
-    "appid": 4697880,
-    "name": "Rock Band Simulator",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697880/f877bbbcf9f2a65170626d39dce5740814cc3053/header.jpg?t=1795338167",
-    "short_description": "一款第一人称摇滚乐队生活模拟游戏。跟着节奏登台演出，接点见不得光的活儿，赌博、打架，升级装备和车库。把乐队凑齐，再尽量保住自己这副身子。不管出了什么事，晚上九点，你们还有场演出。",
-    "is_free": false,
-    "price": "¥ 44.00",
-    "original_price": "¥ 55.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 20 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4697880"
+    "store_url": "https://store.steampowered.com/app/4990940"
   },
   {
     "appid": 5066010,
@@ -171,5 +137,41 @@
     "release_date": "2026 年 11 月 16 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4171850"
+  },
+  {
+    "appid": 5200620,
+    "name": "Dungeonbound",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1795501914",
+    "short_description": "Dungeonbound 是一款复古风第一人称自动战斗地下城探索游戏。派出你的战士、法师或盗贼，深入怪物成群的地底，看战斗一回合一回合展开，每次冒险都变得更强。死亡只是带着战利品回家。合成装备，购买升级，再次下潜。",
+    "is_free": false,
+    "price": "¥ 37.80",
+    "original_price": "¥ 42.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略"
+    ],
+    "release_date": "2026 年 11 月 16 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5200620"
+  },
+  {
+    "appid": 3687090,
+    "name": "Dice Hoarder",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg?t=1794973412",
+    "short_description": "《Dice Hoarder》是一款温馨的整理游戏，你将为一家神秘的骰子商店补货。分类整理店内的每一颗骰子，将它们配对组成完整的七件套跑团骰，并揭开这份新工作背后隐藏的秘密。",
+    "is_free": false,
+    "price": "¥ 22.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 13 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3687090"
   }
 ]
