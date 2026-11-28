@@ -1,5 +1,74 @@
 [
   {
+    "appid": 5165390,
+    "name": "HOOD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165390/791314f1b6f027b35f649b453ce93cf249e93bd5/header.jpg?t=1795803273",
+    "short_description": "当地帮派害你丢了那份破工作。在这座充满无限可能的都市丛林里，你的生存本能瞬间觉醒——为了保住头顶这片遮风挡雨的屋檐，单枪匹马或拉上好兄弟一起想办法搞钱吧。",
+    "is_free": false,
+    "price": "¥ 22.40",
+    "original_price": "¥ 28.00",
+    "discount_percent": 20,
+    "genres": [
+      "独立",
+      "模拟",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5165390"
+  },
+  {
+    "appid": 3224600,
+    "name": "Am I Nima",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ec4c212665296bd88ee2cb506455d6b1ceeb2c30/header.jpg?t=1795801195",
+    "short_description": "《Am I Nima》是一款心理恐怖游戏，你必须想方设法让你的母亲相信你确实是她的女儿妮玛。在脑海中组词造句，跟母亲交流并赢得她的信任。",
+    "is_free": false,
+    "price": "¥ 56.70",
+    "original_price": "¥ 63.00",
+    "discount_percent": 10,
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "release_date": "2026 年 11 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3224600"
+  },
+  {
+    "appid": 3333850,
+    "name": "Arkheron",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333850/30aa0db1b4ee4eb19c72add82f8453f17053d309/header.jpg?t=1795796339",
+    "short_description": "《Arkheron》是一款快节奏团队 PvP 游戏。装备将赋予玩家各种强力技能，自由组合打造独特战术，凭借操作与创意克敌制胜，一路向高塔顶端进发。每局游戏都是全新的挑战，唯有随机应变、奋战到底，掌握更多组合，方能制胜。",
+    "is_free": false,
+    "price": "¥ 88.00",
+    "original_price": "",
+    "discount_percent": 0,
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "release_date": "2026 年 11 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/3333850"
+  },
+  {
+    "appid": 5066090,
+    "name": "Piece and Quiet: A Stained Glass Restoration",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066090/23b4b035b5df4c14ca37bc06f7eab145dda78036/header.jpg?t=1795791552",
+    "short_description": "一款温馨治愈的第一人称游戏，带你修复彩绘玻璃。在轻松惬意的氛围中，清理布满灰尘的碎片，根据形状和颜色将它们拼合起来，让山间废弃教堂中的六扇精美彩窗重现昔日光彩。解锁魔法升级，按照自己的节奏慢慢修复，没有时间限制，也不会失败。",
+    "is_free": false,
+    "price": "¥ 31.50",
+    "original_price": "¥ 35.00",
+    "discount_percent": 10,
+    "genres": [
+      "休闲",
+      "模拟"
+    ],
+    "release_date": "2026 年 11 月 27 日",
+    "review_score": "",
+    "store_url": "https://store.steampowered.com/app/5066090"
+  },
+  {
     "appid": 4704000,
     "name": "鲨鱼超市",
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/1c0d3de8c5b5f8ce076aa3078509dc04cfd1a432/header_schinese.jpg?t=1795721812",
@@ -18,27 +87,9 @@
     "store_url": "https://store.steampowered.com/app/4704000"
   },
   {
-    "appid": 4370210,
-    "name": "裂脑轮回",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370210/29f86a394cace3e941711ec241b27d4ea0e10fc5/header_schinese.jpg?t=1795705312",
-    "short_description": "你和朋友困在了一个身体里！ 这是一款合作冒险游戏，你们需要学会同时控制一个角色，勇闯精神世界，揭穿轮回这个巨型建筑的阴谋！沟通将是成功的关键！",
-    "is_free": false,
-    "price": "¥ 25.20",
-    "original_price": "¥ 28.00",
-    "discount_percent": 10,
-    "genres": [
-      "冒险",
-      "休闲",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4370210"
-  },
-  {
     "appid": 4253570,
     "name": "拾光修复",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/646bb149524f3e9fbe8e294fccf88c6d91247ac2/header_alt_assets_1.jpg?t=1795708896",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/646bb149524f3e9fbe8e294fccf88c6d91247ac2/header_alt_assets_1.jpg?t=1795802478",
     "short_description": "拂去积尘、除去锈迹、抹去岁月的痕迹，温柔修复古老物件。你可以在《Reshine》中获得极简主义的放松体验：使用各种工具，亲眼见证经年的污垢在你眼前消融。无需经营，毫无压力 - 只有你，以及让复古珍宝重获新生的满满成就感。",
     "is_free": false,
     "price": "¥ 28.80",
@@ -52,40 +103,6 @@
     "release_date": "2026 年 11 月 26 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/4253570"
-  },
-  {
-    "appid": 3498700,
-    "name": "星际弹球 ",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/8d7c63a4807592ddb5f6603f9606f273ff9cc78c/header_schinese.jpg?t=1795703351",
-    "short_description": "一款紧张刺激的俯视角射击+弹球游戏。操作武器，利用后坐力控制弹球；守护母舰，抵御机器人的一波波入侵。升级装备，打磨技术，然后赢下这场战争吧！",
-    "is_free": false,
-    "price": "¥ 31.20",
-    "original_price": "¥ 39.00",
-    "discount_percent": 20,
-    "genres": [
-      "动作",
-      "独立"
-    ],
-    "release_date": "2026 年 11 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/3498700"
-  },
-  {
-    "appid": 4635290,
-    "name": "墓后营生",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635290/7505ae36071a3b4f9d84fe68b3e2f1c79d321956/header_schinese.jpg?t=1795702948",
-    "short_description": "热热闹闹地投入2至4人的合作模式，把早殡早安™殡仪馆打理得井井有条。家属悲痛万分，等着你走流程：整理遗体以便最后瞻仰，念一段声情并茂的悼词，再顺走几条胳膊腿——毕竟晚饭总得有着落嘛。",
-    "is_free": false,
-    "price": "¥ 26.25",
-    "original_price": "¥ 35.00",
-    "discount_percent": 25,
-    "genres": [
-      "动作",
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 26 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/4635290"
   },
   {
     "appid": 5057800,
@@ -104,22 +121,6 @@
     "release_date": "2026 年 11 月 25 日",
     "review_score": "",
     "store_url": "https://store.steampowered.com/app/5057800"
-  },
-  {
-    "appid": 5391260,
-    "name": "Fish It!: Sort the Aquarium Shop",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391260/88ac954ab61923bdfd26abe56a7f4425ff88b330/header.jpg?t=1795688993",
-    "short_description": "Fish It! 是一款舒适的收纳游戏，将 4,100 多条鱼放回水族箱，填满水缸，解锁技能，将混乱店铺打造成整洁的天堂。",
-    "is_free": false,
-    "price": "¥ 22.10",
-    "original_price": "¥ 26.00",
-    "discount_percent": 15,
-    "genres": [
-      "模拟"
-    ],
-    "release_date": "2026 年 11 月 24 日",
-    "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5391260"
   },
   {
     "appid": 5472080,
@@ -142,7 +143,7 @@
   {
     "appid": 5527800,
     "name": "No Asteroids",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg?t=1795542925",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg?t=1795785016",
     "short_description": "90 天后，一颗小行星将撞上地球。政府招标，来投标的只有一个矿工，自带矿镐。他分文不取，说小行星会自己买单。以第一人称挖掉 500 万立方米，卖掉矿石，给飞船买舰炮，让它们在你挖矿时一起开火。可单人游玩，也支持最多 8 人在线合作。",
     "is_free": false,
     "price": "¥ 22.40",
@@ -158,19 +159,19 @@
     "store_url": "https://store.steampowered.com/app/5527800"
   },
   {
-    "appid": 5510420,
-    "name": "Dead by Daylight: Terrifier",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510420/05a33b4c294b9f183c6962898950b97fb460beb7/header.jpg?t=1795548655",
-    "short_description": "一场恐怖喜剧在迷雾中开启。《黎明杀机：断魂小丑》将经典恐怖角色断魂小丑、西耶娜·肖和原创地图哈茨霍恩购物中心带入迷雾。购买此DLC可解锁亚特脆脆麦片护符和小丑咖啡馆横幅。",
+    "appid": 4990940,
+    "name": "PC Store Together",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990940/ed4ad9ac6b819d4ea1a94ea3cbfdc919713ab0da/header.jpg?t=1795715421",
+    "short_description": "和朋友一起经营电脑商店！组装和维修电脑，诊断故障，补充货架库存，制定价格，销售硬件和定制电脑，服务顾客，管理订单，升级店铺，解锁新配件，一起发展你们的生意。",
     "is_free": false,
-    "price": "¥ 32.78",
-    "original_price": "",
-    "discount_percent": 0,
+    "price": "¥ 38.25",
+    "original_price": "¥ 45.00",
+    "discount_percent": 15,
     "genres": [
-      "动作"
+      "独立"
     ],
     "release_date": "2026 年 11 月 24 日",
     "review_score": "",
-    "store_url": "https://store.steampowered.com/app/5510420"
+    "store_url": "https://store.steampowered.com/app/4990940"
   }
 ]
